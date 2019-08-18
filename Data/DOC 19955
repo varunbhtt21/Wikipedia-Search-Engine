@@ -1,4 +1,0 @@
-Title : Template:WP1/sandbox
-Text : <span class="plainlinks">[http://tools.wmflabs.org/enwp10/cgi-bin/list2.fcgi?projecta={{urlencode:{{{1}}}}} Index]</span> &middot; [[Wikipedia:Version 1.0 Editorial Team/{{{1}}} articles by quality statistics|Statistics]] &middot; [[Wikipedia:Version 1.0 Editorial Team/{{{1}}} articles by quality log|Log]]<noinclude>
-{{documentation}}
-</noinclude>

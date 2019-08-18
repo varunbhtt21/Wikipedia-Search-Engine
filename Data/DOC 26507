@@ -1,4 +1,0 @@
-Title : Template:Extended football squad 2 end
-Text : |}{{#if:{{{u|}}}|<small>
-Last updated: {{{u}}}{{#switch:{{{cupref|}}}|no=|yes=<br />
-a.{{note label|Cup|1|^}} {{{ref|}}}|}}</small>}}<noinclude>{{documentation}}</noinclude>

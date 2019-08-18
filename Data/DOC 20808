@@ -1,8 +1,0 @@
-Title : Template:CF/May 2014 peer reviews
-Text : <includeonly>{{{{#ifeq:{{{1}}}|Peer review/May 2014|ns:0|{{#ifeq:{{{1}}}|Peer review|ns:0|{{#ifeq:{{#titleparts:{{{1}}}|1}}|Peer review|{{#switch:{{PAGENAME}}
-|Peer review/May 2014={{#switch:May 2014
-|{{#time:F Y}}|{{#time:F Y|{{#time:F Y}} -1 month}}=CF/Content review/List
-|#default=Wikipedia:{{{1}}} }}
-|#default=CF/Content review/Raw}} }}}}}}|page={{{1|}}}|date={{{3|}}} }}{{#ifeq:{{PAGENAME}}|Peer review/May 2014|<br/>
-----
-}}</includeonly><noinclude>{{documentation|Template:CF/doc}}</noinclude>

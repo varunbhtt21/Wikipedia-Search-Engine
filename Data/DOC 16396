@@ -1,4 +1,0 @@
-Title : Template:NoOTRS
-Text : {{purple|'''An OTRS notice was applied over {{{days|{{{1|60}}}}}} days ago, but no message at OTRS has been found since this tag was applied.'''}}<noinclude>
-{{documentation}}
-</noinclude>

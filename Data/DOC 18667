@@ -1,9 +1,0 @@
-Title : Module:Location map/data/USA Pennsylvania
-Text : return {
-	name = 'Pennsylvania',
-	top = 42.7,
-	bottom = 39.5,
-	left = -80.7,
-	right = -74.5,
-	image = 'USA Pennsylvania location map.svg'
-}

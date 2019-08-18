@@ -1,4 +1,0 @@
-Title : MediaWiki:Newimages-summary
-Text : <div class="plainlinks">
-This special page shows the last uploaded files. To start from 00:00 UTC: [{{fullurl:Special:NewFiles|offset={{#time:Ymd}}000000&dir=prev}} today], [{{fullurl:Special:NewFiles|offset={{#time:Ymd|-1 day}}000000&dir=prev}} yesterday], or [{{fullurl:Special:NewFiles|offset={{#time:Ymd|-2 days}}000000&dir=prev}} 2 days], [{{fullurl:Special:NewFiles|offset={{#time:Ymd|-7 days}}000000&dir=prev}} 1 week], [{{fullurl:Special:NewFiles|offset={{#time:Ymd|-14 days}}000000&dir=prev}} 2 weeks], [{{fullurl:Special:NewFiles|offset={{#time:Ymd|-1 month}}000000&dir=prev}} 1 month] ago. You can also view them in [{{fullurl:Special:NewFiles|gallerymode=packed}} packed], [{{fullurl:Special:NewFiles|gallerymode=packed-hover}} packed-hover], [{{fullurl:Special:NewFiles|gallerymode=nolines}} nolines] gallery mode.
-</div>

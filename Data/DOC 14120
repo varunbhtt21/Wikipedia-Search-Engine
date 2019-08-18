@@ -1,2 +1,0 @@
-Title : Module:Location map/data/New York
-Text : return require('Module:Location map/data/USA New York')

@@ -1,8 +1,0 @@
-Title : Template:WikiProject Djibouti
-Text : <includeonly>{{WikiProject Africa|class={{{class|}}}|Djibouti=yes|Djibouti-importance={{{importance|}}}|category={{{category|}}}}}</includeonly><noinclude>
-{{Documentation|content=
-{{Subst only|auto=yes}}
-{{Wrapper template|WikiProject Africa}}
-}}
-[[Category:WikiProject Africa banner wrapper templates]]
-</noinclude>

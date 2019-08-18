@@ -1,9 +1,0 @@
-Title : Module:Location map/data/Netherlands Zeeland
-Text : return {
-	name = 'Zeeland',
-	top = 51.81519,
-	bottom = 51.1875,
-	left = 3.335,
-	right = 4.3512,
-	image = '2010-NL-P09-Zeeland-positiekaart-gemnamen.jpg'
-}

@@ -1,4 +1,0 @@
-Title : Template:AFL Tables/sandbox
-Text : [http://afltables.com/afl/stats/players/{{Trim|{{{1|{{{ref|{{{id}}}}}}}}}}}{{#ifeq:{{Str rightc|{{{1|{{{ref|{{{id}}}}}}}}}|5}}|.html||.html}} {{#if:{{{2|{{{alt|{{{name<includeonly>|</includeonly>}}}}}}}}}|{{{2|{{{alt|{{{name}}}}}}}}}|{{Title without disambig|{{PAGENAME}}}}}}'s statistics] from AFL Tables<noinclude>
-{{Documentation}}
-</noinclude>

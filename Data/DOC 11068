@@ -1,0 +1,15 @@
+Title : Template:2014 Patriot League baseball standings
+Text : {{CBSB Standings Start|ties=yes|2014 Patriot League baseball standings|Patriot League}}
+{{CBSB Standings Entry|{{cbsb link|year=2014|team=Bucknell Bison|title=Bucknell}} |conf-champ=y|tourney=y|ncaa-invited=y|15|5|0|29|17|1}}
+{{CBSB Standings Entry|{{cbsb link|year=2014|team=Army Black Knights|title=Army}} |conf-champ=y|15|5|0|33|18|0}}
+{{CBSB Standings Entry|{{cbsb link|year=2014|team=Lehigh Mountain Hawks|title=Lehigh}} |10|10|0|25|24|0}}
+{{CBSB Standings Entry|{{cbsb link|year=2014|team=Navy Midshipmen|title=Navy}} |9|11|0|23|28|0}}
+{{CBSB Standings Entry|{{cbsb link|year=2014|team=Lafayette Leopards|title=Lafayette}} |5|13|0|15|26|0}}
+{{CBSB Standings Entry|{{cbsb link|year=2014|team=Holy Cross Crusaders|title=Holy Cross}} |4|14|0|13|31|0}}
+{{CBSB Standings End|date=May 12, 2014<ref>{{cite web|url=http://www.patriotleague.org/sports/m-basebl/patr-m-basebl-body.html|title=Patriot League Baseball|publisher=Patriot League|accessdate=May 16, 2014}}</ref>|poll=[[2014 NCAA Division I baseball rankings#Collegiate Baseball|Collegiate Baseball]]|tourney=[[2014 Patriot League Baseball Tournament|Tournament]]|conf-champ=y|ncaa-invited=y|ncaa-tourney-link=[[2014 NCAA Division I Baseball Tournament|NCAA Tournament]]}}
+<noinclude>
+{{Template reference list}}
+[[Category:Patriot League baseball standings templates]]
+[[Category:2014 NCAA Division I baseball standings templates|Patriot League]]
+[[Category:2014 Patriot League baseball season|standings]]
+</noinclude>

@@ -1,0 +1,213 @@
+Title : Wikipedia:Help desk/Archives/2014 April 23
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Help desk|Help desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Help desk/Archives/2014 April 22|April 22]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Help desk/Archives/March 2014|Mar]] | [[Wikipedia:Help desk/Archives/April 2014|April]] | [[Wikipedia:Help desk/Archives/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Help desk/Archives/2014 April 24|[[Wikipedia:Help desk/Archives/2014 April 24|April 24]]|[[Wikipedia:Help desk|Current help desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Help Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Help desk/Archives/2014 April 24|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Help desk|current Help Desk]] pages.
+|}
+
+
+__TOC__</noinclude>
+= April 23 =
+
+== Wikipedia loading very slowly ==
+
+I don't know if this has been brought up before, but for the last few days Wikipedia has been loading very slowly for me. It really is making it nearly impossible for me to read or edit Wikipedia, I've never encountered anything like this before. Pages take several minutes to load and often pictures won't fully load at all (they just get stuck after loading about a quarter of the image). Like, I was trying to view some map files, but they wouldn't display properly so I tried to directly download them instead, but the download is going at 12 kb/s! Is this a problem with Wikipedia itself (like a server issue or something?), or is it something to do with my connection? I should say that I am in Ireland and I have a high-speed broadband connection (no other websites are slow for me). --[[User:Hibernian|Hibernian]] ([[User talk:Hibernian|talk]]) 00:04, 23 April 2014 (UTC)
+:Working just fine for me on my slow DSL in New York. [[User:Jim.henderson|Jim.henderson]] ([[User talk:Jim.henderson|talk]]) 00:16, 23 April 2014 (UTC)
+::For what it's worth, I have had no problems here in Melbourne, Australia. Has been running fine for me. Cheers. [[User:Melbourne3163|Melbourne3163]] ([[User talk:Melbourne3163|talk]]) 00:20, 23 April 2014 (UTC)
+:My connection in the UK is fine right now but there have been times when it is dreadfully slow over the last few days.  Other websites weren't affected.  [[WP:VPT]] is a better place to ask about things like this, but yes, it might be server issues in a cluster serving Europe. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 00:28, 23 April 2014 (UTC)
+
+It appears to have fixed itself now (loading speeds back to normal). I'll be back if it does slow again. --[[User:Hibernian|Hibernian]] ([[User talk:Hibernian|talk]]) 18:53, 23 April 2014 (UTC)
+
+== Angela Trimbur redirection to Road Rules ==
+
+[[Angela Trimbur]]'s page redirects to [[Road Rules: X-Treme]]. On the show's page, her name is listed under "Additional Cast". I've never seen the show, but I doubt it's what's she's most known for, neither does the page provide any useful information about the person.
+
+Should I nominate [[Angela Trimbur]] for deletion (or edit it blank)? Is that redirection in accord with the guidelines?  --[[User:AbderrahmanNajjar|Abderrahman]] ([[User talk:AbderrahmanNajjar|talk]]) 00:24, 23 April 2014 (UTC)
+
+:We seem to accept redirects to the most minimal information on persons, fictional characters, video games, and weapons, potions, or strengths in said video games.  I wouldn't bother nominating it as long as the article verifies at least the person exists.  Redirects do not have a notability requirement, only that the subject is discussed somewhere on Wikipedia.  There might be a better redirect target you could change it to though.  She is mentioned in [https://en.wikipedia.org/w/index.php?title=Special%3ASearch&search=Angela+Trimbur&fulltext=Search several Wikipedia articles] but her [http://www.imdb.com/name/nm1640326/?ref_=fn_al_nm_1 IMdB page] <s>does not even mention Road Rules</s> (correction:it does mention it but in a rolled up block). '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 00:39, 23 April 2014 (UTC)
+
+::If I were to create a page for her, that would be a reason to stop redirecting, right? But, in that case, I'll be copying what I find in IMDb or similar sites (since I don't anything about her, and never heard of her or seen one of her movies/show) --[[User:AbderrahmanNajjar|Abderrahman]] ([[User talk:AbderrahmanNajjar|talk]]) 05:31, 23 April 2014 (UTC)
+:::It's perfectly acceptable to overwrite a redirect with a new article, it's done all the time.  However, IMdB is not considered enough to establish notability (and it has questionable reliability for anything other than basic facts such as cast lists), so you should find additional sources to avoid a deletion nomination.  There is an [[:de:Angela Trimbur]] article on German Wikipedia if you are any good at translating German, but again unreferenced. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 08:46, 23 April 2014 (UTC)
+
+::::Since that's the case, I'll leave everything as-is. Thanks [[User:Spinningspark|SpinningSpark]]. --[[User:AbderrahmanNajjar|Abderrahman]] ([[User talk:AbderrahmanNajjar|talk]]) 15:24, 23 April 2014 (UTC)
+
+:::::I have nominated the redirect for deletion at [[Wikipedia:Redirects for discussion/Log/2014 April 23#Angela Trimbur]]. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 23:14, 23 April 2014 (UTC)
+
+== automatic underlining in search box ==
+
+Hi today I entered a topic in the search box & found it underlines as I type along. It also underlines when I click on the box with the undertext Search - the line appears under Search, then attaches to the entry. Can you tell me why this is happening please? Can I turn it off? Thanks in advance. [[User:Manytexts|Manytexts]] ([[User talk:Manytexts|talk]]) 01:27, 23 April 2014 (UTC)
+:{{replyto|Manytexts}} I don't know the answer. It would probably be helpful if you told us which browser and version you are using. You could also try turning off any browser extensions or plugins you are using, as that might help to diagnose the problem too. -- [[User:John of Reading|John of Reading]] ([[User talk:John of Reading|talk]]) 07:16, 23 April 2014 (UTC)
+
+::Oh, sure - didn't think of the browser side of things since it's in wikipedia search box but it's Firefox 28.0 - not aware of using extensions or plugins - where can I find them? Thanks for this help [[User:Manytexts|Manytexts]] ([[User talk:Manytexts|talk]]) 07:36, 25 April 2014 (UTC)
+:::{{replyto|Manytexts}} They are listed at "Tools > Addons" in the Firefox menu bar. The fastest way to check them out would be "Help > Restart with Add-ons disabled". -- [[User:John of Reading|John of Reading]] ([[User talk:John of Reading|talk]]) 07:42, 25 April 2014 (UTC)
+
+:::Although google agrees with you, I couldn't find the buttons to follow yours, answers there, or on Help via MacBook Pro, but it reset itself when I completely restarted the machine. Thank you & this is now resolved. [[User:Manytexts|Manytexts]] ([[User talk:Manytexts|talk]]) 11:48, 25 April 2014 (UTC)
+
+== Adding more details to List of Stations on subway lines ==
+
+Hello.
+
+I was wanting to add more details to the list of stations on subway lines at any place in the world such as its location, station type, etc.  Would that be okay, as long as it's reliable and appropriate?  Please give me feedback asap.  Thanks!  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Jchen1999|Jchen1999]] ([[User talk:Jchen1999|talk]] • [[Special:Contributions/Jchen1999|contribs]]) 02:26, 23 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:'''[[WP:BOLD|YES!]]''' - but be aware that "[[WP:RS|reliable]] and "[[WP:NPOV|appropriate]]" etc have specific applications on Wikipedia, so if your interpretations do not match, your edits may end up being reverted. -- [[User talk:TheRedPenOfDoom|<span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span>]] 02:37, 23 April 2014 (UTC)
+
+== DreamWorks ==
+I am trying to email DreamWorks and talk about one of there movies.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/108.71.4.182|108.71.4.182]] ([[User talk:108.71.4.182|talk]]) 03:22, 23 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:any e-mails you may recieve will not count as appropriate sources. see [[WP:RS]] and [[WP:SELFPUB]] -- [[User talk:TheRedPenOfDoom|<span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span>]] 04:30, 23 April 2014 (UTC)
+
+== Edit requested for Planes (film) page  ==
+
+I would like to make an edit to the page Planes (film) but the page is semi-protected. 
+https://en.wikipedia.org/wiki/Planes_(film) 
+
+Edit: 
+In the section Voice Cast. The Voice of Rochelle is Jessica Marais not Julia Louis-Dreyfus. 
+
+Jessica is listed in the credits of the film and also here is the evidence. 
+http://www.dailytelegraph.com.au/entertainment/movies/jessica-marais-flies-high-in-new-disney-movie-planes/story-fni0bom1-1226680989439 
+http://www.disney.com.au/planes/characters/rochelle/  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:LaurenDayMakeup|LaurenDayMakeup]] ([[User talk:LaurenDayMakeup|talk]] • [[Special:Contributions/LaurenDayMakeup|contribs]]) 03:27, 23 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:When you attempt to make an edit at the article page it will open up a process that will allow you to place your request on the article's talk page with an appropriate notification. -- [[User talk:TheRedPenOfDoom|<span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span>]] 04:25, 23 April 2014 (UTC)
+::When you cannot edit a page, the tab to do this says "View source" instead of "Edit", but I see you have already found a way to make an edit request on the talk page. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 09:38, 23 April 2014 (UTC)
+
+==Header==
+
+Can you please contact the army concerning a fraud on Face Book, Skype, and Yahoo using the good name of LT. General James L. Terry, he is claiming to be retiring soon and is looking for a wife. He also claims to have 2 grown children with 3 grand children. Other times claims to be a widow for the past 5 years and has a 13 year old daughter living in GA with her nanny. He stole the good name of the LT. General James L. Terry and is destroying it by scamming woman on the internet, I don't know who to contact to report this abuse of a decorated hero and the abuse of innocent woman who are buying his story. i would love the chance to meet the LT. General Terry but in the real world that will never happen. 
+
+If you can't help with exposing this scam can you please tell me who I may contact to help stop this abuse.
+
+Thank You
+
+Kathy  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2601:C:2500:5E7:ACC4:4D1E:6ED8:12D9|2601:C:2500:5E7:ACC4:4D1E:6ED8:12D9]] ([[User talk:2601:C:2500:5E7:ACC4:4D1E:6ED8:12D9|talk]]) 03:27, 23 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:{{astray}} -- [[User talk:TheRedPenOfDoom|<span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span>]] 04:22, 23 April 2014 (UTC)
+
+:Hello, Kathy. TheRedPenOfDoom is right that this page is for asking for help with Wikipedia, not other subjects. But lest you think you've just been palmed off: unfortunately there is nowhere you can go to "stop this abuse": if there were, don't you think it would have been stopped before now? The people who are doing it assuredly have no connection whatever with General Terry or the army, and are probably quite careful to keep their real identities and locations hidden. --[[User:ColinFine|ColinFine]] ([[User talk:ColinFine|talk]]) 10:30, 23 April 2014 (UTC)
+
+:I have added a link to [[James L. Terry]] at the [[Terry (surname)]] disambiguation page – strange that it wasn't there already. Anyway, I see that most of his [[Talk:James_L._Terry|talk page]] is people reporting that he is being impersonated by scammers. I wonder if it would be appropriate to put a notice at the top of the talk page, stating that he is being impersonated, we know about it and regret it, but there is nothing we are able to do about it? [[User:Maproom|Maproom]] ([[User talk:Maproom|talk]]) 16:54, 23 April 2014 (UTC)
+
+== RSS/Atom feed ==
+
+Is there any way to get an RSS/Atom feed of articles that have been prodded? [[WP:RSS]] doesn't seem to have anything relevant, so I suspect not, but I've just realized that this is something I'd find really useful. &ndash;&nbsp;[[User:Arms &amp; Hearts|Arms &amp; Hearts]] ([[User talk:Arms &amp; Hearts|talk]]) 10:32, 23 April 2014 (UTC)
+:You can set up a RSS feed to [[User:DumbBOT/ProdSummary]], that should give you what you want if you just want to know when there are new items.  However, dumbbot tends to update a whole chunk of articles at a time so you probably will not be able to see from the RSS feed all the articles that have been added or deleted, only that something has changed. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 15:55, 23 April 2014 (UTC)
+::Hmm, yeah, not perfect but I'll give it a go. Thanks. &ndash;&nbsp;[[User:Arms &amp; Hearts|Arms &amp; Hearts]] ([[User talk:Arms &amp; Hearts|talk]]) 23:58, 23 April 2014 (UTC)
+
+== Free library ==
+
+Is http://www.thefreelibrary.com/ considered a credible source of information? Can it be used to provide references in articles? [[User:Alligators1974|GiraffeBoy]] ([[User talk:Alligators1974|talk]]) 11:50, 23 April 2014 (UTC)
+:The answer is apparently "not applicable".  Looking through the site, I get the distinct impression that it's a journal aggregator, working basically like [[JSTOR]] or [[EBSCO Information Services|EBSCOhost]].  Nobody cites JSTOR or EBSCOhost — they cite the publications that they provide.  In the same way, you shouldn't cite thefreelibrary.com because it's apparently just reproducing other publications.  You'll have to evaluate the publications on an individual basis — it looks as if their range of publications is too big to make a single statement about everything.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 12:42, 23 April 2014 (UTC)
+
+That makes sense. It seems a better way of finding old newspaper articles, than their own websites, but yes I take your point about citing the actual article than the website itself. I'll be careful to avoid the News of the World and stuff obviously! [[User:Alligators1974|GiraffeBoy]] ([[User talk:Alligators1974|talk]]) 12:56, 23 April 2014 (UTC)
+
+== Same-page links ==
+
+Place a link from a page to itself, and bold text normally results, e.g. <nowiki>[[Wikipedia:Help desk]]</nowiki> produces [[Wikipedia:Help desk]].  The same thing occurs when the link is present on a transclusion; see [[WP:BRINT]] for a way this is used in navboxes.  With this in mind, why is this ''not'' the case with any of the links at the right side of [[Wikipedia:Articles for deletion/Order of the Bull's Blood (hoax) (3rd nomination)]]?  You can click the "3rd nomination" link as many times as you wish, but it won't turn black, and yet it's not sending you to a redirect: it goes directly to the page in question, but it remains a link.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 12:03, 23 April 2014 (UTC)
+:The box actually turns [[Special:Prefixindex/Wikipedia:Articles for deletion/Order of the Bull's Blood]] into a list and pastes the same page as it is. [[User:Fauzan|<font color="2F4F4F">  Fauzan</font>]]<sup style="margin-left:+0.5ex">[[User talk:Fauzan#top|<font color="BDB76B">✆ talk</font>]]</sup> <sub style="margin-left:-5.35ex">[[Special:EmailUser/Fauzan|<font color="BDB76B">✉ email</font>]]</sub> 12:54, 23 April 2014 (UTC)
+
+== uploading ==
+
+Greetings, I am a relatively new editor for Wiki.  I can't find how to upload a picture to an article?  And ashamadely, how to create a totally new page.  I've just been adding information and references to existing pages and now am looking to go beyond that.
+Thank you
+Meliscar  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Meliscar|Meliscar]] ([[User talk:Meliscar|talk]] • [[Special:Contributions/Meliscar|contribs]]) 14:45, 23 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:The easiest way to upload pictures is probably to use the [[Commons:Special:UploadWizard|Commons upload wizard]].  For starting a new page see [[WP:My first article]]. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 15:19, 23 April 2014 (UTC)
+
+== have requested several passwords resets over 72 hours and nothing has arrived to my email address ==
+
+Hi,
+I was planning to log back in as I need to edit a few pages (url's below) and I prefer do to that logged in.... it's been a few months since I last updated anything. 
+I have, of course, forgotten my password so I requested a reset - waited 24 hours, nothing arrived by email to my email address (which was checked and definitely correct) so I requested another temporary password and again nothing has arrived.
+Can you please help? Many thanks
+
+http://en.wikipedia.org/wiki/Craig_Hill_%28comedian%29
+http://en.wikipedia.org/wiki/Jimeoin
+https://en.wikipedia.org/wiki/Daniel_Sloss
+
+MZA
+[[Special:Contributions/78.86.102.255|78.86.102.255]] ([[User talk:78.86.102.255|talk]]) 15:21, 23 April 2014 (UTC)
+
+:If you tell us your username we can try sending the account a test e-mail.  You could try asking for a reset password for the username instead of the e-mail address, but if the e-mail you entered for the account is not valid you will still not get it. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 15:37, 23 April 2014 (UTC)
+::I assumed it was [[User:MZA]], but that user has never edited, and they either have emailuser turned off or have not set an email for the account. - [[User:Purplewowies|Purplewowies]] ([[User talk:Purplewowies|talk]]) 19:05, 23 April 2014 (UTC)
+:::{{user|Mzwickler}} has edited all three articles, thats where my bet is. -- [[User talk:TheRedPenOfDoom|<span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span>]] 19:24, 23 April 2014 (UTC)
+::::Which does have e-mail enabled.  I suggest the user checks their junk-mail folder, and if the mail is not there then turn off all e-mail spam filters and try again. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 19:40, 23 April 2014 (UTC)
+
+Not sure if it's Wiki help protocol to say thank you, but thank you! M
+[[User:Mzwickler|Mzwickler]] ([[User talk:Mzwickler|talk]]) 07:55, 24 April 2014 (UTC)
+:Thanks are all the more welcome as they are so rarely received. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 09:14, 24 April 2014 (UTC)
+
+== Wisconsin Congressional district maps  ==
+The Wisconsin Congressional district maps are WRONG.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2602:30A:2C32:CDD0:B52A:E0D9:8581:BAB7|2602:30A:2C32:CDD0:B52A:E0D9:8581:BAB7]] ([[User talk:2602:30A:2C32:CDD0:B52A:E0D9:8581:BAB7|talk]]) 16:10, 23 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:Which maps where? --[[User:Orangemike|<font color="darkorange">Orange Mike</font>]] &#x007C; [[User talk:Orangemike|<font color="orange">Talk</font>]] 17:20, 23 April 2014 (UTC)
+
+:You're very likely right: the English Wikipedia has yet to get around to uploading new maps for U.S. congressional districts as they were redrawn prior to the 2012 elections. This is true of every state, not just Wisconsin. Every map should be labelled correctly though; that is to say, if it's a map of a district that existed from 2002 to 2012, it should say so. I've just changed some captions at the articles on each Wisconsin district ([[Wisconsin's 3rd congressional district]], [[Wisconsin's 4th congressional district]], etc.) to more accurately reflect this, so if that's what you're referring to I hope that's solved the problem. If there are maps elsewhere that have incorrect or misleading captions though, then you'll need to either be more specific as to what problem you want to see fixed, or [[WP:BOLD|just fix it yourself]]. Hope that helps. &ndash;&nbsp;[[User:Arms &amp; Hearts|Arms &amp; Hearts]] ([[User talk:Arms &amp; Hearts|talk]]) 00:22, 24 April 2014 (UTC)
+
+== Angus Deayton (1) ==
+{{la|Angus Deayton}}
+
+When correcting grammatical errors in the Wikipedia article on Angus Deayton I came across a blatant misquote in the paragraph on the "Have I Got News For You"/Deayton cocaine scandal (para 5 under "Radio and Television Career").  The quote that comes up under footnote #8 does not tally with the quote in the article, which is a paraphrase.  As the subject matter here is sensitive, I altered the wording to make it  accord with the article quoted in the footnote, but am now not sure if I should have done.  Does Wikipedia countenance paraphrases of quotes?  Surely only when it is made clear that words from quotes ''are'' paraphrased, otherwise what of Wikipedia's reputation for accuracy?  --[[User:P123cat1|P123cat1]] ([[User talk:P123cat1|talk]]) 17:25, 23 April 2014 (UTC)
+
+:You are quite right to correct this - it is impermissible to paraphrase a quotation in such a manner. See [[Wikipedia:Quotations#Formatting]] for the few cases where changes to a quote are permitted:
+
+::''If not used verbatim, any alterations must be clearly marked, i.e. [square brackets] for added or replacement text, an ellipsis (...) for removed text (see WP:ELLIPSIS for details), and emphasis noted after the quotation as "[emphasis added]" or "[emphasis in the original]". Exceptions are trivial spelling or typographical errors that obviously do not affect the intended meaning; these may be silently corrected or may be retained and marked with " [sic]"—using the template {{sic}}—to indicate that the error is in the original source.
+
+:[[User:AndyTheGrump|AndyTheGrump]] ([[User talk:AndyTheGrump|talk]]) 17:40, 23 April 2014 (UTC)
+
+== Deleting pages with large edit histories ==
+
+I don't know if this is the place for asking this question, but I think it is. An admin once deleted the sandbox, crashing wikipedia. From what I gather, it has something to do with the large number of edits overwhelming the servers. There's now a block on admins deleting pages with more than 5,000 edits.
+
+My question is, from a technical perspective, if a page with many thousands of edits needed to be deleted for some reason, how would an admin go about it without crashing the servers? Have the developers implemented a fix to allow for this situation, other than resorting to the "oversight" process? [[Special:Contributions/121.219.126.57|121.219.126.57]] ([[User talk:121.219.126.57|talk]]) 17:29, 23 April 2014 (UTC)
+
+:In the unlikely event it happened, I believe the admins would ask the developers to do it.  [[User:RJFJR|RJFJR]] ([[User talk:RJFJR|talk]]) 18:05, 23 April 2014 (UTC)
+
+::Well, there is a "bigdelete" right, and stewards have it, so we would presumably ask them. As an aside, I don't think oversight would be of any help regardless, since oversight doesn't actually ''delete'' any revisions or anything; it just makes revisions non-viewable by non-oversighters (but still present) in the article history. [[User:Writ Keeper|Writ&nbsp;Keeper]]&nbsp;[[User Talk: Writ Keeper|&#9863;]][[Special:Contributions/Writ_Keeper|&#9812;]] 18:09, 23 April 2014 (UTC)
+:See also [[Wikipedia:Don't delete the main page]]. [[User:Rmhermen|Rmhermen]] ([[User talk:Rmhermen|talk]]) 23:38, 23 April 2014 (UTC)
+:::[edit conflict with Rmhermen] Part of the issue is the prevention of vandalism by rogue admins or compromised admin accounts.  See [[Wikipedia:Wikipedia Signpost/2007-04-23/Robdurbar|this story]] about a rogue admin rampage, as [[User:Robdurbar|Robdurbar]] deleted huge pages such as [[Cheese]], [[History]], and the [[Main Page]].  You may also find [[WP:DDTMP]] relevant; it describes the situation from before the Main Page was undeletable.  And yes, it occasionally does happen that we need to delete such a page, although it's sometimes a [[WP:HM|history merge]] or other housekeeping situation.  See [https://meta.wikimedia.org/w/index.php?diff=2184653 this request] and [https://meta.wikimedia.org/w/index.php?diff=4358177&oldid=4358182 this request], in both of which I had to request help from stewards because of this kind of situation.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 23:45, 23 April 2014 (UTC)
+
+== Angus Deayton (2) ==
+
+Thanks for the help with my first query on Angus Deayton earlier today.  I am afraid I have come across two more misquotes in the article, in section 3.1, "Tabloid allegations and reaction", which I cannot see how to handle following the guidance you gave. Because I had become suspicious about this article, I listened to the short video clip of the Parkinson interview with Merton, as per footnote #26, and Merton did not starkly say that Deayton was a "dull man", as the article has it, he said he was "quite a dull man"; Merton was relating to Parky the time when they first heard about the Deayton scandal and how they were all surprised because they thought he was "quite a dull man", i.e. he was being humorous.  Then later on there are some quotes taken from a "Daily Telegraph" article, footnote #27, all of which are accurate except for one.  The "Daily Telegraph" article quotes Merton as saying, "'If anyone didn't know me and him didn't get on, then they hadn't been watching the show for 14 years'", and while I suppose it is fair enough to paraphrase that as they "never got on", as the Wiki article has it, those are not the man's actual words. I am sorry to be so legalistic about the first misquote, but I get very irritated at the way words can be slanted to give a different meaning by lifting them out of context.  Journalists are past masters at it and I am wondering who wrote this Wiki article. Or perhaps I am being paranoid and the author of the article is just a clumsy writer.  Anyway, what can be done about these non-quotes? Ellipsis marks and square brackets cannot be applied here.  --[[User:P123cat1|P123cat1]] ([[User talk:P123cat1|talk]]) 20:47, 23 April 2014 (UTC)
+
+PS Have just properly noticed the Wiki article's "proclaimed" he was a "dull man" (re first misquote), which rather suggests the slanting was intentional! --[[User:P123cat1|P123cat1]] ([[User talk:P123cat1|talk]]) 21:06, 23 April 2014 (UTC)
+
+:I'm inclined to think that the paragraph in question needs considerable trimming, if not complete deletion. I'm not sure that we need commentary (positive or negative) from fellow game-show participants at all. It amounts to little of real significance, and reads like tabloid gossip. [[User:AndyTheGrump|AndyTheGrump]] ([[User talk:AndyTheGrump|talk]]) 21:22, 23 April 2014 (UTC)
+
+Thanks.  I will see if I can trim it down - if not, I will delete it.  --[[User:P123cat1|P123cat1]] ([[User talk:P123cat1|talk]]) 21:34, 23 April 2014 (UTC)
+::There is no one author of a Wikipedia article in most cases. You can click on "View history" at the top of the article to see who wrote it. Usually it is lots of people.— [[User:Vchimpanzee|<font color="Green">Vchimpanzee</font>]]&nbsp;'''·''' [[User talk:Vchimpanzee|<span style="color: orange"> talk</span>]]&nbsp;'''·''' [[Special:Contributions/Vchimpanzee|<span style="color: maroon">contributions</span>]]&nbsp;'''·''' 20:59, 25 April 2014 (UTC)
+:::I found it. An IP (217.43.242.68) added the quote with the edit summary "Added Paul Merton's true feelings toward him."
+
+:::If you go through the history you can click on a date and time until the text you are looking for is not there. I did this at the bottom of each page of changes, and then started searching for where the text had been added. It had been there for several years.— [[User:Vchimpanzee|<font color="Green">Vchimpanzee</font>]]&nbsp;'''·''' [[User talk:Vchimpanzee|<span style="color: orange"> talk</span>]]&nbsp;'''·''' [[Special:Contributions/Vchimpanzee|<span style="color: maroon">contributions</span>]]&nbsp;'''·''' 21:06, 25 April 2014 (UTC)
+
+== List of top icons ==
+
+Is there any list/page that includes all Wikipedia top icons? --[[User:Zyma|Zyma]] ([[User talk:Zyma|talk]]) 23:00, 23 April 2014 (UTC)
+
+:No, they are used for many different purposes and not collected in one place. You can find a lot of them by selecting "Namespace:Template" at [[Special:WhatLinksHere/Template:Top icon]], but you have to click through to each template to see the icon it uses. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 23:23, 23 April 2014 (UTC)
+
+::Adding on to that: [[:Category:Title templates]] contains most of the topicons used for articles (page protection, featured articles, good articles, etc.). It does not include the many topicons for userpages, Wikipedia pages, etc. <b>~<i><font color="#07517C">[[User:SuperHamster|Super]]</font></i><font color="#6FA23B">[[User:SuperHamster|Hamster]]</font></b> <small>[[User talk:SuperHamster|Talk]] [[Special:Contributions/SuperHamster|Contribs]]</small> 02:21, 24 April 2014 (UTC)
+
+:::[[Template:Top icon templates]] has a longer list but still omits many. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 12:54, 24 April 2014 (UTC)
+
+::::Thanks [[User:PrimeHunter|PrimeHunter]] and [[User:SuperHamster|SuperHamster]]. --[[User:Zyma|Zyma]] ([[User talk:Zyma|talk]]) 15:18, 24 April 2014 (UTC)
+
+== Stylization/Formatting ==
+
+Not too long ago, there was a "Beta" option that gave better looking formatting to the Wikipedia pages, including serif fonts for titles, borderless images, and a much cleaner contents menu. Now, the serif fonts are default, but the other features are gone, along with the option. Is there anyway to get this back? I really prefer the way articles looked with it activated. Thanks, [[User:MeanMotherJr|MeanMotherJr]] ([[User talk:MeanMotherJr|talk]])  <span style="font-size: smaller;" class="autosigned"> — Preceding [[Wikipedia:Signatures|undated]] comment added 23:15, 23 April 2014 (UTC)</span><!--Template:Undated--> <!--Autosigned by SineBot-->
+
+:I don't know how the Beta feature looked but the bottom of [[Special:Preferences#mw-prefsection-gadgets]] has "New image thumb design" which gives borderless images. [//en.wikipedia.org/w/index.php?title=American_Revolutionary_War&withJS=MediaWiki:Gadget-NewImageThumb.js&withCSS=MediaWiki:Gadget-NewImageThumb.css This link] shows how it will look for [[American Revolutionary War]]. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 23:42, 23 April 2014 (UTC)
+
+Very close, thanks. There still is a very slight border though, and the captions are bordered; in the beta there was no border whatsoever. I really do hope they implement the Beta design into Wikipedia; it gave it a more streamlined, modern look and feel.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:MeanMotherJr|MeanMotherJr]] ([[User talk:MeanMotherJr|talk]] • [[Special:Contributions/MeanMotherJr|contribs]]) 23:57, 23 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:Is anything in the "beta features" preference section something that you know you had enabled? - [[User:Purplewowies|Purplewowies]] ([[User talk:Purplewowies|talk]]) 06:01, 24 April 2014 (UTC)
+
+== Can't find the MW page ==
+
+I'd like to add a link to the deletion log on a MediaWiki page, but I can't find it.  Whenever you attempt to delete a page and aren't allowed, you get the following message: "You do not have permission to delete this page, for the following reason:[line break][reason]" See https://en.wikipedia.org/w/index.php?title=Cheese&action=delete if you're an admin (can't be deleted because you don't have bigdelete) or https://en.wikipedia.org/w/index.php?title=Wikipedia:HD&action=delete if you're not (can't be deleted because non-admins don't have delete) for a couple of examples.  I'd like to edit the MediaWiki message so that it provides a link to the page's deletion log; what's the message's name?  In case anyone wonders, I sometimes click the "delete" button to see the deletion log (it appears at the bottom of the deletion page when the page is deletable), but of course this means that I'm mildly surprised and mildly disappointed when I'm unable to delete the page, since I don't get any log.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 23:33, 23 April 2014 (UTC)
+
+:https://en.wikipedia.org/w/index.php?title=Cheese&action=delete&uselang=qqx shows that it is [[MediaWiki:Permissionserrorstext-withaction]] called with a parameter saying the action was delete. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 23:49, 23 April 2014 (UTC)

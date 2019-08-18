@@ -1,0 +1,41 @@
+Title : Wikipedia:WikiProject Spam/Local/saaranimusic.org
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|saaranimusic.org]]
+== Links ==
+* {{LinkSummary|saaranimusic.org}}
+:* saaranimusic.org resolves to [//203.124.103.1 203.124.103.1]
+:*: {{LinkSummary|203.124.103.1}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{IPSummary|1.23.44.25}}
+* {{IPSummary|103.248.209.242}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12538224|lang=en|wikidomain=w|namespace=|pagename=Alla Rakha|username=1.23.44.25|link=www.saaranimusic.org/musicians/allarakha|sortdomain=org.saaranimusic.|domain=saaranimusic.org|origdiff=http://en.wikipedia.org/w/index.php?diff=606300132&oldid=606299843|resolved=X|isIP=1|date=2014-04-29|time=08:43:50|wiki=en.wikipedia.org|revid=606300132|oldid=606299843|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=1|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.saaranimusic.org/musicians/allarakha|domain=saaranimusic.org|U=1|L=5|UL=1|WUL=1}}}}
+{{User:COIBot/EditSummary|id=12883243|lang=en|wikidomain=w|namespace=|pagename=Nedunuri Krishnamurthy|username=103.248.209.242|link=www.saaranimusic.org/music_legends/nedunuri/|sortdomain=org.saaranimusic.|domain=saaranimusic.org|origdiff=http://en.wikipedia.org/w/index.php?diff=606762405&oldid=599541751|resolved=X|isIP=1|date=2014-05-02|time=12:39:06|wiki=en.wikipedia.org|revid=606762405|oldid=599541751|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=4|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.saaranimusic.org/music_legends/nedunuri/|domain=saaranimusic.org|U=4|L=5|UL=4|WUL=1}}}}
+{{User:COIBot/EditSummary|id=12885553|lang=en|wikidomain=w|namespace=|pagename=M. Balamuralikrishna|username=103.248.209.242|link=www.saaranimusic.org|sortdomain=org.saaranimusic.|domain=saaranimusic.org|origdiff=http://en.wikipedia.org/w/index.php?diff=606765878&oldid=606565229|resolved=203.124.103.1|isIP=1|date=2014-05-02|time=13:12:41|wiki=en.wikipedia.org|revid=606765878|oldid=606565229|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=4|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.saaranimusic.org|domain=saaranimusic.org|U=4|L=5|UL=4|WUL=1}}}}
+{{User:COIBot/EditSummary|id=12885947|lang=en|wikidomain=w|namespace=|pagename=G. N. Balasubramaniam|username=103.248.209.242|link=www.saaranimusic.org/musicians/|sortdomain=org.saaranimusic.|domain=saaranimusic.org|origdiff=http://en.wikipedia.org/w/index.php?diff=606766614&oldid=606766408|resolved=X|isIP=1|date=2014-05-02|time=13:19:59|wiki=en.wikipedia.org|revid=606766614|oldid=606766408|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=4|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.saaranimusic.org/musicians/|domain=saaranimusic.org|U=4|L=5|UL=4|WUL=1}}}}
+{{User:COIBot/EditSummary|id=12885981|lang=en|wikidomain=w|namespace=|pagename=G. N. Balasubramaniam|username=103.248.209.242|link=www.saaranimusic.org|sortdomain=org.saaranimusic.|domain=saaranimusic.org|origdiff=http://en.wikipedia.org/w/index.php?diff=606766726&oldid=606766614|resolved=203.124.103.1|isIP=1|date=2014-05-02|time=13:20:58|wiki=en.wikipedia.org|revid=606766726|oldid=606766614|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=4|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.saaranimusic.org|domain=saaranimusic.org|U=4|L=5|UL=4|WUL=1}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 5 additions out of 5 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/saaranimusic.org]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bsaaranimusic\.org\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/saaranimusic.org]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/saaranimusic.org|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 20:19, 2 May 2014 (UTC)
+<!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). <!-- noleft -->No links left in here mentioned edits.  Marked stale. . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 05:11, 16 May 2014 (UTC)

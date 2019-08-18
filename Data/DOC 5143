@@ -1,0 +1,2 @@
+Title : Module:Location map/data/Deutschland
+Text : return require('Module:Location map/data/Germany')

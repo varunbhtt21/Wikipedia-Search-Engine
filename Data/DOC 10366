@@ -1,0 +1,29 @@
+Title : Template:Bok Tower Gardens
+Text : {{Navbox
+| name       = Bok Tower Gardens
+| title      = [[Bok Tower Gardens]]
+| listclass  = hlist
+| state      = {{{state|}}}
+
+| above      =
+| image      = [[File:Bok Tower.png|80px]]
+
+| group1     =
+| list1      = 
+* [[El Retiro (Lake Wales, Florida)|Pinewood Estate]]
+* [[Anton Brees Carillon Library]]
+
+| group2     = Key people
+| list2      =
+* [[Edward Bok|Edward W. Bok]]
+* [[Mary Louise Curtis Bok Zimbalist|Mary Louise Curtis Bok]]
+* [[Milton Bennett Medary|Milton B. Medary]]
+* [[Frederick Law Olmsted Jr.]]
+
+| group3     = Related topics
+| list3      =
+* [[Iron Mountain (Florida)|Iron Mountain]]
+* [[Lake Wales, Florida]]
+* [[National Register of Historic Places listings in Polk County, Florida]]
+}}
+<noinclude>[[Category:Florida navigational boxes]]</noinclude>

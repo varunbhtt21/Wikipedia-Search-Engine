@@ -1,0 +1,47 @@
+Title : Wikipedia:Sockpuppet investigations/Sword-Site/Archive
+Text : __TOC__
+{{SPIarchive notice|1=Sword-Site}}
+{{SPIpriorcases}}
+=====<big>26 April 2014</big>=====
+
+
+;Suspected sockpuppets
+* {{checkuser|1=Koolmejacs}}
+* {{checkuser|1=Chudlery}}
+* {{checkuser|1=Piranhatank}}
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://toolserver.org/~betacommand/cgi-bin/uc?uc=Sword-Site User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+Sword-Site was blocked for promotional edits + his username, the edit in question are seen here;
+* https://en.wikipedia.org/w/index.php?title=Longsword&diff=605816415&oldid=601180172
+
+A newly registered user, Koolmejacs, readds the external link to the same article, as well as others;
+* https://en.wikipedia.org/w/index.php?title=Longsword&diff=605849278&oldid=605817663
+* https://en.wikipedia.org/w/index.php?title=Sabre&diff=prev&oldid=605848901
+* https://en.wikipedia.org/w/index.php?title=Historical_European_martial_arts&diff=prev&oldid=605849746
+
+1. Both do not use edit summaries.
+2. Both add the text in the exact same place.
+3. Both advertised for the same site. Thank you. 
+
+Chuderly is the renamed Koolmejacs, who appears to have reregistered his other account. The user has not made any edits until last 2007. I just thought I'd include it just in case, as it was a rename. [[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 04:17, 26 April 2014 (UTC)
+
+Piranhatank has done the same exact edit as the other two:
+
+https://en.wikipedia.org/w/index.php?title=Longsword&diff=prev&oldid=605850639
+
+======<span style="font-size:150%">Comments by other users</span>======
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+[[User:Deskana|Deskana]], I understand. However, Chuderly was a renamed Koolmejacs, and given that Koolmejacs's old name was Chuderly, I sought to include it. I understand, though. ^^ [[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 21:53, 27 April 2014 (UTC)
+
+======<span style="font-size:150%">Clerk, CheckUser, and/or patrolling admin comments</span>======
+
+{{confirmed}} that the following accounts are related:
+* {{checkuser|Sword-Site}}
+* {{checkuser|Koolmejacs}}
+* {{checkuser|Piranhatank}}
+Without diffs or other evidence to show a suspected link between [[User:Chudlery|Chudlery]] and the other accounts, I cannot run a check on that account. --[[User talk:Deskana|(ʞɿɐʇ)]] [[User:Deskana| ɐuɐʞsǝp]] 21:49, 27 April 2014 (UTC)
+*All blocked and tagged. Closing. <b>[[User:Callanecc|Callanecc]]</b> ([[User talk:Callanecc|talk]] • [[Special:Contributions/Callanecc|contribs]] • [[Special:Log/Callanecc|logs]]) 02:07, 29 April 2014 (UTC)
+----<!--- All comments go ABOVE this line, please. -->

@@ -1,0 +1,15 @@
+Title : Template:Nepal Monument row generic
+Text : <noinclude>{|</noinclude>
+|- class="vcard {{#If:{{{image|}}}|with_image|without_image}}; text-align: center"
+| {{#if:{{{number|}}}|{{{number|}}}}} 
+| class="fn org" | {{{description|}}}
+| class="adr" | <span class="locality">{{{location|}}}</span>
+| class="label" | {{{address|}}}
+| {{{district|}}}
+| {{#If: {{{lat|}}}|{{Coord|{{{lat|}}}|{{{lon|}}}|format=dms|display=inline|name=SL. No. {{{number|}}} }} }}
+| {{#if:{{{image|}}}|[[File:{{{image|}}}|150x150px|center|border|{{{description|}}}]][[File:Edit add.svg|x16px|sub|alt=Upload file|link={{fullurl:commons:special:uploadWizard|campaign={{{campaign}}}&id={{{number|}}}&descriptionlang=en&description={{urlencode:{{{description|}}}}}&lat={{{lat|}}}&lon={{{lon|}}}&categories={{urlencode:{{{gallery|}}}}}}}]]{{#if:{{{gallery|}}}|[[:commons:Category:{{{gallery}}}|Gallery]]}}| style="vertical-align:middle;text-align:center" {{!}} {{UploadCampaignLink|campaign={{{campaign}}}|id={{{number|}}}|description={{{description|}}}|lat={{{lat|}}}|lon={{{lon|}}}|categories={{{gallery|}}} }} <br />{{#if:{{{gallery|}}}|[[:commons:Category:{{{gallery}}}|Gallery]]}} }}<noinclude>
+|}
+
+{{documentation}}
+[[Category:Monument list templates]]
+</noinclude>

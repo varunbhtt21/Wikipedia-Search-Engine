@@ -1,0 +1,22 @@
+Title : Template:Infobox UN resolution/testcases
+Text : <!--{{TOC left}}-->{{Template test cases notice}}
+{{clear}}
+
+{{Testcase table
+| number = 2017
+| organ = SC
+| date = 31 October
+| year = 2011
+| meeting = 6,644
+| code = S/RES/2017
+| document = 
+| for = 15
+| abstention = 0
+| absent = 1 
+| presentnotvoting = 1
+| against = 0
+| subject = {{nowrap|[[Libya]]n situation}}
+| result = Adopted
+| image = 
+| caption = 
+}}

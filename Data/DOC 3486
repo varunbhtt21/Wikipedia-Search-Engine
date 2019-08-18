@@ -1,0 +1,83 @@
+Title : Moto E (1st generation)
+Text : {{short description|Android smartphone developed by Motorola Mobility}}
+{{Infobox mobile phone
+| name          = Moto E
+| codename      = Condor
+| logo          =
+| logosize      = 
+| image         =Moto E Black.jpg
+| imagesize     = 250px
+| alt           =
+| caption       = Moto E
+| developer     = 
+| manufacturer  = [[Motorola Mobility]]
+| slogan        = ''Made to last. Priced for all''
+| networks      = 2G/3G <br />'''Global GSM Model:'''<br />GSM/GPRS/EDGE (850, 900, 1800, 1900 MHz)<br />UMTS/HSPA+ up to 21 Mbps (850, 900, 1900, 2100 MHz)
+| released      = {{Start date|2014|5|13}}
+| available     = 
+| discontinued  = 
+| unitssold     = 
+| unitsshipped  =
+| predecessor   = 
+| successor     = [[Moto E (2nd generation)]]
+| related       = [[Moto G (1st generation)]]<br>[[Moto X (1st generation)]]
+| type          = [[Smartphone]]
+| form          = 
+| size          = {{convert|124.8|mm|in|abbr=on}} H <br /> {{convert|64.8|mm|in|abbr=on}} W <br /> {{convert|12.3|mm|in|abbr=on}} D
+| weight        = {{convert|142|g|oz|abbr=on}}
+| os            = [[Android (operating system)|Android]] [[Android KitKat|4.4.4 "KitKat"]] upgradable to [[Android (operating system)|Android]] [[Android Lollipop|5.1 "Lollipop"]]
+| soc           = [[Qualcomm]] [[Snapdragon (system on chip)|Snapdragon]]&nbsp;200
+| cpu           = 1.2&nbsp;GHz Dual-core Cortex A7
+| gpu           = Adreno 302
+| memory        = 1&nbsp;GB [[Random-access memory|RAM]]
+| storage       = 4&nbsp;GB (2.1 GB usable)
+| memory_card   = [[MicroSDHC]] (up to 32 GB)
+| battery       = 1,980&nbsp;[[mAh]]
+| input         = 
+| display       = {{convert|4.30|in|mm|abbr=on}} diagonal [[LCD]] with [[Corning Inc.|Corning]] [[Gorilla Glass]] 3<br />540x960&nbsp;px (256&nbsp;[[pixels per inch|ppi]])
+| rear_camera   = 5&nbsp;[[megapixel|MP]], fixed focus, no flash
+| connectivity  = [[Global Positioning System|GPS]] / [[GLONASS]], [[Wi-Fi]] 802.11 b/g/n, [[Bluetooth 4.0]], FM Radio, [[Micro USB]], 3.5mm audio jack
+| website              = {{URL|http://www.motorola.com/us/consumers/shop-all-mobile-phones/Moto-E/moto-e.html}}
+}}
+
+'''Moto E''' is an [[Android (operating system)|Android]] [[smartphone]] developed and manufactured by [[Motorola Mobility]]. It was unveiled and released online in India and the United States on May 13, 2014.
+
+Released in the wake of the success of the [[Moto G (1st generation)|Moto G]], the Moto E was designed to be a durable, entry-level device marketed towards first-time smartphone owners and budget-minded consumers, especially within [[emerging market]]s.
+
+The Moto E was positively received by U.S. technology publications, who praised the device's relatively high quality in comparison to other low-end smartphones common in emerging markets, albeit with shortcomings such as a lack of front-facing camera or camera flash. In India, the release of the Moto E was met with similarly high demand to that of the Indian release of the Moto G, and crashed the website of [[Flipkart]]—the online retailer exclusively marketing the device in the country.<ref name="flipcrash">{{cite news|title=Flipkart server crashes as Motorola Moto E goes on sale |url=http://businesstoday.intoday.in/story/flipkart-server-crashes-as-motorola-moto-e-goes-on-sale/1/206157.html |first=Nidhi |last=Singhal |date=14 May 2014|agency=Business Today|accessdate=Jun 10, 2014}}</ref>
+
+The Moto E was succeeded by a [[Moto E (2nd generation)|second-generation model]] in February 2015.
+
+== Development ==
+The Moto E was designed to specifically compete against [[feature phone]]s in [[emerging market]]s; according to Charlie Tritschler, Motorola's senior vice-president of products, the Moto E's goal was to "end the feature phone", and the device was primarily targeted towards "people who have been on the edge for a while but just didn’t think they could afford a [[smartphone]]."<ref name=theguardian-motoe/> The Moto E carries on from the entry-level [[Moto G]], which it released in late 2013; the Moto G was a major success for the company—who had been acquired by [[Google Inc.]] in 2012, and was in the process of being sold to [[Lenovo]] as of January 2014.<ref name=verge-lenovosale>{{cite web|title=Google sells Motorola to Lenovo for $2.91 billion|url=https://www.theverge.com/2014/1/29/5358620/lenovo-reportedly-buying-motorola-mobility-from-google|work=The Verge|accessdate=30 January 2014}}</ref> In the first quarter of 2014, Motorola sold 6.5 million phones—a number led by strong sales of the Moto G, especially in markets such as the [[United Kingdom]]—where the company accounted for 6% of smartphone sales sold in the quarter, up from nearly 0.<ref name=cnet-uksales>{{cite web|title=Moto G resurrects Motorola in UK market|url=http://www.cnet.com/news/moto-g-resurrects-motorola-in-uk-market/|work=CNET|accessdate=14 May 2014}}</ref><ref name=cnet-motogsales>{{cite web|title=Motorola ships 6.5 million phones in 2014 thanks to Moto G.|url=http://www.cnet.com/news/motorola-ships-6-5-million-devices-in-2014-thanks-to-moto-g/|work=CNET|accessdate=14 May 2014}}</ref>
+
+Sales of the Moto G was also notably large in the emerging market of India; Magnus Ahlqvist, vice president of Motorola's [[Europe, the Middle East and Africa|EMEA]] division, estimated that between 65 and 70% of users in India still used feature phones. In February 2014, Motorola had partnered with the online retailer [[Flipkart]] to be the exclusive retailer of the Moto G in India, marking its first release in the country since 2012. The website's original stock of 20,000 units sold out within hours, and it sold 247,000 Moto G units in just two months, ranking as the 12th highest-selling smartphone in the country for the first quarter of 2014.<ref name=theguardian-motoe>{{cite web|title=Motorola launches £89 Moto E – its bargain basement smartphone|url=https://www.theguardian.com/technology/2014/may/13/motorola-moto-e-android-smartphone|work=The Guardian|accessdate=13 May 2014}}</ref><ref name=guardian-motoeindia>{{cite web|title=Motorola aims for Indian buyers with super-cheap Rs 6,999 Moto E|url=https://www.theguardian.com/technology/2014/may/13/motorola-india-moto-e-cheap-android|work=The Guardian|accessdate=14 May 2014}}</ref><ref name=wsj-motoeindia/>
+
+Trischler noted that durability was a key selling point in emerging markets, specifically citing the device's use of [[Gorilla Glass]] 3, an anti-smudge screen coating, and a similar splashproof coating to the Moto G—which he also noted were attributes that are not normally seen in such low-end products. The company also emphasized its efforts to reduce the cost of constructing the phone—expanding upon those used by the Moto G. Tritschler stated that these measures must be designed "...[right] into the product; you can’t just cut the price."<ref name=theguardian-motoe/> Overall, the Moto E was 40% cheaper than the Moto G.<ref name=theguardian-motoe/><ref name=guardian-motoeindia/> The version of [[Android (operating system)|Android]] shipped on the device, [[KitKat (operating system)|4.4.2 "KitKat"]], contains a number of changes designed to optimize the operating system for low-end devices such as the Moto G and E. To emphasize the device's performance, Motorola argued in a demonstration that the Moto E was slightly faster than the high-end [[Samsung Galaxy S4]] at performing basic tasks such as launching certain apps (such as the camera and web browser) and going back to the home screen from an app.<ref name=techradar-svelte>{{cite web|title=KitKat's 'Project Svelte' could signal the end of Android fragmentation|url=http://www.techradar.com/news/phone-and-communications/mobile-phones/kitkat-s-project-svelte-could-signal-the-end-of-android-fragmentation-1202979|work=TechRadar|accessdate=14 May 2014}}</ref><ref name=engadget-motoe>{{cite web|title=Motorola launches the $129 Moto E, a durable and affordable Android smartphone|url=https://www.engadget.com/2014/05/13/motorola-moto-e/|work=Engadget|accessdate=14 May 2014}}</ref>
+
+=== Release ===
+The Moto E was unveiled on May 13, 2014. India was one of the first countries where the Moto E was released; the device was released exclusively by Flipkart, where it retailed for {{INRConvert|6999}} without a contract. Upon its launch at midnight local time, demand for the device was so high that the resulting surge in orders caused the website to crash.<ref name="flipcrash"/><ref name=wsj-motoeindia/> The device was also released online through Motorola's website in the United States and in the [[United Kingdom]]. The Moto E was to be released in other markets, such as [[Brazil]], [[Canada]], [[Mexico]], and [[Spain]].<ref name=wsj-motoeindia>{{cite web|title=Motorola to Sell the Moto E Low-Priced Smartphone First in India|url=https://blogs.wsj.com/indiarealtime/2014/05/13/motorola-to-sell-the-moto-e-low-priced-smartphone-first-in-india/|work=IndiaRealTime|publisher=The Wall Street Journal|accessdate=14 May 2014}}</ref><ref name=wsj-motoeindia2>{{cite web|title=Motorola’s Moto E Smartphone Brings Down Flipkart|url=https://blogs.wsj.com/indiarealtime/2014/05/14/motorolas-moto-e-smartphone-brings-down-flipkart/|work=IndiaRealTime|publisher=The Wall Street Journal|accessdate=14 May 2014}}</ref><ref name=techradar-motoe>{{cite web|title=Motorola Moto E release date, news and features|url=http://www.techradar.com/news/phone-and-communications/mobile-phones/motorola-moto-e-release-date-news-and-rumors-1248163|work=TechRadar|accessdate=14 May 2014}}</ref><ref name="50percent">{{cite news|title=Moto E Launch Day: Flipkart Offers 50 Percent Discount on Covers and More |url=http://gadgets.ndtv.com/mobiles/news/moto-e-launch-day-flipkart-offers-50-percent-discount-on-covers-and-more-523507 |first=Ketan |last=Pratap |date=13 May 2014|agency=[[NDTV]]|accessdate=13 May 2014}}</ref>
+
+== Specifications ==
+The Moto E's build and design is similar to that of the Moto G, with a "splashproof" coating, curved backing, and a front-mounted speaker below the screen. The device is available in either black or white front colors, and has an interchangeable rear cover with different color options. It features a {{convert|4.3|in|cm}} [[IPS panel|IPS]] [[qHD]] display, coated with [[Gorilla Glass]] 3. The device uses a dual-core 1.2&nbsp;GHz [[Qualcomm]] [[Snapdragon 200]] processor, and includes 1 GB of RAM. The Moto E has 4&nbsp;GB of internal storage, which can be expanded up to 32&nbsp;GB with a [[MicroSDHC]] card. The Moto E only supports up to [[3G]] connectivity, and was available in a [[dual SIM]] model in selected markets. The device includes a non-removable 1980&nbsp;mAh battery, which Motorola touted as having "all-day" battery life. The Moto E features a 5-megapixel rear-facing fixed-focus camera; the device does not include a flash or a front-facing camera.<ref name=theguardian-motoe/><ref name="verge-unveil">{{cite news |title=Motorola adds LTE to Moto G, introduces an even cheaper Moto E |url=https://www.theverge.com/2014/5/13/5711042/motorola-moto-g-with-lte-and-moto-e-launch |first=Vlad |last=Sarov |date=13 May 2014|agency=[[The Verge]]|accessdate=13 May 2014}}</ref><ref name=techradar-review>{{cite web|title=Hands on: Motorola Moto E review A dinky dialler that's got a lot to shout about|url=http://www.techradar.com/reviews/phones/mobile-phones/motorola-moto-e-1248339/review?src=rss&attr=all|work=TechRadar|accessdate=14 May 2014}}</ref>
+
+The Moto E shipped with [[Android (operating system)|Android]] [[KitKat (operating system)|4.4 "KitKat"]]. Several Motorola-specific apps are included, including Assist, as introduced by the [[Moto X (1st generation)|Moto X]], which automatically enable or disable certain modes, such as silencing the ringer or auto replying to text messages, depending on certain scenarios—such as when a user is in a meeting as determined by their calendar, or driving.<ref name=verge-motoxreview>{{cite web|title=Moto X review|url=https://www.theverge.com/2013/8/5/4588922/moto-x-review|work=The Verge|accessdate=15 October 2013}}</ref> The Moto E also includes a new "Alert" app, which allows users to notify others of their location. Motorola committed to upgrading the Moto E to the next major version of Android following its release:<ref name=theguardian-motoe/><ref name="verge-unveil"/><ref name="techradar-review"/> an update to [[Android Lollipop|Android 5.0 "Lollipop"]] was released in February 2015.<ref>{{Cite web|url=https://www.gsmarena.com/moto_e_and_moto_maxx_getting_lollipop_for_real-news-11165.php|title=Moto E and Moto Maxx getting Lollipop for real|website=GSMArena.com|language=en-US|access-date=2019-02-07}}</ref>
+
+== Reception ==
+Vlad Savov of ''[[The Verge]]'' praised the design of the Moto E for not appearing "downmarket" and for having adequate performance, but still noting that the device's camera was not as good as those on other smartphones. He went on to say that "a market populated by the likes of the [[Samsung Galaxy Fame|Galaxy Fame]] and [[Samsung Galaxy Young|Galaxy Young]]—both of which are stuck on [[Android 4.1]] with little hope of an upgrade—hadn't seen anything like the quick and well-made G before. Or since, for that matter."<ref name="verge-review">{{cite web|last=Byford |first=Sam |url=https://www.theverge.com/2014/5/13/5712900/motorola-moto-e-report |title=The Moto E is shockingly cheap and surprisingly good |work=The Verge |date=2013-09-30 |accessdate=2014-05-13}}</ref> Chris Velazco of ''[[Engadget]]'' was relatively positive, noting that the Moto E was well-designed and carried the trademark design cues of Motorola's recent products, while praising its vivid display, along with its sufficient performance, battery life, and nearly stock Android software. In conclusion, it was felt that "for all its minor shortcomings, the Moto E still represents a level of power and quality that's become even more accessible to people the world over, and that's something worth celebrating. If all you need is a smartphone that can take you to [[Facebook]], capture fodder for [[Instagram]] or fire off missives on [[Twitter]] (or [[WhatsApp]] or [[Sina Weibo|Weibo]]), the Moto E will make a worthy sidekick. Not every important device has to be a flashy flagship." However, the device was still panned for its small amount of internal storage, and for lacking a camera flash or front-facing camera.<ref name=engadget-motoereview>{{cite web|last1=Velazco|first1=Chris|title=Moto E review: Where very good meets very cheap|url=https://www.engadget.com/2014/05/26/moto-e-review/|website=Engadget|accessdate=7 November 2014}}</ref>
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+* {{Official website|https://www.motorola.com/us/consumers/shop-all-other/Moto-E/moto-e.html}}
+
+{{Android}}
+{{Android smartphones}}
+{{Motorola phones}}
+
+[[Category:Android (operating system) devices]]
+[[Category:Motorola mobile phones]]
+[[Category:Smartphones]]
+[[Category:Mobile phones introduced in 2014]]
+[[Category:Motorola products]]

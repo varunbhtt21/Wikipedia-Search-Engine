@@ -1,0 +1,25 @@
+Title : Template:Infobox professional wrestling event series
+Text : {{Infobox
+|above    = {{{name}}}
+|image    = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|alt={{{alt|}}}}} 
+|caption  = {{{caption|}}}
+|labelstyle = white-space: nowrap
+|label1   = Nickname(s)
+|data1    = {{{nicknames|}}}
+|label2   = Other name(s)
+|data2    = {{{othernames|}}}
+|label3   = Created by
+|data3    = {{{createdby|}}}
+|label4   = [[Professional wrestling promotion|Promotion]](s)
+|data4    = {{{promotions}}}
+|label5   = Brand(s)
+|data5    = {{{brands|}}}
+|label6   = First event
+|data6    = {{{firstevent}}}
+|label7   = Last event
+|data7    = {{{lastevent|}}}
+|label8   = [[Gimmick (professional wrestling)|Event gimmick]]
+|data8    = {{{gimmick|}}}
+|label9   = {{Allow wrap|Signature [[Professional wrestling match types|match types]]}}
+|data9    = {{{featuredmatches|}}}
+}}<noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,62 @@
+Title : Template:2014 Campeonato Brasileiro Série B table
+Text : {{#invoke:sports table|main|style=WDL
+|template_name=2014 Campeonato Brasileiro Série B table
+|showteam = {{{showteam|}}}
+|res_col_header=PR
+
+|team1=JOI|name_JOI=[[Joinville Esporte Clube|Joinville]]
+|team2=PON|name_PON=[[Associação Atlética Ponte Preta|Ponte Preta]]
+|team3=VAS|name_VAS=[[CR Vasco da Gama|Vasco da Gama]]
+|team4=Avaí|name_Avaí=[[Avaí Futebol Clube|Avaí]]
+|team5=AMG|name_AMG=[[América Futebol Clube (MG)|América-MG]]
+|team6=BOA|name_BOA=[[Boa Esporte Clube|Boa Esporte]]
+|team7=ATG|name_ATG=[[Atlético Clube Goianiense|Atlético Goianiense]]
+|team8=CEA|name_CEA=[[Ceará Sporting Club|Ceará]]
+|team9=STC|name_STC=[[Santa Cruz Futebol Clube|Santa Cruz]]
+|team10=SAM|name_SAM=[[Sampaio Corrêa Futebol Clube|Sampaio Corrêa]]
+|team11=PAR|name_PAR=[[Paraná Clube|Paraná]]
+|team12=LUV|name_LUV=[[Luverdense Esporte Clube|Luverdense]]
+|team13=NAU|name_NAU=[[Clube Náutico Capibaribe|Náutico]]
+|team14=ABC|name_ABC=[[ABC Futebol Clube|ABC]]
+|team15=OES|name_OES=[[Oeste Futebol Clube|Oeste]]
+|team16=BRG|name_BRG=[[Clube Atlético Bragantino|Bragantino]]
+|team17=ARN|name_ARN=[[América Futebol Clube (RN)|América-RN]]
+|team18=ICA|name_ICA=[[Associação Desportiva Recreativa e Cultural Icasa|Icasa]]
+|team19=VIL|name_VIL=[[Vila Nova Futebol Clube|Vila Nova]]
+|team20=POR|name_POR=[[Associação Portuguesa de Desportos|Portuguesa]]
+
+|win_JOI=21|draw_JOI=7|loss_JOI=10|gf_JOI=54|ga_JOI=33|status_JOI=P,C
+|win_PON=19|draw_PON=12|loss_PON=7|gf_PON=61|ga_PON=38|status_PON=P
+|win_VAS=16|draw_VAS=15|loss_VAS=7|gf_VAS=50|ga_VAS=36|status_VAS=P
+|win_Avaí=18|draw_Avaí=8|loss_Avaí=12|gf_Avaí=47|ga_Avaí=40|status_Avaí=P
+|win_AMG=20|draw_AMG=7|loss_AMG=11|gf_AMG=59|ga_AMG=39|adjust_points_AMG=-6
+|win_BOA=18|draw_BOA=5|loss_BOA=15|gf_BOA=51|ga_BOA=48
+|win_ATG=17|draw_ATG=8|loss_ATG=13|gf_ATG=54|ga_ATG=49
+|win_CEA=16|draw_CEA=9|loss_CEA=13|gf_CEA=58|ga_CEA=53
+|win_STC=14|draw_STC=13|loss_STC=11|gf_STC=51|ga_STC=38
+|win_SAM=13|draw_SAM=14|loss_SAM=11|gf_SAM=54|ga_SAM=46
+|win_PAR=13|draw_PAR=12|loss_PAR=13|gf_PAR=45|ga_PAR=43
+|win_LUV=15|draw_LUV=5|loss_LUV=18|gf_LUV=40|ga_LUV=46
+|win_NAU=14|draw_NAU=8|loss_NAU=16|gf_NAU=40|ga_NAU=47
+|win_ABC=14|draw_ABC=6|loss_ABC=18|gf_ABC=34|ga_ABC=40
+|win_OES=12|draw_OES=12|loss_OES=14|gf_OES=39|ga_OES=48
+|win_BRG=13|draw_BRG=7|loss_BRG=18|gf_BRG=45|ga_BRG=55
+|win_ARN=12|draw_ARN=7|loss_ARN=19|gf_ARN=44|ga_ARN=53|status_ARN=R
+|win_ICA=11|draw_ICA=10|loss_ICA=17|gf_ICA=34|ga_ICA=43|status_ICA=R
+|win_VIL=10|draw_VIL=2|loss_VIL=26|gf_VIL=35|ga_VIL=70|status_VIL=R
+|win_POR=4|draw_POR=13|loss_POR=21|gf_POR=29|ga_POR=59|status_POR=R
+
+|hth_AMG=América-MG deducted 6 points for lining up an irregular player
+
+|col_PRO=#ACE1AF|text_PRO=Promotion to [[2015 Campeonato Brasileiro Série A|2015 Série A]] 
+|result1=PRO|result2=PRO|result3=PRO|result4=PRO
+
+|col_REL=#FFCCCC|text_REL=Relegation to [[2015 Campeonato Brasileiro Série C|2015 Série C]]
+|result17=REL|result18=REL|result19=REL|result20=REL
+
+|class_rules=1st points; 2nd wins; 3rd goal difference; 4th goals scored; 5th head-to-head results; 6th least red cards received; 7th least yellow cards received; 8th draw.
+|source=[http://www.cbf.com.br/tournaments/brazilian-championship-division-b/standings/2014 CBF] 
+|update=15 November 2014 
+}}<noinclude>[[Category:Campeonato Brasileiro Série B templates]]
+[[Category:Brazil football standings templates]]
+</noinclude>

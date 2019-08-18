@@ -1,0 +1,6 @@
+Title : Template:Lua/sandbox
+Text : <includeonly>{{#invoke:Lua banner/sandbox|main}}</includeonly><noinclude>
+{{Lua|Module:Lua banner/sandbox}}
+{{documentation}}
+<!-- Categories go on the /doc subpage and interwikis go on Wikidata. -->
+</noinclude>

@@ -1,0 +1,26 @@
+Title : Template:VTB United League awards
+Text : {{Sidebar or footer
+ | name     = VTB United League awards
+ | title    = {{flagicon|RUS}} [[File:Basketball.png|20px]] <br/>[[VTB United League]] awards and honours
+ | state = {{{state|autocollapse}}}
+ | footer  = {{{footer|}}}
+
+ | group1   = Individual awards
+ | list1_1 = [[VTB United League MVP|MVP]]
+ | list1_2 = [[VTB United League Sixth Man of the Year|Sixth Man of the Year]]
+ | list1_3 = [[VTB United League Playoffs MVP|Playoffs MVP]]
+ | list1_4 = [[VTB United League Top Player|Top National Players]]
+ | list1_5 = [[List of VTB United League season scoring leaders|Top Scorer]]
+ | list1_6 = [[VTB United League Young Player of the Year|Young Player of the Year]]
+ | list1_7 = [[VTB United League Defensive Player of the Year|Defensive Player of the Year]]
+ | list1_8 = [[VTB United League Coach of the Year|Coach of the Year]]
+<!----- More to come     ---->
+}}
+<noinclude>
+{{documentation|content=
+== Usage ==
+Place {{tld|VTB United League awards}} at the top of the article.
+}}
+
+[[Category:Basketball leagues navigational boxes|VTB United League]]
+</noinclude>

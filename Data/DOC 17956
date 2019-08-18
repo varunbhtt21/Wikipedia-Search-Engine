@@ -1,0 +1,45 @@
+Title : Template:Database Population Angaïs
+Text : <includeonly>{{#switch: {{{1|}}}
+ | max = 250
+ | source-chart = Sources: database Ldh/EHESS/Cassini and Insee
+ | source1 = http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=793
+ | source2 = http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2010&typgeo=COM&codgeo=64023
+ | source3 = 
+ | source4 = 
+ | 1 = 1793/568
+ | 2 = 1800/562
+ | 3 = 1806/624
+ | 4 = 1821/661
+ | 5 = 1831/744
+ | 6 = 1836/789
+ | 7 = 1841/785
+ | 8 = 1846/851
+ | 9 = 1851/875
+ | 10 = 1856/853
+ | 11 = 1861/865
+ | 12 = 1866/830
+ | 13 = 1872/802
+ | 14 = 1876/783
+ | 15 = 1881/787
+ | 16 = 1886/757
+ | 17 = 1891/730
+ | 18 = 1896/716
+ | 19 = 1901/697
+ | 20 = 1906/671
+ | 21 = 1911/637
+ | 22 = 1921/560
+ | 23 = 1926/561
+ | 24 = 1931/537
+ | 25 = 1936/511
+ | 26 = 1946/467
+ | 27 = 1954/460
+ | 28 = 1962/491
+ | 29 = 1968/535
+ | 30 = 1975/534
+ | 31 = 1982/623
+ | 32 = 1990/760
+ | 33 = 1999/739
+ | 34 = 2006/-
+ | 35 = 2010/836
+|2010/9999
+}}</includeonly><noinclude>{{documentation}}</noinclude>

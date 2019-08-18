@@ -1,0 +1,37 @@
+Title : Template:1940s in music (UK)
+Text : {{Sidebar
+| style = width: 18em;
+| abovestyle = background:#ddcccc;
+| above = [[Music of the United Kingdom (1940s)|1940s in music in the UK]]
+
+| contentstyle = padding: 5px; 
+
+| content1 = {{ubl|
+   |[[List of UK Singles Chart number ones of the {{{year|1940}}}s|Number-one singles]]
+   |[[List of UK Albums Chart number ones of the {{{year|1940}}}s|Number-one albums]]
+}}
+
+| heading2 = {{#if:{{{noevents|}}}||Events}}
+| content3 = {{#if:{{{noevents|}}}||{{flatlist|
+*{{#ifexpr: {{{year|1940}}} > {{CURRENTYEAR}} | <span style="color:#ccbbbb">{{{year|1940}}}</span> | [[ {{{year|1940}}} in British music|{{{year|1940}}}]]}}
+*{{#ifexpr: {{{year|1940}}} + 1 > {{CURRENTYEAR}} | <span style="color:#ccbbbb">{{#expr: {{{year|1940}}} + 1}}</span> | [[{{#expr: {{{year|1940}}} + 1}} in British music|{{#expr: {{{year|1940}}} + 1}}]]}}
+*{{#ifexpr: {{{year|1940}}} + 2 > {{CURRENTYEAR}} | <span style="color:#ccbbbb">{{#expr: {{{year|1940}}} + 2}}</span> | [[{{#expr: {{{year|1940}}} + 2}} in British music|{{#expr: {{{year|1940}}} + 2}}]]}}
+*{{#ifexpr: {{{year|1940}}} + 3 > {{CURRENTYEAR}} | <span style="color:#ccbbbb">{{#expr: {{{year|1940}}} + 3}}</span> | [[{{#expr: {{{year|1940}}} + 3}} in British music|{{#expr: {{{year|1940}}} + 3}}]]}}
+*{{#ifexpr: {{{year|1940}}} + 4 > {{CURRENTYEAR}} | <span style="color:#ccbbbb">{{#expr: {{{year|1940}}} + 4}}</span> | [[{{#expr: {{{year|1940}}} + 4}} in British music|{{#expr: {{{year|1940}}} + 4}}]]}}
+}}{{flatlist|
+*{{#ifexpr: {{{year|1940}}} + 5 > {{CURRENTYEAR}} | <span style="color:#ccbbbb">{{#expr: {{{year|1940}}} + 5}}</span> | [[{{#expr: {{{year|1940}}} + 5}} in British music|{{#expr: {{{year|1940}}} + 5}}]]}}
+*{{#ifexpr: {{{year|1940}}} + 6 > {{CURRENTYEAR}} | <span style="color:#ccbbbb">{{#expr: {{{year|1940}}} + 6}}</span> | [[{{#expr: {{{year|1940}}} + 6}} in British music|{{#expr: {{{year|1940}}} + 6}}]]}}
+*{{#ifexpr: {{{year|1940}}} + 7 > {{CURRENTYEAR}} | <span style="color:#ccbbbb">{{#expr: {{{year|1940}}} + 7}}</span> | [[{{#expr: {{{year|1940}}} + 7}} in British music|{{#expr: {{{year|1940}}} + 7}}]]}}
+*{{#ifexpr: {{{year|1940}}} + 8 > {{CURRENTYEAR}} | <span style="color:#ccbbbb">{{#expr: {{{year|1940}}} + 8}}</span> | [[{{#expr: {{{year|1940}}} + 8}} in British music|{{#expr: {{{year|1940}}} + 8}}]]}}
+*{{#ifexpr: {{{year|1940}}} + 9 > {{CURRENTYEAR}} | <span style="color:#ccbbbb">{{#expr: {{{year|1940}}} + 9}}</span> | [[{{#expr: {{{year|1940}}} + 9}} in British music|{{#expr: {{{year|1940}}} + 9}}]]}}
+}}}}
+
+| below = 
+{{align|left|←[[1939 in British music|1939]]}}
+{{align|right|[[1950 in British music|1950]]→}}
+| belowclass = hlist noprint nowrap
+| belowstyle = border-top: 1px solid #aaa; padding-top: 3px; font-weight: normal;
+
+}}<noinclude>
+[[Category:United Kingdom music templates]]
+</noinclude>

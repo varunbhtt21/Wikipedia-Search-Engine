@@ -1,0 +1,114 @@
+Title : TGM6
+Text : {{Infobox_gene}}
+
+'''Transglutaminase 6''' is a [[protein]] that in humans is encoded by the TGM6 [[gene]].
+<ref name="entrez">
+{{cite web
+| title = Entrez Gene: Transglutaminase 6
+| url = https://www.ncbi.nlm.nih.gov/gene/343641
+| accessdate = 2014-04-29 <!-- T03:13:59.747220-08:00 --> 
+}}</ref>
+
+== Function ==
+
+The protein encoded by this gene belongs to the [[transglutaminase]] superfamily. It catalyzes the cross-linking of proteins and the conjugation of polyamines to proteins. Mutations in this gene are associated with [[spinocerebellar ataxia]] type 35 (SCA35). Alternatively spliced transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Dec 2011].
+
+Mutations in TGM6 cause {{SWL|type=genetic_defect_results_in_disease|target=acute myeloid leukaemia|label=acute myeloid leukaemia}}.<ref>{{cite journal | vauthors = Pan LL, Huang YM, Wang M, Zhuang XE, Luo DF, Guo SC, Zhang ZS, Huang Q, Lin SL, Wang SY | title = Positional cloning and next-generation sequencing identified a TGM6 mutation in a large Chinese pedigree with acute myeloid leukaemia | journal = European Journal of Human Genetics | volume = 23 | issue = 2 | pages = 218–23 | date = Feb 2015 | pmid = 24755948 | doi = 10.1038/ejhg.2014.67 | pmc = 4297898 }}</ref>
+
+== Model organisms ==
+
+[[Model organism]]s have been used in the study of TGM6 function. A conditional [[knockout mouse]] line called ''Tgm6<sup>tm1a(KOMP)Wtsi</sup>'' was generated at the [[Wellcome Trust Sanger Institute]].<ref name="mgp_reference">{{cite journal |title=The Sanger Mouse Genetics Programme: high throughput characterisation of knockout mice |author=Gerdin AK |year=2010 |journal=Acta Ophthalmologica|volume=88 |pages=925–7|doi=10.1111/j.1755-3768.2010.4142.x }}</ref> Male and female animals underwent a standardized [[phenotypic screen]]<ref name="IMPCsearch_ref">{{cite web |url=http://www.mousephenotype.org/data/search?q=Tgm6#fq=*:*&facet=gene |title=International Mouse Phenotyping Consortium}}</ref> to determine the effects of deletion.<ref name="pmid21677750">{{cite journal | vauthors = Skarnes WC, Rosen B, West AP, Koutsourakis M, Bushell W, Iyer V, Mujica AO, Thomas M, Harrow J, Cox T, Jackson D, Severin J, Biggs P, Fu J, Nefedov M, de Jong PJ, Stewart AF, Bradley A | title = A conditional knockout resource for the genome-wide study of mouse gene function | journal = Nature | volume = 474 | issue = 7351 | pages = 337–42 | date = Jun 2011 | pmid = 21677750 | pmc = 3572410 | doi = 10.1038/nature10163 }}</ref><ref name="mouse_library">{{cite journal | vauthors = Dolgin E | title = Mouse library set to be knockout | journal = Nature | volume = 474 | issue = 7351 | pages = 262–3 | date = Jun 2011 | pmid = 21677718 | doi = 10.1038/474262a }}</ref><ref name="mouse_for_all_reasons">{{cite journal | vauthors = Collins FS, Rossant J, Wurst W | title = A mouse for all reasons | journal = Cell | volume = 128 | issue = 1 | pages = 9–13 | date = Jan 2007 | pmid = 17218247 | doi = 10.1016/j.cell.2006.12.018 }}</ref><ref name="pmid23870131">{{cite journal | vauthors = White JK, Gerdin AK, Karp NA, Ryder E, Buljan M, Bussell JN, Salisbury J, Clare S, Ingham NJ, Podrini C, Houghton R, Estabel J, Bottomley JR, Melvin DG, Sunter D, Adams NC, Tannahill D, Logan DW, Macarthur DG, Flint J, Mahajan VB, Tsang SH, Smyth I, Watt FM, Skarnes WC, Dougan G, Adams DJ, Ramirez-Solis R, Bradley A, Steel KP | title = Genome-wide generation and systematic phenotyping of knockout mice reveals new roles for many genes | journal = Cell | volume = 154 | issue = 2 | pages = 452–64 | date = Jul 2013 | pmid = 23870131 | pmc = 3717207 | doi = 10.1016/j.cell.2013.06.022 }}</ref> Additional screens performed:  - In-depth immunological phenotyping<ref name="iii_ref">{{cite web |url= http://www.immunophenotyping.org/data/search?keys=Tgm6&field_gene_construct_tid=All |title=Infection and Immunity Immunophenotyping (3i) Consortium}}</ref> 
+{| class="wikitable sortable collapsible collapsed" border="1" cellpadding="2" style="float: left;" |
+|+ ''Tgm6'' knockout mouse phenotype
+|-
+! Characteristic!! Phenotype
+|-
+| colspan=2; style="text-align: center;" | All data available at.<ref name="IMPCsearch_ref"/><ref name="iii_ref" />
+|-
+| Peripheral blood leukocytes 6 Weeks || bgcolor="#488ED3"|Normal
+
+|-
+| ''[[Haematology]]'' 6 Weeks || bgcolor="#488ED3"|Normal
+
+|-
+| Homozygous viability at P14 || bgcolor="#488ED3"|Normal
+
+|-
+| Homozygous Fertility || bgcolor="#488ED3"|Normal
+
+|-
+| Body weight || bgcolor="#488ED3"|Normal
+
+|-
+| Neurological assessment || bgcolor="#488ED3"|Normal
+
+|-
+| Grip strength || bgcolor="#488ED3"|Normal
+
+|-
+| [[Dysmorphology]] || bgcolor="#488ED3"|Normal
+
+|-
+| [[Indirect calorimetry]] || bgcolor="#488ED3"|Normal
+
+|-
+| [[Glucose tolerance test]] || bgcolor="#488ED3"|Normal
+
+|-
+| [[Auditory brainstem response]] || bgcolor="#488ED3"|Normal
+
+|-
+| [[Dual-energy X-ray absorptiometry|DEXA]] || bgcolor="#488ED3"|Normal
+
+|-
+| [[Clinical chemistry]] || bgcolor="#488ED3"|Normal
+
+|-
+| ''[[Haematology]]'' 16 Weeks || bgcolor="#488ED3"|Normal
+
+|-
+| Peripheral blood leukocytes 16 Weeks || bgcolor="#488ED3"|Normal
+
+|-
+| Heart weight || bgcolor="#488ED3"|Normal
+
+|-
+| ''[[Salmonella]]'' infection || bgcolor="#488ED3"|Normal
+
+|-
+| Cytotoxic T Cell Function || bgcolor="#488ED3"|Normal
+
+|-
+| Spleen Immunophenotyping || bgcolor="#488ED3"|Normal
+
+|-
+| Mesenteric Lymph Node Immunophenotyping || bgcolor="#488ED3"|Normal
+
+|-
+| Bone Marrow Immunophenotyping || bgcolor="#488ED3"|Normal
+
+|-
+| Epidermal Immune Composition || bgcolor="#488ED3"|Normal
+
+|-
+|}
+{{clear|left}}
+
+== References ==
+{{reflist|33em}}
+
+== Further reading ==
+{{refbegin|33em}}
+* {{cite journal | vauthors = Lindfors K, Koskinen O, Laurila K, Collin P, Saavalainen P, Haimila K, Partanen J, Mäki M, Kaukinen K | title = IgA-class autoantibodies against neuronal transglutaminase, TG6 in celiac disease: no evidence for gluten dependency | journal = Clinica Chimica Acta; International Journal of Clinical Chemistry | volume = 412 | issue = 13-14 | pages = 1187–90 | date = Jun 2011 | pmid = 21453693 | doi = 10.1016/j.cca.2010.09.042 }}
+* {{cite journal | vauthors = Thomas H, Beck K, Adamczyk M, Aeschlimann P, Langley M, Oita RC, Thiebach L, Hils M, Aeschlimann D | title = Transglutaminase 6: a protein associated with central nervous system development and motor function | journal = Amino Acids | volume = 44 | issue = 1 | pages = 161–77 | date = Jan 2013 | pmid = 21984379 | pmc = 3535377 | doi = 10.1007/s00726-011-1091-z }}
+* {{cite journal | vauthors = Sherva R, Tripodis Y, Bennett DA, Chibnik LB, Crane PK, de Jager PL, Farrer LA, Saykin AJ, Shulman JM, Naj A, Green RC | title = Genome-wide association study of the rate of cognitive decline in Alzheimer's disease | journal = Alzheimer's & Dementia | volume = 10 | issue = 1 | pages = 45–52 | date = Jan 2014 | pmid = 23535033 | pmc = 3760995 | doi = 10.1016/j.jalz.2013.01.008 | author13 = Alzheimer's Disease Neuroimaging Initiative | author14 = Alzheimer's Disease Genetics Consortium }}
+* {{cite journal | vauthors = Grenard P, Bates MK, Aeschlimann D | title = Evolution of transglutaminase genes: identification of a transglutaminase gene cluster on human chromosome 15q15. Structure of the gene encoding transglutaminase X and a novel gene family member, transglutaminase Z | journal = The Journal of Biological Chemistry | volume = 276 | issue = 35 | pages = 33066–78 | date = Aug 2001 | pmid = 11390390 | doi = 10.1074/jbc.M102553200 }}
+* {{cite journal | vauthors = Hadjivassiliou M, Aeschlimann P, Strigun A, Sanders DS, Woodroofe N, Aeschlimann D | title = Autoantibodies in gluten ataxia recognize a novel neuronal transglutaminase | journal = Annals of Neurology | volume = 64 | issue = 3 | pages = 332–43 | date = Sep 2008 | pmid = 18825674 | doi = 10.1002/ana.21450 }}
+* {{cite journal | vauthors = Stamnaes J, Dorum S, Fleckenstein B, Aeschlimann D, Sollid LM | title = Gluten T cell epitope targeting by TG3 and TG6; implications for dermatitis herpetiformis and gluten ataxia | journal = Amino Acids | volume = 39 | issue = 5 | pages = 1183–91 | date = Nov 2010 | pmid = 20300788 | doi = 10.1007/s00726-010-0554-y }}
+* {{cite journal | vauthors = Guan WJ, Wang JL, Liu YT, Ma YT, Zhou Y, Jiang H, Shen L, Guo JF, Xia K, Li JD, Tang BS | title = Spinocerebellar ataxia type 35 (SCA35)-associated transglutaminase 6 mutants sensitize cells to apoptosis | journal = Biochemical and Biophysical Research Communications | volume = 430 | issue = 2 | pages = 780–6 | date = Jan 2013 | pmid = 23206699 | doi = 10.1016/j.bbrc.2012.11.069 }}
+* {{cite journal | vauthors = Scavenius C, Sanggaard KW, Nikolajsen CL, Bak S, Valnickova Z, Thøgersen IB, Jensen ON, Højrup P, Enghild JJ | title = Human inter-α-inhibitor is a substrate for factor XIIIa and tissue transglutaminase | journal = Biochimica et Biophysica Acta | volume = 1814 | issue = 12 | pages = 1624–30 | date = Dec 2011 | pmid = 21939789 | doi = 10.1016/j.bbapap.2011.08.017 }}
+* {{cite journal | vauthors = Wang JL, Yang X, Xia K, Hu ZM, Weng L, Jin X, Jiang H, Zhang P, Shen L, Guo JF, Li N, Li YR, Lei LF, Zhou J, Du J, Zhou YF, Pan Q, Wang J, Wang J, Li RQ, Tang BS | title = TGM6 identified as a novel causative gene of spinocerebellar ataxias using exome sequencing | journal = Brain | volume = 133 | issue = Pt 12 | pages = 3510–8 | date = Dec 2010 | pmid = 21106500 | doi = 10.1093/brain/awq323 }}
+
+{{refend}}
+
+{{NLM content}}

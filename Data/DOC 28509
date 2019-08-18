@@ -1,0 +1,53 @@
+Title : Template:Kansas City crime family
+Text : {{Navbox
+ | name = Kansas City crime family
+ | title = [[Kansas City crime family]]
+ | state = {{{state<includeonly>|autocollapse</includeonly>}}}
+ | bodyclass = hlist
+
+ | group1 = Bosses
+ | list1 =
+* [[Frank DeMayo]]
+* [[John Lazia]]
+* [[Charles Carrollo]]
+* [[Charles Binaggio]]
+* [[Anthony Gizzo]]
+* [[Nicholas Civella]]
+* [[Carl Civella]]
+* [[Anthony Civella]]
+* [[John Sciortino]]
+
+ | group2 = Current members
+ | list2 =
+* [[Peter Simone]]
+
+ | group3 = Past members
+ | list3 = {{Navbox|child
+
+   | group1 = Made men
+   | list1 =
+* [[William Cammisano]]
+* [[Anthony J. Cardarella]]
+* [[Frank Deluca]]
+* [[Joseph Deluca (mobster)|Joseph Deluca]]
+* [[Carl DeLuna]]
+* [[Charles Gargotta]]
+* [[Nicola Impastato]]
+* [[Gaetano Lococo]]
+
+   | group2 = Associates
+   | list2 =
+* [[Tom Pendergast]]
+
+ }}
+
+ | group4 = Relation to other groups
+ | list4 =
+* [[Genovese crime family|Genovese family]]
+* [[Chicago Outfit]]
+* [[Los Angeles crime family]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Organized crime templates]]
+</noinclude>

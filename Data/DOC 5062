@@ -1,0 +1,73 @@
+Title : Porcine coronavirus HKU15
+Text : {{Taxobox
+| color       = violet
+| name        = Porcine coronavirus HKU15
+| virus_group = iv
+| ordo        = ''[[Nidovirales]]''
+| familia     = ''[[Coronaviridae]]''
+| subfamilia  = ''[[Coronavirinae]]''
+| genus       = ''[[Deltacoronavirus]]''
+| species     = '''''Porcine coronavirus HKU15'''''
+| synonyms    = *Swine deltacoronavirus
+}}
+'''Porcine coronavirus HKU15 (PorCoV HKU15)''' is a virus first discovered in a surveillance study in [[Hong Kong]], [[China]],<ref>{{Cite journal
+ | pmid = 22278237
+| pmc = 3302495
+| year = 2012
+| author1 = Woo
+| first1 = P. C.
+| title = Discovery of seven novel Mammalian and avian coronaviruses in the genus deltacoronavirus supports bat coronaviruses as the gene source of alphacoronavirus and betacoronavirus and avian coronaviruses as the gene source of gammacoronavirus and deltacoronavirus
+| journal = Journal of Virology
+| volume = 86
+| issue = 7
+| pages = 3995–4008
+| last2 = Lau
+| first2 = S. K.
+| last3 = Lam
+| first3 = C. S.
+| last4 = Lau
+| first4 = C. C.
+| last5 = Tsang
+| first5 = A. K.
+| last6 = Lau
+| first6 = J. H.
+| last7 = Bai
+| first7 = R
+| last8 = Teng
+| first8 = J. L.
+| last9 = Tsang
+| first9 = C. C.
+| last10 = Wang
+| first10 = M
+| last11 = Zheng
+| first11 = B. J.
+| last12 = Chan
+| first12 = K. H.
+| last13 = Yuen
+| first13 = K. Y.
+| doi = 10.1128/JVI.06540-11
+}}</ref> and first reported to be associated with porcine diarrhea in February 2014. In February 2014, PorCoV HKU15 was identified in pigs with clinical diarrhea disease in the U.S. state of [[Ohio]].<ref>{{cite news|date=12 February 2014|title=Ohio Department of Agriculture finds new pig virus|url=https://www.reuters.com/article/2014/02/12/us-usa-hogs-virus-idUSBREA1B20820140212|newspaper=Reuters|accessdate=25 April 2014}}</ref> The complete genome of one US strain has been published.<ref>{{Cite journal
+ | pmid = 24744332
+| pmc = 3990748
+| year = 2014
+| author1 = Wang
+| first1 = L
+| title = Complete Genome Sequence of Porcine Coronavirus HKU15 Strain IN2847 from the United States
+| journal = Genome Announcements
+| volume = 2
+| issue = 2
+| pages = e00291–14
+| last2 = Zhang
+| first2 = Y
+| last3 = Byrum
+| first3 = B
+| doi = 10.1128/genomeA.00291-14
+}}</ref> Since then, it has been identified in pig farms in [[Canada]].<ref>{{cite press release|date=18 March 2014|title=Industry Advisory - Swine DeltaCoronavirus|url=http://www.ontariopork.on.ca/Communications/newsview/tabid/253/ArticleId/1643/Industry-Advisory-Swine-DeltaCoronavirus.aspx|agency=[[Ontario Pork]]|accessdate=25 April 2014}}</ref> The virus has been referred to as ''Porcine coronavirus HKU15'', ''Swine deltacoronavirus'' and ''Porcine deltacoronavirus''.
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q16988426}}
+
+[[Category:Coronaviridae]]
+[[Category:Animal virology]]

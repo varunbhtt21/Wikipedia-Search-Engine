@@ -1,0 +1,24 @@
+Title : Template:Museum row/doc
+Text : {{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+== Usage ==
+<pre>{{museum row
+|name=
+|location=
+|lat=
+|lon=
+|type=
+|summary=
+|image=
+|image description=
+}}</pre>
+
+== See also ==
+* [[Template:Museum begin]]
+* [[Template:Museum end]]
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go here and interwikis go in Wikidata. -->
+[[Category:Museum templates]]
+}}</includeonly>

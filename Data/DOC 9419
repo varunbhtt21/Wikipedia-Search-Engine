@@ -1,0 +1,55 @@
+Title : Wikipedia:WikiProject Spam/Local/dsn.fi
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|dsn.fi]]
+== Links ==
+* {{LinkSummary|dsn.fi}}
+:* dsn.fi resolves to [//83.145.194.160 83.145.194.160]
+:*: {{LinkSummary|83.145.194.160}}
+:* {{GoogleAnalyticsSummary|50288625}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+* {{LinkSummary|http}}
+:* http resolves to [//X X]
+:*: {{LinkSummary|X}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Saku.arowena}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12223218|lang=en|wikidomain=w|namespace=|pagename=LSCM|username=Saku.arowena|link=www.dsn.fi|sortdomain=fi.dsn.|domain=dsn.fi|origdiff=http://en.wikipedia.org/w/index.php?diff=606003459&oldid=441840595|resolved=83.145.194.160|isIP=0|date=2014-04-27|time=08:30:31|wiki=en.wikipedia.org|revid=606003459|oldid=441840595|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=20|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.dsn.fi|domain=dsn.fi|U=20|L=56|UL=20|WUL=0|analytics=50288625}}{{User:COIBot/OtherLinks|link=www.dsn.fi|domain=dsn.fi|U=20|L=56|UL=20|WUL=0|analytics=50288625}}}}
+{{User:COIBot/EditSummary|id=12223455|lang=en|wikidomain=w|namespace=|pagename=Data source name|username=Saku.arowena|link=Http://www.dsn.fi|sortdomain=fi.dsn.|domain=http|origdiff=http://en.wikipedia.org/w/index.php?diff=606003799&oldid=602243920|resolved=X|isIP=0|date=2014-04-27|time=08:35:31|wiki=en.wikipedia.org|revid=606003799|oldid=602243920|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=20|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=Http://www.dsn.fi|domain=http|U=20|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.dsn.fi|domain=http|U=20|L=0|UL=X|WUL=X}}}}
+{{User:COIBot/EditSummary|id=12226647|lang=en|wikidomain=w|namespace=|pagename=Espoo|username=Saku.arowena|link=Http://www.DSN.fi|sortdomain=fi.dsn.|domain=http|origdiff=http://en.wikipedia.org/w/index.php?diff=606007160&oldid=606000767|resolved=X|isIP=0|date=2014-04-27|time=09:18:46|wiki=en.wikipedia.org|revid=606007160|oldid=606000767|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=20|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}}}
+{{User:COIBot/EditSummary|id=12227550|lang=en|wikidomain=w|namespace=|pagename=Espoo|username=Saku.arowena|link=Http://www.dsn.fi|sortdomain=fi.dsn.|domain=http|origdiff=http://en.wikipedia.org/w/index.php?diff=606007807&oldid=606007245|resolved=X|isIP=0|date=2014-04-27|time=09:25:53|wiki=en.wikipedia.org|revid=606007807|oldid=606007245|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=20|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=Http://www.dsn.fi|domain=http|U=20|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.dsn.fi|domain=http|U=20|L=0|UL=X|WUL=X}}}}
+{{User:COIBot/EditSummary|id=12237259|lang=en|wikidomain=w|namespace=|pagename=Pesu|username=Saku.arowena|link=Http://www.DSN.fi|sortdomain=fi.dsn.|domain=http|origdiff=http://en.wikipedia.org/w/index.php?diff=606016142&oldid=599672267|resolved=X|isIP=0|date=2014-04-27|time=11:03:46|wiki=en.wikipedia.org|revid=606016142|oldid=599672267|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=20|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}}}
+{{User:COIBot/EditSummary|id=12237631|lang=en|wikidomain=w|namespace=|pagename=Raino Pesu|username=Saku.arowena|link=Http://www.DSN.fi|sortdomain=fi.dsn.|domain=http|origdiff=http://en.wikipedia.org/w/index.php?diff=606016555&oldid=545356069|resolved=X|isIP=0|date=2014-04-27|time=11:09:17|wiki=en.wikipedia.org|revid=606016555|oldid=545356069|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=20|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}}}
+{{User:COIBot/EditSummary|id=12237971|lang=en|wikidomain=w|namespace=|pagename=Raino Pesu|username=Saku.arowena|link=Http://www.DSN.fi|sortdomain=fi.dsn.|domain=http|origdiff=http://en.wikipedia.org/w/index.php?diff=606016772&oldid=606016645|resolved=X|isIP=0|date=2014-04-27|time=11:11:47|wiki=en.wikipedia.org|revid=606016772|oldid=606016645|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=20|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}}}
+{{User:COIBot/EditSummary|id=12238030|lang=en|wikidomain=w|namespace=|pagename=Raino Pesu|username=Saku.arowena|link=Http://www.DSN.fi|sortdomain=fi.dsn.|domain=http|origdiff=http://en.wikipedia.org/w/index.php?diff=606016967&oldid=606016903|resolved=X|isIP=0|date=2014-04-27|time=11:13:48|wiki=en.wikipedia.org|revid=606016967|oldid=606016903|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=20|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.DSN.fi|domain=http|U=20|L=0|UL=X|WUL=X}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 8 additions out of 10 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/dsn.fi]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bdsn\.fi\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/dsn.fi]]<nowiki>]]</nowiki>
+ \bhttp\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/http]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/dsn.fi|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 09:56, 27 April 2014 (UTC)
+
+New data reported. <!-- auto-closed --><!-- noleft -->No links left in here mentioned edits.  Marked stale.  --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 18:08, 27 April 2014 (UTC)

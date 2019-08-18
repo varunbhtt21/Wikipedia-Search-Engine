@@ -1,0 +1,24 @@
+Title : Template:Buccaneers1986DraftPicks
+Text : {{Navbox
+| name = Buccaneers1986DraftPicks
+| title = [[Tampa Bay Buccaneers|<span style="{{NFLSecondaryColor|Tampa Bay Buccaneers 76thru96}}">Tampa Bay Buccaneers</span>]] [[1986 NFL Draft|<span style="{{NFLSecondaryColor|Tampa Bay Buccaneers 76thru96}}">1986 NFL Draft</span>]] selections
+| listclass = hlist
+| state = {{{state|autocollapse}}}
+| titlestyle = {{NFLPrimaryStyle|Tampa Bay Buccaneers 76thru96|border=2}};
+| list1 =
+* [[Bo Jackson]]
+* [[Rod Jones (cornerback)|Rod Jones]]
+* [[Jackie Walker (American football, born 1962)|Jackie Walker]]
+* [[Kevin Murphy (linebacker)|Kevin Murphy]]
+* [[Craig Swoope]]
+* [[J. D. Maarleveld]]
+* [[Kevin Walker (cornerback)|Kevin Walker]]
+* [[Tommy Barnhardt]]
+* [[Benton Reed]]
+* [[Mark Drenth]]
+* [[Clay Miller]]
+| below = {{Tampa Bay Buccaneers Draft template list}}
+| belowstyle = {{NFLAltPrimaryColor|Tampa Bay Buccaneers|year=1986}}
+}}<noinclude>
+{{collapsible option}}
+[[Category:Tampa Bay Buccaneers draft navigational boxes]]</noinclude>

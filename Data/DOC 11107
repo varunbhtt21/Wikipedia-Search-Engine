@@ -1,0 +1,35 @@
+Title : Wikipedia:WikiProject Spam/Local/zabeja.com
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|zabeja.com]]
+== Links ==
+* {{LinkSummary|zabeja.com}}
+:* zabeja.com resolves to [//199.34.228.59 199.34.228.59]
+:*: {{LinkSummary|199.34.228.59}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Zabejateam}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12265375|lang=en|wikidomain=w|namespace=|pagename=User:Zabejateam|username=Zabejateam|link=www.zabeja.com|sortdomain=com.zabeja.|domain=zabeja.com|origdiff=http://en.wikipedia.org/w/index.php?oldid=606016697&rcid=651632702|resolved=199.34.228.59|isIP=0|date=1970-01-01|time=00:00:00|wiki=en.wikipedia.org|revid=606016697|oldid=0|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=5|top=0|deleted=1|there=0|checked=1|coiflag=1|coiname=Zabejateam|coilanguage=en|coipage=User:Zabejateam|coiurl=zabeja.com|coifullurl=www.zabeja.com|coidiff=http://en.wikipedia.org/?oldid=606016697|coithetime=1398615205|coireason=(overlap) Username overlaps with domain: 'zabejateam'-'zabeja.com' = 51.52% (68.1/75.66)|otherlinks={{User:COIBot/OtherLinks|link=www.zabeja.com|domain=zabeja.com|U=5|L=5|UL=5|WUL=0}}{{User:COIBot/OtherLinks|link=www.zabeja.com|domain=zabeja.com|U=5|L=5|UL=5|WUL=0}}{{User:COIBot/OtherLinks|link=www.zabeja.com|domain=zabeja.com|U=5|L=5|UL=5|WUL=0}}{{User:COIBot/OtherLinks|link=www.zabeja.com/bollywood|domain=zabeja.com|U=5|L=5|UL=5|WUL=0}}{{User:COIBot/OtherLinks|link=www.zabeja.com|domain=zabeja.com|U=5|L=5|UL=5|WUL=0}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 1 additions out of 1 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/zabeja.com]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bzabeja\.com\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/zabeja.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/zabeja.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. <!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). <!-- noleft -->No links left in here mentioned edits.  Marked stale.  --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 22:14, 27 April 2014 (UTC)

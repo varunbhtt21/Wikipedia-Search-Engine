@@ -1,0 +1,103 @@
+Title : Peracomo Inc v TELUS Communications Co
+Text : {{Infobox SCC
+  |case-name=Peracomo Inc v TELUS Communications Co
+  |full-case-name=Peracomo Inc, Réal Vallée, the owners and all other persons having an interest in the fishing vessel “Realice” and the fishing vessel "Realice" v TELUS Communications Company, Hydro-Québec, Bell Canada and Royal & Sun Alliance Insurance Company of Canada
+  |heard-date={{date|2013-11-15}}
+  |decided-date={{date|2014-04-23}}
+  |citations=2014 SCC 29 
+  |docket=34991
+  |history=APPEAL from {{cite CanLII|litigants=Peracomo Inc. v. Société Telus Communications|link=|year=2012|court=fca|num=199|format=|pinpoint=|parallelcite=|date=2012-06-29}}, affirming {{cite CanLII|litigants=Société Telus Communications v. Peracomo Inc.|link=|year=2011|court=fc|num=494|format=|pinpoint=|parallelcite=|date=2011-04-27}}
+  |subsequent=
+  |ruling= Appeal allowed in part, Wagner J dissenting in part
+  |ratio= While liability in the present case was capped by the ''Convention'' (as the damage was not caused by intentional or reckless conduct), insurance coverage was void because the applicable standard of "wilful misconduct" was met. 
+  |SCC=2013-2014
+  |Unanimous=
+  |Majority=Cromwell J
+  |JoinMajority=McLachlin CJ and Rothstein and Karakatsanis JJ
+  |Concurrence=
+  |JoinConcurrence=
+  |Concurrence/Dissent=Wagner J
+  |JoinConcurrence/Dissent=
+  |Dissent=
+  |JoinDissent=
+  |NotParticipating= LeBel, Abella and Moldaver JJ
+  |LawsApplied={{plainlist|
+* [http://laws-lois.justice.gc.ca/eng/acts/M-0.6/index.html ''Marine Insurance Act''] (S.C. 1993, c. 22)
+* [http://laws-lois.justice.gc.ca/eng/acts/M-0.7/index.html ''Marine Liability Act''] (S.C. 2001, c. 6)
+* ''[[Convention on Limitation of Liability for Maritime Claims]]''
+}}
+}}
+{{cite CanLII|litigants='''Peracomo Inc v TELUS Communications Co'''|link=|year=2014|court=scc|num=29}} is a decision of the [[Supreme Court of Canada]] concerning the law of [[marine insurance]], which also has international impact.
+
+==Background==
+{{quotation|Réal Vallée is a good man; a decent man; an honest man{{emdash}}a [[fisherman]]. However he did a very stupid thing. He cut the plaintiffs’ submarine [[fibre optic cable]] in two. It cost them almost $1,000,000 to repair it.|[[Sean J. Harrington|Harrington J]], opening his judgment at [[Federal Court (Canada)|Federal Court]]}}
+
+In 1999, [[QuébecTel]] (subsequently acquired by [[Telus]]), in conjunction with [[Hydro-Québec]], laid two fibre optic cables across the [[Saint Lawrence River]]:<ref>{{cite journal |date= 24 September 1999|title= Quebec Tel and Hydro Quebec Launch Cable-Laying Operations for 156 km of Fiber Optic Cable Under the St. Lawrence River|url= https://books.google.com/books?id=L_lxQN9UmIAC&lpg=PA3&ots=MZEzE9TaCU&pg=PA3#v=onepageI&f=false|journal= Fiber Optics Weekly Update|publisher= Information Gatekeepers, Inc|location = Boston|volume= 19|issue= 39|at= p. 3|issn=1051-189X }}</ref>
+
+:* Sunoque I, from [[Pointe-au-Père, Quebec|Point-au-Père]] to [[Baie-Comeau]], and
+:* Sunoque II, from [[Le Bic, Quebec|Le Bic]] to [[Forestville, Quebec|Forrestville]].
+
+In June 2006, Réal Vallée, a local fisherman engaged in [[snow crab]] and [[whelk]] fishing{{efn|in an area of the St. Lawrence River known as Zone 17<ref>{{cite web|title = Quebec and Gulf Regions: Fishing Areas for Snow Crab|url = http://www.qc.dfo-mpo.gc.ca/peches-fisheries/en/cartes/pdf/Crabe_des_Neiges.pdf|publisher = [[Fisheries and Oceans Canada]]}}</ref>}} aboard the [[catamaran]] ''Realice'', had strung a series of cages on the river bottom, secured at both ends by small anchors attached to buoys. One of these anchors got snagged onto the cable. The anchor with the cable attached was hauled out of the water, and Vallée freed it by cutting the cable with an electric saw. Several days later, the same thing happened and he cut the cable again. He had done so, believing that the cable had been abandoned (according to a handwritten note on a map he had seen at a local museum).{{efn|"After the fishing season, he was visiting Église Saint-George, a deconsecrated church in Baie-Comeau, which is now a museum. He saw there a chart with a line drawn across the river in the area where he usually fished. The word "''abandonné''" was written thereon by hand. Without giving it a second thought, he concluded that this was what he was hooking with his anchor. He only glanced at it for a matter of seconds and cannot recall whether it was a marine chart, a topographical chart, or indeed what type of map it was at all."<ref>FC, par. 40</ref>}} Remote monitoring controls operated by Telus indicated that the Sunoque I parted about {{convert|8.9|km|nmi|abbr=off}} off Baie-Comeau.
+
+Telus, Hydro-Québec, and [[Bell Canada]] (which had a right of use of the cable), shared the cost of repair in accordance with a pre-existing contract among them. When Vallée learned of the repairs that were being undertaken, he consulted a lawyer, notified his underwriters (who promptly denied coverage), and made a voluntary statement to the police. He was later charged with committing [[mischief]] by wilfully damaging property exceeding $5,000 in value,<ref>{{cite CCC|430}}</ref> and was subsequently acquitted.<ref>{{cite CanLII|litigants=R. c. Vallée|link=|year=2008|court=qccq|num=1086|format=|pinpoint=|parallelcite=|date=2008-02-26|courtname=auto|juris=}}{{fr-icon}}</ref>
+
+Telus and Hydro-Québec commenced an action in the [[Federal Court (Canada)|Federal Court of Canada]]:
+
+:* ''[[in personam]]'' against Peracomo Inc. (the owner of the ''Realice'') and Vallée, and
+:* ''[[in rem]]'' against the ship.
+
+The defendants also instituted third party proceedings against their underwriters, [[RSA Insurance Group|Royal and Sun Alliance Insurance Company of Canada]] in order to regain their insurance cover.
+
+==The courts below==
+At the Federal Court:<ref>FC, Judgment after par. 97</ref><ref>{{cite news |last= Paquet|first= Charlotte|date= 20 May 2011|title= Un pêcheur de Baie-Comeau mis à l'amende pour 1,2 M $ |trans-title=Baie-Comeau fisherman is ordered to pay $1.2 million|url= http://www.pleinjourdebaiecomeau.ca/2011/05/20/un-pecheur-de-baie-comeau-mis-a-lamende-pour-12-m-|language= fr|newspaper= Plein Jour de Baie-Comeau|location= [[Baie-Comeau]]|publisher= [[Québecor]]|accessdate= 3 May 2014}}</ref>
+
+:* The defendants were found to have [[joint and several liability]] for the damage, with the plaintiffs being awarded damages and interest amounting to about $1.21 million.
+:* The defendants’ third party action was dismissed.
+:* Costs were awarded in favour of the plaintiffs and the third party against the defendants.
+
+Harrington J, in his ruling, found that:
+
+:* the appellants were liable in [[negligence]] for damaging the cable because Vallée had breached his common law [[duty of care]] and statutory duty to be aware of the submarine cables in the areas in which he fished.<ref>FC, par. 34, 49</ref>
+:* Peracomo Inc. was liable for Mr. Vallée’s actions, not only [[vicarious liability|vicariously]], but also personally.<ref>FC, par. 50, citing {{cite court |litigants= Lennard's Carrying Co Ltd v Asiatic Petroleum Co Ltd|vol= &#91;1915&#93;|reporter= AC|opinion= 705|pinpoint= |court= |date= 8 March 1915|url= http://www.uniset.ca/other/cs2/1915AC705.html|accessdate= |quote=}} and {{cite CanLII|litigants=Canadian Dredge & Dock Co. v. The Queen|link=R. v. Canadian Dredge & Dock Co.|year=1985|court=scc|num=32|format=canlii|pinpoint=|parallelcite=[1985] 1 SCR 662|date=1985-05-23}}</ref>
+:* Vallée did not own or consult any of the [[maritime chart]]s of Zone 17, as required under Canadian law.<ref>{{Cite canlaw|link = http://laws-lois.justice.gc.ca/eng/regulations/SOR-95-149/index.html|linkloc = Justice Laws Website|type = reg|regtitle = Charts and Nautical Publications Regulations, 1995|regnumber = SOR/95-149}}</ref>
+:* while the ''Marine Liability Act'' provided for liability to be capped at $500,000 for [[property damage]] caused by ships similar in size to the ''Realice'',<ref>{{Cite canlaw|link = http://laws-lois.justice.gc.ca/eng/acts/M-0.7/section-29.html|linkloc = Justice Laws Website|short title = Marine Liability Act|abbr = SC|year = 2001|chapter = 6|section = 29}}</ref> art. 4 of the ''[[Convention on Limitation of Liability for Maritime Claims]]'' provides that the cap does not apply where a loss resulted from a person’s intentional or reckless conduct.{{efn|"If recklessness is in issue, and I think it is not, Mr. Vallée was reckless in the extreme."<ref>FC, par. 84</ref>}}
+:* coverage of the loss through the appellants' [[insurance policy]] was excluded by the ''Marine Insurance Act'',{{efn|similar in scope to the English ''[[Marine Insurance Act 1906]]''}} because cutting the cable fell within the statutory exclusion from [[marine insurance|marine liability insurance]] for "wilful misconduct".<ref>{{Cite canlaw|link = http://laws-lois.justice.gc.ca/eng/acts/M-0.6/section-53.html|linkloc = Justice Laws Website|short title = Marine Insurance Act|abbr = SC|year = 1993|chapter = 22|section = 53|subsection = 2}}</ref>
+
+The [[Federal Court of Appeal (Canada)|Federal Court of Appeal]] affirmed the ruling. In his ruling, [[Gilles Létourneau|Létourneau JA]] also held that, under existing precedent,{{efn|{{cite CanLII|litigants=ADGA Systems International Ltd. v. Valcom Ltd.|link=|year=1999|court=onca|num=1527|format=canlii|pinpoint=|parallelcite=43 OR (3d) 101|date=1999-01-12|courtname=auto|juris=}}, following principles derived from {{cite CanLII|litigants=London Drugs Ltd. v. Kuehne & Nagel International Ltd.|link=London Drugs Ltd. v. Kuehne & Nagel International Ltd.|year=1992|court=scc|num=41|format=canlii|pinpoint=|parallelcite=[1992] 3 SCR 299|date=1992-10-29|courtname=|juris=}}}} employees, officers and directors will be held personally liable for tortious conduct causing property damage even when their actions are pursuant to their duties to the corporation. In addition, the ''Convention'' contemplates such scenarios.<ref>FCA, par. 43</ref>
+
+Vallée appealed to the Supreme Court of Canada,<ref>{{cite news |last= Paquet|first= Charlotte|date= 25 September 2012|title= Le pêcheur Réal Vallée se tourne vers la Cour suprême |trans-title=Fisherman Réal Vallée is heading to the Supreme Court|url= http://www.pleinjourdebaiecomeau.ca/2012/09/25/le-pecheur-real-vallee-se-tourne-vers-la-cour-supreme|language= fr|newspaper= Plein Jour de Baie-Comeau|location= [[Baie-Comeau]]|publisher= [[Québecor]]|accessdate= 3 May 2014}}</ref> and leave to appeal was granted in January 2013.<ref>{{cite CanLII|litigants=Péracomo Inc. et al. v. Telus Communications Company|link=|year=2013|court=scc-l|num=2388|format=canlii|pinpoint=|parallelcite=|date=2013-01-24}}</ref>
+
+==At the Supreme Court==
+In a 4-1 ruling, the appeal was allowed in part. In relation to the appellants’ limitation of liability, the appeal was allowed with costs but including only one-half of their costs of the leave application. The appellants’ joint and several liability is limited by the ''Convention''. In relation to the claim against the insurer, the appeal was dismissed with costs including its costs of the leave application.<ref>SCC, par. 72</ref> In his ruling, Cromwell J held that:
+
+#Corporate personality is not a relevant consideration in this case, since Vallée was personally negligent in cutting the cable. Therefore, the company was liable as a result of his acts, not the other way around. The courts below were correct in holding Vallée personally liable.<ref>SCC, par. 17</ref>
+#The Federal Court of Appeal gave a narrow interpretation to the intent requirement under art. 4 of the ''Convention'', effectively stating that all that was required to break the limit on liability is knowledge that one is interfering with property. Such an approach undermines the ''Convention''’s purpose to establish a virtually unbreakable limit on liability and does not accord with its text.<ref>SCC, par. 23</ref>
+#While the threshold to break liability under the ''Convention'' requires intention or recklessness with knowledge that the loss will probably occur, wilful misconduct under the ''Marine Insurance Act'' does not require either intention to cause the loss or subjective knowledge that the loss will probably occur.<ref>SCC, par. 67</ref> In that regard, "wilful misconduct" has a different meaning under [[Canadian maritime law]] than it does under the ''[[Civil Code of Quebec]]''.<ref>{{cite CCQ|2576}}</ref><ref>SCC, par. 70</ref> Accordingly, the appellants’ loss is excluded from insurance coverage.<ref>SCC, par. 71</ref>
+
+===Dissent===
+While agreeing with Cromwell J that the ''Convention'' applied so as to limit liability, Wagner J believed that the relevant provision of the ''Marine Insurance Act'' must be read harmoniously with the ''Convention'''s provisions, and would have therefore allowed the appeal in its entirety, with costs.<ref name = "SCC73"/> Both the provisions at issue require proof of the same fact: that the insured had knowledge of the harmful consequences of his or her act, and intended or was reckless with regard to those consequences.<ref name = "SCC73">SCC, par. 73</ref> The fact that a reasonable person ought to have known or that a person had a duty to know, does not suffice to characterize the misconduct as willful.{{efn|"...this proposition is consistent with the English cases, according to which misconduct will be characterized as wilful only if the person liable for it intended it to happen."<ref>SCC, par. 87, citing (among other cases) {{cite court |litigants= Compania Maritima San Basilio S.A. v. The Oceanus Mutual Underwriting Association (Bermuda) Ltd. (The “Eurysthenes”)|vol= &#91;1976&#93; 2|reporter= Lloyd’s Rep|opinion= 171|pinpoint= |court= EWCA|date= 26 May 1976|url= http://www.ismcode.net/legal_and_technical_reports/The_Eurysthenes.pdf|accessdate= |quote=}}</ref>}} It is also necessary to establish that the person intended to cause a loss, or to prove gross negligence or misconduct in which there is a very marked departure from the conduct of a reasonable person.<ref>SCC, par. 89</ref>
+
+==Impact==
+As ''Peracomo'' was concerned with the interpretation of the ''Convention'', and could therefore have a wide-reaching impact on commercial maritime law around the world, the case attracted international attention.<ref>{{cite journal|author = Emilie Bokor-Ingram|title = Submarine cables and limitation of liability|at = p. 4|url = http://www.hfw.com/downloads/HFW-Shipping-Bulletin-0613.pdf|journal = Shipping Bulletin|publisher = [[Holman Fenwick Willan]]|location = London|date = July 2013}}</ref><ref>{{cite web|title = Cutting a submarine cable can cost you, your vessel and your insurance protection!|url = http://www.squiresanders.com/files/Publication/f6748b4e-e83d-4896-b17e-e60c2dda263f/Presentation/PublicationAttachment/d50dfddf-a4cf-49bf-9956-e6900e5e3467/Squire_Sanders_Publication_Cutting_a_Submarine_Cable.pdf|publisher = [[Squire Sanders|Squire Sanders (US) LLP]]|location = New York|date = January 2012}}</ref> It is of interest to insurers in the areas of marine insurance and [[protection and indemnity insurance]].<ref name = "BLG_FW"/>
+
+The Court looked to previous cases concerning the ''Convention'',{{efn|{{cite BAILII|litigants= Margolle & Anor v Delta Maritime Company Ltd. & Ors (The "Saint-Jacques II" and "Gudermes")|link=|court=EWHC|division=Admlty|year=2002|num=2452|parallelcite=[2003] 1 Lloyd’s Rep 203|date=28 November 2002}}; {{cite BAILII|litigants=Schiffahrtsgesellschaft MS Merkur Sky mbH & Co KG v MS Leerort Nth Schiffahrt (The "Leerort")|link=|court=EWCA|division=Civ|year=2001|num=1055|parallelcite= [2001] 2 Lloyd's Rep 291|date=27 June 2001}}}} as well as examining the ''[[Warsaw Convention]]'' (which had inspired art. 4).<ref name = "BLG_FW">{{cite web|author1 = Jean-Marie Fontaine|author2 = Graham Walker|title = Supreme Court of Canada weighs in on conduct barring limitation|url = http://www.blg.com/en/newsandpublications/publication_3713|publisher = [[Borden Ladner Gervais]]|date = 29 April 2014}}</ref> It effectively pointed out that art. 4 focuses on an intention to cause the loss, while the right to limit under the ''Convention'' relates more generally to the claim.<ref name = "BLG_FW"/> It also affirmed that the limitation of liability regime under the ''Convention'' is "virtually unbreakable",<ref>SCC, par. 25</ref> which was already the view of many legal observers.<ref>{{cite web|author = Megan E. Whittle|title = ''Peracomo Inc. v. Société Telus Communications Co.'', 2014 SCC 29: Decision Announced|url = http://www.whitelawtwining.com/news-articles/articles-publications/general-litigation/14-04-25/Peracomo_Inc_v_Soci%C3%A9t%C3%A9_Telus_Communications_Co_2014_SCC_29_Decision_Annouced.aspx|publisher = Whitelaw Twining Law Corporation|date = 25 April 2014}}</ref>
+
+As Wagner J pointed out, formalizing a legal difference between "reckless conduct" and "wilful misconduct" is likely to have commercial implications, and possibly increase litigation between marine insurers and their insureds.<ref>{{cite web|author = Gavin Magrath|title = Damages limited but not covered in ''Telus v Peracomo''|url = http://magraths.ca/2014/04/damages-limited-but-not-covered-in-telus-v-peracomo/|publisher = Magrath's|date = 23 April 2014}}</ref>
+
+==Further reading==
+===Hearing at the Supreme Court===
+* {{cite web|author = Patricia Wood|title = Cutting the Wire but not the Responsibility: ''Peracomo Inc v Telus''|url = http://www.thecourt.ca/2013/11/13/cutting-the-wire-but-not-the-responsibility-peracomo-inc-v-telus/|publisher = thecourt.ca|date = 13 November 2013}}
+===Discussion of the lower courts' rulings===
+* {{cite web|author =  David Martin-Clark|title = ''Telus Communications v Peracomo Inc and Réal Vallée''|url = http://www.onlinedmc.co.uk/index.php/Telus_Communications_v_Peracomo_Inc_and_R%C3%A9al_Vall%C3%A9e|publisher = DMC}}
+* {{cite web|author = Darren Williams|title = 'A Very Stupid Thing': A Mariner’s Limit of Liability and How it Can be Broken|url = http://www.williamsandcompany.ca/documents/October2012LegalNet-Limitsofliability.pdf|publisher = Merchant Law Group|date = October 2012}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|3}}
+
+[[Category:Supreme Court of Canada cases]]
+[[Category:2014 in Canadian case law]]
+[[Category:Admiralty case law]]
+[[Category:Insurance law]]

@@ -1,0 +1,63 @@
+Title : Game of the Seven Kingdoms
+Text : {{Infobox game
+ |title         = Game of the Seven Kingdoms
+ |italic title  = no
+ |image_link    = 七国象棋配置.jpg
+ |image_caption = Starting position
+ |designer      =
+ |years         = Since 13th century
+ |genre         = [[Abstract strategy game]] <br />[[Chess variant]] 
+ |players       = 7
+ |skills        = [[Chess strategy|Strategy]], [[Chess tactics|tactics]]
+ |AKA           = Seven-handed xiangqi <br />Qiquo xiangqi
+}}
+[[Image:EN-WarringStatesAll260BCE.jpg|thumb|upright=1.05|right|Game of the Seven Kingdoms symbolizes the [[Seven Warring States]] period (403–221 BC).{{sfnp|Pritchard|1994|p=265|ps=}}]]
+
+'''Game of the Seven Kingdoms''' ([[Chinese language|Chinese]]: {{lang|zh|{{linktext|七國象棋}}}}, <small>[[pinyin|p]]</small> ''qī-guó-xiàng-qí'' ;) is a seven-player [[Chess variant|variant]] of the game [[xiangqi]] ("Chinese chess"). It is traditionally ascribed to [[Sima Guang]], although he died well before the 13th century, to which this game is traditionally dated. There is skepticism regarding the game's 13th-century formulation.<ref>"The imbalance in the array must reflect on the play (assuming that the game was ever played), and can perhaps be attributed to the fact that a [[Go board|weiqi board]] rather than a bespoke board was used. The existence of pieces moving as [[Queen (chess)|Q]] and [[Bishop (chess)|B]] at least two centuries before their introduction into orthochess is a phenomenon few will credit. (Leventhal, ''Chess of China'')" {{harvcol|Pritchard|2007|p=343}} [But note that the queen and bishop were already present in Japan in the game of [[dai shogi]], invented in the 13th century and the most prestigious form of chess at the time in Japan.]</ref>
+
+==See also==
+* [[Game of the Three Kingdoms]]
+
+==References==
+{{Reflist}}
+
+'''Bibliography'''
+{{refbegin}}
+*{{cite web
+ |url=http://www.chessvariants.org/xiangqivariants.dir/chin7.html 
+ |last=Leary
+ |first=Stephen
+ |authorlink=
+ |title=Qiquo Xiangqi: Chinese Chess with seven players
+ |publisher=''[[The Chess Variant Pages]]''
+ |date=2001-09-29
+ |origyear=Created 1996-01-01}}
+*{{cite book
+ |last=Pritchard 
+ |first=D. B. 
+ |authorlink=David Pritchard (chess player)
+ |title=The Encyclopedia of Chess Variants
+ |publisher=Games & Puzzles Publications
+ |year=1994
+ |contribution=Seven-Handed Xiangqi
+ |isbn=0-9524142-0-1}}
+*{{cite book
+ |last=Pritchard 
+ |first=D. B. 
+ |authorlink=David Pritchard (chess player)
+ |editor-last=Beasley
+ |editor-first=John
+ |title=The Classified Encyclopedia of Chess Variants
+ |publisher=John Beasley 
+ |year=2007
+ |contribution=Seven-Handed Xiangqi
+ |pages=342–43
+ |isbn=978-0-9555168-0-1}}
+{{refend}}
+
+[[Category:Chinese ancient games]]
+[[Category:Chess variants]]
+[[Category:Xiangqi variants]]
+
+
+{{Board-game-stub}}

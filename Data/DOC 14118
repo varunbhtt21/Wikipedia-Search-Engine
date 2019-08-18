@@ -1,0 +1,9 @@
+Title : Module:Location map/data/USA New York
+Text : return {
+	name = 'New York',
+	top = 45.3,
+	bottom = 40.3,
+	left = -80.0,
+	right = -71.7,
+	image = 'USA New York location map.svg'
+}

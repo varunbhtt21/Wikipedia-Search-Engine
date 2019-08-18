@@ -1,0 +1,17 @@
+Title : Template:User WP Physio
+Text : {{Userbox
+  |border-c = #333399
+  |id-c     = #fff
+  |id-s     = 12
+  |id-fc    = #000
+  |id       = [[Image:ECG Principle fast.gif|45px]]
+  |info-c   = #EFE
+  |info-s   = 8
+  |info-fc  = #000
+  |info     = This user is a member of<br />'''[[Wikipedia:WikiProject Physiology|WikiProject Physiology]]'''.
+  |usercategory  = WikiProject Physiology members
+  |nocat = {{{nocat|}}}
+}}
+<noinclude>
+[[Category:WikiProject user templates|Physio]]
+</noinclude>

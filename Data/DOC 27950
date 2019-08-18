@@ -1,0 +1,36 @@
+Title : Wikipedia:WikiProject Spam/Local/results.ultimate.dk
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|results.ultimate.dk]]
+== Links ==
+* {{LinkSummary|results.ultimate.dk}}
+:* results.ultimate.dk resolves to [//54.229.252.114 54.229.252.114]
+:*: {{LinkSummary|54.229.252.114}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Jjv7}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=13103048|lang=en|wikidomain=w|namespace=|pagename=Comrades Marathon|username=Jjv7|link=results.ultimate.dk/comrades/resultshistory/front/index.php?profile=true&amp;ProfileID=399|sortdomain=dk.ultimate.results.|domain=results.ultimate.dk|origdiff=http://en.wikipedia.org/w/index.php?diff=607007709&oldid=604114840|resolved=X|isIP=0|date=2014-05-04|time=10:17:06|wiki=en.wikipedia.org|revid=607007709|oldid=604114840|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=7|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=results.ultimate.dk/comrades/resultshistory/front/index.php?profile=true&amp;ProfileID=3563|domain=results.ultimate.dk|U=7|L=7|UL=7|WUL=0}}{{User:COIBot/OtherLinks|link=results.ultimate.dk/comrades/resultshistory/front/index.php?profile=true&amp;ProfileID=2805|domain=results.ultimate.dk|U=7|L=7|UL=7|WUL=0}}{{User:COIBot/OtherLinks|link=results.ultimate.dk/comrades/resultshistory/front/index.php?profile=true&amp;ProfileID=2872|domain=results.ultimate.dk|U=7|L=7|UL=7|WUL=0}}{{User:COIBot/OtherLinks|link=results.ultimate.dk/comrades/resultshistory/front/index.php?profile=true&amp;ProfileID=1568|domain=results.ultimate.dk|U=7|L=7|UL=7|WUL=0}}{{User:COIBot/OtherLinks|link=results.ultimate.dk/comrades/resultshistory/front/index.php?profile=true&amp;ProfileID=456|domain=results.ultimate.dk|U=7|L=7|UL=7|WUL=0}}{{User:COIBot/OtherLinks|link=results.ultimate.dk/comrades/resultshistory/front/index.php?profile=true&amp;ProfileID=519|domain=results.ultimate.dk|U=7|L=7|UL=7|WUL=0}}{{User:COIBot/OtherLinks|link=results.ultimate.dk/comrades/resultshistory/front/index.php?profile=true&amp;ProfileID=399|domain=results.ultimate.dk|U=7|L=7|UL=7|WUL=0}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 1 additions out of 1 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/results.ultimate.dk]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bresults\.ultimate\.dk\b&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/results.ultimate.dk]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/results.ultimate.dk|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 11:04, 4 May 2014 (UTC)
+<!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 06:39, 15 May 2014 (UTC)

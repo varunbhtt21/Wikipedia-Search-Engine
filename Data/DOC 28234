@@ -1,0 +1,71 @@
+Title : Mopria Alliance
+Text : {{Infobox organization
+| name = Mopria Alliance
+| type = [[Trade association]]
+| location = San Ramon, [[California|CA]]
+| website = {{Url |http://www.mopria.org}}
+|formation = {{start date|2013|df= y}}
+}}
+The '''Mopria Alliance'''<ref name= mopria.org>{{Cite web |url=http://www.mopria.org/|title= Mopria Print Alliance |accessdate= 14 October 2014 }}</ref> was formed in September 2013, with the four founding members all among the world's largest printer manufacturers, including [[Canon Inc.|Canon]], [[Hewlett-Packard|HP]], [[Ricoh]], [[Samsung]], and [[Xerox]]. According to their mission statement, "the Mopria Alliance provides universal standards and solutions for scan and print."<ref>{{Cite web |url=https://mopria.org/mopria-alliance|title= About | publisher = Mopria Print Alliance}}</ref>
+
+Member companies have published certifications for mobile devices, mobile print accessories and 3,200+ printers from 24 brands, representing more than 120 million print devices in use today.  There are more than 1 billion installations of Mopria print technology, including user installations of the Mopria Print Service application and as part of factory-installed print apps on mobile devices from multiple manufacturers, including Samsung, Huawei, Amazon and ZTE.  Mopria print technology is also integrated in the Android Default Print Service offered in Android 8 and Android 9.
+
+== Mopria member companies ==
+
+There are 22 member companies that include leading mobile device providers, software application vendors, printer and scanner manufacturers and OS providers.
+
+* Canon (founder)
+* HP (founder)
+* Samsung (founder)
+* Xerox (founder)
+* Adobe
+* Brother
+* EFI
+* Epson
+* Fuji Xerox
+* Huawei
+* Konica Minolta
+* Kyocera
+* Lexmark
+* Microsoft
+* OKI Data
+* Pantum
+* Primax 
+* Qualcomm
+* Ricoh
+* Sharp
+* Toshiba
+* YSoft Corporation
+
+==Mopria universal standards==
+Mopria Alliance develops standards offering a simple and seamless way to print or scan to any Mopria certified printer, multi-function printer or scanner. The standards are available to Mopria Alliance member companies.
+
+== Mopria Print Service ==
+The Mopria Print Service for Android was released in the Google Play store in October 2014. It is a plug-in that enables printing from Android devices to Mopria certified printers and MFPs.
+
+A client uses [[Multicast DNS|mDNS]] to automatically discover a printer through the local [[IEEE 802.11|802.11]] [[wireless network]]. The printer must be connected to the network either wirelessly or with an [[Ethernet]] cable.  Mopria Print Service also supports printer connection through Wi-Fi Direct.
+
+==Mopria Print Library==
+The Mopria Print Library enables third-party plug-ins and provides support for a vast range of printers from multiple vendors.  The Mopria Print Library is part of the Samsung Print Service, giving Samsung Galaxy users the ability to print content from their devices.
+
+==Android Default Print Service==
+Mopria core print technology is integrated in the Android Default Print Service offered in Android 8 and Android 9.
+
+==Windows 10 support for Mopria certified printers==
+Microsoft implemented an IPP printing solution based on the Mopria standard in the Windows 10, version 1809 operating system.
+
+==Mopria Scan==
+Mopria Scan provides a complete scan solution and universal standard that is compatible with scan devices from most manufacturers.
+
+==Mopria organization==
+The Mopria Alliance was formed as a [[Delaware]] non-profit [[membership corporation]] and operates as a [[501(c) organization|501(c)]](6) nonprofit corporation. Representatives from member organizations can serve on the Board of Directors and the three primary working groups: technical, certification, and marketing.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website}}
+
+[[Category:Computer printing]]
+[[Category:Organizations established in 2013]]
+[[Category:Technology organizations]]

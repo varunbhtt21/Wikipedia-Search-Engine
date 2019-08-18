@@ -1,0 +1,55 @@
+Title : Wikipedia:WikiProject Colored Conventions/Biography Sandbox
+Text : {{Infobox person
+| name          = 
+| image         = 
+| caption       = 
+| birth_date   = <!--{{Birth date|YYYY|MM|DD}}-->
+| birth_place  = 
+| death_date  = <!--{{Death date and age|YYYY|MM|DD|YYYY|MM|DD}}  First date of death, then date of birth. Leave day and month sections blank if unknown.-->
+| death_place =
+| occupation  = 
+| movement = [[Colored Conventions Movement]]
+| spouse      = 
+| children    = 
+| parents     = 
+}}
+
+Fill out the infobox above with as much information as possible that is known about this person. Insert a short description here of what the person is known for.
+
+==Early life==
+
+Insert a description here of the person's birth and early life.
+
+==Career==
+
+A description of the major works of the person's life, with sub-sections for different focuses. You can change the name of this section to reflect the main focus of the person's adult life.
+
+==Activism==
+
+A description of the person's activities as an activist.
+
+===Colored Conventions===
+
+A description of the person's relationship to the Colored Conventions Movement.
+
+==Personal life==
+
+Where did the person live? How did the person spend their free time? Who did the person marry? Did the person have children?
+
+==Death==
+
+How and where did the person die? What legacy did they leave behind? How have they been recognized posthumously?
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://coloredconventions.org ColoredConventions.org] is a website about the Colored Conventions Movement, that collected biographical information about {{ARTICLEPAGENAME}}
+
+<!-- Fill out this section with as much as is known, and then remove this comment.-->
+{{Authority control|}}
+
+<!--Remove leading colons from each category below, and then remove this comment-->
+[[:Category:XXXX births]]<!--replace XXXX with their year of birth, and then remove this comment-->
+[[:Category:XXXX deaths]]<!--replace XXXX with their year of death, and then remove this comment-->
+[[:Category:Colored Conventions]]

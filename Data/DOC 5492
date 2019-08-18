@@ -1,0 +1,81 @@
+Title : Erdős–Hajnal conjecture
+Text : {{unsolved|mathematics|Do the graphs with a fixed forbidden induced subgraph necessarily have large cliques or large independent sets?}}
+In [[graph theory]], a branch of mathematics, the '''Erdős–Hajnal conjecture''' states that families of graphs defined by [[forbidden graph characterization|forbidden induced subgraph]]s have either large [[Clique (graph theory)|cliques]] or large [[Independent set (graph theory)|independent sets]]. It is named for [[Paul Erdős]] and [[András Hajnal]].
+
+More precisely, for an arbitrary [[undirected graph]] <math>H</math>, let <math>\mathcal{F}_H</math> be the family of graphs that do not have <math>H</math> as an [[induced subgraph]]. Then, according to the conjecture, there exists a constant <math>\delta_H > 0</math> such that the <math>n</math>-vertex graphs in <math>\mathcal{F}_H</math> have either a clique or an independent set of size <math>\Omega(n^{\delta_H})</math>.
+
+An equivalent statement to the original conjecture is that, for every graph <math>H</math>, the <math>H</math>-free graphs all contain polynomially large [[perfect graph|perfect]] [[induced subgraph]]s.
+
+==Graphs without large cliques or independent sets==
+In contrast, for [[random graph]]s in the [[Erdős–Rényi model]] with edge probability 1/2, both the [[maximum clique]] and the [[maximum independent set]] are much smaller: their size is proportional to the [[logarithm]] of <math>n</math>, rather than growing polynomially. [[Ramsey's theorem]] proves that no graph has both its maximum clique size and maximum independent set size smaller than logarithmic.<ref name="c14"/><ref name="aps"/> Ramsey's theorem also implies the special case of the Erdős–Hajnal conjecture when <math>H</math> itself is a clique or independent set.<ref name="c14"/>
+
+==Partial results==
+This conjecture is due to [[Paul Erdős]] and [[András Hajnal]], who proved it to be true when <math>H</math> is a [[cograph]]. They also showed, for arbitrary <math>H</math>, that the size of the largest clique or independent set grows superlogarithmically. More precisely, for every <math>H</math> there is a constant <math>c</math> such that the <math>n</math>-vertex <math>H</math>-free graphs have cliques or independent sets containing at least <math>\exp c\sqrt{\log n}</math> vertices.<ref name="c14"/><ref>{{citation
+ | last1 = Erdős | first1 = P. | author1-link = Paul Erdős
+ | last2 = Hajnal | first2 = A. | author2-link = András Hajnal
+ | doi = 10.1016/0166-218X(89)90045-0
+ | issue = 1-2
+ | journal = Discrete Applied Mathematics
+ | mr = 1031262 | zbl=0715.05052
+ | pages = 37–52
+ | title = Ramsey-type theorems
+ | volume = 25
+ | year = 1989}}.</ref> The graphs <math>H</math> for which the conjecture is true also include the four-vertex [[path graph]],<ref name="c14"/><ref name="reflections">{{citation
+ | last = Gyárfás | first = András | authorlink = András Gyárfás
+ | contribution = Reflections on a problem of Erdős and Hajnal
+ | doi = 10.1007/978-3-642-60406-5_10
+ | mr = 1425208
+ | pages = 93–98
+ | publisher = Springer, Berlin
+ | series = Algorithms Combin.
+ | title = The mathematics of Paul Erdős, II
+ | volume = 14
+ | year = 1997}}.</ref> the five-vertex [[bull graph]],<ref name="c14"/><ref>{{citation
+ | last1 = Chudnovsky | first1 = Maria | author1-link = Maria Chudnovsky
+ | last2 = Safra | first2 = Shmuel | author2-link = Shmuel Safra
+ | doi = 10.1016/j.jctb.2008.02.005
+ | issue = 6
+ | journal = Journal of Combinatorial Theory
+ | mr = 2462320
+ | pages = 1301–1310
+ | series = Series B
+ | title = The Erdős–Hajnal conjecture for bull-free graphs
+ | volume = 98
+ | year = 2008}}.</ref> and any graph that can be obtained from these and the cographs by [[modular decomposition]].<ref name="c14"/><ref name="aps">{{citation
+ | last1 = Alon | first1 = Noga | author1-link = Noga Alon
+ | last2 = Pach | first2 = János | author2-link = János Pach
+ | last3 = Solymosi | first3 = József
+ | doi = 10.1007/s004930100016
+ | issue = 2
+ | journal = [[Combinatorica]]
+ | mr = 1832443 | zbl=0989.05124
+ | pages = 155–170
+ | title = Ramsey-type theorems with forbidden subgraphs
+ | volume = 21
+ | year = 2001}}.</ref>
+As of 2014, however, the full conjecture has not been proven, and remains an open problem.<ref name="c14">{{citation
+ | last = Chudnovsky | first = Maria | authorlink = Maria Chudnovsky
+ | arxiv = 1606.08827
+ | doi = 10.1002/jgt.21730
+ | issue = 2
+ | journal = Journal of Graph Theory
+ | mr = 3150572 | zbl=1280.05086
+ | pages = 178–190
+ | title = The Erdös–Hajnal conjecture—a survey
+ | url = http://www.columbia.edu/~mc2775/EHsurvey.pdf
+ | volume = 75
+ | year = 2014}}.</ref>
+
+An earlier formulation of the conjecture, also by Erdős and Hajnal and still unsolved, concerns the special case when <math>H</math> is a 5-vertex [[cycle graph]].<ref name="reflections"/> The <math>C_5</math>-free graphs include the [[perfect graph]]s, which necessarily have either a clique or independent set of size proportional to the square root of their number of vertices. Conversely, every clique or independent set is itself perfect. For this reason, a convenient and symmetric reformulation of the Erdős–Hajnal conjecture is that for every graph <math>H</math>, the <math>H</math>-free graphs necessarily contain an induced perfect subgraph of polynomial size.<ref name="c14"/>
+
+== References ==
+{{reflist|30em}}
+
+==External links==
+*[http://www.openproblemgarden.org/op/the_erdos_hajnal_conjecture The Erdös-Hajnal Conjecture], The Open Problem Garden
+
+{{DEFAULTSORT:Erdos-Hajnal conjecture}}
+[[Category:Graph theory]]
+[[Category:Ramsey theory]]
+[[Category:Conjectures]]
+[[Category:Paul Erdős]]

@@ -1,0 +1,83 @@
+Title : Template:Hydrology of Hampshire
+Text : {{Navbox
+| name       = Hydrology of Hampshire
+| title      = [[Hydrology]] of [[Hampshire]]
+| image      = [[File:Alder trees beaulieu river fawley ford.jpg|100px]]
+| above      = 
+| state      = {{{state|}}}
+| listclass  = hlist
+
+| group1     = [[Main river]]s
+| list1      = 
+* [[River Alre]]
+* [[River Anton]]
+* [[Avon Water (Hampshire)|Avon Water]]
+* [[River Avon (Hampshire)|River Avon]]
+* [[Bartley Water]]
+* [[Beaulieu River]]
+* [[River Blackwater (River Loddon)]]
+* [[River Blackwater (River Test)]]
+* [[Bourne Rivulet]]
+* [[Candover Brook]]
+* [[Cove Brook]]
+* [[Dark Water (river)|Dark Water]]
+* [[River Dever]]
+* [[River Dun (River Test)|River Dun]]
+* [[River Ems (Chichester Harbour)|River Ems]]
+* [[River Hamble]]
+* [[River Itchen, Hampshire|River Itchen]]
+* [[Kingsley Stream]]
+* [[River Loddon]]
+* [[Lymington River]]
+* [[River Meon]]
+* [[Monks Brook]]
+* [[Oakhanger Stream]]
+* [[Oxney Stream]]
+* [[River Rother, West Sussex|River Rother]]
+* [[Tanner's Brook]]
+* [[River Test]]
+* [[River Wallington]]
+* [[River Wey]]
+* [[River Whitewater]]
+
+| group2     = [[Canal]]s and Navigations
+| list2      = 
+* [[Andover Canal]]
+* [[Basingstoke Canal]]
+* [[Itchen Navigation]]
+* [[Portsmouth and Arundel Canal]]
+* [[Salisbury and Southampton Canal]]
+* [[Titchfield Canal]]
+
+| group3    = [[Ordinary watercourse]]s
+| list3     = 
+* [[West End Brook]]
+
+| group4    = Lakes, ponds and wetlands
+| list4     = 
+* [[Chessel Bay]]
+* [[Eyeworth Pond]]
+* [[Farlington Marshes]]
+* [[Fleet Pond]]
+* [[Keyhaven, Pennington, Oxey and Normandy Marshes]]
+* [[Lakeside Country Park]]
+* [[Manor Farm Country Park|Manor Farm duck pond]]
+* [[Sowley Pond]]
+* [[Testwood Lakes]]
+* [[Ludshott Common and Waggoners Wells|Waggoners Wells]]
+
+| group5    = [[Coast]]
+| list5     = 
+* [[Chichester Harbour]]
+* [[Langstone Harbour]]
+* [[Portsmouth Harbour]]
+* [[Solent]]
+* [[Southampton Water]]
+| below      = Categories: [[:Category:Rivers of Hampshire|Rivers]], [[:Category:Canals in Hampshire|Canals]]
+
+}}<noinclude>
+{{DEFAULTSORT:Hampshire}}
+[[Category:Hydrography navigational boxes]]
+[[Category:English river navigational boxes by county]]
+[[Category:Environment of Hampshire|Hydrology]]
+</noinclude>

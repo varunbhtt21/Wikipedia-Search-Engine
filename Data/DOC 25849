@@ -1,0 +1,108 @@
+Title : Template:ITF wheelchair profile/doc
+Text : {{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+{{Template shortcut|ITF wheelchair}}
+{{Uses Wikidata|P4299}}
+{{Lua|Module:EditAtWikidata}}
+
+'''{{NAMESPACE}}:{{BASEPAGENAME}}''' displays an external link to a [[wheelchair tennis]] player's profile at [https://www.itftennis.com/ ITFtennis.com], the official website of the [[International Tennis Federation]] (ITF). It is intended for use in the [[Wikipedia:External links|external links]] section of an article.
+
+== Usage ==
+Unnamed parameters:
+: {{tlcw|{{BASEPAGENAME}} | <var>ID</var> }}
+: {{tlcw|{{BASEPAGENAME}} | <var>ID</var> | <var>NAME</var> }}
+
+Named parameters (with "id"):
+: {{tlcw|{{BASEPAGENAME}} | id{{=}} <var>ID</var> }}
+: {{tlcw|{{BASEPAGENAME}} | id{{=}} <var>ID</var> | name{{=}} <var>NAME</var> }}
+
+Named parameters (with "number"):
+: {{tlcw|{{BASEPAGENAME}} | number{{=}} <var>ID</var> }}
+: {{tlcw|{{BASEPAGENAME}} | number{{=}} <var>ID</var> | name{{=}} <var>NAME</var> }}
+
+Using [[Wikidata]] property [[d:Property:P4299|P4299]]:
+: {{tlcw|{{BASEPAGENAME}} }}
+: {{tlcw|{{BASEPAGENAME}} | name{{=}} <var>NAME</var> }}
+
+== Examples ==
+
+=== ID in template ===
+''Usage in the article [[Shingo Kunieda]], with article name as link text:''
+: {{tlcw|a=1|{{BASEPAGENAME}} | 100016393 }}
+: {{tlcw|a=1|{{BASEPAGENAME}} | id{{=}} 100016393 }}
+: {{tlcw|a=1|{{BASEPAGENAME}} | number{{=}} 100016393 }}
+
+''Usage with name parameter as link text:''
+: {{tlcw|a=1|{{BASEPAGENAME}} | 100016393 | Shingo Kunieda }}
+: {{tlcw|a=1|{{BASEPAGENAME}} | id{{=}} 100016393 | name{{=}} Shingo Kunieda }}
+: {{tlcw|a=1|{{BASEPAGENAME}} | number{{=}} 100016393 | name{{=}} Shingo Kunieda }}
+
+''Output:''
+:* {{{{BASEPAGENAME}} | 100016393 | Shingo Kunieda }}
+
+''URL:''
+: <kbd>[https://www.itftennis.com/wheelchair/players/player/profile.aspx?playerid=100016393 https://www.itftennis.com/wheelchair/players/player/profile.aspx?playerid={{hilite|100016393}}]</kbd>
+
+=== ID in Wikidata ===
+''Usage in the article [[Esther Vergeer]]:''
+: {{tlcw|a=1|{{BASEPAGENAME}} }}
+: {{tlcw|a=1|{{BASEPAGENAME}} | name{{=}} Esther Vergeer }}
+
+''Output:''
+:* {{{{BASEPAGENAME}} | 55000204 | Esther Vergeer }} [[File:Blue pencil.svg |frameless |text-top |10px |alt=Edit this at Wikidata |link=https://www.wikidata.org/wiki/Q259606#P4299 |Edit this at Wikidata]]
+
+''URL:''
+: <kbd>[https://www.itftennis.com/wheelchair/players/player/profile.aspx?playerid=55000204 https://www.itftennis.com/wheelchair/players/player/profile.aspx?playerid={{hilite|55000204}}]</kbd>
+
+=== No ID in template or Wikidata ===
+''Usage:''
+: {{tlcw|a=1|{{BASEPAGENAME}} }}
+
+''Output:''
+:* {{{{BASEPAGENAME}} }}
+
+== TemplateData ==
+{{TemplateData header}}
+<templatedata>
+{
+  "description": "This template displays an external link to a wheelchair tennis player's profile at ITFtennis.com, the official website of the International Tennis Federation (ITF). It is intended for use in the external links section of an article.",
+  "params": {
+    "id": {
+      "label": "id",
+      "aliases": ["number","1"], 
+      "description": "The \"id\" parameter (or \"number\" or unnamed parameter \"1\") should contain the ID portion of the URL. Example: 100016393 is the ID in https://www.itftennis.com/wheelchair/players/player/profile.aspx?playerid=100016393.",
+      "type": "number",
+      "required": false,
+      "default": "Wikidata property P4299"
+    },
+    "name": {
+      "label": "name",
+      "aliases": ["2"], 
+      "description": "The \"name\" parameter (or unnamed parameter \"2\") may be used to specify the link text, which should be the name of the tennis player. This parameter is optional; it defaults to the Wikipedia article name, without any disambiguation such as \"(tennis)\".",
+      "type": "string",
+      "required": false,
+      "default": "{{PAGENAMEBASE}}"
+    }
+  },
+  "paramOrder": [
+    "id",
+    "name"
+  ]
+}
+</templatedata>
+
+== Templates and modules used ==
+* [[Template:First word]], implemented with [[Module:String]]
+* [[Module:EditAtWikidata]]
+
+== See also ==
+* {{tl|ITF profile}}
+* {{tl|ITF junior profile}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go here and interwikis go in Wikidata. -->
+[[Category:People and person external link templates]]
+[[Category:Sports governing body external link templates]]
+[[Category:Tennis external link templates]]
+[[Category:External link templates using Wikidata]]
+}}</includeonly>

@@ -1,0 +1,81 @@
+Title : Wikipedia:WikiProject Stub sorting/Proposals/Archive/2014/May
+Text : {{archive}}
+
+==Proposals, May 2014==
+
+=== Two remaining continent subcats for [[:Category:Poet stubs]] ===
+{{sfp create}}
+{{cl|Poet stubs}} is mostly divided by continent- except for North America and Oceania, which don't have their own cateogries. Since each of these continents has at least 1 viable subcat, I think we should create these 2 categories - {{cl|North American poet stubs}} and {{cl|Oceanian poet stubs}}. [[User:Od Mishehu|עוד&nbsp;מישהו]] [[User talk:Od Mishehu|Od&nbsp;Mishehu]] 18:12, 19 May 2014 (UTC)
+{{sfp bottom}}
+
+=== [[:Category:Pittsburgh, Pennsylvania building and structure stubs]]===
+{{sfp create}}
+I noticed that {{cl|Pittsburgh, Pennsylvania stubs}} is oversized. I think that we could help deal with that using {{cl|Pittsburgh, Pennsylvania building and structure stubs}}/{{tl|Pittsburgh-struct-stub}} - even if we were to look at the intersectionb of the two parent stub cats, we get [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=en&wikifam=.wikipedia.org&basecat=Pittsburgh%2C+Pennsylvania+stubs&basedeep=3&mode=cs&tagcat=Pennsylvania+building+and+structure+stubs&tagdeep=3&go=Scan&format=html&userlang=en 63 stubs], plenty for a category; and we would be likely to have many more, including [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=en&wikifam=.wikipedia.org&basecat=Buildings+and+structures+in+Pittsburgh%2C+Pennsylvania&basedeep=3&mode=cs&tagcat=Pittsburgh%2C+Pennsylvania+stubs&tagdeep=3&go=Scan&format=html&userlang=en most of the other 33 here] from {{cl|Pittsburgh, Pennsylvania stubs}}, and others - even possibly a total of [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=en&wikifam=.wikipedia.org&basecat=Buildings+and+structures+in+Pittsburgh%2C+Pennsylvania&basedeep=3&mode=ts&templates=asbox&go=Scan&format=html&userlang=en more than 200]. [[User:Od Mishehu|עוד&nbsp;מישהו]] [[User talk:Od Mishehu|Od&nbsp;Mishehu]] 05:06, 19 May 2014 (UTC)
+:'''Support.''' [[User:Dawynn|Dawynn]] ([[User talk:Dawynn|talk]]) 11:04, 19 May 2014 (UTC)
+{{sfp bottom}}
+
+===Split of {{cl|Romantic drama film stubs}}===
+{{sfp top|create upmerged templates}}
+
+Propose the following tags to add year of release and reduce double-tagging of film articles:
+* <s>{{tl|1900s-romantic-drama-film-stub}}</s> -- No parent category
+* {{tl|1910s-romantic-drama-film-stub}} (Catscan: ~ 38 P)
+* <s>{{tl|1920s-romantic-drama-film-stub}}</s> -- Already present
+* <s>{{tl|1930s-romantic-drama-film-stub}}</s> -- Already present
+* {{tl|1940s-romantic-drama-film-stub}} (Catscan: ~ 32 P)
+* {{tl|1950s-romantic-drama-film-stub}} (Catscan: ~ 19 P)
+* {{tl|1960s-romantic-drama-film-stub}} (Catscan: ~ 16 P)
+* {{tl|1970s-romantic-drama-film-stub}} (Catscan: ~ 17 P)
+* {{tl|1980s-romantic-drama-film-stub}} (Catscan: ~ 30 P)
+* {{tl|1990s-romantic-drama-film-stub}} (Catscan: ~ 53 P)
+* <s>{{tl|2000s-romantic-drama-film-stub}}</s> -- Already present
+* {{tl|2010s-romantic-drama-film-stub}} (Catscan: ~ 14 P)
+[[User:Dawynn|Dawynn]] ([[User talk:Dawynn|talk]]) 13:27, 14 May 2014 (UTC)
+*'''Weak oppose'''. An examination of all the articles in {{cl|Romantic drama film stubs}} shows that not all of these templates are necessary. Yes, sometimes stub categories need to be broken down by decade because of size, and the 1910s and 1990s templates might have enough articles to warrant their own categories. But per [[WP:STUB]], it is unnecessary to create a stub tag to indicate decade of release if 1) there aren't enough articles using it to meet the threshold for a stub category, and 2) all the articles involved already have a genre stub tag that is sufficient to cover the subject's main notability. [[User:Fortdj33|Fortdj33]] ([[User talk:Fortdj33|talk]]) 13:56, 14 May 2014 (UTC)
+*I ran some quick catscans with results posted above.  I only looked at movies from the specific parent categories.  As noted above, the romantic drama category is obviously undersorted. [[User:Dawynn|Dawynn]] ([[User talk:Dawynn|talk]]) 15:05, 14 May 2014 (UTC)
+::I still can't advocate creating stub templates to break down this category by decade, unless there are enough articles for those templates to have their own categories. Adding {{tl|1960s-romantic-drama-film-stub}} to only 16 articles, would not serve any purpose that {{tl|romantic-drama-film-stub}} doesn't already serve. [[User:Fortdj33|Fortdj33]] ([[User talk:Fortdj33|talk]]) 15:27, 14 May 2014 (UTC)
+:::Granted -- this would fall under instruction 7 above.  These would be upmerged , exploratory templates, upmerging to both {{cl|Romantic drama film stubs}} and the appropriate decade category (e.g. {{cl|1990s film stubs}}) while we get a better idea of whether we can find the appropriate numbers for a full category.  Meanwhile, it would help any editors who have expertise of a particular decade of film to find these articles, rather than assuming that all movie viewers have equal interest in all of cinema history.  Finally, this would help to succinctly tag articles with a single tag indicating both year of release and genre for these films.  [[User:Dawynn|Dawynn]] ([[User talk:Dawynn|talk]]) 16:40, 14 May 2014 (UTC)
+::::There may be specific projects for film genres and films from certain countries, but it is naive to believe that there are editors "who have expertise of a particular decade" for films. The only reason to break down a film category by decade, is because it is too large and needs to be divided into sub-categories. That is not the case here, so most of these templates are unnecessary, because they will all still feed into the same category. [[User:Fortdj33|Fortdj33]] ([[User talk:Fortdj33|talk]]) 17:04, 14 May 2014 (UTC)
+:::I will grant that "expertise" was a poor choose of words.  But I would guess that users are probably more familiar with particular decades rather than all of cinema history.  For myself, I have only rarely watched films older than about 1980.  I would be more familiar with films in the 1980s, 1990s, and 2000s, and thus more inclined to edit those films rather than all films from any given time period, just because they fit a certain genre.  I see a benefit in sorting by genre, but I don't understand the reluctance to sort by decade when it can be so beneficial toward helping users find film articles they want to edit. [[User:Dawynn|Dawynn]] ([[User talk:Dawynn|talk]]) 12:02, 17 May 2014 (UTC)
+*'''Support''' upmerged templates for now. Couldn't hurt. [[User:Pegship|Pegship]] ([[User talk:Pegship|talk]]) 18:15, 4 March 2016 (UTC)
+{{sfp bottom}}
+
+=== [[:Category:American film biography stubs]] split ===
+{{Sfp create}}
+Created at [[:Category:American audio engineer stubs]] [[User:Buttons to Push Buttons|Buttons to Push Buttons]] ([[User talk:Buttons to Push Buttons|talk]] | [[Special:Contributions/Buttons to Push Buttons|contribs]]) 23:56, 3 November 2015 (UTC)
+
+
+To reduce the unsorted stubs in this category, I propose [[:Category:American audio engineers stubs]] to be made as a subcategory. Currently there are [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=en&wikifam=.wikipedia.org&basecat=American_film_biography_stubs&basedeep=3&mode=cs&tagcat=American+audio+engineers&tagdeep=3&go=Scan&format=html&userlang=en 200+] audio engineer stubs. [[User:MrLinkinPark333|MrLinkinPark333]] ([[User talk:MrLinkinPark333|talk]]) 02:56, 11 May 2014 (UTC)
+*'''Support''' per nomination. The stub tag {{tl|US-audio-engineer-stub}} has been created. Current count shows about 286 articles would qualify [http://tools.wmflabs.org/catscan2/catscan2.php?categories=American+audio+engineers&smaller=3000&doit=1]. [[User:Fortdj33|Fortdj33]] ([[User talk:Fortdj33|talk]]) 16:57, 14 January 2015 (UTC)
+{{Sfp bottom}}
+
+=== [[:Category:Mississippi school stubs]] ===
+{{sfp create}}
+I propose creating {{cl|Mississippi school stubs}} - We have a total of [http://tools.wmflabs.org/catscan2/catscan2.php?depth=5&categories=Southern+United+States+school+stubs&templates_yes=asbox&templates_any=Mississippi-school-stub%0D%0AMississippi-university-stub&sortby=title&doit=1 65] {{tl|Mississippi-school-stub}}s and {{tl|Mississippi-university-stub}}s, enough for a category. [[User:Od Mishehu|עוד&nbsp;מישהו]] [[User talk:Od Mishehu|Od&nbsp;Mishehu]] 08:51, 7 May 2014 (UTC)
+:'''Support.''' [[User:Dawynn|Dawynn]] ([[User talk:Dawynn|talk]]) 11:04, 19 May 2014 (UTC)
+{{sfp bottom}}
+
+===[[:Category:Minnesota university stubs]] ===
+{{sfp create}}
+I propose creating {{cl|Minnesota university stubs}} - its stub tag ({{tl|Minnesota-university-stub}}), together with {{cl|University of Minnesota stubs‎}} ({{tl|UMinnesota-stub}}) have a total of [http://tools.wmflabs.org/catscan2/catscan2.php?depth=2&categories=Midwestern+United+States+university+stubs&templates_any=Minnesota-university-stub%0D%0AUMinnesota-stub&sortby=title&doit=1 60 stubs]. [[User:Od Mishehu|עוד&nbsp;מישהו]] [[User talk:Od Mishehu|Od&nbsp;Mishehu]] 14:33, 6 May 2014 (UTC)
+:'''Support.''' [[User:Dawynn|Dawynn]] ([[User talk:Dawynn|talk]]) 11:04, 19 May 2014 (UTC)
+{{sfp bottom}}
+
+=== [[:Category:New York university stubs]] ===
+{{sfp create}}
+I propose creating {{cl|New York university stubs}} - {{tl|NewYork-university-stub}} now has [http://tools.wmflabs.org/templatecount/index.php?lang=en&namespace=10&name=NewYork-university-stub#bottom 64 transclusions]. [[User:Od Mishehu|עוד&nbsp;מישהו]] [[User talk:Od Mishehu|Od&nbsp;Mishehu]] 04:11, 6 May 2014 (UTC)
+:'''Support.''' [[User:Dawynn|Dawynn]] ([[User talk:Dawynn|talk]]) 11:04, 19 May 2014 (UTC)
+{{sfp bottom}}
+
+=== [[:Category:Baseball venue stubs]] ===
+{{sfp create}}
+I propose '''{{cl|Baseball venue stubs}}/{{tl|baseball-venue-stub}}''' - along with {{cl|American baseball venue stubs}}/{{tl|US-baseball-venue-stub}} ([http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=en&wikifam=.wikipedia.org&basecat=Baseball+venues+in+the+United+States&basedeep=3&mode=ts&templates=asbox&go=Scan&format=html&userlang=en 488 stubs]) and categories for the regions of the US (as defined for its parent category, {{cl|United States sports venue stubs}}; its grandparent category, {{cl|United States building and structure stubs}}; and several of its uncle categories) and tags (and categories where more than 60) for the states and DC. [[User:Od Mishehu|עוד&nbsp;מישהו]] [[User talk:Od Mishehu|Od&nbsp;Mishehu]] 14:37, 4 May 2014 (UTC)
+:'''Support.''' [[User:Dawynn|Dawynn]] ([[User talk:Dawynn|talk]]) 11:04, 19 May 2014 (UTC)
+{{sfp bottom}}
+
+=== [[:Category:New Jersey sports venue stubs]] ===
+{{sfp create}}
+Since {{tl|NewJersey-sports-venue-stub}} now has 60 transclusions, I propose creating {{cl|New Jersey sports venue stubs}} for it. [[User:Od Mishehu|עוד&nbsp;מישהו]] [[User talk:Od Mishehu|Od&nbsp;Mishehu]] 13:45, 4 May 2014 (UTC)
+:'''Support.''' [[User:Dawynn|Dawynn]] ([[User talk:Dawynn|talk]]) 11:04, 19 May 2014 (UTC)
+{{sfp bottom}}
+[[Category:WikiProject Stub sorting archives|Proposals 2014 05]]

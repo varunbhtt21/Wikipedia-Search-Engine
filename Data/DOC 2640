@@ -1,0 +1,18 @@
+Title : File:Loch ness monster surface.svg
+Text : == Summary ==
+{{Information
+| Description    = Loch Ness monster surface generated with Maple 14 under the command: 
+
+with(plots): implicitplot3d((x^2+(z+cos(y))^2)*z=.05,x=-1.5..1.5,y=-6..6,z=0..1.5,grid=[20,40,20],scaling=constrained,axes=boxed,transparency=0,light=[3.14, 0, 1, .2, 0]);
+
+and then converted to SVG.
+| Source         = {{own}}
+| Date           = 
+| Author         = [[User:Boriaj|Boriaj]] ([[User talk:Boriaj|talk]]) ([[Special:ListFiles/Boriaj|Uploads]])
+| Permission     = 
+| other_versions = 
+}}
+
+
+== Licensing ==
+{{self|cc-zero}}

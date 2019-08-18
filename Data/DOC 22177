@@ -1,0 +1,50 @@
+Title : Template:Infobox earthquakes in date/doc
+Text : {{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+== Usage ==
+<pre style="overflow:auto">
+{{Infobox earthquakes in year
+| year = <!-- REQUIRED -->
+| location_map = <!-- Earth -->
+| location_map_places = 
+<!--
+{{Location map~|Earth|mark = Green pog.svg|lat_deg = 27.261|lon_deg = 54.428}}
+{{Location map~|Earth|mark = Yellow pog.svg|lat_deg = -13.873|lon_deg = 167.202}}
+{{Location map~|Earth|mark = Orange pog.svg|lat_deg = -20.400|lon_deg = -70.135}}
+{{Location map~|Earth|mark = Red pog.svg|lat_deg = -19.642|lon_deg = -70.87}}
+-->
+| largest =
+| deadliest =
+| fatalities = 
+| 9.0+    = 
+| 8.0−8.9 = 
+| 7.0−7.9 = 
+| 6.0−6.9 = 
+| 5.0−5.9 = 
+}}
+</pre>
+or
+<pre style="overflow:auto">
+{{Infobox earthquakes in month
+| month = <!-- REQUIRED -->
+| largest =
+| deadliest =
+| fatalities = 
+| 9.0+    = 
+| 8.0−8.9 = 
+| 7.0−7.9 = 
+| 6.0−6.9 = 
+| 5.0−5.9 = 
+| 4.0−4.9 =
+}}
+</pre>
+
+== Microformat ==
+{{UF-hcal}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go here and interwikis go in Wikidata. -->
+[[Category:Earthquake templates]]
+[[Category:Geology infobox templates|Earthquakes in year]]
+}}</includeonly>

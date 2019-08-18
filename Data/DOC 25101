@@ -1,0 +1,38 @@
+Title : Wikipedia:WikiProject Articles for creation/Help desk/Archives/2014 April 26
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:WikiProject Articles for creation/Help desk|Help desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:WikiProject Articles for creation/Help desk/Archives/2014 April 25|April 25]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:WikiProject Articles for creation/Help desk/Archives/March 2014|Mar]] | [[Wikipedia:WikiProject Articles for creation/Help desk/Archives/April 2014|April]] | [[Wikipedia:WikiProject Articles for creation/Help desk/Archives/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:WikiProject Articles for creation/Help desk/Archives/2014 April 27|[[Wikipedia:WikiProject Articles for creation/Help desk/Archives/2014 April 27|April 27]]|[[Wikipedia:WikiProject Articles for creation/Help desk|Current help desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background:#57DB1E; text-align: center;" align="center" | <font face="Arial" color="black">'''Welcome to the WikiProject Articles for creation Help Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:WikiProject Articles for creation/Help desk/Archives/2014 May 6|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:WikiProject Articles for creation/Help desk|current Help Desk]] pages.
+|}
+
+
+__TOC__</noinclude>
+= April 26 =
+
+== Review of [[Wikipedia talk:Articles for creation/Ravi Ravindra]] ==
+
+Hello Wikipedia, I have received a message from Wikipedia which states that the article I had submitted has been refused because of copyright violations.  I do not see any cause for that comment unless it is a very small quotation from 'The Wisdom of Patanjali's Yoga Sutras'.  Could you help me to see what might be a problem and how to make the article ready for publication.   Thank you.  Priscilla Murray [[User:Priscillamurray|Priscillamurray]] ([[User talk:Priscillamurray|talk]]) 00:26, 26 April 2014 (UTC)
+
+:{{to|Priscillamurray}} The [https://en.wikipedia.org/w/index.php?title=Special%3ALog&type=delete&user=&page=Wikipedia+talk%3AArticles+for+creation%2FRavi+Ravindra&year=&month=-1&tagfilter= deletion log] indicates that the page was a copyright violation of [http://www.exoticindiaart.com/book/details/yoga-and-teaching-of-krishna-essays-on-indian-spiritual-traditions-IDF652 this book page]. Perhaps the text of your article matched the "About the Author" section?
+
+:To avoid copyright violations, editors should state information in their own words, citing the sources. [[User:Anon126|<span style="background-color: #000"><span style="color: #fff">Anon</span><span style="color: #0ff;">126</span></span>]] ([[User:Anon126/R|notify me of responses!]] / [[User talk:Anon126|talk]] / [[Special:Contributions/Anon126|contribs]]) 05:20, 26 April 2014 (UTC)
+
+== Review of [[Wikipedia talk:Articles for creation/Richard Pine]] ==
+
+I note the message about the long backlog in reviewing submitted articles, but am puzzled that whenever I take a look at my submitted article about Richard Pine I am told in the box at the top of the draft that my article has not yet been submitted. Can you tell me if this article is actually in the queue for review or of I have to do more to ensure that I join that queue - in the latter case please advise? Many thanks. Simon [[User:Sibadd|Simon Baddeley]] ([[User talk:Sibadd|talk]]) 09:17, 26 April 2014 (UTC)
+:{{replyto|Sibadd}} {{declined}} Yes, sometimes when the article is submitted a template indicating such is placed at the bottom but the box at the top indicating otherwise stays at the top.  I don't know why this happens.  In any case, I declined your submission.  You included only one reference and its the link to the school the subject created, which violates a few policies and guidelines.  Please find independent reliable sources. <font face="copperplate gothic light">[[User:Chris troutman|<span style="color:#36454F">Chris Troutman</span>]] ([[User talk:Chris troutman|<span style="color:#36454F">talk</span>]])</font> 18:01, 26 April 2014 (UTC)
+
+==[[User:Dorothyelliott/sandbox|John Banks Elliott]]==
+
+Mr. John Banks Elliott was Ghana s first Ambassador Extraordinary and Plenipotentiary to Moscow USSR from 1960 to 1966. During his tenure, he was Dean of the Diplomatic Corps[[User:Dorothyelliott|Dorothyelliott]] ([[User talk:Dorothyelliott|talk]]) 22:56, 26 April 2014 (UTC), Head Commonwealth Ambassadors, Head African and Diplomats, Head African Ambassadors Group[[User:Dorothyelliott|Dorothyelliott]] ([[User talk:Dorothyelliott|talk]]) 21:59, 26 April 2014 (UTC)
+:{{replyto|Dorothyelliott}} Your entry cites no [[WP:CITE|sources]]. While your subject may be notable, you haven't helped establish that.  Take a look at [http://www.newspapers.com/newspage/40045823/ this article from the Pittsburgh Courier]. You also possible have a [[WP:COI|conflict of interest]]. Finally, your sandbox has the same paragraph repeated thrice, and you misspelled "corps" in each of them, including your submission above. <font face="copperplate gothic light">[[User:Chris troutman|<span style="color:#36454F">Chris Troutman</span>]] ([[User talk:Chris troutman|<span style="color:#36454F">talk</span>]])</font> 22:43, 26 April 2014 (UTC)

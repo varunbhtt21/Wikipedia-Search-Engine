@@ -1,0 +1,142 @@
+Title : Chemistry of pressure-sensitive adhesives
+Text : The '''chemistry of pressure-sensitive  adhesives''' describes the chemical science associated with [[pressure-sensitive adhesive]]s. [[PSA tape]]s and [[label]]s have become an important part of everyday life. These rely on adhesive material affixed to a backing such as paper or [[plastic film]]. Because of the inherent tackiness of the adhesive material and low [[surface energy]], these tapes can be placed onto a variety of substrates when light pressure is applied, including paper, wood, metals, and ceramics. The design of tapes requires a balance of the need for long service life and adaptation to a variety of environmental and human effects, including temperature, UV exposure, mechanical wear, contamination of the substrate surface, and adhesive degradation.<ref name=Ullmann>Werner Karmann and Andreas B. Kummer "Tapes, Adhesive"  in Ullmann's Encyclopedia of Industrial Chemistry, Wiley-VCH, Weinheim, 2000. {{DOI|10.1002/14356007.a26_085}}</ref>
+
+== Composition ==
+A typical PSA tape consists of a pressure sensitive adhesive  (the sticky part of the tape) coated  to a backing material. To prevent the adhesive from sticking to the backing when wound in a roll, a [[release agent]] is applied to the backing or a [[release liner]] is placed on the adhesive. Sometimes a primer is coated between the adhesive and backing increasing the bond.
+
+{{clear right}}
+
+=== Common adhesives ===
+{| class = "wikitable" style="text-align:center; width:400px; float:right"
+|+ '''Table 1: Glass Transition Temperatures and Surface Energies of Typical Acrylate Monomers Used in Tape Adhesives'''
+|-
+!Substance || <math>{T_g}</math>   (K) || <math>\gamma</math>   (<math>{mJ \over m^2}</math>)
+|-
+|2-ethylhexyl acrylate||223 || 29.7<ref name=source8>{{cite web |url= http://www.accudynetest.com/polytable_01.html?sortby=sort_critical |title=Critical Surface Tension, Surface Free Energy, Contact Angles with Water, and Hansen Solubility Parameters for Various Polymers |date = 2014 |website = Accu Dyne Test |publisher= Diversified Enterprises |accessdate = 3 June 2014}}</ref>
+|-
+|[[acrylate|n-butyl acrylate]] || 219 || 32.8<ref name=source8 />
+|-
+|methyl acrylate || 286<ref name=source7>{{cite book |last=Guice |first=K. B. |date=2008 |title=Synthesis and Characterization of Temperature- and pH-responsive Nanostructures Derived from Block Copolymers Containing Statistical Copolymers of HEMA and DMAEMA | publisher = ProQuest | page=29 |isbn= 978-0-549-63651-9 }}</ref> || 39.8<ref name=source8 />
+|-
+|t-butyl methacrylate || 503 || 30.5<ref name=source8 />
+|}
+
+==== Structure ====
+Pressure sensitive adhesives are [[viscoelastic]] polymers with their [[rheology]] tuned to the desired bonding and de-bonding characteristics needed.<ref>{{cite journal
+ | last =Ozawa
+ | first = Takehiro 
+ |author2=Ishiwata, Kano
+ | title = Adhesive Properties of Ultraviolet Curable Pressure-Sensitive Adhesive Tape for Semiconductor Processing (I) - Interpretation via Rheological Viewpoint
+ | journal = Furukawa Review
+ | volume =20
+ | issue =
+ | pages =83–88
+ | date =2001
+| url =http://xn--7ors6u3mmbh5b.jp/review/fr020/fr20_15.pdf
+| accessdate = 18 April 2015}}</ref>  Typical materials used to make the adhesive include:
+*   [[acrylate polymer]],<ref name=source4 />
+* rubber, either [[natural rubber]] or synthetic [[thermoplastic elastomer]]
+*[[silicone rubber]]
+*and others
+These materials often are blended with a [[tackifier]] to produce permanent tack (“grabbing power”) at room temperature,<ref name=source4>{{cite book |last = Silva |first = L. F. M. |date = 2011 |title = Handbook of Adhesion Technology |location = Germany |publisher = Springer | pages = 337, 342–372 }}</ref><ref>{{cite journal
+ | last =Tse
+ | first =Mun Fu
+ | title = Studies of triblock copolymer-tackifying resin interactions by viscoelasticity and adhesive performance
+ | journal = Journal of Adhesion Science and Technology
+ | volume =3
+ | issue =1
+ | pages = 551–570
+ | date =1989
+| doi=10.1163/156856189x00407
+}}</ref><ref name=source2>{{cite book |last = Habenicht |first = G. |date = 2009 |title = Applied Adhesive Bonding |location = Germany |publisher = WILEY-VCH }}</ref> are somewhat deformable, have low [[surface energy]],<ref name=source4 /> and are moisture resistant.<ref name=source09>{{cite web |url=  http://www.mddionline.com/article/fundamentals-selecting-pressure-sensitive-adhesives-0|title= The Fundamentals of Selecting Pressure-Sensitive Adhesives |date= 1998 |website= Medical Device and Diagnostic Industry |publisher= Medical Plastics and Biomaterials. |accessdate= 5 June 2014}}</ref> To meet these requirements, these materials are typically low cross-linking density, low [[viscosity]] (η < 10,000 cP),<ref name=source4 /> and broad molecular weight distribution<ref name=source4 /> to enable deformation of the adhesive material to the rough surface of the substrate under various temperatures and peel conditions.
+
+Two components often comprise the adhesive: a high [[Adhesion|tack]] and low tack material. The high tack material is a polymer with low [[glass transition temperature]] and high entanglement [[molecular weight]], whereas the low tack polymer has high glass transition temperature and low entanglement molecular weight.<ref name=source4 /> The high tack material comprises about 95% of the adhesive and provides the majority of the adhesive's tackiness.<ref name=source4 /> In addition to these 2 components, [[surfactant]]s are often added to reduce the surface energy of the adhesive and facilitate adhesion to high surface energy substrates (metals, other polymeric materials).<ref name=source3>{{cite book |last = Veselovsky |first = R. A. |date = 2002 |title = Adhesion of Polymers |location = New York |publisher = McGraw-Hill }}</ref>
+A list of typical acrylate monomers and their glass transition temperatures (<math>{T_g}</math>) and surface energies (<math>\gamma</math>) are shown in the Table.<ref name=source5>{{cite web |url= http://www.adhesives.org/docs/default-document-library/psas_highperformanceapps_june_2010.pdf |title= Pressure Sensitive Adhesives in High Performance Applications |last1= Zajaczkowski |first1= M. J. |date= 2010 |website= adhesives.org |publisher= The Adhesive and Sealant Council, Inc. |accessdate= 3 June 2014}}</ref> The <math>T_g</math> of a binary adhesive mixture of acrylate monomers can be estimated using the Gordon-Taylor equation, where <math>{\phi_1}</math> and <math>{\phi_2}</math> are the volume fractions of homopolymers with glass transition temperatures <math>{T_{g, 1}}</math> and <math>{T_{g, 2}}</math>, respectively.
+
+<math>{T_g} = {\phi_1 T_{g, 1}}+{\phi_2 T_{g, 2}}</math>     [Gordon-Taylor Equation]
+
+==== Production ====
+Polyacrylates used in adhesive tapes are readily synthesized by [[free-radical polymerization]].<ref name=source4 /> These polymerizations can be initiated thermally or photocatalytically using azo- and peroxide-based initiators.<ref name=source4 /> Such polymerizations are typically carried out in solvent to produce a water-resistant, homogenous coating.<ref name=source4 /> Because water-permeable adhesives are undesired, adhesives are not synthesized by emulsion polymerization, which introduces water into the adhesive.
+
+=== Common components ===
+
+==== Backing ====
+The adhesive is coated onto a flexible material (the backing) such as paper, foil, fabric, or [[plastic film]] (such as [[biaxially oriented polypropylene]] or [[polyvinyl chloride]]<ref name=source4 /><ref name=source2 />) to provide strength and protect the adhesive from degradation by environmental factors including humidity, temperature, and ultraviolet light. Backing tensile strength, elongation, stiffness, and tear resistance can be matched to the intended use of the tape.  The adhesive can be  bound to the backing through surface treatments, primers,  heating, or UV curing.<ref name=source4 />
+
+==== Release coating ====
+To allow for the winding and unwinding of the tape, the backing is coated with a [[release agent]] that somewhat prevents the tape from sticking to itself or the sticking of two adhesive layers (double-sided tapes). This is accomplished by using a material that enables the easy removal of favorable interactions at the adhesive-backing or adhesive-adhesive interface, or by making both surfaces immiscible in one another. Two common materials used in polyacrylate-based adhesive tapes are fluorosilicones<ref name=source2 /> and vinyl carbamates.<ref name=source4 /> Fluorosilicones are immiscible with the polyacrylates-based adhesive<ref name=source2 /> whereas the long tails of vinyl carbamates form a high crystalline structure that the adhesive cannot penetrate.<ref name=source4 /> Furthermore, during peeling fluorosilicone release liners make no noise<ref name=source2 /> whereas vinyl carbamates make loud noises.<ref name=source4 />
+
+==== Adhesive-backing interface====
+Plastic films can have the surface modified by  [[corona treatment]] or [[plasma processing]] to allow increased bonding of the adhesive.  A primer layer can also be used for this purpose.  Some backings need to be sealed or otherwise treated prior to adhesive coating.<ref name=source4 /> This is especially important when the introduction of new materials into the adhesive can compromise the adhesive’s performance.
+
+== Application ==
+Pressure sensitive adhesive tapes usually require a light pressure to ensure bonding with a substrate.  This low [[pressure]] requirement allows easy application to surfaces by simply using fingers or hands to apply pressure.  The pressure applied to the tape allows the tape to have better contact with the surface and allows the physical forces between the two to build up.  Usually, increased application pressure increases the bond of the adhesive to the substrate.   PSA tape laboratory testing is often conducted with a 2&nbsp;kg roller to increase test uniformity.<ref>ASTM D3330</ref> PSAs are able to maintain their tackiness at room temperature and do not require the use of additives such as water, solvents, or heat activation to exert strong [[adhesive]] forces on surfaces.  Due to this PSAs are capable of being applied to a variety of surfaces such as paper, plastics, wood, cement, and metal.  The adhesives have a cohesive holding and are also elastic allowing PSAs to be manipulated by hand and also be removed from a surface without leaving behind any residue.
+
+=== Environmental factors===
+Most PSAs are best suited to be used in moderate temperatures of around 59-95&nbsp;°F.<ref name=source10>{{cite web |url=  http://www.tesatape.com/featured/technology_journal/the-effects-of-low-temperatures-on-pressure-sensitive-adhesives,6782722,1.html|title= 
+The Effects of Low Temperatures on Pressure-Sensitive Adhesives |website= www.tesatape.com |publisher= Tesa Tape |accessdate= 4 June 2014}}</ref>{{reliable source|date=April 2015}}  Within this temperature range typical adhesives maintain their balance in viscous and elastic behavior where optimal surface [[wetting]] can be achieved.  At extremely high temperatures the tape may be able to stretch more than it could initially.  This could cause problems after application to the surface because if the temperature drops the tape may experience additional [[stress (mechanics)|stress]].  This may lead to the tape losing some of its [[contact area]], lowering its shear adhesion or holding power.  At lower temperatures the adhesive polymers become harder and stiffer which lowers the overall elasticity of the tape and begins to react like glass.<ref name=source10 />  The lower [[elasticity (physics)|elasticity]] makes it harder for the adhesives to be in contact with the surface and lowers its wet-ability.  An adhesive can be formulated to maintain tack in cooler temperatures or a greater amount of adhesive coating on the tape may be necessary.  The backing of the adhesives may also be [[plasticizer|plasticized]] in order to lower its [[glass transition temperature]] and retain its [[flexibility]].<ref name=source10 />
+
+=== Substrate-adhesive conditions ===
+
+==== Bonding strength ====
+The [[surface energy]] of the substrate decides how well the adhesive bonds to the surface.  [[Substrate (materials science)|Substrates]] that have low surface energy prevent the adhesives from wetting out while substrates with high surface energies will allow the adhesives to spontaneously wet out.<ref name=source11>{{cite web |url=  http://www.chemsultants.com/technical-resources/pressure-sensitive-adhesive-info.aspx|title= 
+Pressure Sensitive Adhesive Information |website= www.chemsultants.com |publisher= Chemsultants International |accessdate= 4 June 2014}}</ref>  Surfaces with high energy have greater interactions with the adhesive, allowing it to spread out and increase its contact area.  Surfaces with low surface energies may undergo [[corona treatment|corona]] or [[flame treatment]] in order to raise its surface energy.<ref name=source11 />  However even if a surface has high energy, [[contamination|contaminants]] on the surface can interfere with the adhesive's ability to bond to the surface.  The presence of contaminants such as dust, paper, and oils will reduce the contact area for the adhesives and lower the adhesives bonding strength.  If contaminants are present it may be necessary to clean the surface with a suitable [[solvent]] such as [[benzene]], [[alcohols]], [[esters]], or [[ketones]].<ref name=source1>{{cite web |url=http://www.tesatape.com/featured/technology_journal/tape-101-understanding-the-basics-of-pressure-sensitive-tapes,8805648,1.html |title=A Candid Look at Tape Backings |last1= Nagel |first=Christoph |date=2014 |website= tesatape |publisher = Tesa Tape, Inc |accessdate= 5 May 2014}}</ref>  Surfaces with [[Surface texture|textures]] may also lower the bonding strength of an adhesive.  Textures create an uneven surface which will make it harder for the adhesives to be in contact with the surface thus lowers its wetting ability.<ref name=source11 /> Water or moisture of any form will reduce surface adhesion and reduce tape tackiness. Moisture can be removed off the surface by  any physical methods or chemical methods too. However, silicon based removal of moisture will also cause lowering of adhesion and thus failure.
+
+== Lifetime ==
+[[File:Adhesion Tapes Forces due to Thermal Expansion Contraction.png|thumb|upright|Schematic of the forces present due to thermal expansion/contraction of the adhesive tape]]
+A [[pressure-sensitive adhesive]] will experience a range of conditions throughout its lifetime. These conditions affect one of the following parts of the tape: the surface or the bulk. The surface is merely the part of the tape that is exposed to the environment through the whole of its lifetime. The bulk is everything under the surface of the tape, that is the interactions that occur between the [[coating|substrate]] and the [[adhesive]] part of the tape.
+
+=== Surface exposure conditions ===
+The surface of the tape will experience various conditions imposed on it such as varying temperatures, humidity levels, UV exposure levels, mechanical wear, or even degradation of adhesive exposed to the surface. While the bulk will experience mechanical wear and adhesive degradation, these effects are not as widespread or as large in magnitude within the bulk as they are within the surface. The response of the tape to varying conditions is largely due to the adhesive and backing composition as well as adhesive properties such as the [[Glass transition#Transition Temperature Tg|Glass Transition Temperature]] and adhesive-substrate interactions due to adhesion strength.
+
+=== Environmental conditions ===
+Many factors within the environment can affect the surface wear of adhesive tape.<ref name=s14>{{cite web |last1=Broughton |first1=W.R. |last2=Mera |first2=R.D. |title=Environmental Degradation of Adhesive Joints Accelerated Testing |url=http://www.adhesivetoolkit.com/Docu-Data/NPLDocuments/P%20A%20J/PAJ%20Reports/PAJ3%20Reports/PAJ3%20Report%207%20CMMT(A)197.pdf |publisher=Centre for Materials Measurement & Technology National Physical Laboratory |accessdate=8 June 2014}}</ref> Even the prospect of rapidly changing environmental conditions can be enough to cause a failure in the substrate. For instance, [[thermal expansion|rapid cooling]] can cause the [[coating|substrate]] to shrink dramatically while the [[adhesive]] remains stationary. This pulling force can be enough to cause tears in the substrate decreasing the substrate's [[adhesion]]. Thus, substrate failure is predicated on the response of the substrate to various environmental conditions as well as the rate at which those conditions change. An adhesive tape applied in a moderate setting will experience a smaller range of temperatures than one applied in a hot [[desert]]. Substrate failure is largely predicated on Temperature changes as these are the most likely to occur and the most likely to affect the substrate in any large way.
+
+However, the substrate can still be affected by humidity and UV exposure<ref name=s14 /> if the substrate is applied in an environment that it was not designed for.<ref name=source16>{{cite web|title=Jobsite System Failures Involving Pressure Sensitive Adhesive Masking Tape over Gypsum Board Substrates|url=http://www.dwfc.org/wp-content/files/2010_09_28_Pressure_Sensitive_Adhesive_Tape.pdf|publisher=Drywall Finishing Council|ref=16}}</ref> For instance, one could get substrate failure by using a tape that was made to be used in a desert in a place such as Florida. The difference in temperature might not be very large, but there is a huge difference in humidity. Any environmental effect on the substrate is dependent on the identity and purpose of the substrate.<ref name=source16 />
+[[File:Adhesion Tapes Forces due to Mechanical Wear.png|thumb|Schematic of the forces present due to mechanical wear of the adhesive tape]]
+
+=== Mechanical wear ===
+Mechanical wear is largely dependent on the amplitude and direction of the forces exerted on the system.<ref name=source15 /> These forces could be directly applied to the adhesive tape itself as in attempting to peel the tape off or could be applied indirectly to the tape through manipulation of the substrate to which the adhesive tape is adhered. The latter is demonstrated in the figure to the right. It must be noted that the figure is assuming the adhesive tape is holding two separate substrate pieces together and that twisting of both pieces in opposite directions has not been noted.
+
+The wear of an adhesive tape as it slides across a substrate can be estimated using [[Archard's Law]] of Adhesive Wear, where <math>H</math> and <math>k_w</math> are the hardness and wear coefficients of the adhesive tape, <math>\nu</math> is the distance the adhesive is dragged across the substrate surface, <math>F_L</math> is the total normal load acting on the adhesive tape, and <math>\Psi</math> is the volume of the adhesive tape lost during dragging.<ref name=source12>{{cite book |last1 = Butt |first1 = H. |last2 = Graf | first2 = K. |last3 = Kappl |first3 = M. |date = 2013 |title = Physics and Chemistry of Interfaces: Third, Revised, and Enlarged Edition |location = Germany |publisher = WILEY-VCH | pages = 319}}</ref>
+<math> \Psi = k_w {F_L \nu \over H} </math>     [Archard's Law of Adhesive Wear]
+
+=== Bulk exposure conditions ===
+The predominant factors affecting the bulk of the adhesive tape are temperature and mechanical wear. Temperature changes and extremes could cause degradation of the substrate and the adhesive, while mechanical wear could cause delamination of the adhesive tape depending on the magnitude and direction of the applied forces. Substrate degradation, while unlikely, could also result in delamination though this will be case and environment specific.
+
+==== Adhesive degradation ====
+The adhesive is largely affected by the temperature as polymeric adhesives are commonly used today. Polymeric materials used today are [[viscoelasticity|viscoelastic]] materials, which enables easy application and quick adherence to the substrate. Adhesive degradation in the bulk is largely due to temperature effects, which reduce adhesion causing delamination of the adhesive tape.<ref name=source15>{{cite web|last1=Ojeda|first1=Cassandra E.|last2=Oakes|first2=Eric J.|last3=Hill|first3=Jennifer R.|last4=Aldi|first4=Dominic|last5=Forsberg|first5=Gustaf A.|title=Temperature Effects on Adhesive Bond Strengths and Modulus for Commonly Used Spacecraft Structural Adhesives|url=http://trs-new.jpl.nasa.gov/dspace/bitstream/2014/42025/1/11-0955.pdf|publisher=Jet Propulsion Laboratory, California Institute of Technology|accessdate=8 June 2014|ref=15}}</ref> Too low a temperature can cause the polymeric adhesive to enter its glass state becoming very brittle and reducing adhesion.<ref name=source10 /> Raising the temperature, on the other hand, causes the polymer to become more fluid and mobile. As the mobility increases, the polymer adhesion is reduced as the polymer starts to flow as opposed to adhere. Both temperature extremes ultimately results in delamination. The ideal temperature range is largely dependent on the adhesive identity,<ref name=source15 /> which comes down to polymer structure. The more rigid the polymer chain is, the stronger the [[Intermolecular force|Intermolecular Forces]] between polymer chains, and the stronger the interactions between the substrate and the adhesive will ultimately result in a strong adhesion and, as a result, a higher ideal temperature range for adhesion.
+
+That being said, in order to avoid delamination, selection of an adhesive tape needs to be based upon the conditions that the tape will experience over its lifetime.<ref name=source16 /> This selection process will reduce the chains of adhesive tape degradation and failure occurring during the lifetime of the tape though there is not guarantee that this process will completely avoid the possibility.
+
+=== Effects on recycling ===
+Used PSA tapes are composite materials and not recycled into new tapes.  Their possible effects on the recyclability of the products they have been used on, however, is important.  Reuse or recycling are sometimes aided by a tape being removable from a surface.
+
+Effects on recyclability are  particularly important when tape is applied to paper surfaces, such as [[corrugated fiberboard]] and other [[packaging]].  When taped corrugated boxes are recycled, film-backed [[box sealing tape]]s do not hinder box recycling: the PSA adhesive stays with the backing and is easily removed.<ref>{{cite web|url=http://www.pstc.org/technical_notes/to_recycle.php?subject=packaging |title=Packaging Tapes:To Recycle of Not |accessdate=2007-11-06 |last=Jensen |first=Timothy |date=April 1999 |publisher=Adhesives and Sealants Council |archiveurl=https://web.archive.org/web/20071109204909/http://www.pstc.org/technical_notes/to_recycle.php?subject=packaging |archivedate=2007-11-09 |deadurl=yes |df= }}</ref><ref>{{Cite journal
+  | last = Gruenewald
+  | first = L. E.
+  |author2=Sheehan, R. L. 
+  | title = Consider box closures when considering recycling
+  | journal = J. Applied Manufacturing Systems
+  | volume = 9
+  | issue = 1
+  | pages = 27–29
+  | year = 1997
+  | url = 
+  | issn = 0899-0956
+   | accessdate = }}</ref>
+
+Tapes used in paper manufacturing plants are sometimes designed to be repulpable. A repulpable PSA adhesive disperses when put into the hot slurry of pulp.
+
+== References ==
+{{reflist|colwidth=35em}}
+
+== Further reading ==
+* "Pressure-Sensitive Adhesives and Applications", Istvan Benedek, 2004, {{ISBN|0-8247-5059-4}}
+* "Pressure Sensitive Adhesive Tapes", J. Johnston, PSTC, 2003, {{ISBN|0-9728001-0-7}}
+* "Pressure Sensitive Formulation", I. Benedek, VSP, 2000, {{ISBN|90-6764-330-0}}
+
+==External links==
+* How it's Made: Adhesive Tape, [https://www.youtube.com/watch?v=hr7yWWq5ZZs#t=18]
+
+[[Category:Adhesive tape]]

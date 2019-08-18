@@ -1,0 +1,38 @@
+Title : Qvwm
+Text : {{Notability|Products|date=April 2014}}
+{{close paraphrasing|source=http://www.ahinea.com/en/tech/qvwm/|date=June 2014}}
+{{Infobox software
+| name = QVWM
+| developer = Kenichi Kourai, Ivan Kormanov
+| latest_release_version = 1.1.12-10
+| latest_release_date = {{release date and age|2016|04|21}}<ref>http://ahinea.com/qvwm/</ref>
+| programming language = [[C++]]
+| operating_system = [[Unix-like]]
+| genre = [[Window manager]]
+| license = [[GNU General Public License]]
+| website = {{URL|ahinea.com/projects/qvwm}}
+}}
+'''Qvwm''' is a simple, lightweight [[window manager]], which is intended to be a reimplementation of the [[Windows 95]] interface for [[Linux]] systems. Released in 1996 under the [[GNU General Public License]] (GNU GPL), it features a [[start menu]], a [[taskbar]] incorporating a system tray, and [[Alt-Tab|Windows-like task-switching]]. The project's name comes from wordplay references to Japanese  words and Roman numbers.<ref>{{cite web|url=http://www.linuxplanet.com/linuxplanet/reports/2850/1|title=From the Desktop: Q Stands For QVWM and Quality Sarcasm|last=Proffitt|first=Brian|work=[[LinuxPlanet]]|date=2001-01-02|accessdate=2014-04-30}}</ref> In 2000, ''[[Linux Format]]'' called Qvwm "an unusually impressive imposter".<ref>{{cite journal|url=http://www.tuxradar.com/content/archives-best-window-managers-2000|title=From the archives: the best window managers of 2000|author=<!-- Staff -->|work=[[Linux Format]]|issue=2|date=2009-03-10|origyear=First published in 2000|accessdate=2014-04-30|via=[[TuxRadar]]}}</ref>
+
+Unlike Windows 95's [[Windows registry|registry]], Qvwm uses a textual configuration file. Qvwm includes [[virtual desktop]]s, a feature lacking in Windows 95. One reviewer criticized this practice as "against qvwm's stated purpose."<ref>http://www.gilesorr.com/papers/otherwm2003/x542.html</ref> Apart from standard X libraries, the only [[software library]] it depends on is [[X PixMap]] (libxpm). The developers had intended to develop a full class library called ''libqv'' but this never occurred.
+
+The original author of Qvwm, Kenichi Kourai, no longer maintains it, but in 2006 the project was picked up by Ivan Kurmanov, who applied patches made by the [[Debian]] project and added features of his own.
+
+Qvwm was included in Debian since 1999<ref>{{cite web|title=Debian Package Tracking System - qvwm|url=https://packages.qa.debian.org/q/qvwm.html|website=Debian Package Tracking System|accessdate=27 September 2016}}</ref> but was removed in early 2009 because of the lack of updates as well as using deprecated libraries.<ref>{{cite web|title=#508232 RM: qvwm -- RoM; buggy, depends on deprecated libs|url=https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=508232|website=Debian Bug report logs|accessdate=27 September 2016}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|ahinea.com/projects/qvwm}}, project maintainer Ivan Kurmanov
+* {{Official website|qvwm.sourceforge.net}}, original
+* [https://github.com/mytoh/qvwm Unofficial git repository of original source]
+
+{{X desktop environments and window managers}}
+
+[[Category:Free software programmed in C++]]
+[[Category:Free X window managers]]
+[[Category:Compatibility layers]]
+[[Category:1996 software]]
+
+{{free-software-stub}}

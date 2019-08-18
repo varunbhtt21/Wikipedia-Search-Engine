@@ -1,0 +1,14 @@
+Title : Template:1903–04 Eastern Intercollegiate Basketball League standings
+Text : {{CBB Standings Start| 1903–04 Eastern Intercollegiate Basketball League standings}}
+{{CBB Standings Entry| [[1903–04 Columbia Lions men's basketball team|Columbia]]|10|0|17|1}}
+{{CBB Standings Entry|{{cbb link|year=1903|school=University of Pennsylvania|team=Penn Quakers|title=Penn}}|6|4|10|4}}
+{{CBB Standings Entry|{{cbb link|year=1903|school=Princeton University|team=Princeton Tigers|title=Princeton}}|5|5|10|5}}
+{{CBB Standings Entry|{{cbb link|year=1903|school=Yale University|team=Yale Bulldogs|title=Yale}}|5|5|10|12}}
+{{CBB Standings Entry|{{cbb link|year=1903|school=Cornell University|team=Cornell Big Red|title=Cornell}}|3|7|6|13}}
+{{CBB Standings Entry|{{cbb link|year=1903|school=Harvard University|team=Harvard Crimson|title=Harvard}}|1|9|1|9}}
+|- 
+| colspan=6 style="text-align:left;" |
+{{CBB Standings End}}
+<noinclude>[[Category:1903–04 American college basketball standings templates|Eastern Intercollegiate Basketball League]]
+[[Category:Ivy League men's basketball standings templates]]
+</noinclude>

@@ -1,0 +1,165 @@
+Title : Lieb-Robinson bounds
+Text : {{expert needed|1=Physics|date=April 2018|reason=Article needs more explanation/summary for lower-level audiences, as well as updates for current results (see talk page)}}
+
+The '''Lieb-Robinson bound''' is a theoretical upper limit on the [[speed]] at which [[information]] can propagate in non-[[Special relativity|relativistic]] [[Quantum mechanics|quantum]] systems. It demonstrates that information cannot travel instantaneously in quantum theory, even when the [[Theory of relativity|relativity]] limits of the [[speed of light]] are ignored. The existence of such a finite speed was discovered mathematically by [[:de:Elliott Lieb|Elliott Lieb]] and [[:de:Derek W. Robinson|Derek William Robinson]] in 1972.<ref name="LR72">E. Lieb, D. Robinson, The finite group velocity of quantum spin systems, Commun. Math. Phys. 28, 251–257, (1972)</ref> It turns the locality properties of physical systems into the existence of, and upper bound for this speed. The bound is now known as the Lieb-Robinson bound and the speed is known as the Lieb-Robinson velocity. This velocity is always finite but not universal, depending on the details of the system under consideration. For finite-range, e.g. nearest-neighbor, interactions, this velocity is a constant independent of the distance travelled. In long-range interacting systems, this velocity remains finite, but it can increase with the distance travelled.<ref name="HK04" /><ref name=":0" />
+
+In the study of quantum systems such as [[quantum optics]], [[quantum information theory]], [[atomic physics]], and [[condensed matter physics]], it is important to know that there is a [[wikt:finite|finite]] speed with which information can propagate. The theory of relativity shows that no information, or anything else for that matter, can travel faster than the speed of light. When non-relativistic mechanics is considered, however, ([[Newtonian mechanics|Newton's equations]] of motion or [[Schrödinger's equation]] of quantum mechanics) it had been thought that there is then no limitation to the speed of propagation of information. This is not so for certain kinds of quantum systems of atoms arranged in a lattice, often called quantum spin systems. This is important conceptually and practically, because it means that, for short periods of time, distant parts of a system act independently.
+
+One of the practical applications of Lieb-Robinson bounds is [[Quantum computer|quantum computing]]. Current proposals to construct quantum computers built out of atomic-like units mostly rely on the existence of this finite speed of propagation to protect against too rapid dispersal of information.<ref name=":1">{{cite arxiv|last=Haah|first=Jeongwan|last2=Hastings|first2=Matthew B.|last3=Kothari|first3=Robin|last4=Low|first4=Guang Hao|date=2018-01-11|title=Quantum algorithm for simulating real time evolution of lattice Hamiltonians|eprint=1801.03922|class=quant-ph}}</ref><ref name=":0" />
+
+Review articles can be found in the following references, for example,<ref>B. Nachtergaele, R. Sims, Much Ado About Something: Why Lieb-Robinson bounds are useful,  IAMP News Bulletin, October 2010, 22–29, (2010)</ref><ref>M. Kliesch, C. Gogolin, J. Eisert, Lieb-Robinson bounds and the simulation of time evolution
+of local observables in lattice systems, arXiv:1306.0716, (2013)</ref><ref>M. B. Hastings, Locality in quantum systems, arXiv:1008.5137</ref>
+
+== Set up ==
+
+To define the bound, it is necessary to first describe basic facts about quantum mechanical systems composed of several units, each with a finite dimensional [[Hilbert space]].
+
+Lieb-Robinson bounds are considered on a <math> \nu </math>-dimensional lattice (<math> \nu = 1, 2 </math> or <math> 3 </math>) <math>\Gamma</math>, such as the square lattice
+<math>\Gamma = \mathbb{Z}^\nu </math>.
+
+A [[Hilbert space]] of states <math> \mathcal{H}_x</math> is associated with each point  <math>x\in\Gamma</math>. The dimension of this space is finite, but this was generalized in 2008 to include infinite dimensions (see below). This is called ''quantum spin system''.
+
+For every finite subset of the lattice, <math>X  \subset\Gamma</math>,  the associated Hilbert space is given by the tensor product
+:<math>\mathcal{H}_X=\otimes_{x\in X} \mathcal{H}_x </math>.
+<math>\mathcal{H}_X</math>  is a subspace of <math>\mathcal{H}_Y</math> if  <math>X  \subset Y</math>.
+
+An [[observable]] <math>A</math> supported on (i.e., depends only on) a finite set <math>X\subset \Gamma</math> is a [[linear operator]] on the Hilbert space <math>\mathcal{H}_X</math>.
+
+When <math>\mathcal{H}_x</math> is finite dimensional, choose a finite [[Basis (linear algebra)|basis]] of operators that span the set of linear operators on <math>\mathcal{H}_x</math>. Then any observable on <math>\mathcal{H}_x</math> can be written as a sum of basis operators on  <math>\mathcal{H}_x</math>.
+
+The [[Hamiltonian (quantum mechanics)|Hamiltonian]] of the system is described by an interaction <math>\Phi(\cdot)</math>. The ''interaction'' is a function from the finite sets <math>X\subset\Gamma</math> to [[Self-adjoint operator|self-adjoint]] observables <math>\Phi(X)</math> supported in <math>X</math>. The interaction is assumed to be finite range (meaning that  <math>\Phi(X)=0 </math> if the size of <math> X </math> exceeds a certain prescribed size) and [[Translation-invariant|translation invariant]]. These requirements were lifted later.<ref name="HK04">M. Hastings, T. Koma, Spectral Gap and Exponential Decay of Correlations, Commun.
+Math. Phys. 256, 781, (2006)</ref><ref name="NOS06" />
+
+Although translation invariance is usually assumed, it is not necessary to do so. It is enough to assume that the interaction is bounded above and below on its domain. Thus,
+the bound is quite robust in the sense that it is tolerant of changes of the Hamiltonian. A finite range ''is'' essential, however. An interaction is said to be of finite range if there is a finite number <math>R</math> such that for any set <math>X</math> with diameter greater than <math>R</math> the interaction is zero, i.e., <math>\Phi(X)=0</math>. Again, this requirement was lifted later.<ref name="HK04" /><ref name="NOS06" />
+
+The Hamiltonian of the system with interaction <math>\Phi</math> is defined formally by:
+:<math>H_\Phi=\sum_{X\subset\Gamma}\Phi(X)</math>.
+
+The laws of quantum mechanics say that corresponding to every physically observable quantity there is a self-adjoint operator <math>A</math>.
+For every observable <math>A</math> with a finite support Hamiltonian defines a continuous one-parameter group  <math>\tau_t</math>
+of transformations of the observables <math>\tau_t</math>
+given by
+:<math>\tau_t(A)=e^{itH_\Phi}Ae^{-itH_\Phi}.</math>
+Here, <math>t </math> has a physical meaning of time.
+(Technically speaking, this time evolution is defined by a power-series expansion that is known to be a norm-convergent series <math>\tau_t(A)=A+it[H,A]+\frac{(it)^2}{2!}[H, [H, A]]+\cdots </math>, see,<ref name="R68">D. Ruelle, Statistical mechanics. Rigorous results, Benjamin, New York, 1969</ref> Theorem 7.6.2, which is an adaptation from.<ref>D. W. Robinson, Statistical mechanics of quantum spin systems II. Comm. Math. Phys. 7, 337–348, (1968)</ref> More rigorous details can be found in.<ref name="LR72" />)
+
+The bound in question was proved in<ref name="LR72" /> and is the following: For any observables <math>A</math> and <math> B</math> with finite supports <math>X\subset\Gamma</math> and  <math>Y\subset\Gamma</math>, respectively, and for any time <math>t\in\mathbb{R}</math> the following holds for some positive constants <math>a, c </math> and <math> v</math>:
+
+{{NumBlk|:|<math>\| \, [\tau_t(A), B]\,  \|\leq c\, \exp\{-a(d(X,Y)-v|t|)\},</math> |{{EquationRef|1}}}}
+
+where <math>d(X,Y)</math> denotes the distance between the sets <math>X</math> and <math>Y</math>. The operator  <math> [A,B] = AB-BA</math> is called the commutator of the operators <math> A </math> and <math> B </math>, while the symbol <math>  \| O  \|</math> denotes the [[Operator norm|norm]], or size, of an operator <math> O </math>. It is very important to note that the bound has nothing to do with the ''state'' of the quantum system, but depends only on the Hamiltoninan governing the dynamics. Once this operator bound is established it necessarily carries over to any state of the system.
+
+A positive constant <math>c</math> depends on the norms of the observables <math>A</math> and <math>B</math>, the sizes of the supports <math>X</math> and <math>Y</math>, the interaction, the lattice structure and the dimension of the Hilbert space <math>\mathcal{H}_x</math>. A positive constant <math>v</math> depends on the interaction and the lattice structure only. The number <math>a>0</math>
+can be chosen at will provided <math>d(X,Y)/v|t|</math> is chosen sufficiently large. In other words, the further out one goes on the light cone, <math>d(X,Y)-v|t|</math>, the sharper the exponential decay rate is.
+(In later works authors tended to regard <math>a</math> as a fixed constant.) The constant  <math>v</math> is called the '''group velocity''' or '''Lieb-Robinson velocity'''.
+
+The bound ({{EquationNote|1}}) is presented slightly differently from the equation in the original paper which derived ''velocity-dependent'' decay rates along spacetime ''rays'' with velocity greater than <math>v_{LR}</math>.<ref name="LR72" /> This more explicit form ({{EquationNote|1}}) can be seen from the proof of the bound<ref name="LR72" />
+
+Lieb-Robinson bound shows that for times <math>|t| < d(X, Y )/v</math> the norm on the right-hand side is exponentially small. This is the exponentially small error mentioned above.
+
+The reason for considering the commutator on the left-hand side of the Lieb–Robinson bounds is the following:
+
+The commutator between observables <math>A</math> and <math> B</math> is zero if their supports are disjoint.
+
+The converse is also true: if observable <math>A</math> is such that its commutator with any observable <math>B</math> supported outside some set <math>X</math> is zero, then <math>A</math> has a support inside set <math>X</math>.
+
+This statement is also approximately true in the following sense:<ref>S. Bachmann, S. Michalakis, B. Nachtergaele, R. Sims, Automorphic Equivalence within Gapped Phases of Quantum Lattice Systems, Commun. Math. Phys. 309, 835–871, (2012)</ref> suppose that there exists some <math>\epsilon > 0</math> such that  <math>\|[A, B]\| \leq \epsilon \|B\|</math> for some observable <math>A</math> and any observable <math>B</math> that is supported outside the set <math>X</math>. Then there exists an observable <math>A(\epsilon)</math> with support inside set <math>X</math> that approximates an observable <math>A</math>, i.e. <math> \|A - A(\epsilon)\| \leq \epsilon</math>.
+
+Thus, Lieb-Robinson bounds say that the time evolution of an observable <math>A</math> with support in a set <math>X</math> is supported (up to exponentially small errors) in a <math>\delta</math>-neighborhood of set <math>X</math>, where <math>\delta < v|t|</math> with <math>v</math> being the Lieb-Robinson velocity. Outside this set there is no influence of <math>A</math>. In other words, this bounds assert that the speed of propagation of perturbations in quantum spin systems is bounded.
+
+== Improvements of the Lieb-Robinson bounds ==
+
+In<ref name="R76">D. W. Robinson, Properties of propagation of quantum spin systems, J. Austral. Math. Soc. 19 (Series B), 387–399, (1976)</ref> Robinson generalized the bound ({{EquationNote|1}}) by considering exponentially decaying interactions (that need not be translation invariant), i.e., for which the strength of the interaction decays exponentially with the diameter of the set.
+This result is discussed in detail in,<ref name="BR2">O. Bratteli, D. W. Robinson, Operator algebras and quantum statistical mechanics, 1ed., vol. 2, Springer-Verlag, 1981 and 2 ed., vol. 2, Springer-Verlag, 1997</ref> Chapter 6. No great interest was shown in the Lieb-Robinson bounds until 2004 when Hastings<ref name="H04_2">M. Hastings, Lieb–Schultz–Mattis in higher dimensions, Phys. Rev. B 69, 104431–10444, (2004)</ref> applied them to the [[#Lieb_Schutz_Mattis_2015_05_08|Lieb–Schultz–Mattis]] theorem.
+Subsequently,  Nachtergaele and Sims<ref name="NS06">B. Nachtergaele, R. Sims, Lieb-Robinson bounds and the exponential clustering theorem, Commun. Math. Phys., 265, 119–130, (2006)</ref> extended the results of<ref name="R76"/> to include models on vertices with a metric and to derive [[#Exp_decay_corr_2015_05_08|exponential decay of correlations]]. From 2005–2006 interest in Lieb–Robinson bounds strengthened with additional applications to exponential decay of correlations (see<ref name="HK04" /><ref name="NOS06">B. Nachtergaele, Y. Ogata, R. Sims, Propagation of Correlations in Quantum Lattice Systems, J. Stat. Phys. 124, 1–13, (2006)</ref><ref name="H04">M. Hastings, Locality in quantum and Markov dynamics on lattices and networks, Phys. Rev. Lett. 93, 140402, (2004)</ref> and the sections below). New proofs of the bounds were developed and, in particular, the constant in ({{EquationNote|1}}) was improved making it independent of the dimension of the Hilbert space.
+
+Several further improvements of the constant <math>c</math> in  ({{EquationNote|1}}) were made.<ref>B. Nachtergaele, R. Sims. Locality Estimates for Quantum Spin Systems, Sidoravicius, Vladas (Ed.), New Trends in Mathematical Physics. Selected contributions of the XVth International Congress on Mathematical Physics, Springer Verlag, 591–614, (2009)</ref>
+In 2008 the Lieb-Robinson bound was extended to the case in which each <math>H_x</math> is infinite dimensional.<ref name="NRSS09">B. Nachtergaele, H. Raz, B. Schlein, R. Sims, Lieb-Robinson bounds for harmonic and anharmonic lattice systems, Commun. Math. Phys. 286, 1073–1098, (2009)</ref>
+In<ref name="NRSS09" /> it was shown that on-site unbounded perturbations do not change the Lieb-Robinson bound. That is,  Hamiltonians of the following form can be considered on a finite subset <math>\Lambda\subset\Gamma</math>:
+:<math>H_\Lambda=\sum_{x\in\Lambda}H_x+\sum_{X\subset\Lambda}\Phi(X),</math>
+where <math>H_x</math> is a self-adjoint operator over <math>\mathcal{H}_x</math>, which needs not to be bounded.
+
+=== Harmonic and Anharmonic Hamiltonians ===
+
+The Lieb-Robinson bounds were extended to certain continuous quantum systems, that is to a general harmonic Hamiltonian,<ref name="NRSS09" /> which, in a finite volume <math>\Gamma_L=(-L, L)^d \cap\mathbb{Z}^d,</math>, where <math>L, d </math> are positive integers, takes the form:
+:<math>\sum_{x\in\Gamma_L}p_x^2+\omega^2q_x^2+\sum_{x\in\Gamma_L}\sum_{j=1}^\nu\lambda_j(q_x-q_{x+e_j})^2,</math>
+where the periodic boundary conditions are imposed and <math>\lambda_j\geq 0</math>, <math>\omega>0</math>. Here <math>\{e_j\}</math> are canonical basis vectors in <math>\mathbb{Z}^d</math>.
+
+Anharmonic Hamiltonians with on-site and multiple-site perturbations were considered and the Lieb–Robinson bounds were derived for them,<ref name="NRSS09" /><ref name="NSSSZ10">B. Nachtergaele, B. Schlein, R. Sims, S. Starr, V. Zagrebnov, On the existence of the dynamics for anharmonic quantum oscillator systems, Rev. Math. Phys., 22, 207–231, (2010)</ref>
+Further generalizations of the harmonic lattice were discussed,<ref>M. Cramer, A. Serafini, J. Eisert, Locality of dynamics in general harmonic quantum systems, arXiv:0803.0890, (2008)</ref><ref>J. Juenemann, A. Cadarso, D. Perez-Garcia, A. Bermudez, J. J. Garcia-Ripoll, Lieb–Robinson bounds for spin-boson lattice models and trapped ions, arXiv:1307.1992, (2013)</ref>
+
+=== Irreversible dynamics ===
+
+Another generalization of the Lieb–Robinson bounds was made to the irreversible dynamics,
+in which case the dynamics has a Hamiltonian part and also a dissipative part. The dissipative part is described by terms of Lindblad form, so that the dynamics <math>\tau_t</math> satisfies the [[Lindblad equation|Lindblad-Kossakowski]] master equation.
+
+Lieb-Robinson bounds for the irreversible dynamics were considered by<ref name="H04"/> in the classical context and by<ref>D. Poulin, Lieb–Robinson bound and locality for general Markovian quantum dynamics, Phys.
+Rev. Lett. 104, 190401, (2010)</ref> for a class of quantum lattice systems with finite-range interactions. Lieb-Robinson bounds for lattice models with a dynamics generated by both Hamiltonian and dissipative interactions with suitably fast decay in space, and that may depend on time, were proved by,<ref name="NVZ11">B. Nachtergaele, A. Vershynina, V. Zagrebnov, Lieb-Robinson bounds and Existence of the thermodynamic limit for a class of irreversible quantum dynamics, AMS Contemporary Mathematics, 552, 161–175, (2011)</ref> where they also proved the existence of the infinite dynamics as a strongly continuous cocycle of unit preserving completely positive maps.
+
+=== Power-law interactions ===
+The Lieb-Robinson bounds were also generalized to interactions that decay as a power-law, i.e. the strength of the interaction is upper bounded by <math>1/r^\alpha,</math> where <math>r</math>is the diameter of the set and <math>\alpha</math>is a positive constant.<ref>{{Cite journal|last=Hastings|first=Matthew B.|last2=Koma|first2=Tohru|date=2006-04-22|title=Spectral Gap and Exponential Decay of Correlations|journal=Communications in Mathematical Physics|language=en|volume=265|issue=3|pages=781–804|doi=10.1007/s00220-006-0030-4|issn=0010-3616|citeseerx=10.1.1.339.9339}}</ref><ref>{{Cite journal|last=Gong|first=Zhe-Xuan|last2=Foss-Feig|first2=Michael|last3=Michalakis|first3=Spyridon|last4=Gorshkov|first4=Alexey V.|date=2014-07-16|title=Persistence of Locality in Systems with Power-Law Interactions|journal=Physical Review Letters|volume=113|issue=3|pages=030602|doi=10.1103/PhysRevLett.113.030602|pmid=25083624|arxiv=1401.6174}}</ref><ref>{{Cite journal|last=Foss-Feig|first=Michael|last2=Gong|first2=Zhe-Xuan|last3=Clark|first3=Charles W.|last4=Gorshkov|first4=Alexey V.|date=2015-04-13|title=Nearly Linear Light Cones in Long-Range Interacting Quantum Systems|journal=Physical Review Letters|volume=114|issue=15|pages=157201|doi=10.1103/PhysRevLett.114.157201|pmid=25933335|arxiv=1410.3466}}</ref><ref name=":0">{{cite arxiv|last=Tran|first=Minh C.|last2=Guo|first2=Andrew Y.|last3=Su|first3=Yuan|last4=Garrison|first4=James R.|last5=Eldredge|first5=Zachary|last6=Foss-Feig|first6=Michael|last7=Childs|first7=Andrew M.|last8=Gorshkov|first8=Alexey V.|date=2018-08-15|title=Locality and digital quantum simulation of power-law interactions|eprint=1808.05225|class=quant-ph}}</ref> Understanding whether locality persists for power-law interactions hold serious implications for systems such as trapped ions, Rydberg atoms, ultracold atoms and molecules.
+
+In contrast to the finite-range interacting systems where information may only travel at a constant speed, power-law interactions allow information to travel at a speed that increases with the distance.<ref>{{Cite journal|last=Eldredge|first=Zachary|last2=Gong|first2=Zhe-Xuan|last3=Young|first3=Jeremy T.|last4=Moosavian|first4=Ali Hamed|last5=Foss-Feig|first5=Michael|last6=Gorshkov|first6=Alexey V.|date=2017-10-25|title=Fast Quantum State Transfer and Entanglement Renormalization Using Long-Range Interactions|journal=Physical Review Letters|volume=119|issue=17|pages=170503|doi=10.1103/PhysRevLett.119.170503|pmid=29219445}}</ref> Thus, the Lieb-Robinson bounds for power-law interactions typically yield a sub-linear light cone that is asymptotically linear in the limit <math>\alpha \rightarrow \infty.</math> A recent analysis using quantum simulation algorithm implied a light cone <math>t \gtrsim r^{(\alpha-2D)(\alpha-D)},</math>where <math>D</math> is the dimension of the system.<ref name=":0" />  Tightening the light cone for power-law interactions is still an active research area.
+
+== Some applications ==
+
+Lieb–Robinson bounds are used in many areas of mathematical physics. Among the main applications of the bound there is the error bounds on quantum simulation algorithms, the existence of the thermodynamic limit, the exponential decay of correlations and the Lieb–Schultz–Mattis theorem.
+
+=== {{anchor|Exp_decay_corr_2015_05_08}} Digital quantum simulation algorithms ===
+The aim of digital quantum simulation is to simulate the dynamics of a quantum system using the least amount of elementary quantum gates. For a nearest-neighbor interacting system with <math>n</math> particles, simulating its dynamics for time <math>t</math> using the [[Lie product formula]] requires <math>O(n^2t^2)</math> quantum gates. In 2018, Haah et al.<ref name=":1" /> proposed a near optimal quantum algorithm that uses only <math>O(nt\log(nt))</math> quantum gates. The idea is to approximate the dynamics of the system by dynamics of its subsystems, some of them spatially separated. The error of the approximation is bounded by the original Lieb-Robinson bound. Later, the algorithm is generalized to power-law interactions and subsequently used to derive a stronger Lieb-Robinson bound.<ref name=":0" />
+
+=== {{anchor|Exp_decay_corr_2015_05_08}} Thermodynamic limit of the dynamics ===
+
+One of the important properties of any model meant to describe properties of bulk matter is the existence of the thermodynamic limit. This says that intrinsic properties of the system should be essentially independent of the size of the system which, in any experimental setup, is finite.
+
+The static thermodynamic limit from the equilibrium point of view was settled much before the Lieb–Robinson bound was proved, see<ref name="R68" /> for example. In certain cases one can use a Lieb–Robinson bound to establish the existence of a thermodynamic limit of the ''dynamics'', <math>\tau_t^{\Gamma}</math>, for an
+infinite lattice <math>\Gamma</math> as the limit of finite lattice dynamics. The limit is usually considered over an increasing sequence of finite subsets <math>\Lambda_n\subset\Gamma</math>, i.e. such that for <math>n<m</math>, there is an inclusion <math> \Lambda_n\subset\Lambda_m</math>. In order to prove the existence of the infinite dynamics <math>\tau_t^\Gamma</math> as a strongly continuous, one-parameter group of automorphisms, it was proved that <math> \{\tau_t^{\Lambda_n} \}_n</math> is a Cauchy sequence and consequently is convergent. By elementary considerations, the existence of the thermodynamic limit then follows. A more detailed discussion of the thermodynamic limit can be found in<ref name="BR2_2">O. Bratteli, D. W. Robinson, Operator algebras and quantum statistical mechanics, 2 ed., vol. 2, Springer Verlag, 1997</ref> section 6.2.
+
+Robinson was the first to show the existence of the thermodynamic limit for exponentially decaying interactions.<ref name="R76" /> Later, Nachtergaele et al.<ref name="NOS06" /><ref name="NSSSZ10" /><ref name="NVZ11" /> showed the existence of the infinite volume dynamics for almost every type of interaction described in the section "Improvements of Lieb–Robinson bounds" above.
+
+=== {{anchor|Exp_decay_corr_2015_05_08}} Exponential decay of correlations ===
+
+Let <math>\langle A \rangle_\Omega </math> denote the [[Expectation value (quantum mechanics)|expectation value]] of the observable <math>A</math> in a state <math>\Omega</math>. The correlation function between two observables <math>A</math> and <math>B</math> is defined as <math> \langle AB \rangle_\Omega-\langle A \rangle_\Omega\langle B \rangle_\Omega.</math>
+
+Lieb–Robinson bounds are used to show that the correlations decay exponentially in distance for a system with an ''energy gap above a non-degenerate ground state'' <math>\Omega</math>, see.<ref name="HK04" /><ref name="NS06" /> In other words, the inequality
+:<math>|\langle AB \rangle_\Omega-\langle A \rangle_\Omega\langle B \rangle_\Omega|\leq K\|A\|\|B\|\min(|X|,|Y|)\ e^{-a\, d(X,Y)}, </math>
+holds for observables <math>A</math> and <math>B</math> with support in the sets <math>X</math> and <math>Y</math> respectively. Here <math>K</math> and <math>a</math> are some constants.
+
+Alternatively the state <math>\Omega</math> can be taken as a product state, in which case correlations decay exponentially without assuming the energy gap above the ground state.<ref name="NOS06" />
+
+Such a decay was long known for relativistic dynamics, but only guessed for Newtonian dynamics. The Lieb–Robinson bounds succeed in replacing the relativistic symmetry by local estimates on the Hamiltonian.
+
+=== {{anchor|Lieb_Schutz_Mattis_2015_05_08}} Lieb-Schultz-Mattis theorem ===
+
+'''Lieb-Schultz-Mattis''' theorem implies that the ground state of the Heisenberg antiferromagnet on a bipartite lattice with isomorphic sublattices, is non-degenerate, i.e., unique, but the gap can be very small.<ref>E. Lieb, D. Mattis, Ordering energy levels in interacting spin chains, Journ. Math. Phys. 3,
+749–751, (1962)</ref>
+
+For one-dimensional and quasi-one-dimensional systems of even length and with half-integral spin Affleck and Lieb,<ref>I. Affleck, E.H. Lieb, A proof of part of Haldane’s conjecture on quantum spin chains, Lett. Math.
+Phys. 12, 57–69, (1986)</ref> generalizing the original result by Lieb, Schultz, and Mattis,<ref>E. Lieb, T. Schultz, D. Mattis, Two soluble models of an antiferromagnetic chain, Ann. Phys. (N.Y.)
+16, 407–466, (1961)</ref> proved that the gap <math>\gamma_L </math> in the spectrum above the ground state is bounded above by
+:<math>\gamma_L\leq c/L,</math>
+where <math> L </math> is the size of the lattice and <math> c</math> is a constant. Many attempts were made to extend this result to ''higher dimensions'', <math> d>1</math>,
+
+The Lieb–Robinson bound was utilized by Hastings<ref name="H04_2"/> and by Nachtergaele-Sims<ref name="NS07">B. Nachtergaele, R. Sims, A multi-dimensional Lieb–Schultz–Mattis theorem, Commun. Math. Phys. 276, 437-472, (2007)</ref>  in a proof of the Lieb–Schultz–Mattis Theorem for higher-dimensional cases.
+The following bound on the gap was obtained:
+:<math>\gamma_L\leq c\log (L)/L. </math>.
+
+=== {{anchor|Continua_Discretisation_2016_02_14}} Discretisation of the Continuum via Gauss-Quadrature Rules ===
+
+In 2015, it was shown that the Lieb-Robinson bound can also have applications outside of the context of local Hamiltonians as we now explain. The [[Quantum dissipation|Spin-Boson model]] describes the dynamics of a spin coupled to a continuum of oscillators. It has been studied in great detail and explains quantum dissipative effects in a wide range of quantum systems. Let <math>H</math> denote the Hamiltonian of the Spin-Boson model with a continuum bosonic bath, and <math>H_L</math> denote the Spin-Boson model who's bath has been discretised to include <math>L\in\mathbb{N}^+</math> harmonic oscillators with frequencies chosen according to [[Gaussian quadrature|Gauss Quadrature Rules]]. For all observables <math>A</math> on the Spin Hamiltonian, the error on the expectation value of <math>A</math> induced by discretising the Spin-Boson model according to the above discretisation scheme is bounded by<ref>M.P. Woods & M.B. Plenio, Dynamical error bounds for continuum discretisation via Gauss quadrature rules, --A Lieb-Robinson bound approach, J. Math. Phys. 57, 022105 (2016), [https://arxiv.org/abs/1508.07354 ArXiv]</ref>
+{{NumBlk|:|<math> 
+|\text{tr}[e^{i t H}A e^{-i t H}]-\text{tr}[e^{i t H_L}A e^{-i t H_L}]|\leq c\, e^{-a (L-v|t|)},
+</math> |}}
+where <math>c,a</math> are positive constants and <math>v</math> is the Lieb-Robinson velocity which in this case is directly proportional to <math>\omega_{max}</math>, the maximum frequency of the bath in the Spin-Boson model. Here, the number of discrete modes <math>L</math> play the role of a distance <math>d(X,Y)</math> mentioned below Eq. ({{EquationNote|1}}). One can also bound the error induced by local Fock space truncation of the harmonic oscillators<ref>M.P. Woods, M. Cramer & M.B. Plenio, Simulation Bosonic Baths with Error bars, Phys. Rev. Lett. 115, 130401 (2015) [https://arxiv.org/abs/1504.01531 ArXiv]</ref>
+
+== Experiments ==
+
+The first experimental observation of the Lieb–Robinson velocity was done by Cheneau et al.<ref>
+M. Cheneau, P. Barmettler, D. Poletti, M. Endres, P. Schauß, T. Fukuhara, C. Gross, I. Bloch, C. Kollath, S. Kuhr, Light-cone-like spreading of correlations in a quantum many-body system, Nature 481, 484–487, (2012)</ref>
+
+== References ==
+{{Reflist}}
+
+[[Category:Quantum information theory]]
+[[Category:Limits of computation]]

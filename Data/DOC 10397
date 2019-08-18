@@ -1,0 +1,46 @@
+Title : Wikipedia:WikiProject Spam/Local/thewarmbodies.com
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|thewarmbodies.com]]
+== Links ==
+* {{LinkSummary|http}}
+:* http resolves to [//X X]
+:*: {{LinkSummary|X}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+* {{LinkSummary|thewarmbodies.com}}
+:* thewarmbodies.com resolves to [//208.113.214.61 208.113.214.61]
+:*: {{LinkSummary|208.113.214.61}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{IPSummary|91.39.103.81}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12234074|lang=en|wikidomain=w|namespace=|pagename=Dave Franco|username=91.39.103.81|link=Http://thewarmbodies.com/wp-content/uploads/2013/05/Dave%2BFranco%2BNow%2BSee%2BScreening%2BHollywood%2BYZ39UFmdra3x.jpg|sortdomain=com.thewarmbodies.|domain=http|origdiff=http://en.wikipedia.org/w/index.php?diff=606013272&oldid=606004050|resolved=X|isIP=1|date=2014-04-27|time=10:31:11|wiki=en.wikipedia.org|revid=606013272|oldid=606004050|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=6|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=Http://thewarmbodies.com/wp-content/uploads/2013/05/Dave+Franco+Now+See+Screening+Hollywood+YZ39UFmdra3x.jpg|domain=http|U=6|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://thewarmbodies.com/wp-content/uploads/2013/05/Dave+Franco+Now+See+Screening+Hollywood+YZ39UFmdra3x.jpg|domain=http|U=6|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://thewarmbodies.com/wp-content/uploads/2013/05/Dave%2BFranco%2BNow%2BSee%2BScreening%2BHollywood%2BYZ39UFmdra3x.jpg|domain=http|U=6|L=0|UL=X|WUL=X}}}}
+{{User:COIBot/EditSummary|id=12234493|lang=en|wikidomain=w|namespace=|pagename=Dave Franco|username=91.39.103.81|link=Http://thewarmbodies.com/wp-content/uploads/2013/05/Dave%2BFranco%2BNow%2BSee%2BScreening%2BHollywood%2BYZ39UFmdra3x.jpg|sortdomain=com.thewarmbodies.|domain=http|origdiff=http://en.wikipedia.org/w/index.php?diff=606013629&oldid=606013336|resolved=X|isIP=1|date=2014-04-27|time=10:35:24|wiki=en.wikipedia.org|revid=606013629|oldid=606013336|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=6|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=Http://thewarmbodies.com/wp-content/uploads/2013/05/Dave+Franco+Now+See+Screening+Hollywood+YZ39UFmdra3x.jpg|domain=http|U=6|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://thewarmbodies.com/wp-content/uploads/2013/05/Dave%2BFranco%2BNow%2BSee%2BScreening%2BHollywood%2BYZ39UFmdra3x.jpg|domain=http|U=6|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://thewarmbodies.com/wp-content/uploads/2013/05/Dave+Franco+Now+See+Screening+Hollywood+YZ39UFmdra3x.jpg|domain=http|U=6|L=0|UL=X|WUL=X}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 2 additions out of 2 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/thewarmbodies.com]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bhttp\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/http]]<nowiki>]]</nowiki>
+ \bthewarmbodies\.com\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/thewarmbodies.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/thewarmbodies.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. <!-- auto-closed --><!-- noleft -->No links left in here mentioned edits.  Marked stale.  --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 16:40, 27 April 2014 (UTC)

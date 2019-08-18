@@ -1,0 +1,486 @@
+Title : List of countries by Internet connection speeds
+Text : This '''list of countries by Internet connection speed''' lists the average data transfer rates for [[Internet access]] by end-users.
+
+==Average connection speeds==
+{|class="wikitable"| style="margin:auto; width:100%;"
+|-
+! style="width:33%; text-align:center;" | Overall Internet speed by [[Akamai Technologies]] (Q1 2017)<ref name="akamai1">{{cite web|url=https://www.akamai.com/us/en/multimedia/documents/state-of-the-internet/q1-2017-state-of-the-internet-connectivity-report.pdf |title=State of the internet |date=2017 |website=www.akamai.com |format=PDF}} </ref>
+! style="width:33%; text-align:center;" | Mobile (Cellular only) download speed by Opensignal (May 2019)<ref>{{cite web |url=https://www.opensignal.com/sites/opensignal-com/files/data/reports/global/data-2019-05/the_state_of_mobile_experience_may_2019_0.pdf |title=THE STATE OF
+MOBILE NETWORK
+EXPERIENCE |publisher=Opensignal}}</ref>
+|-valign="top" |
+|<!--Akamai-->
+{| class="wikitable sortable" style="text-align:right; margin-left: auto; margin-right: auto;"
+|-
+! Rank !! Country/Territory !! Avg. connection speed<br />([[Data rate units#Megabit per second|Mb/s]])
+|-
+| 1 || style="text-align: left" |{{flagcountry|South Korea}} || 28.6
+|-
+| 2 || style="text-align: left" |{{flagcountry|Norway}} || 23.5
+|-
+| 3 || style="text-align: left" | {{flagcountry|Sweden}} || 22.5
+|-
+| 4 || style="text-align: left" | {{flagcountry|Hong Kong}} || 21.9
+|-
+| 5 || style="text-align: left" | {{flagcountry|Switzerland}} || 21.7
+|-
+| 6 || style="text-align: left" | {{flagcountry|Finland}} || 20.5
+|-
+| 7 || style="text-align: left" |{{flagcountry|Singapore}} || 20.3
+|-
+| 8 || style="text-align: left" |{{flagcountry|Japan}} || 20.2
+|-
+| 9 || style="text-align: left" |{{flagcountry|Denmark}} || 20.1
+|-
+| 10 || style="text-align: left" |{{flagcountry|United States}} || 18.7
+|-
+| 12 || style="text-align: left" |{{flagcountry|Netherlands}} || 17.4
+|-
+| 13 || style="text-align: left" |{{flagcountry|Romania}} || 17.0
+|-
+| 14 || style="text-align: left" |{{flagcountry|Czech Republic}} || 16.9
+|-
+| 15 || style="text-align: left" |{{flagcountry|United Kingdom}} || 16.9
+|-
+| 16 || style="text-align: left" |{{flagcountry|Taiwan}} || 16.9
+|-
+| 17 || style="text-align: left" |{{flagcountry|Latvia}} || 16.6
+|-
+| 19 || style="text-align: left" |{{flagcountry|Belgium}} || 16.3
+|-
+| 20 || style="text-align: left" |{{flagcountry|Canada}} || 16.2
+|-
+| 21 || style="text-align: left" |{{flagcountry|Thailand}} || 16.0
+|-
+| 22 || style="text-align: left" |{{flagcountry|Ireland}} || 15.6
+|-
+| 23 || style="text-align: left" |{{flagcountry|Bulgaria}} || 15.5
+|-
+| 24 || style="text-align: left" |{{flagcountry|Spain}} || 15.5
+|-
+| 25 || style="text-align: left" |{{flagcountry|Germany}} || 15.3
+|-
+| 26 || style="text-align: left" |{{flagcountry|Hungary}} || 14.8
+|-
+| 27 || style="text-align: left" |{{flagcountry|New Zealand}} || 14.7
+|-
+| 28 || style="text-align: left" |{{flagcountry|Lithuania}} || 14.2
+|-
+| 29 || style="text-align: left" |{{flagcountry|Austria}} || 14.1
+|-
+| 32 || style="text-align: left" |{{flagcountry|Qatar}} || 13.7
+|-
+| 33 || style="text-align: left" |{{flagcountry|Israel}} || 13.7
+|-
+| 34 || style="text-align: left" |{{flagcountry|Slovenia}} || 13.7
+|-
+| 35 || style="text-align: left" |{{flagcountry|Slovakia}} || 13.0
+|-
+| 36 || style="text-align: left" | {{flagcountry|Pakistan}} || 13.08
+|-
+| 37 || style="text-align: left" |{{flagcountry|Portugal}} || 12.9
+|-
+| 38 || style="text-align: left" |{{flagcountry|Malta}} || 12.8
+|-
+| 41 || style="text-align: left" |{{flagcountry|Poland}} || 12.6
+|-
+| 43 || style="text-align: left" |{{flagcountry|Kenya}} || 12.2
+|-
+| 44 || style="text-align: left" |{{flagcountry|Russia}} || 11.8
+|-
+| 45 || style="text-align: left" |{{flagcountry|Luxembourg}} || 11.6
+|-
+| 46 || style="text-align: left" |{{flagcountry|Estonia}} || 11.6
+|-
+| 50 || style="text-align: left" |{{flagcountry|Australia}} || 11.1
+|-
+| 51 || style="text-align: left" |{{flagcountry|France}} || 10.8
+|-
+| 57 || style="text-align: left" |{{flagcountry|Uruguay}} || 9.5
+|-
+| 58 || style="text-align: left" |{{flagcountry|Vietnam}} || 9.5
+|-
+| 60 || style="text-align: left" |{{flagcountry|Chile}} || 9.3
+|-
+| 61 || style="text-align: left" |{{flagcountry|Italy}} || 9.2
+|-
+| 62 || style="text-align: left" |{{flagcountry|Malaysia}} || 8.9
+|-
+| 64 || style="text-align: left" |{{flagcountry|Croatia}} || 8.6
+|-
+| 65 || style="text-align: left" |{{flagcountry|United Arab Emirates}} || 8.6
+|-
+| 68 || style="text-align: left" |{{flagcountry|Sri Lanka}} || 8.5
+|-
+| 71 || style="text-align: left" |{{flagcountry|Kuwait}} || 7.9
+|-
+| 72 || style="text-align: left" |{{flagcountry|Greece}} || 7.9
+|-
+| 74 || style="text-align: left" |{{flagcountry|People's Republic of China}} || 7.6
+|-
+| 75 || style="text-align: left" |{{flagcountry|Turkey}} || 7.6
+|-
+| 76 || style="text-align: left" |{{flagcountry|Mexico}} || 7.5
+|-
+| 77 || style="text-align: left" |{{flagcountry|Indonesia}} || 7.2
+|-
+| '''–''' || style="text-align: left" |'''World''' || '''7.2'''
+|-
+| 78 || style="text-align: left" |{{flagcountry|Cyprus}} || 6.9
+|-
+| 79 || style="text-align: left" |{{flagcountry|Brazil}} || 6.8
+|-
+| 82 || style="text-align: left" |{{flagcountry|South Africa}} || 6.7
+|-
+| 84 || style="text-align: left" |{{flagcountry|Saudi Arabia}} || 6.7
+|-
+| 89 || style="text-align: left" |{{flagcountry|India}} || 6.5
+|-
+| 90 || style="text-align: left" |{{flagcountry|Argentina}} || 6.3
+|-
+| 91 || style="text-align: left" |{{flagcountry|Peru}} || 6.2
+|-
+| 92 || style="text-align: left" |{{flagcountry|Ecuador}} || 6.2
+|-
+| 94 || style="text-align: left" |{{flagcountry|Panama}} || 5.9
+|-
+| 99 || style="text-align: left" |{{flagcountry|Colombia}} || 5.5
+|-
+| 100 || style="text-align: left" |{{flagcountry|Philippines}} || 5.5
+|-
+| 104 || style="text-align: left" |{{flagcountry|Morocco}} || 5.2
+|-
+| 107 || style="text-align: left" |{{flagcountry|Iran}} || 4.7
+|-
+| 112 || style="text-align: left" |{{flagcountry|Costa Rica}} || 4.1
+|-
+| 114 || style="text-align: left" |{{flagcountry|Nigeria}} || 3.9
+|-
+| 130 || style="text-align: left" |{{flagcountry|Namibia}} || 2.9
+|-
+| 132 || style="text-align: left" |{{flagcountry|Bolivia}} || 2.7
+|-
+| 143 || style="text-align: left" |{{flagcountry|Egypt}} || 2.0
+|-
+| 144 || style="text-align: left" |{{flagcountry|Venezuela}} || 1.8
+|-
+| 148 || style="text-align: left" |{{flagcountry|Paraguay}} || 1.4
+|}
+|<!--Opensignal-->
+{| class="wikitable sortable" style="text-align:right; margin-left: auto; margin-right: auto;"
+|-
+! Rank !! Country/Territory !! Avg. connection speed<br />([[Data rate units#Megabit per second|Mb/s]])
+|-
+| 1 || style="text-align: left" | {{flagcountry|South Korea}}|| 52.4
+|-
+| 2 || style="text-align: left" | {{flagcountry|Norway}} || 48.2
+|-
+| 3 || style="text-align: left" | {{flagcountry|Canada}} || 42.5
+|-
+| 4 || style="text-align: left" | {{flagcountry|Netherlands}} || 42.4
+|-
+| 5 || style="text-align: left" | {{flagcountry|Singapore}} || 39.3
+|-
+| 6 || style="text-align: left" | {{flagcountry|Australia}} || 37.4
+|-
+| 7 || style="text-align: left" | {{flagcountry|Switzerland}} || 35.2
+|-
+| 8 || style="text-align: left" | {{flagcountry|Denmark}} || 34.6
+|-
+| 9 || style="text-align: left" | {{flagcountry|Belgium}} || 34.2
+|-
+| 10 || style="text-align: left" | {{flagcountry|Japan}} || 33.0
+|-
+| 11 || style="text-align: left" | {{flagcountry|Hungary}} || 32.7
+|-
+| 12 || style="text-align: left" | {{flagcountry|Czech Republic}} || 31.5
+|-
+| 13 || style="text-align: left" | {{flagcountry|Sweden}} || 30.8
+|-
+| 14 || style="text-align: left" | {{flagcountry|Austria}} || 27.5
+|-
+| 15 || style="text-align: left" | {{flagcountry|New Zealand}} || 27.3
+|-
+| 16 || style="text-align: left" | {{flagcountry|Finland}} || 27.0
+|-
+| 17 || style="text-align: left" | {{flagcountry|Croatia}} || 26.7
+|-
+| 18 || style="text-align: left" | {{flagcountry|Taiwan}} || 26.6
+|-
+| 19 || style="text-align: left" | {{flagcountry|France}} || 25.2
+|-
+| 20 || style="text-align: left" | {{flagcountry|Spain}} || 24.8
+|-
+| 21 || style="text-align: left" | {{flagcountry|Qatar}} || 24.6
+|-
+| 22 || style="text-align: left" | {{flagcountry|Greece}} || 23.8
+|-
+| 23 || style="text-align: left" | {{flagcountry|Slovakia}} || 23.3
+|-
+| 24 || style="text-align: left" | {{flagcountry|Germany}} || 22.6
+|-
+| 25 || style="text-align: left" | {{flagcountry|Bulgaria}} || 22.5
+|-
+| 26 || style="text-align: left" | {{flagcountry|United Kingdom}} || 21.7
+|-
+| 27 || style="text-align: left" | {{flagcountry|Portugal}} || 21.6
+|-
+| 28 || style="text-align: left" | {{flagcountry|Serbia}} || 21.5
+|-
+| 29 || style="text-align: left" | {{flagcountry|Albania}} || 21.4
+|-
+| 30 || style="text-align: left" | {{flagcountry|United States}} || 21.3
+|-
+| 31 || style="text-align: left" | {{flagcountry|Romania}} || 20.6
+|-
+| 32 || style="text-align: left" | {{flagcountry|Oman}} || 20.3
+|-
+| 33 || style="text-align: left" | {{flagcountry|United Arab Emirates}} || 19.9
+|-
+| 34 || style="text-align: left" | {{flagcountry|Italy}} || 19.9
+|-
+| 35 || style="text-align: left" | {{flagcountry|Poland}} || 17.3
+|-
+| 36 || style="text-align: left" | {{flagcountry|Turkey}} || 17.1
+|-
+| 37 || style="text-align: left" | {{flagcountry|Lebanon}} || 16.9
+|-
+| 38 || style="text-align: left" | {{flagcountry|Hong Kong}} || 16.7
+|-
+| 39 || style="text-align: left" | {{flagcountry|Ireland}} || 16.2
+|-
+| 40 || style="text-align: left" | {{flagcountry|Kuwait}} || 16.2
+|-
+| 41 || style="text-align: left" | {{flagcountry|Myanmar}} || 16.0
+|-
+| 42 || style="text-align: left" | {{flagcountry|South Africa}} || 15.0
+|-
+| 43 || style="text-align: left" | {{flagcountry|Mexico}} || 14.9
+|-
+| 44 || style="text-align: left" | {{flagcountry|Vietnam}} || 14.1
+|-
+| 45 || style="text-align: left" | {{flagcountry|Bahrain}} || 13.9
+|-
+| 46 || style="text-align: left" | {{flagcountry|Israel}} || 13.6
+|-
+| 47 || style="text-align: left" | {{flagcountry|Saudi Arabia}} || 13.6
+|-
+| 48 || style="text-align: left" | {{flagcountry|Tunisia}} || 13.4
+|-
+| 49 || style="text-align: left" | {{flagcountry|Azerbaijan}} || 13.4
+|-
+| 50 || style="text-align: left" | {{flagcountry|Brazil}} || 13.0
+|-
+| 51 || style="text-align: left" | {{flagcountry|Argentina}} || 12.8
+|-
+| 52 || style="text-align: left" | {{flagcountry|Bolivia}} || 12.5
+|-
+| 53 || style="text-align: left" | {{flagcountry|Chile}} || 12.0
+|-
+| 54 || style="text-align: left" | {{flagcountry|Russia}} || 12.0
+|-
+| 55 || style="text-align: left" | {{flagcountry|Peru}} || 11.7
+|-
+| 56 || style="text-align: left" | {{flagcountry|Malaysia}} || 11.5
+|-
+| 57 || style="text-align: left" | {{flagcountry|Kazakhstan}} || 11.4
+|-
+| 58 || style="text-align: left" | {{flagcountry|Ukraine}} || 11.2
+|-
+| 59 || style="text-align: left" | {{flagcountry|Morocco}} || 11.2
+|-
+| 60 || style="text-align: left" | {{flagcountry|Guatemala}} || 10.8
+|-
+| 61 || style="text-align: left" | {{flagcountry|Sri Lanka}} || 10.7
+|-
+| 62 || style="text-align: left" | {{flagcountry|Paraguay}} || 10.6
+|-
+| 63 || style="text-align: left" | {{flagcountry|Ecuador}} || 10.5
+|-
+| 64 || style="text-align: left" | {{flagcountry|Jordan}} || 10.4
+|-
+| 65 || style="text-align: left" | {{flagcountry|Costa Rica}} || 10.1
+|-
+| 66 || style="text-align: left" | {{flagcountry|Kenya}} || 10.1
+|-
+| 67 || style="text-align: left" | {{flagcountry|Colombia}} || 10.0
+|-
+| 68 || style="text-align: left" | {{flagcountry|Egypt}} || 8.6
+|-
+| 69 || style="text-align: left" | {{flagcountry|Dominican Republic}} || 8.5
+|-
+| 70 || style="text-align: left" | {{flagcountry|Belarus}} || 7.7
+|-
+| 71 || style="text-align: left" | {{flagcountry|Panama}} || 7.2
+|-
+| 72 || style="text-align: left" | {{flagcountry|Philippines}} || 7.0
+|-
+| 73 || style="text-align: left" | {{flagcountry|Indonesia}} || 6.9
+|-
+| 74 || style="text-align: left" | {{flagcountry|India}} || 6.8
+|-
+| 75 || style="text-align: left" | {{flagcountry|Ivory Coast}} || 6.7
+|-
+| 76 || style="text-align: left" | {{flagcountry|Pakistan}} || 6.2
+|-
+| 77 || style="text-align: left" | {{flagcountry|Thailand}} || 5.7
+|-
+| 78 || style="text-align: left" | {{flagcountry|Bangladesh}} || 5.7
+|-
+| 79 || style="text-align: left" | {{flagcountry|Cambodia}} || 5.6
+|-
+| 80 || style="text-align: left" | {{flagcountry|Nigeria}} || 5.4
+|-
+| 81 || style="text-align: left" | {{flagcountry|El Salvador}} || 5.4
+|-
+| 82 || style="text-align: left" | {{flagcountry|Senegal}} || 5.1
+|-
+| 83 || style="text-align: left" | {{flagcountry|Ghana}} || 5.1
+|-
+| 84 || style="text-align: left" | {{flagcountry|Uzbekistan}} || 5.0
+|-
+| 85 || style="text-align: left" | {{flagcountry|Nepal}} || 4.4
+|-
+| 86 || style="text-align: left" | {{flagcountry|Algeria}} || 3.1
+|-
+| 87 || style="text-align: left" | {{flagcountry|Iraq}} || 1.6
+|-
+|}
+|}
+
+==Akamai Q3 2015 rankings==
+{| class="wikitable sortable" style="text-align:center; width:43%;"
+|-
+! style="width: 32%;" | Country/Territory !! Avg. connection speed ([[Data rate units#Megabit per second|Mb/s]]) !! Avg. Peak Connection Speed  ([[Data rate units#Megabit per second|Mb/s]]) !! <abbr title="Percentage of Internet users who have a connection speed of at least 4 Mb/s">Above 4 Mbit/s</abbr> !! <abbr title="Percentage of Internet users who have a connection speed of at least 10 Mb/s">Above 10 Mbit/s</abbr> !! <abbr title="Percentage of Internet users who have a connection speed of at least 15 Mb/s">Above 15 Mbit/s</abbr>
+|-
+| style="text-align: left" | ''Global'' || 5.1 || 32.2 || 65% || 27% || 15%
+|-
+| style="text-align: left" | {{flagcountry|Argentina}} || 4.2 || 26.9 || 39% || 3.10% || 0.50%
+|-
+| style="text-align: left" | {{flagcountry|Bolivia}} || 1.8 || 13.9 || 2.80% || 0.20% || 0.10%
+|-
+| style="text-align: left" | {{flagcountry|Brazil}} || 3.6 || 29 || 32% || 2.20% || 0.60%
+|-
+| style="text-align: left" | {{flagcountry|Canada}} || 11.9 || 52.4 || 87% || 43% || 21%
+|-
+| style="text-align: left" | {{flagcountry|Chile}} || 5.7 || 42 || 62% || 7.10% || 1.60%
+|-
+| style="text-align: left" | {{flagcountry|Colombia}} || 4.2 || 28.1 || 48% || 1.70% || 0.40%
+|-
+| style="text-align: left" | {{flagcountry|Costa Rica}} || 3.2 || 16.4 || 20% || 1.10% || 0.50%
+|-
+| style="text-align: left" | {{flagcountry|Ecuador}} || 4.1 || 25.5 || 36% || 2.50% || 0.60%
+|-
+| style="text-align: left" | {{flagcountry|Mexico}} || 5.5 || 27.3 || 64% || 6.40% || 1.70%
+|-
+| style="text-align: left" | {{flagcountry|Panama}} || 3.5 || 16.9 || 33% || 1.50% || 0.40%
+|-
+| style="text-align: left" | {{flagcountry|Paraguay}} || 1.5 || 13.4 || 2.10% || 0.10% || 0.10%
+|-
+| style="text-align: left" | {{flagcountry|Peru}} || 4.4 || 30.4 || 46% || 2.90% || 0.60%
+|-
+| style="text-align: left" | {{flagcountry|United States}} || 12.6 || 57.3 || 80% || 46% || 24%
+|-
+| style="text-align: left" | {{flagcountry|Uruguay}} || 5.9 || 60.2 || 68% || 7.70% || 1.60%
+|-
+| style="text-align: left" | {{flagcountry|Venezuela}} || 1.5 || 11.8 || 2.10% || 0.20% || 0.10%
+|-
+| style="text-align: left" | {{flagcountry|Australia}} || 7.8 || 41.9 || 72% || 18% || 7.40%
+|-
+| style="text-align: left" | {{flagcountry|People's Republic of China}} || 3.7 || 23.1 || 33% || 1.60% || 0.30%
+|-
+| style="text-align: left" | {{flagcountry|Hong Kong}} || 15.8 || 101.1 || 92% || 59% || 36%
+|-
+| style="text-align: left" | {{flagcountry|India}} || 6.5 || 29.7 || 67% || 23% || 8%
+|-
+| style="text-align: left" | {{flagcountry|Indonesia}} || 7.45 || 31 || 17% || 0.90% || 0.40%
+|-
+| style="text-align: left" | {{flagcountry|Japan}} || 15 || 78.4 || 90% || 54% || 32%
+|-
+| style="text-align: left" | {{flagcountry|Malaysia}} || 4.9 || 38.3 || 52% || 4.00% || 0.90%
+|-
+| style="text-align: left" | {{flagcountry|New Zealand}} || 8.7 || 42 || 87% || 22% || 8.20%
+|-
+| style="text-align: left" | {{flagcountry|Philippines}} || 2.8 || 25.3 || 10% || 0.90% || 0.30%
+|-
+| style="text-align: left" | {{flagcountry|Singapore}} || 12.5 || 135.4 || 87% || 51% || 27%
+|-
+| style="text-align: left" | {{flagcountry|South Korea}} || 20.5 || 86.6 || 96% || 68% || 45%
+|-
+| style="text-align: left" | {{flagcountry|Sri Lanka}} || 5.1 || 33.5 || 76% || 2.20% || 0.60%
+|-
+| style="text-align: left" | {{flagcountry|Republic of China}} || 10.1 || 77.9 || 88% || 29% || 13%
+|-
+| style="text-align: left" | {{flagcountry|Thailand}} || 8.2 || 58.3 || 93% || 18% || 5.80%
+|-
+| style="text-align: left" | {{flagcountry|Vietnam}} || 3.4 || 25.5 || 31% || 0.60% || 0.10%
+|-
+| style="text-align: left" | {{flagcountry|Austria}} || 11.4 || 44 || 90% || 33% || 17%
+|-
+| style="text-align: left" | {{flagcountry|Belgium}} || 12.8 || 59.3 || 91% || 52% || 26%
+|-
+| style="text-align: left" | {{flagcountry|Czech Republic}} || 14.5 || 50.9 || 86% || 46% || 27%
+|-
+| style="text-align: left" | {{flagcountry|Denmark}} || 14 || 50.1 || 94% || 51% || 29%
+|-
+| style="text-align: left" | {{flagcountry|Finland}} || 14.8 || 57.4 || 91% || 51% || 28%
+|-
+| style="text-align: left" | {{flagcountry|France}} || 8.2 || 38.9 || 74% || 21% || 8.70%
+|-
+| style="text-align: left" | {{flagcountry|Germany}} || 11.5 || 49.2 || 87% || 37% || 19%
+|-
+| style="text-align: left" | {{flagcountry|Hungary}} || 10.7 || 53.9 || 90% || 36% || 18%
+|-
+| style="text-align: left" | {{flagcountry|Ireland}} || 12.4 || 52 || 76% || 41% || 23%
+|-
+| style="text-align: left" | {{flagcountry|Israel}} || 11.2 || 70 || 94% || 36% || 14%
+|-
+| style="text-align: left" | {{flagcountry|Italy}} || 6.5 || 30.1 || 71% || 9.20% || 3.40%
+|-
+| style="text-align: left" | {{flagcountry|Netherlands}} || 15.6 || 63.5 || 95% || 60% || 34%
+|-
+| style="text-align: left" | {{flagcountry|Norway}} || 16.4 || 55.9 || 88% || 54% || 37%
+|-
+| style="text-align: left" | {{flagcountry|Poland}} || 10.6 || 45.6 || 88% || 34% || 17%
+|-
+| style="text-align: left" | {{flagcountry|Portugal}} || 10.6 || 47.9 || 85% || 37% || 19%
+|-
+| style="text-align: left" | {{flagcountry|Romania}} || 13.1 || 72.9 || 94% || 57% || 27%
+|-
+| style="text-align: left" | {{flagcountry|Russia}} || 10.2 || 57.9 || 87% || 38% || 15%
+|-
+| style="text-align: left" | {{flagcountry|Slovakia}} || 11.2 || 49 || 85% || 28% || 17%
+|-
+| style="text-align: left" | {{flagcountry|South Africa}} || 3.7 || 18.9 || 22% || 2.90% || 1.70%
+|-
+| style="text-align: left" | {{flagcountry|Spain}} || 10.4 || 53.5 || 85% || 34% || 17%
+|-
+| style="text-align: left" | {{flagcountry|Sweden}} || 17.4 || 69 || 92% || 55% || 38%
+|-
+| style="text-align: left" | {{flagcountry|Switzerland}} || 16.2 || 62.6 || 93% || 61% || 36%
+|-
+| style="text-align: left" | {{flagcountry|Turkey}} || 6.2 || 38.5 || 77% || 7.60% || 2.90%
+|-
+| style="text-align: left" | {{flagcountry|United Arab Emirates}} || 6.8 || 45.8 || 85% || 10% || 2.30%
+|-
+| style="text-align: left" | {{flagcountry|United Kingdom}} || 13 || 54.2 || 87% || 46% || 28%
+|}
+
+== See also ==
+* [[List of countries by number of Internet users]]
+* [[Government Broadband Index]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [https://www.stateoftheinternet.com/downloads/pdfs/Q4-2015-SOTI-Connectivity-Executive-Summary.pdf akamai's <nowiki>[</nowiki>state of the internet<nowiki>]</nowiki> - Q4 2015 report]
+* [https://www.akamai.com/us/en/multimedia/documents/report/q3-2015-soti-connectivity-final.pdf akamai's <nowiki>[</nowiki>state of the internet<nowiki>]</nowiki> - Q3 2015 report]
+
+{{Media country lists}}
+
+{{DEFAULTSORT:List of countries by Internet connection speeds}}
+[[Category:Lists of countries by economic indicator|Internet Connection Speeds]]
+[[Category:Internet by country|*]]
+[[Category:Internet-related lists]]
+[[Category:IT infrastructure]]

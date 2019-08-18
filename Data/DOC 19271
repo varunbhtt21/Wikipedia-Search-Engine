@@ -1,0 +1,58 @@
+Title : Banguela
+Text : {{Italic title}}
+{{Taxobox
+|name = ''Banguela''
+|fossil_range = [[Albian]]
+|image=Banguela oberlii.png
+|image_caption=Illustration of the holotype jaw fragment, with cross-section
+|regnum = [[Animal]]ia
+|phylum = [[Chordate|Chordata]]
+|classis = [[Reptile|Sauropsida]]
+|ordo = [[Pterosaur]]ia
+|subordo = [[Pterodactyloidea]]
+|familia = [[Dsungaripteridae]]
+|genus = '''''Banguela'''''
+|genus_authority = Headden & Campos 2014
+|binomial = ''Banguela oberlii''
+|binomial_authority = Headden & Campos, 2013
+| synonyms =
+* ''Thalassodromeus oberlii''? {{small|(Headden & Campos, 2013)}}
+}}
+
+'''''Banguela oberlii''''' is a [[Dsungaripteridae|dsungaripterid]] [[pterosaur]] from the [[Early Cretaceous]] of [[Brazil]].<ref name="Banguela">{{Cite journal|author=Jaime A. Headden and Hebert B.N. Campos |year=2014 |title=An unusual edentulous pterosaur from the Early Cretaceous Romualdo Formation of Brazil |journal=Historical Biology: An International Journal of Paleobiology |volume=in press |issue= |pages= |doi=10.1080/08912963.2014.904302 }}</ref>
+
+== Discovery and naming ==
+
+The Swiss collector [[Urs Oberli]] acquired a pterosaur jaw fragment from the [[Chapada do Araripe]]. In 2005, this was described by [[André Jacques Veldmeijer]] e.a. and referred to ''[[Thalassodromeus]] sethi''.<ref name="Veldmeijer2005">Veldmeijer, A.J., Signore, M. & Meijer, H.J.M., 2005, "Description of two pterosaur (Pterodactyloidea) mandibles from the lower Cretaceous Santana Formation, Brazil", ''DEINSEA'' '''11''': 67-86</ref>
+
+In 2014 it was named and described by [[Jaime Headden]] and [[Hebert Bruno Nascimento Campos]] as a separate genus ''Banguela'', with the [[type species]] ''Banguela oberlii''. The genus name is a [[Brazilian Portuguese]] word for "toothless one", especially used as an affectionate term for elderly women. The [[specific name (zoology)|specific name]] honours Oberli.<ref name="Banguela"/>
+
+The [[holotype]], '''NMSG SAO 251093''', was probably found in the [[Romualdo Formation]], also known as the [[Romualdo Member]] of the [[Santana Formation]], dating from the [[Albian]]. It consists of the [[symphysis]], fused front end, of the lower jaws.<ref name="Banguela"/>
+
+In 2018, a study placed the specimen in the Thalassodrominae and formally named the species ''Thalassodromeus oberlii''.<ref name="Pêgas2018">Rodrigo V. Pêgas, Fabiana R. Costa & Alexander W. A. Kellner, 2018, "New information on the osteology and a taxonomic revision of the genus ''Thalassodromeus'' (Pterodactyloidea, Tapejaridae, Thalassodrominae)", ''Journal of Vertebrate Paleontology'' Article: e1443273</ref>
+
+==Description==
+[[File:Banguela skull.png|thumb|left|The specimen reconstructed as a [[dsungaripterid]] by Jaime Headden]] 
+''Banguela'' has an estimated skull length of about two feet and [[wingspan]] of over twelve feet. The symphysis, with a preserved length of 273 millimetres, curves upwards and has a relatively short depression at its upper rear end. The front upper edge of the symphysis is sharp. The front bottom edge is sharp too but lacks a true crest. There are no teeth or tooth sockets present in the fragment.<ref name="Banguela"/>
+
+==Phylogeny==
+Veldmeijer had already in 2005 noted similarities to ''[[Dsungaripterus]]'', but considered the available data to be insufficient to draw any conclusions from this.<ref name="Veldmeijer2005"/> In 2014, Headden & Campos placed ''Banguela'' in the [[Dsungaripteridae]], in a basal position. ''Banguela'' is unique among dsungaripterid pterosaurs due to a presumed total absence of teeth. Other pterosaur groups, such as [[Pteranodontidae|pteranodontids]], [[Nyctosauridae|nyctosaurids]] and [[Azhdarchoidea|azhdarchoids]], have also lost their teeth, indicating that toothloss might have independently occurred at least four times among pterosaurs. However, because dsungaripterids are occasionally recovered as derived azhdarchoids, it is possible that toothloss has occurred more often, if as an instance of [[Dollo's Law]] azhdarchoids should be originally toothless.<ref name="Banguela"/><ref name=LoneStarPterosaurs>{{Cite journal | last1 = Andres | first1 = B. | last2 = Myers | first2 = T. S. | doi = 10.1017/S1755691013000303 | title = Lone Star Pterosaurs | journal = Earth and Environmental Science Transactions of the Royal Society of Edinburgh | pages = 1 | year = 2013 | pmid =  | pmc = }}</ref> If there was a large number of cases, ''Banguela'' suggests how it developed in most of these: the development of horned rhamphothecae in the jawtips, with progressive tooth rarification until they cease to be useful.<ref name="Banguela"/>
+
+It is worth to note that dsungaripteroids have some of the most specialised teeth of all [[Sauropsida|sauropsids]],<ref>{{Cite book| title = Pterosaurs: Natural History, Evolution, Anatomy|author=Wilton, Mark P. |isbn=0691150613|year=2013|publisher=Princeton University Press }}</ref> so ''Banguela'''s toothlessness must indicate some degree of divergent specialisation.
+
+The 2018 placed the species in the [[Thalassodrominae]].<ref name="Pêgas2018"/>
+
+==See also==
+* [[List of pterosaur genera]]
+* [[Timeline of pterosaur research]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q16740190}}
+
+[[Category:Dsungaripteroids]]
+[[Category:Early Cretaceous pterosaurs of South America]]
+[[Category:Cretaceous Brazil]]
+[[Category:Fossils of Brazil]]
+[[Category:Fossil taxa described in 2014]]

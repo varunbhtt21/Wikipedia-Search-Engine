@@ -1,0 +1,7 @@
+Title : Template:R from an album
+Text : #REDIRECT [[Template:R from album]]
+
+{{Redirect category shell|
+{{R to redirect template}}
+{{R from template shortcut}}
+}}

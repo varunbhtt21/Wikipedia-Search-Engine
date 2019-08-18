@@ -1,0 +1,36 @@
+Title : Template:Capital (radio network)
+Text : {{Navbox
+|name = Capital (radio network)
+|title = [[Capital (radio network)|Capital]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+
+|group1= Regions
+|list1 = 
+*[[Capital Cymru|Cymru]]
+*[[Capital Liverpool|Liverpool]]
+*[[Capital London|London]]
+*[[Capital Manchester and Lancashire|Manchester and Lancashire]]
+*[[Capital Midlands|Midlands]]
+*[[Capital North East|North East]]
+*[[Capital North West and Wales|North West and Wales]]
+*[[Capital Scotland|Scotland]]
+*[[Capital South|South]]
+*[[Capital South Wales|South Wales]]
+*[[Capital Yorkshire|Yorkshire]]
+
+|group12 = Related topics
+|list12 =
+* ''[[Capital Breakfast]]''
+* [[Galaxy (radio network)|Galaxy]]
+* [[Galaxy Digital]]
+* ''[[Hirsty's Daily Dose]]''
+* [[The Hit Music Network]]
+* [[The One Network]]
+* [[List of Global Group stations]]
+
+}}<noinclude>
+{{collapsible option}}
+
+[[Category:United Kingdom radio navigational boxes]]
+</noinclude>

@@ -1,0 +1,218 @@
+Title : Wikipedia:Help desk/Archives/2014 April 22
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Help desk|Help desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Help desk/Archives/2014 April 21|April 21]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Help desk/Archives/March 2014|Mar]] | [[Wikipedia:Help desk/Archives/April 2014|April]] | [[Wikipedia:Help desk/Archives/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Help desk/Archives/2014 April 23|[[Wikipedia:Help desk/Archives/2014 April 23|April 23]]|[[Wikipedia:Help desk|Current help desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Help Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Help desk/Archives/2014 April 23|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Help desk|current Help Desk]] pages.
+|}
+
+
+__TOC__</noinclude>
+= April 22 =
+
+== Sign showing LCCN error when there is none? ==
+I created a page recently ([[Japanese minesweeper W-10]]).  On the page, I used an [[LCCN]] book number.  Despite me using the number given in the book, and finding the book I meant to find when clicking on the given link, it shows an error.  Is there any way to get rid of that?[[User:Cnd474747|Cnd474747]] ([[User talk:Cnd474747|talk]]) 01:03, 22 April 2014 (UTC)
+
+:I have replaced the hyphen by a 0 in lccn.[//en.wikipedia.org/w/index.php?title=Japanese_minesweeper_W-10&diff=605234305&oldid=605097278] See [[LCCN#Format]]. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 01:42, 22 April 2014 (UTC)
+
+:: Thank you.  I couldn't find that.[[User:Cnd474747|Cnd474747]] ([[User talk:Cnd474747|talk]]) 02:17, 22 April 2014 (UTC)
+
+== How to remove unwanted period after footnote ==
+
+There is an extra period after the first footnote in this section of this article http://en.wikipedia.org/wiki/Kingdom_of_Loathing#Plot_and_setting. I've been trying to remove it, but the reference in the infobox looks the same as all the others. My own fiddling with it has had no success. Assistance in its removal would be appreciated.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/98.119.91.79|98.119.91.79]] ([[User talk:98.119.91.79|talk]]) 02:19, 22 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:Fixed.[//en.wikipedia.org/w/index.php?title=Kingdom_of_Loathing&diff=605242765&oldid=605237655] It was tricky because the stray right-to-left embedding characters had a rendering effect in another place than their location. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 03:13, 22 April 2014 (UTC)
+
+== Kaali Venkat Page Deleted ==
+
+Hi Team,
+
+I have created a page for my brother Kaali Venkat,
+and I have followed all the standards of Wiki Guidelines,
+I want to get Back my post,
+
+
+[[Kaali Venkat]]  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Avskishore|Avskishore]] ([[User talk:Avskishore|talk]] • [[Special:Contributions/Avskishore|contribs]]) 05:58, 22 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:To have an article on Wikipedia, a subject must meet our [[WP:N|notability guideline]].  If you can provide [[WP:RS|reliable sources]] showing your brother is notable then make another request at [[Wikipedia:Requests for undeletion]].  This will be much more persuasive than your previous request which gave as an undeletion reason merely that he is your brother.  However, you have made it doubly difficult by repeatedly posting the same article after it was deleted causing the page to be locked.  You also have [[WP:COI|conflict of interest]] as you are the subject's brother and you should read the policy I linked. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 08:32, 22 April 2014 (UTC)
+::On the other hand, the latest version of the article did make a credible assertion of the subject's importance/significance, with a role in ''[[Thegidi]]'', also listing some other films with articles. The page should not have been speedied, in my opinion. I do second the concerns about COI/lack of references, however. <code>[[User:Decltype|decltype]]</code> <small>([[User talk:Decltype|talk]])</small> 13:16, 22 April 2014 (UTC)
+:::You may be right, but the editor is still well advised to go find some sources.  If there aren't any, reverting the speedy will still end in deletion, but by a longer process. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 16:26, 24 April 2014 (UTC)
+
+== Is this an appropriate use of a Talk page? ==
+
+I came across a Talk page ([[User talk:MasterMind5991|MasterMind5991]]) that has many comments/discussions that don't seem to me to be relevant to a Talk page; more like some kind of blog or quiz. I am just curious as to whether others think this is an appropriate use of a Wikipedia talk page? Cheers. [[User:Melbourne3163|Melbourne3163]] ([[User talk:Melbourne3163|talk]]) 07:26, 22 April 2014 (UTC)
+:Not to mention they got question 4 wrong. The ''real'' answer is, "Who cares." - '''''¡Ouch!''''' (<sup>[[User_talk:One.Ouch.Zero|hurt me]]</sup> / <sub>[[Special:Contributions/One.Ouch.Zero|more pain]]</sub>) 07:46, 22 April 2014 (UTC)
+::Blatant inappropriate use of talk page per [[WP:NOT]]. Quoted from [[WP:TALK]] "...the purpose of user talk pages is to draw the attention or discuss the edits of a user. Wikipedia is ''not a social networking site'', and all discussion should ultimately be directed ''solely'' toward the improvement of the encyclopedia."  --[[User:Glaisher|<span title="Philon">Glaisher</span>]] [[User talk:Glaisher#top|<small>[talk]</small>]] 08:25, 22 April 2014 (UTC)
+:::The talk page of their partner in this should also be looked into then, [[User talk:TheGRVOfLightning]].  <span style="font-family:monospace;">[[User:Dismas|Dismas]]</span>|[[User talk:Dismas|<sup>(talk)</sup>]] 08:31, 22 April 2014 (UTC)
+
+It appears that the page I highlighted ([[User talk:MasterMind5991|MasterMind5991]]) and [[User talk:TheGRVOfLightning|TheGRVOfLightning]] both constitute inappropriate use of talk pages. What is the next step, is it to report the matter to administrators? [[User:Melbourne3163|Melbourne3163]] ([[User talk:Melbourne3163|talk]]) 23:30, 22 April 2014 (UTC)
+
+:I've warned both of them, and deleted the (considerable) number of user subpages they had created in order to chat, write quizzes for each other and generally [[WP:UPNOT|UPNOT]] all over the place. [[User:Yunshui|Yunshui]]&nbsp;[[User talk:Yunshui|<sup style="font-size:90%">雲</sup>]][[Special:Contributions/Yunshui|<sub style="font-size:90%">水</sub>]] 12:32, 23 April 2014 (UTC)
+
+:: Thank you. Cheers. [[User:Melbourne3163|Melbourne3163]] ([[User talk:Melbourne3163|talk]]) 18:14, 23 April 2014 (UTC)
+
+== Search feature down ==
+I'm out of luck using the search feature of the Reference Desk, for about 1 hour now.
+
+:An error has occurred while searching: The search backend returned an error:
+
+And that's all I get.
+
+The contents of the search field:
+: news blurred images prefix:Wikipedia:Reference desk/Archives
+
+The URL:
+: https://en.wikipedia.org/w/index.php?title=Special%3ASearch&profile=default&search=news+blurred+images+prefix%3AWikipedia%3AReference+desk%2FArchives&fulltext=Search
+
+Any ideas? - '''''¡Ouch!''''' (<sup>[[User_talk:One.Ouch.Zero|hurt me]]</sup> / <sub>[[Special:Contributions/One.Ouch.Zero|more pain]]</sub>) 08:09, 22 April 2014 (UTC)
+
+:{{ping|One.Ouch.Zero}} Could you enable New search/CirrusSearch at [[Special:Preferences#mw-prefsection-betafeatures|Beta features]]. This will hopefully solve the problem. --[[User:Glaisher|<span title="Philon">Glaisher</span>]] [[User talk:Glaisher#top|<small>[talk]</small>]] 08:16, 22 April 2014 (UTC)
+::Thanks. This somehow did the trick (is it related to "news" being in too many sections?) and the section I wanted to revisit was return #2.
+::Something unrelated: is the "ping" feature official now? It's really useful for navigating back through multi-topic pages like WP:HD, WP:RD/*, and long talk pages. - '''''¡Ouch!''''' (<sup>[[User_talk:One.Ouch.Zero|hurt me]]</sup> / <sub>[[Special:Contributions/One.Ouch.Zero|more pain]]</sub>) 13:24, 22 April 2014 (UTC)
+:::{{ping|One.Ouch.Zero}} I don't know about the details but many users have reported the same problem with the "previous" search engine. And yes, the "ping" feature has been official for quite a while now. See [[WP:ECHO]] and this [[wmfblog:2013/05/02/notifications-launch-english-wikipedia|blog post]] for details about it. --[[User:Glaisher|<span title="Philon">Glaisher</span>]] [[User talk:Glaisher#top|<small>[talk]</small>]] 16:09, 22 April 2014 (UTC)
+::::Thanks, again. {{Resolved|- '''''¡Ouch!''''' (<sup>[[User_talk:One.Ouch.Zero|hurt me]]</sup> / <sub>[[Special:Contributions/One.Ouch.Zero|more pain]]</sub>) 06:03, 23 April 2014 (UTC)}}
+
+== wonder category ==
+
+Why doesn’t Wikipedia have a category containing wonders? --[[Special:Contributions/66.190.99.112|66.190.99.112]] ([[User talk:66.190.99.112|talk]]) 08:04, 22 April 2014 (UTC)
+:What do you mean by wonders? [[User:HiLo48|HiLo48]] ([[User talk:HiLo48|talk]]) 08:06, 22 April 2014 (UTC)
+:Wonders of the World, perhaps. It has been repatedly deleted per community discussions. Initially, it was nominated for deletion on 2004. See [[Wikipedia:Categories for deletion/Category:Wonders of the World]]; there was no clear consensus though. Then deleted per [[Wikipedia:Categories for deletion/Category:Wonders of the World2]]. Latest discussion was [[Wikipedia:Categories for discussion/Log/2013 August 28#Category:Wonders of the world 2]]. --[[User:Glaisher|<span title="Philon">Glaisher</span>]] [[User talk:Glaisher#top|<small>[talk]</small>]] 08:10, 22 April 2014 (UTC)
+
+== How to get my page accepted? ==
+
+Dear,
+
+I've tried all sorts of improvement for:
+
+https://en.wikipedia.org/wiki/Wikipedia_talk:Articles_for_creation/November_Music
+
+It's about a musicfestival in the Netherlands. I've looked at other festivals and they have the same information/sources etc. and they did get accepted. Can you give me some advice on what to do?
+
+best,
+
+Koen Graat  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:KGraat|KGraat]] ([[User talk:KGraat|talk]] • [[Special:Contributions/KGraat|contribs]]) 10:03, 22 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:It has already been declined because
+:#it is not adequately supported by reliable sources.
+:#it is not adequately supported by reliable sources.
+:#its references do not adequately evidence its notability
+:#its references do not adequately evidence its notability
+
+:Perhaps you should try adding references to [[WP:reliable sources|reliable sources]] that establish its [[WP:notable|notability]]. [[User:Maproom|Maproom]] ([[User talk:Maproom|talk]]) 11:01, 22 April 2014 (UTC)
+
+Hello, [[User:KGraat|KGraat]].  Wikipedia policy requires that information in articles be verified by independent sources, such as news reports, books, magazines articles, music reviews, etc.  Take a look at this article: [[Tottenham Bluegrass Festival]]. It's a just a starter article, but it already includes references from several newspapers and websites not connected to the festival.  Your draft article so far has only one source besides the festival website, and it appears to be a press release from a music promoter, not a neutral, independent source.  If the November Music Festival is a notable festival, then newspapers, magazines and online review websites will have written about it, and you can find these reports and add references to them.  (Sorry, I wrote this before reading [[User:Maproom|Maproom]]'s reply so there is some duplication.) &mdash;[[User:Anne Delong|Anne Delong]] ([[User talk:Anne Delong|talk]]) 11:04, 22 April 2014 (UTC)
+
+== Where's the tool that shown most edited pages by specific user? ==
+
+There used to be one, previously it was attached with the tool that shows post count.[https://tools.wmflabs.org/supercount/index.php?] Right now, I can't find it anywhere around. [[User:Bladesmulti|Bladesmulti]] ([[User talk:Bladesmulti|talk]]) 12:22, 22 April 2014 (UTC)
+:You've got the right tool. For example, you can [https://tools.wmflabs.org/supercount/index.php?user=SuperHamster&project=en.wikipedia see my top edited pages] in the 'Top Edited Pages' tab. Note that a user has to opt-in to allow users to see their top-edited articles. If you're looking to do this for yourself, you can do so by simply creating [[User:Bladesmulti/EditCounterOptIn.js]] to enable the tool for the English Wikipedia, or User:Bladesmulti/EditCounterGlobalOptIn.js at meta.wikimedia.org if you want the opt-in to apply to all Wikimedia projects. <b>~<i><font color="#07517C">[[User:SuperHamster|Super]]</font></i><font color="#6FA23B">[[User:SuperHamster|Hamster]]</font></b> <small>[[User talk:SuperHamster|Talk]] [[Special:Contributions/SuperHamster|Contribs]]</small> 12:36, 22 April 2014 (UTC)
+::Thanks. [[User:Bladesmulti|Bladesmulti]] ([[User talk:Bladesmulti|talk]]) 06:30, 23 April 2014 (UTC)
+
+== image name ==
+
+There are two photo files [https://en.wikipedia.org/wiki/File:Crow.jpg 1],[https://commons.wikimedia.org/wiki/File:Crow.jpg 2] that have the identical file name so the [https://commons.wikimedia.org/wiki/File:Crow.jpg second file] is not usable. How do we go about?  [[User:JARA7979|JARA7979]] ([[User talk:JARA7979|talk]] 23:03, 22 April 2014 (KTC)
+
+:Either the Wikipedia file must be renamed or the Commons file must be renamed.  On Wikipedia, use the move tab, but on Commons, you must request an administrator to do it. Commons do not like renaming files, although they might in this case under their criterion #3, misleading names, especially as the file is not used anywhere.  See [[Commons:File renaming]].  If you choose to move the Wikipedia file, be sure to check the "what links here" in the sidebar and change the link in all articles using it. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 14:43, 22 April 2014 (UTC)
+
+:Unlike [[User:Spinningspark|Spinningspark]], ordinary editors at Wikipedia don't have a "Move" tab when looking at a file page. Instead, to rename the file at Wikipedia, follow the instructions at [[Template:Rename media]]. -- [[User:John of Reading|John of Reading]] ([[User talk:John of Reading|talk]]) 15:16, 22 April 2014 (UTC)
+::Uh, sorry.  I forgot that needed permission on Wikipedia as well, I've been doing it for so long. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 16:01, 22 April 2014 (UTC)
+
+==Copyrighted information==
+
+Hi I just need to post my company´s information in wikipedia but I got a message regarding copyrighted information....so, what did I do wrong?  thanks. [[User:Dulce Carrillo-Kuti|Dulce Carrillo-Kuti]] ([[User talk:Dulce Carrillo-Kuti|talk]]) 14:26, 22 April 2014 (UTC)
+
+: There are messages on your user talk page to explain the situation regarding copyrighted material. --[[User:David Biddulph|David Biddulph]] ([[User talk:David Biddulph|talk]]) 14:39, 22 April 2014 (UTC)
+
+== Revisions not reflected in revision history... ==
+
+I made an addition to [[Vidant Health]] that is now not present nor is there a record in the history.  How is this possible?--[[User:Wikipietime|Wikipietime]] ([[User talk:Wikipietime|talk]]) 15:04, 22 April 2014 (UTC)
+:Perhaps you were logged out when editing and if the addition is not present, that means someone else removed it? --[[User:Glaisher|<span title="Philon">Glaisher</span>]] [[User talk:Glaisher#top|<small>[talk]</small>]] 15:06, 22 April 2014 (UTC)
+:Are you sure that you are not getting confused with the edits you made to [[Vidant Medical Center]]? --[[User:David Biddulph|David Biddulph]] ([[User talk:David Biddulph|talk]]) 15:09, 22 April 2014 (UTC)
+::That's probably it. Click "Contributions" at the top to see your edits. [[Special:Contributions/Wikipietime]] shows your post [//en.wikipedia.org/w/index.php?title=Talk:Vidant_Health&diff=prev&oldid=605305554] about the missing edit matches your edits to [[Vidant Medical Center]]. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 16:00, 22 April 2014 (UTC)
+
+== PDF Option? ==
+
+What happened to the PDF and build a book option?  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.83.247.66|72.83.247.66]] ([[User talk:72.83.247.66|talk]]) 15:39, 22 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:Can you access [[Special:Book]]? Pretty sure, I couldn't see it either when you posted this. I can see the links on the sidebar now though. --[[User:Glaisher|<span title="Philon">Glaisher</span>]] [[User talk:Glaisher#top|<small>[talk]</small>]] 15:51, 22 April 2014 (UTC)
+
+::The whole "Print/export" menu with "Create a book", "Download as PDF", "Printable version" was missing for me but has come back. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 15:56, 22 April 2014 (UTC)
+
+:::Yes. That is what I meant. The whole "Print/export" section was missing. No idea why that happened. --[[User:Glaisher|<span title="Philon">Glaisher</span>]] [[User talk:Glaisher#top|<small>[talk]</small>]] 15:58, 22 April 2014 (UTC)
+
+== Where do I report a this? ==
+
+Hello there. I would like to report an editor who has used an internet forum to gather support and troops to remove a consensus and target an administrator.[[User:Raintheone|'''<span style="color:blue;font-family:Times New Roman">Rain</span>''']] <small>[[User talk:Raintheone|<font color="green">'''the 1'''</font>]]</small> 15:41, 22 April 2014 (UTC)
+:If possible, contact the forum admins and post at [[WP:ANI]]. --[[User:Glaisher|<span title="Philon">Glaisher</span>]] [[User talk:Glaisher#top|<small>[talk]</small>]] 15:44, 22 April 2014 (UTC)
+
+== [[Ian Quayle Jones]] ==
+
+Could someone please review this article for me. Many thanks.
+[[User:Gomach|Gomach]] ([[User talk:Gomach|talk]]) 17:32, 22 April 2014 (UTC)
+
+:Is it notable in itself or is it the mini merchant bank [[Quayle Munro]] that's important? Looks like some [[Wikipedia:COI|COI]] to me, <strike>flogging</strike> promoting the founder. Just saying. [[User:Manytexts|Manytexts]] ([[User talk:Manytexts|talk]]) 01:38, 23 April 2014 (UTC)
+
+Not at all - I have no connection to the company or person. The fact is that he passes [[WP:GNG]] by dint of significant coverage in independent reliable sources. Surely editors should be making decisions based on the rules not on their own personal hunches or prejudices. 
+[[User:Gomach|Gomach]] ([[User talk:Gomach|talk]]) 08:45, 23 April 2014 (UTC)
+
+:I googled & found only local to his employ notability/ ghits. Thank you for the chance to clear that up. [[User:Manytexts|Manytexts]] ([[User talk:Manytexts|talk]]) 11:53, 25 April 2014 (UTC)
+
+== "Reliable sources": Are these reliable video/information sources? ==
+
+Hello thank you for helping us contributors.<br>
+I would like to contribute to the short list of released videos in the article of the 80s rock group [[The Hooters]].  Since there are only 2 currently listed, and more can be found via [http://www.hootersmusic.com/videos.php "The Hooters" website] as well as TheHootersVevo on YouTube ([https://www.youtube.com/watch?v=zB1Q-PfUvN0 example video]), I'd like to know if these are reliable sources for video information (such as copyright year)?<br>  And if you could maybe recommend what kind of sources would be reliable to cite (or who else to ask), your help would be appreciated.  (I do not mean this as a reference question - thanks.)<br>[[User:Bwefler|Bwefler]] ([[User talk:Bwefler|talk]]) 18:19, 22 April 2014 (UTC)
+
+:The Hooters official web site would be fine for dates of release of various songs, albums, videos, etc.  I would shy away from using their YouTube VEVO channel because the songs that a band has on their channel can sometimes change which would lead to us having a link to a video that no longer exists on YouTube in, for example, six months.   <span style="font-family:monospace;">[[User:Dismas|Dismas]]</span>|[[User talk:Dismas|<sup>(talk)</sup>]] 18:43, 22 April 2014 (UTC)
+
+::Thanks Dismas.  I also noticed info on [http://www.mtv.com/artists/ Mtv.com/artists]. [[User:Bwefler|Bwefler]] ([[User talk:Bwefler|talk]]) 19:05, 22 April 2014 (UTC)<br>
+::Also, do entries in a videography / videos list have to show a source citation? [[User:Bwefler|Bwefler]] ([[User talk:Bwefler|talk]]) 19:10, 22 April 2014 (UTC)
+:::When filmographies for actors are listed, we generally don't reference them because the film itself is its own reference, essentially.  Although more obscure films or films that haven't yet been released can be problematic, so in those cases it's best to have some sort of reference for not only the existence but the release dates and titles.  e.g. it eliminates arguments about if it's called "Example Film" or "THE Example Film".  I would err on the side of caution with something like a band's concert video.  <span style="font-family:monospace;">[[User:Dismas|Dismas]]</span>|[[User talk:Dismas|<sup>(talk)</sup>]] 19:33, 22 April 2014 (UTC)
+
+== "Super HidrofobicEngineered CementiousComposite"  ==
+
+To Day i have seen in Enadu Daily in Telegu in Andhra Pradesh NEWS ' Washington: concrete was developed by the Wisconsin-Milwaukee university Professors of Civil Engineering devised the above captioned : Cement Concreate in USA stating that it will last for 120 years and shall not give any Crakes. Kindly secure the matter and post it in the Wikipedia .Thank you sir. 
+I am Indian National River Water Utility Ana-list and Author of Inter-Linkage of Indian Rivers.Book not yet published.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/117.200.1.113|117.200.1.113]] ([[User talk:117.200.1.113|talk]]) 19:47, 22 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:Sorry, I do not understand what you are asking us to do. Which Wikipedia article do you feel is missing information or has incorrect information? Please wikilink that article for us. --[[User:Demiurge1000|Demiurge1000]] ([[User_talk:Demiurge1000|talk]]) 20:10, 22 April 2014 (UTC)
+
+:I think he is talking about [http://www.wistrans.org/cfire/research/projects/04-09/ Superhydrophobic Engineered Cementitious Composites for Highway Bridge Applications] and would like us to write an article about it.  Or possibly add material to an existing article—[[Hydrophobic concrete]] looks desperate for more material. You might try [[Wikipedia talk:WikiProject Civil engineering]], someone there might be interested. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 22:06, 22 April 2014 (UTC)
+:[http://www.azobuild.com/news.aspx?newsID=18245 Here is a link] to the Superhydrophobic Engineered Cementitious Composite developed at the [[University of Wisconsin-Milwaukee]]. --[[User:Orangemike|<font color="darkorange">Orange Mike</font>]] &#x007C; [[User talk:Orangemike|<font color="orange">Talk</font>]] 12:28, 23 April 2014 (UTC)
+
+== Art ==
+
+Hi, I want to add an Art exhibition -Rumpus. that took place two weeks ago in Limerick for Limerick City of Culture, The exhibition was called Rumpus, a printmaking exhibition by 3rd year students. A Rumpus exhibition will now occur every 3 months somewhere different in the country, representing young Irish Printmakers. but it won't let me add it, how do I go about doing this? I tried but it was deleted. Thank you  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:RumpusX|RumpusX]] ([[User talk:RumpusX|talk]] • [[Special:Contributions/RumpusX|contribs]]) 20:03, 22 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:Third year of primary school, secondary school, art college, or something else? Even from only a few hundred miles away, it's difficult to tell.
+
+:Start with [[WP:42]], also see [[WP:COI]] if necessary, then go to [[WP:AFC]] once you have collected the independent reliable sources required. --[[User:Demiurge1000|Demiurge1000]] ([[User_talk:Demiurge1000|talk]]) 20:08, 22 April 2014 (UTC)
+
+::Ie, is it notable? Is it worthy of putting under a "culture" section in [[Limerick]] and, are you just [[Wikipedia:COI|too close to the subject & striving for free publicity]]? Wikipedia is not a free website for non-notable events, even though it's sure to be a hit all over the country – eventually. [[User:Manytexts|Manytexts]] ([[User talk:Manytexts|talk]]) 01:32, 23 April 2014 (UTC)
+
+== Crystal Lake South High School ==
+
+Hi - After reading the bio on CLS, the last paragraph should be removed as it is a prank in my opinion.  It states..
+
+<blockquote>
+The school now just as any other high school practices the destruction of childrens minds. Forcefully provoking a social structure based on material and work ethic. Instead of the more purposeful expansion of mindfulness, creativity, and a true expansion of an individual on an individual basis.
+</blockquote>
+
+Thanks [[Special:Contributions/107.201.174.107|107.201.174.107]] ([[User talk:107.201.174.107|talk]]) 21:11, 22 April 2014 (UTC)
+:Yes, it was vandalism; I've removed it and warned the user who added it. Thanks for reporting, ~[[User:HueSatLum|hue]][[User talk:HueSatLum#top|sat]][[Special:Contributions/HueSatLum|lum]] 21:21, 22 April 2014 (UTC)
+
+== Editing stubs ==
+
+Where can you find stubs which desperately need editing?  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2601:9:4F80:279:95A2:580E:8757:C48B|2601:9:4F80:279:95A2:580E:8757:C48B]] ([[User talk:2601:9:4F80:279:95A2:580E:8757:C48B|talk]]) 23:51, 22 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+Sorry I forgot to log in.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Cricket rules|Cricket rules]] ([[User talk:Cricket rules|talk]] • [[Special:Contributions/Cricket rules|contribs]]) 23:55, 22 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:Try this [[:Category:Top-level stub categories]] [[User:RJFJR|RJFJR]] ([[User talk:RJFJR|talk]]) 00:15, 23 April 2014 (UTC)
+
+Thank you.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Cricket rules|Cricket rules]] ([[User talk:Cricket rules|talk]] • [[Special:Contributions/Cricket rules|contribs]]) 00:24, 23 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->

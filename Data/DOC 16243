@@ -1,0 +1,26 @@
+Title : Template:Continental film awards
+Text : {{Navbox
+|name = Continental film awards
+|title = Continental film awards
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|list1 = 
+*Africa
+**[[Africa Movie Academy Awards]]
+*Asia
+**[[Asian Film Awards]]
+**[[Asia Pacific Screen Awards]]
+*Europe
+**[[European Film Awards]]
+**[[Lux Prize]]
+*Ibero-America
+**[[Platino Awards]]
+**Premio Fénix
+*Francophone
+**[[Lumières Award]]
+
+}}<includeonly>
+</includeonly><noinclude>
+{{collapsible option}}
+[[Category:Film award templates]]
+</noinclude>

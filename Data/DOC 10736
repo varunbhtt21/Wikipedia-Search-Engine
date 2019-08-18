@@ -1,0 +1,38 @@
+Title : Wikipedia:WikiProject Spam/Local/tjdb.org
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|tjdb.org]]
+== Links ==
+* {{LinkSummary|tjdb.org}}
+:* tjdb.org resolves to [//184.107.153.34 184.107.153.34]
+:*: {{LinkSummary|184.107.153.34}}
+:* {{GoogleAnalyticsSummary|40171718}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Nehaysingh}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12139670|lang=en|wikidomain=w|namespace=|pagename=The Journal Database|username=Nehaysingh|link=tjdb.org|sortdomain=org.tjdb.|domain=tjdb.org|origdiff=http://en.wikipedia.org/w/index.php?oldid=605924064&rcid=651497323|resolved=184.107.153.34|isIP=0|date=2014-04-26|time=18:05:42|wiki=en.wikipedia.org|revid=605924064|oldid=0|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=5|top=0|deleted=1|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=tjdb.org|domain=tjdb.org|U=5|L=5|UL=5|WUL=0|analytics=40171718}}{{User:COIBot/OtherLinks|link=www.tjdb.org/Statistics|domain=tjdb.org|U=5|L=5|UL=5|WUL=0|analytics=40171718}}{{User:COIBot/OtherLinks|link=tjdb.org/Journals|domain=tjdb.org|U=5|L=5|UL=5|WUL=0|analytics=40171718}}{{User:COIBot/OtherLinks|link=tjdb.org|domain=tjdb.org|U=5|L=5|UL=5|WUL=0|analytics=40171718}}}}
+{{User:COIBot/EditSummary|id=12238796|lang=en|wikidomain=w|namespace=|pagename=The Journal Database|username=Nehaysingh|link=www.tjdb.org/Journals|sortdomain=org.tjdb.|domain=tjdb.org|origdiff=http://en.wikipedia.org/w/index.php?diff=606017426&oldid=606017087|resolved=X|isIP=0|date=2014-04-27|time=11:18:55|wiki=en.wikipedia.org|revid=606017426|oldid=606017087|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=5|top=0|deleted=1|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.tjdb.org/Journals|domain=tjdb.org|U=5|L=5|UL=5|WUL=0}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 2 additions out of 2 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/tjdb.org]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \btjdb\.org\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/tjdb.org]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/tjdb.org|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 19:06, 27 April 2014 (UTC)
+<!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). <!-- noleft -->No links left in here mentioned edits.  Marked stale. . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 10:16, 8 June 2014 (UTC)

@@ -1,0 +1,38 @@
+Title : Wikipedia:WikiProject Spam/Local/infosrilankanews.com
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|infosrilankanews.com]]
+== Links ==
+* {{LinkSummary|infosrilankanews.com}}
+:* infosrilankanews.com resolves to [//216.239.38.21 216.239.38.21]
+:*: {{LinkSummary|216.239.38.21}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Rawanasinghe}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12262985|lang=en|wikidomain=w|namespace=|pagename=List of Sri Lankan news sites|username=Rawanasinghe|link=www.infosrilankanews.com|sortdomain=com.infosrilankanews.|domain=infosrilankanews.com|origdiff=http://en.wikipedia.org/w/index.php?diff=606045149&oldid=605244972|resolved=74.125.22.121|isIP=0|date=2014-04-27|time=15:39:15|wiki=en.wikipedia.org|revid=606045149|oldid=605244972|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=7|top=1|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.infosrilankanews.com|domain=infosrilankanews.com|U=7|L=7|UL=7|WUL=0}}}}
+{{User:COIBot/EditSummary|id=12264078|lang=en|wikidomain=w|namespace=|pagename=Info Sri Lanka News|username=Rawanasinghe|link=www.infosrilankanews.com|sortdomain=com.infosrilankanews.|domain=infosrilankanews.com|origdiff=http://en.wikipedia.org/w/index.php?oldid=606047373&rcid=651679576|resolved=74.125.22.121|isIP=0|date=2014-04-27|time=15:56:06|wiki=en.wikipedia.org|revid=606047373|oldid=0|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=7|top=0|deleted=1|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.infosrilankanews.com|domain=infosrilankanews.com|U=7|L=7|UL=7|WUL=0}}{{User:COIBot/OtherLinks|link=www.infosrilankanews.com|domain=infosrilankanews.com|U=7|L=7|UL=7|WUL=0}}{{User:COIBot/OtherLinks|link=www.infosrilankanews.com|domain=infosrilankanews.com|U=7|L=7|UL=7|WUL=0}}{{User:COIBot/OtherLinks|link=www.infosrilankanews.com|domain=infosrilankanews.com|U=7|L=7|UL=7|WUL=0}}}}
+{{User:COIBot/EditSummary|id=12271311|lang=en|wikidomain=w|namespace=|pagename=Info Sri Lanka News|username=Rawanasinghe|link=www.infosrilankanews.com|sortdomain=com.infosrilankanews.|domain=infosrilankanews.com|origdiff=http://en.wikipedia.org/w/index.php?oldid=606060398&rcid=651696086|resolved=74.125.22.121|isIP=0|date=2014-04-27|time=17:28:06|wiki=en.wikipedia.org|revid=606060398|oldid=0|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=7|top=0|deleted=1|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.infosrilankanews.com|domain=infosrilankanews.com|U=7|L=7|UL=7|WUL=0}}{{User:COIBot/OtherLinks|link=www.infosrilankanews.com|domain=infosrilankanews.com|U=7|L=7|UL=7|WUL=0}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 3 additions out of 3 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/infosrilankanews.com]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \binfosrilankanews\.com\b&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/infosrilankanews.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/infosrilankanews.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 22:11, 27 April 2014 (UTC)
+<!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 08:48, 11 May 2014 (UTC)

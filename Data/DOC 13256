@@ -1,0 +1,18 @@
+Title : Template:Latest stable software release/Tor Browser
+Text : {{LSR 
+| article = Tor (anonymity network)
+| latest_release_version = 8.5.4
+| latest_release_date = {{Start date and age|mf=yes|2019|7|10}}<ref name="desktop-version">{{cite web
+  | url = https://blog.torproject.org/new-release-tor-browser-854
+  | title = New Release: Tor Browser 8.5.4
+  | date = 9 July 2019
+  | accessdate = 10 July 2019
+}}</ref>}}
+<noinclude>
+
+➔ Back to article "'''[[Tor (anonymity network)#Tor Browser]]'''"
+
+{{Template reference list}}
+
+[[Category:Latest stable software release templates|Tor Browser]]
+</noinclude>

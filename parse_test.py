@@ -12,7 +12,6 @@ def Extract_Infobox(word):
 	st = ""
 
 	for i in word:
-
 		if flag == 1:
 			for j in i.split(" "):
 				if j == 'Infobox':
@@ -21,23 +20,24 @@ def Extract_Infobox(word):
 					break
 		
 		st += str(i)
-
 	infobox = st.split("}}")[0]
-
 	print(infobox)
 
 
-tree = ET.parse('wiki.xml')
+
+tree = ET.iterparse('wiki.xml')
 root = tree.getroot()
 count = 0
 
+
 for tag in root:
-	
 	page = str(tag)
 	page = processing(page)
 
 	# FOR PAGES
 	if page == 'page':
+		count += 1
+		f = open("Data/DOC "+str(count), 'w')
 
 		# FOR TITLES
 		for tit in tag:
@@ -46,16 +46,25 @@ for tag in root:
 
 			if title == 'title':
 				print("title : ",tit.text)
-                                                           
-                                                       
+				if type(tit.text) is not None:
+					f.write("Title : " + tit.text.encode('utf8') + "\n")
+                        
+                              
 			# FOR TEXT
 			if title == 'revision':
 				for tex in tit:
 					if processing(str(tex)) == 'text':
-						Extract_Infobox(str(tex.text.encode('utf8')))
-						count += 1
-						if count == 3:
-							exit()
+
+						# Extract_Infobox(str(tex.text.encode('utf8')))
+						print("text : ", tex.text)
+
+						if tex.text is not None:
+							f.write("Text : " + tex.text.encode('utf8') + "\n")
+                                                                               
+		f.close()
+
+
+
 
 
 			

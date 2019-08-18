@@ -1,0 +1,49 @@
+Title : PPT-DB
+Text : {{Orphan|date=January 2017}}
+
+ [[File:UoA biolab PPT DB.png|thumb|PPT DB website home page]]
+
+The Protein Property Prediction and Testing Database ('''PPT-DB''') is a collection of protein property databases for over 20 different protein properties including secondary structure, trans-membrane helices and beta barrels, accessible surface area, signal peptides, and more. PPT-DB is published in 2008. Its protocol is available via [http://www.pptdb.ca/  PPT-DB website] <ref>[http://nar.oxfordjournals.org/cgi/content/abstract/36/suppl_1/D222   David S. Wishart, David Arndt, Mark Berjanskii, An Chi Guo, Yi Shi, Savita Shrivastava, Jianjun Zhou, You Zhou and Guohui Lin: PPT-DB: the protein property prediction and testing database. Nucleic Acids Research 2008 36(Database issue):D222-D229.] </ref>
+
+==Database==
+# All Properties
+# 2° Structure (cytoplasmic)
+# EVA 2o Structure Test Set
+# 2° Structure (membrane helix)
+# TMH Benchmark Test Set
+# 2° Structure (membrane barrel)
+# 2° Structure (cytoplasmic)
+# Beta Turns
+# Coiled-coil
+# Edge/Central Beta Strands
+# Beta Hairpins
+# Disulfide Bonds
+# SPdb (Eukaryotic)
+# SPdb (Gram+)
+# SPdb (Gram-)
+# Signal Peptide (Eukaryotic)
+# Signal Peptide (Gram+)
+# Signal Peptide (Gram-)
+# Accessible Surface Area (%)
+# Accessible Surface Area (Integerized)
+# B-factor (Real value)
+# B-factor (Integerized)
+# RMSF (Real value)
+# RMSF (Integerized)
+# Order Parameter (Calculated)
+# Order Parameter (Integerized)
+# Contact Order
+# Folding Rate
+# 3D Folding Decoys
+# Amyloidogenic Proteins
+
+==References==
+{{reflist}}
+
+==See also==
+*[[Biology]]
+*[[Microbiology]]
+*[[DNA]]
+*[[Protein]]
+
+[[Category:Biological databases]]

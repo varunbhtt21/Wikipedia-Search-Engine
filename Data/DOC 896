@@ -1,0 +1,6 @@
+Title : Template:Dormant/sandbox
+Text : {{ ombox
+| image = [[file:Nuvola apps kmoon.png|30x30px]]
+| text  = '''This proposal has become dormant through lack of discussion by the community.''' It is inactive but retained for historical interest. If you want to revive discussion on this subject, try using the [[{{NAMESPACE}} talk:{{PAGENAME}}|talk page]] or start a discussion at the [[Wikipedia:Village pump|village pump]].
+| imageright = {{#if:{{{1|}}} | {{Ombox/shortcut|{{{1|}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}}} }}
+}}{{{category|[[Category:Wikipedia archives|{{PAGENAME}}]]}}}

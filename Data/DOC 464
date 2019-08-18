@@ -1,0 +1,20 @@
+Title : Template:WikiProject Colored Conventions
+Text : {{WPBannerMeta
+|PROJECT             = Colored Conventions
+|substcheck=<includeonly>{{subst:</includeonly><includeonly>substcheck}}</includeonly>
+|small={{{small|}}}
+|category={{{category|¬}}}
+|listas={{{listas|}}}
+|BANNER_NAME        = Template:WikiProject Colored Conventions
+|PROJECT_LINK		= Wikipedia:WikiProject Colored Conventions
+|IMAGE_LEFT         = NationalColoredUnionConventionHarpersWeekly1869.jpg
+|IMAGE_LEFT_SMALL   = 
+|IMAGE_LEFT_LARGE  = 
+|ASSESSMENT_LINK     = 
+|MAIN_TEXT           = 
+|MAIN_ARTICLE        = topics of interest to the [[Wikipedia:WikiProject Colored Conventions | Colored Conventions Project]]
+|MAIN_CAT            = WikiProject Colored Conventions articles
+}}<noinclude>
+{{Documentation}}
+<!-- PLEASE ADD THIS TEMPLATE'S CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS -->
+</noinclude>

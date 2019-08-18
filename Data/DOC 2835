@@ -1,0 +1,66 @@
+Title : Wikipedia:Wikipedia Signpost/Templates/Story-preload/FC
+Text : <no<noinclude/>include><includeonly>{{Signpost draft
+ |title              = <!-- Copy the title from below here-->
+ |blurb              = <!-- REPLACE THIS with a short description / blurb -->
+ |Ready-for-copyedit = No
+ |Copyedit-done      = No
+ |Final-approval     = No <!--Should only be used by EiC -->
+}}
+{{Wikipedia:Wikipedia Signpost/Templates/RSS description
+ |1=<!-- LEAVE BLANK to use "<title>: <blurb>" (using title and blurb from above), or replace with a custom description for the RSS feed -->
+}}</includeonly>{{Wikipedia:Wikipedia Signpost/Templates/Signpost-header|||}}</no<noinclude />include>
+
+{{Wikipedia:Wikipedia Signpost/Templates/Signpost-article-header-v2
+ |{{{1|YOUR ARTICLE'S DESCRIPTIVE TITLE HERE<!-- REPLACE THIS-->}}}
+ |By [[User:{{<includeonly>subst:</includeonly>REVISIONUSER}}|{{<includeonly>subst:</includeonly>REVISIONUSER}}]]
+}}
+
+{{Wikipedia:Wikipedia Signpost/Templates/Signpost-block-start-v2|fullwidth=no<!--CHANGE TO YES FOR A 'FULLWIDTH' ARTICLE-->}}
+
+{{Signpost inline image|image=File:Bar - Instalace Neviditelná fontána (instalace ve Veletržním paláci - NG).jpg|caption=Lead image caption.}}
+----
+<center>'''''This ''Signpost'' "Featured content" report covers material promoted from [date] through [date]. For nominations and nominators, see the featured contents' talk pages.'''''</center>
+----
+{{Wikipedia:Wikipedia Signpost/Templates/Signpost-block-end-v2}}
+{{Wikipedia:Wikipedia Signpost/Templates/Signpost-block-start-v2|fullwidth}}
+===Featured articles===
+X [[WP:FA|featured article]]s were promoted this period.
+<gallery mode=packed heights=250px>
+File:Foo.jpg|[[ARTICLE]]
+File:Foo.jpg|[[ARTICLE]]
+File:Foo.jpg|[[ARTICLE]]
+File:Foo.jpg|[[ARTICLE]]
+</gallery>
+
+===Featured lists===
+X [[WP:FL|featured list]]s were promoted this period.
+<gallery mode=packed heights=250px>
+File:Foo.jpg|[[LIST]]
+File:Foo.jpg|[[LIST]]
+File:Foo.jpg|[[LIST]]
+File:Foo.jpg|[[LIST]]
+</gallery>
+
+===Featured pictures===
+X [[WP:FP|featured picture]]s were promoted this period.
+<gallery mode=packed heights=250px>
+File:Foo.jpg|[[:File:FILENAME|DESCRIPTION]]
+File:Foo.jpg|[[:File:FILENAME|DESCRIPTION]]
+File:Foo.jpg|[[:File:FILENAME|DESCRIPTION]]
+File:Foo.jpg|[[:File:FILENAME|DESCRIPTION]]
+</gallery>
+
+===Featured topics===
+X [[WP:FT|featured topic]]s were promoted this period.
+<gallery mode=packed heights=250px>
+File:Foo.jpg|[[Wikipedia:Featured topics/TOPIC|TOPIC]]
+File:Foo.jpg|[[Wikipedia:Featured topics/TOPIC|TOPIC]]
+File:Foo.jpg|[[Wikipedia:Featured topics/TOPIC|TOPIC]]
+File:Foo.jpg|[[Wikipedia:Featured topics/TOPIC|TOPIC]]
+</gallery>
+
+{{Signpost inline image|image=File:Bar - Instalace Neviditelná fontána (instalace ve Veletržním paláci - NG).jpg|caption=Footer image caption.}}<!--Delete if there's not a suitable footer image. -->
+
+{{Wikipedia:Wikipedia Signpost/Templates/Signpost-block-end-v2}}
+{{Wikipedia:Wikipedia Signpost/Templates/Signpost-article-end-v2}}
+<no<noinclude />include>{{Wikipedia:Signpost/Template:Signpost-article-comments-end||{{<includeonly>subst:</includeonly>Wikipedia:Wikipedia Signpost/Issue|1}}|<noinclude>|demospace=1</noinclude>}}</no<noinclude />include><noinclude>[[Category:Wikipedia Signpost templates|{{SUBPAGENAME}}]]</noinclude>

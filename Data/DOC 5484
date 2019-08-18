@@ -1,0 +1,36 @@
+Title : Linear Heat Detection
+Text : {{notability|date=September 2015}}
+{| class="infobox" style="width: 30em; font-size: 90%; text-align: left"
+|-
+! Typical Detecting Temperature
+| 68&nbsp;°C<ref name="Typical LHD Temperatures for buildings">{{cite web|title=Linear Heat Detection cable information|url=https://www.tyco-fire.com/TFP_common/TFBP_LHD_Slick.pdf|accessdate=26 April 2014}}</ref> (building)
+| 180&nbsp;°C (plant)
+|-
+! Maximum Length
+| 3000m<ref name="Typical LHD Temperatures for buildings">{{cite web|title=Linear Heat Detection cable information|url=https://www.tyco-fire.com/TFP_common/TFBP_LHD_Slick.pdf|accessdate=26 April 2014}}</ref><ref>{{cite web|title=Safe Fire Detection, LHD Information|url=http://www.safefiredetection.com/pages/What_is_LHD.htm|publisher=Safe Fire Detection|accessdate=26 April 2014}}</ref> 
+|-
+|}
+'''Linear Heat Detection''' ('''LHD''') (also known as '''Linear Detection Wire''' or '''Linear Heat Detection Cable''' or '''Linear Heat''') is a very commonly used method of fire detection. It can detect a fire anywhere along the length of the cable, and can be of lengths in excess of a kilometer.
+
+Applications can range from building [[fire alarm systems]] to mobile [[heavy equipment|plant machinery]].
+
+== Operation ==
+Linear Heat Detection (LHD) cable is essentially a two-core cable terminated by an end-of-line [[resistor]] (resistance varies with application). The two cores are separated by a polymer plastic, that is designed to melt at a specific temperature (commonly 68&nbsp;°C for building applications<ref name="Typical LHD Temperatures for buildings">{{cite web|title=Linear Heat Detection cable information|url=https://www.tyco-fire.com/TFP_common/TFBP_LHD_Slick.pdf|accessdate=26 April 2014}}</ref>), and without which causes the two cores to [[Short circuit|short]]. This can be seen as a change in [[Electrical resistance and conductance|resistance]] in the wire.
+
+There are a limited states the LHD cable can be in:
+# Open-circuit - Effectively an infinite resistance 
+# Normal Operating Condition - Apparent resistance will be the same as the end-of-line resistor
+# Fire Detection - Resistance of the Linear Heat Cable to the short circuit
+
+==See also==
+* [[Automatic fire suppression]]
+* [[Distributed temperature sensing]] for linear heat detection using optical fibers
+* [[Fire alarm]]
+
+==References==
+{{Reflist}}
+
+[[Category:Active fire protection]]
+[[Category:Safety equipment]]
+[[Category:Fire detection and alarm]]
+[[Category:Detectors]]

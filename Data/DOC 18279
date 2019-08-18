@@ -1,0 +1,40 @@
+Title : Template:Attached KML/Wall Street
+Text : <?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Wall Street</name>
+	<Style id="line-DB4436-4">
+		<LineStyle>
+			<color>ff3644db</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-000000-4">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Wall Street</name>
+		<Placemark>
+			<name>Wall Street (pedestrians only)</name>
+			<styleUrl>#line-000000-4</styleUrl>
+			<LineString>
+				<coordinates>
+					-74.01171684265137,40.70776287206994,0 -74.00951743125916,40.70638025604358,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Wall Street</name>
+			<styleUrl>#line-DB4436-4</styleUrl>
+			<LineString>
+				<coordinates>
+					-74.00951743125916,40.70638025604358,0 -74.00792419910431,40.70553847281656,0 -74.00742530822754,40.70517247679049,0 -74.00696396827698,40.70478207881243,0 -74.00632560253143,40.70424121116564,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

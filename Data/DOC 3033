@@ -1,0 +1,134 @@
+Title : List of power stations in Qatar
+Text : {{more footnotes|date=April 2014}}
+
+{{Location map+|Qatar|width=350|float=right|caption=Location of power stations in Qatar [[File:Orange pog.svg|15px]] Gas
+|places=
+  {{Location map~|Qatar|lat_deg=26|lat_min=3|lon_deg=51|lon_min=3|position=top|mark=Orange pog.svg|background=|label=<small>Al Arish</small>}}
+  {{Location map~|Qatar|lat_deg=25|lat_min=55|lon_deg=51|lon_min=32|position=top|mark=Orange pog.svg|background=|label=<small>Ras Laffan</small>}}
+  {{Location map~|Qatar|lat_deg=25|lat_min=12|lon_deg=51|lon_min=37|position=right|mark=Orange pog.svg|background=|label=<small>Ras Abu Fontas</small>}}
+  {{Location map~|Qatar|lat_deg=25|lat_min=12|lon_deg=51|lon_min=23|position=left|mark=Orange pog.svg|background=|label=<small>Saliyah</small>}}
+  {{Location map~|Qatar|lat_deg=24|lat_min=59|lon_deg=51|lon_min=35|position=bottom|mark=Orange pog.svg|background=|label=<small>Mesaieed</small>}}
+}}
+
+The following is a '''list of the power stations in [[Qatar]]'''.
+
+==Gas==
+
+{| class="wikitable sortable"
+! width="21%" | Name
+! width="6%" | Capacity (MW)
+! width="10%" | Commissioned
+! width="20%" | Location
+! width="10%" | Refs
+|-
+| Al Arish
+| 8.5 <small>(at commission date)</small>
+| 1975
+| [[Al `Arish]]
+| <ref>{{cite book|title=Qatar: Year Book 1980–81|url=https://books.google.com/books?id=AZpPAQAAMAAJ|publisher=Press and Publications Department, Ministry of Information|year=1981|location=Doha|page=116}}</ref>
+|-
+| Mesaieed 
+| 2007
+| 2008–2010
+| [[Mesaieed Industrial Area]]
+| <ref>{{cite web | url=http://globalenergyobservatory.org/form.php?pid=43587 | title=Mesaieed CCGT Power Plant | publisher=Global Energy Observatory | accessdate=25 April 2014}}</ref>
+|-
+| [[Qatalum]]
+| 1350
+| 2011
+| [[Mesaieed Industrial Area]]
+|<ref name="geo4" />
+|-
+| Ras Abu Fontas A
+| 626
+| 1977,1993,1997
+| [[Ras Abu Fontas]]
+| <ref name="geo5" />
+|-
+| Ras Abu Fontas B
+| 609<ref name="geo6" /> or 625<ref name="IndustCardsCC">{{cite web | url=http://www.industcards.com/cc-qatar.htm | title=Gas Turbine and Combined-Cycle Power Plants in Qatar | publisher=Power Plants Around The World | work=Gallery | date=30 March 2013 | accessdate=25 April 2014 | deadurl=yes | archiveurl=http://arquivo.pt/wayback/20090718065910/http://www.industcards.com/cc%2Dqatar.htm | archivedate=13 April 2014 | df= }}</ref>
+| 1995-1996
+| [[Ras Abu Fontas]]
+|
+|-
+| Ras Laffan A
+| 756
+| 2003
+| [[Ras Laffan Industrial City]]
+|<ref name="geo3" />
+|-
+| Ras Laffan B
+| 1025
+| 2006–2008
+| [[Ras Laffan Industrial City]]
+|<ref name="geo2" />
+|-
+| [[Ras Qartas Energy Plant|Ras Laffan C]]
+| 2730
+| 2010–2011
+| [[Ras Laffan Industrial City]]
+|<ref name="geo1" />
+|-
+| Saliyah
+| 134
+| 1983
+| [[Al Sailiya]]
+| <ref name="IndustCardsCC" /><ref>{{cite web | url=http://globalenergyobservatory.org/form.php?pid=2017 | title=Al Saliyah GT Power Plant | publisher=Global Energy Observatory | accessdate=25 April 2014}}</ref>
+|-
+|}
+
+==See also==
+{{Portal|Energy}}
+*[[Energy in Qatar]]
+*[[List of largest power stations in the world]]
+
+==References==
+{{reflist
+| refs =
+
+<ref name="geo1">{{cite web
+| title      = Ras Laffan C (Ras Qartas) CCGT Power Plant Qatar
+| publisher  = Global Energy Observatory
+| url        = http://globalenergyobservatory.org/geoid/42860
+| accessdate = 2015-03-28
+}}</ref>
+
+<ref name="geo2">{{cite web
+| title      = Ras Laffan B CCGT Power Plant Qatar
+| publisher  = Global Energy Observatory
+| url        = http://globalenergyobservatory.org/geoid/5023
+| accessdate = 2015-03-28
+}}</ref>
+
+<ref name="geo3">{{cite web
+| title      = Ras Laffan A Cogen GT Power Plant Qatar
+| publisher  = Global Energy Observatory
+| url        = http://globalenergyobservatory.org/geoid/5022
+| accessdate = 2015-03-28
+}}</ref>
+
+<ref name="geo4">{{cite web
+| title      = Qatalum CCGT Power Plant Qatar
+| publisher  = Global Energy Observatory
+| url        = http://globalenergyobservatory.org/geoid/45477
+| accessdate = 2015-03-28
+}}</ref>
+
+<ref name="geo5">{{cite web
+| title      = Ras Abu Fontas A OCGT Cogen Power Plant Qatar
+| publisher  = Global Energy Observatory
+| url        = http://globalenergyobservatory.org/geoid/5018
+| accessdate = 2015-03-28
+}}</ref>
+
+<ref name="geo6">{{cite web
+| title      = Ras Abu Fontas B OCGT Cogen Power Plant Qatar
+| publisher  = Global Energy Observatory
+| url        = http://globalenergyobservatory.org/geoid/5019
+| accessdate = 2015-03-28
+}}</ref>
+}}
+
+{{GeoGroupTemplate}}
+{{Power stations}}
+[[Category:Lists of power stations by country|Qatar]]

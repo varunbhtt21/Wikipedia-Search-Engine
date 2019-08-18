@@ -1,0 +1,51 @@
+Title : Template:WikiProject Hong Kong/sandbox
+Text : {{WPBannerMeta
+|PROJECT               = Hong Kong
+ |substcheck=<includeonly>{{subst:</includeonly><includeonly>substcheck}}</includeonly>
+ |small={{{small|}}}
+ |category={{{category|¬}}}
+ |listas={{{listas|}}}
+|IMAGE_LEFT            = Regional Emblem of Hong Kong.svg
+ |IMAGE_LEFT_SMALL     = 60px
+ |IMAGE_LEFT_LARGE     = 60px
+|QUALITY_SCALE         = subpage
+ |class={{{class|}}}
+ |importance={{{importance|}}}
+|ASSESSMENT_LINK       = Wikipedia:WikiProject Hong Kong/Assessment
+|MAIN_TEXT             = This {{pagetype|{{{class|}}}}} is within the scope of '''[[Wikipedia:WikiProject Hong Kong|WikiProject Hong Kong]]'''{{#if:{{{small|}}}|.|, a project to coordinate efforts in improving all [[Hong Kong]]-related articles. If you would like to help improve this and other Hong Kong-related articles, you are invited to [[Wikipedia:WikiProject_Hong_Kong/Participants|join this project]].}}
+|PORTAL                = Hong Kong
+|MAIN_CAT              = WikiProject Hong Kong articles
+|attention={{{attention|}}}
+|infobox={{{needs-infobox|}}}
+ |INFOBOX_CAT          = Hong Kong articles without infoboxes
+|note 1={{{image-needed|}}}
+ |NOTE_1_TEXT        = An image is [[Wikipedia:Requested pictures|requested]] for this article as its inclusion will substantially increase the significance of the article. Please remove the <tt>image-needed</tt> parameter once the image is added.
+ |NOTE_1_IMAGE       = Image-request.svg
+ |NOTE_1_CAT         = Wikipedia requested photographs in Hong Kong
+|COMMENTS              = yes
+|tf 1={{{transport|}}}
+ |TF_1_LINK           = Wikipedia:WikiProject Hong Kong/Transport workgroup
+ |TF_1_NAME           = the Hong Kong Transport workgroup
+ |TF_1_NESTED         = Transport
+ |TF_1_IMAGE          = WPHKT pic.png
+ |TF_1_QUALITY        = yes 
+ |tf 1 importance={{{importance|}}}
+ |TF_1_ASSESSMENT_CAT = Hong Kong Transport articles
+ |TF_1_MAIN_CAT       = WikiProject Hong Kong Transport articles
+|tf 2={{{cinema|}}}
+ |TF_2_LINK           = Wikipedia:WikiProject Hong Kong/Hong Kong Cinema Task Force
+ |TF_2_NAME           = Hong Kong Cinema
+ |TF_2_NESTED         = Cinema
+ |TF_2_IMAGE          = Hong Kong film clapperboard.svg
+ |TF_2_QUALITY        = yes 
+ |tf 2 importance={{{importance|}}}
+ |TF_2_ASSESSMENT_CAT = Hong Kong Cinema articles
+|HOOK_BOTTOM      = {{WPBannerMeta/hooks/todolist
+  |TODO_TITLE = Hong Kong To-do
+  |TODO_LINK  = Wikipedia:WikiProject Hong Kong/to do
+ }}
+}}<!--
+-->{{#ifeq:{{{formerFA|}}}|yes|[[Category:Former FA-Class Hong Kong articles|{{PAGENAME}}]]
+}}<noinclude>
+{{documentation}}
+</noinclude>

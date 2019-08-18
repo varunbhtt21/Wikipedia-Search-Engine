@@ -1,0 +1,195 @@
+Title : Template:11TeamBracket-CCHA-with play-in
+Text : {| border=0 cellpadding=0 cellspacing=0 style="font-size: 90%; margin:1em 2em 1em 1em;"
+| &nbsp;
+| colspan="3" style="text-align:center;border:1px solid #aaa;background-color:#f2f2f2;" |{{{RD1|Play-in}}}
+| colspan="2" |
+| colspan="5" style="text-align:center;border:1px solid #aaa;background-color:#f2f2f2;" |{{{RD2|First round}}}
+| colspan="2" |
+| colspan="3" style="text-align:center;border:1px solid #aaa;background-color:#f2f2f2;" |{{{RD3|Finals Play-in}}}
+| colspan="2" |
+| colspan="3" style="text-align:center;border:1px solid #aaa;background-color:#f2f2f2;" |{{{RD4|Semifinals}}}
+| colspan="2" |
+| colspan="3" style="text-align:center;border:1px solid #aaa;background-color:#f2f2f2;" |{{{RD5|Championship}}}
+
+|-
+| height=4 width=1 |&nbsp;
+| width=25|&nbsp;
+| width=140|&nbsp;
+| width=25|&nbsp;
+| width=5|&nbsp;
+| width=5|&nbsp;
+| width=25|&nbsp;
+| width=140|&nbsp;
+| width=25|&nbsp;
+| width=25|&nbsp;
+| width=25|&nbsp;
+| width=5|&nbsp;
+| width=5|&nbsp;
+| width=25|&nbsp;
+| width=140|&nbsp;
+| width=25|&nbsp;
+| width=5|&nbsp;
+| width=5|&nbsp;
+| width=25|&nbsp;
+| width=140|&nbsp;
+| width=25|&nbsp;
+| width=5|&nbsp;
+| width=5|&nbsp;
+| width=25|&nbsp;
+| width=140|&nbsp;
+| width=25|&nbsp;
+
+|-
+| colspan=5|
+| style="border-width:0 0 1px 0; border-style:solid;border-color:black;"|&nbsp;
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD2-seed1|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD2-team1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score1-1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score1-2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score1-3|&nbsp;}}}
+| colspan=6|
+| style="border-width:0 0 1px 0; border-style:solid;border-color:black;"|&nbsp;
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD4-seed1|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD4-team1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD4-score1|&nbsp;}}}
+| style="text-align:center;border-width:0 0 1px 0; border-style:solid;border-color:black;"|&nbsp;
+
+|-
+| height="7"|
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD1-seed1|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD1-team1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD1-score1|&nbsp;}}}
+| style="border-width:0 1px 1px 0; border-style:solid;border-color:black;"|&nbsp;
+| style="border-width:1px 0 0 1px; border-style:solid;border-color:black;"|&nbsp;
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD2-seed2|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD2-team2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score2-1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score2-2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score2-3|&nbsp;}}}
+| colspan=2|
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD3-seed1|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD3-team1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD3-score1|&nbsp;}}}
+| style="border-width:0 1px 1px 0; border-style:solid;border-color:black;"|&nbsp;
+| style="border-width:1px 0 0 1px; border-style:solid;border-color:black;"|&nbsp;
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD4-seed2|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD4-team2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD4-score2|&nbsp;}}}
+| rowspan="12" style="text-align:center;border-width:1px 2px 1px 0; border-style:solid;border-color:black;"|&nbsp;
+
+|-
+| height="7"|
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD1-seed2|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD1-team2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD1-score2|&nbsp;}}}
+| style="border-width:1px 0 0 0; border-style:solid;border-color:black;"|&nbsp;
+| height="7"|
+| colspan=7 style="text-align:center;border-width:0 0 1px 0; border-style:solid;border-color:white;"|&nbsp;
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD3-seed2|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD3-team2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD3-score2|&nbsp;}}}
+| style="border-width:1px 0 0 0; border-style:solid;border-color:black;"|&nbsp;
+
+|-
+| colspan=5|
+| style="text-align:center;border-width:0 0 1px 0; border-style:solid;border-color:white;"|&nbsp;
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD2-seed3|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD2-team3|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score3-1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score3-2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score3-3|&nbsp;}}}
+
+|-
+| colspan=5|
+| height="7"|
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD2-seed4|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD2-team4|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score4-1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score4-2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score4-3|&nbsp;}}}
+
+|-
+| height="24"|
+
+|-
+| colspan=5|
+| style="text-align:center;border-width:0 0 1px 0; border-style:solid;border-color:white;"|&nbsp;
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD2-seed5|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD2-team5|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score5-1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score5-2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score5-3|&nbsp;}}}
+| colspan=11|&nbsp;
+| style="text-align:center;border-width:0 0 1px 0; border-style:solid;border-color:black;"|&nbsp;
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD5-seed1|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD5-team1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD5-score1|&nbsp;}}}
+| colspan="5" style="text-align:center;" |
+
+|-
+| colspan=5|
+| height="7"|
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD2-seed6|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD2-team6|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score6-1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score6-2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score6-3|&nbsp;}}}
+| colspan=11|&nbsp;
+| style="border-width:1px 0 0 0; border-style:solid;border-color:black;"|&nbsp;
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD5-seed2|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD5-team2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD5-score2|&nbsp;}}}
+| colspan="5" style="text-align:center;" |
+
+|-
+| height="24"|
+
+|-
+| colspan=5|
+| style="text-align:center;border-width:0 0 1px 0; border-style:solid;border-color:white;"|&nbsp;
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD2-seed7|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD2-team7|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score7-1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score7-2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score7-3|&nbsp;}}}
+
+|-
+| colspan=5|
+| height="7"|
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD2-seed8|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD2-team8|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score8-1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score8-2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score8-3|&nbsp;}}}
+
+|-
+| height="24"|
+
+|-
+| colspan=5|
+| style="text-align:center;border-width:0 0 1px 0; border-style:solid;border-color:white;"|&nbsp;
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD2-seed9|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD2-team9|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score9-1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score9-2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score9-3|&nbsp;}}}
+| colspan=7|
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD4-seed3|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD4-team3|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD4-score3|&nbsp;}}}
+
+|-
+| colspan=5|
+| height="7"|
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD2-seed10|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD2-team10|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score10-1|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score10-2|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD2-score10-3|&nbsp;}}}
+| colspan=7|
+| style="text-align:center;background-color:#f2f2f2;border:1px solid #aaa;"| {{{RD4-seed4|&nbsp;}}}
+| style="border:1px solid #aaa;background-color:#f9f9f9;padding-left:0.3em;" | {{{RD4-team4|&nbsp;}}}
+| style="text-align:center;border:1px solid #aaa;background-color:#f9f9f9;" | {{{RD4-score4|&nbsp;}}}
+| rowspan="2" style="text-align:center;border-width:1px 0 0 0; border-style:solid;border-color:black;"|&nbsp;
+
+|}{{#invoke:Team bracket tracking|tracking}}<noinclude>{{Documentation}}[[Category:11-Team bracket templates]][[Category:American college ice hockey templates]]</noinclude>

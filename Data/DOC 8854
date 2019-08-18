@@ -1,0 +1,21 @@
+Title : Template:Clarkson Golden Knights football coach navbox
+Text : {{Navbox
+| name        = Clarkson Golden Knights football coach navbox
+| title       = [[Clarkson Golden Knights football|{{white|Clarkson Golden Knights head football coaches}}]]
+| basestyle   = {{CollegePrimaryStyle|Clarkson Golden Knights|color=white}}
+| state       = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass   = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[John M. Reed]] (1921–1924)
+* [[C. B. Johnston]] (c. 1925–1928)
+* [[Pete Dwyer]] (1931–1942)
+* ''No team'' (1943–1945)
+* [[Les Dye]] (1946–1948)
+* [[A. Barr Snively]] (1949–1952)
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Defunct college football program coach navigational boxes]]
+</noinclude>

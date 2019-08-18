@@ -1,0 +1,42 @@
+Title : Template:2004 Summer Olympics New Zealand women's basketball team roster
+Text : <noinclude>
+{{Use dmy dates|date=June 2017}}
+The purpose of this template is to collect source text used in several articles in one place, in order to minimize maintenance and storage space. This is the [[New Zealand women's national basketball team|New Zealand roster]] in the [[Basketball at the 2004 Summer Olympics – Women's tournament|women's basketball tournament]] of the [[2004 Summer Olympics]].  The template is typically used in two articles: the article covering [[New Zealand at the 2004 Summer Olympics]], and the article covering the [[Basketball at the 2004 Summer Olympics – Women's team squads|rosters of all participating teams]] of the tournament.
+
+</noinclude>The following is the New Zealand roster in the women's basketball tournament of the 2004 Summer Olympics.<ref>{{cite web|title=Women's Basketball Team Roster – New Zealand (NZL)|url=http://library.la84.org/6oic/OfficialReports/2004/Results/Basketball.pdf|format=[[PDF]]|page=12|work=[[2004 Athens]]|publisher=[[LA84 Foundation]]|date=9 April 2014}}</ref>
+
+{{FIBA roster header|team=New Zealand women's national basketball team – 2004 Summer Olympics
+|template name=2004 Summer Olympics New Zealand women's basketball team roster
+| color1 = #fefefe| bg1 = #020202| color2 = #020202| bg2 = #fefefe}}
+<!-- list of players -->
+{{FIBA player|df=y| num = 4 | nat= NZL | first = Leanne | last = Walker | pos = G | m = 1.66 | year = 1978 | month = 3 | date = 28 | compyear = 2004 | compmonth = 8 | compdate = 13 | club = Waikato Lady Titans | note = C}}
+{{FIBA player|df=y| num = 5 | nat= AUS | first = Rebecca | last = Cotton | pos = F | m = 1.84 | year = 1974 | month = 8 | date = 23 | compyear = 2004 | compmonth = 8 | compdate = 13 | club = Launceston Tornadoes }}
+{{FIBA player|df=y| num = 6 | nat= AUS | first = Angela | last = Marino | pos = G | m = 1.66 | year = 1986 | month = 2 | date = 3 | compyear = 2004 | compmonth = 8 | compdate = 13 | club = Adeilaide Sturt Sabres }}
+{{FIBA player|df=y| num = 7 | nat= NZL | first = Kim | last = Wielens | pos = G | m = 1.77 | year = 1977 | month = 9 | date = 25 | compyear = 2004 | compmonth = 8 | compdate = 13 | club = Nelson Sparks }}
+{{FIBA player|df=y| num = 8 | nat= GBR | first = Megan | last = Compain | pos = G | m = 1.75 | year = 1975 | month = 9 | date = 18 | compyear = 2004 | compmonth = 8 | compdate = 13 | club = Rhondda Rebels }}
+{{FIBA player|df=y| num = 9 | nat= NZL | first = Donna | last = Loffhagen | link = Donna Wilkins | pos = F | m = 1.85 | year = 1978 | month = 4 | date = 29 | compyear = 2004 | compmonth = 8 | compdate = 13 | club = Otago Breakers }}
+{{FIBA player|df=y| num = 10 | nat= HUN | first = Gina | last = Farmer | pos = C | m = 1.87 | year = 1974 | month = 12 | date = 12 | compyear = 2004 | compmonth = 8 | compdate = 13 | club = NKK Szolnok }}
+{{FIBA player|df=y| num = 11 | nat= NZL | first = Tania | last = Tupu | pos = G | m = 1.80 | year = 1973 | month = 12 | date = 28 | compyear = 2004 | compmonth = 8 | compdate = 13 | club = Waikato Lady Titans }}
+{{FIBA player|df=y| num = 12 | nat= NZL | first = Sally | last = Farmer | pos = F/C | m = 1.88 | year = 1976 | month = 5 | date = 20 | compyear = 2004 | compmonth = 8 | compdate = 13 | club = Canterbury Wildcats }}
+{{FIBA player|df=y| num = 13 | nat= AUS | first = Julie | last = Ofsoski | pos = F | m = 1.80 | year = 1973 | month = 4 | date = 4 | compyear = 2004 | compmonth = 8 | compdate = 13 | club = Knox Raiders }}
+{{FIBA player|df=y| num = 14 | nat= NZL | first = Jody | last = Tini | pos = F | m = 1.79 | year = 1976 | month = 2 | date = 10 | compyear = 2004 | compmonth = 8 | compdate = 13 | club = Waikato Lady Titans }}
+{{FIBA player|df=y| num = 15 | nat= AUS | first = Aneka | last = Kerr | pos = F | m = 1.83 | year = 1981 | month = 3 | date = 1 | compyear = 2004 | compmonth = 8 | compdate = 13 | club = Townsville Fire }}
+<!-- end list of players -->
+{{FIBA roster footer
+| head_coach = 
+*{{player||NZL|[[Tom Maher]]}}
+| asst_coach = 
+*{{player||NZL|[[Kirstin Daly]]}}
+*{{player||NZL|[[Mike McHugh (basketball)|Mike McHugh]]}}
+| otherlegend = 
+*'''(C)''' Team captain
+*'''nat''' field describes country <br/>of last club <br/>before the tournament
+*'''Age''' as of 13 August 2004
+}}<noinclude>
+==See also==
+[[Template:2004 Summer Olympics New Zealand men's basketball team roster]]
+==References==
+{{reflist}}
+{{2004 Summer Olympics basketball convenience template navbox}}
+[[Category:2004 Summer Olympics basketball team roster templates|Women New Zealand]]
+</noinclude>

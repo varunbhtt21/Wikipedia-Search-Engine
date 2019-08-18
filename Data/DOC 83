@@ -1,0 +1,53 @@
+Title : Template:Attached KML/Mississippi Highway 473
+Text : <?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MS 473.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>MS 473</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-90.27718313410118,32.04962364890014,0 -90.27850709924218,32.05337773354249,0 -90.2801177286278,32.05734421876283,0 -90.28110204931832,32.06251277865518,0 -90.2835932483534,32.06869079299379,0 -90.28370701757744,32.06929607529216,0 -90.28373369602355,32.06997869389524,0 -90.28372380043321,32.07164242020208,0 -90.28354352244045,32.07260472520678,0 -90.28305720689824,32.07387388886514,0 -90.28184416552412,32.07832745275686,0 -90.28148579700972,32.07905571788644,0 -90.28057822879252,32.07981992840623,0 -90.27703068954075,32.08112414203327,0 -90.27554374619318,32.08266478953399,0 -90.27530595969786,32.08348821442731,0 -90.27517909845395,32.08644941519891,0 -90.27532474249348,32.08898840023613,0 -90.27575784277586,32.08987071802036,0 -90.27694115766947,32.09156198684102,0 -90.27885660363305,32.09366907234364,0 -90.28010124437235,32.0948155344169,0 -90.28063416628893,32.09517395478103,0 -90.28103877915913,32.09521152442288,0 -90.29251556881462,32.09528820610678,0 -90.29342073576159,32.09525044214133,0 -90.30033223938943,32.09988868619953,0 -90.30308279910307,32.10175703055641,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

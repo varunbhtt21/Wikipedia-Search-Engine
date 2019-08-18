@@ -1,0 +1,216 @@
+Title : Wikipedia:Reference desk/Archives/Computing/2014 April 22
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Computing|Computing desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Computing/2014 April 21|April 21]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Computing/March 2014|Mar]] | [[Wikipedia:Reference desk/Archives/Computing/April 2014|April]] | [[Wikipedia:Reference desk/Archives/Computing/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Computing/2014 April 23|[[Wikipedia:Reference desk/Archives/Computing/2014 April 23|April 23]]|[[Wikipedia:Reference desk/Computing|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Computing Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Computing/2014 May 2|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= April 22 =
+
+== What kind of quality control does open source software have? ==
+
+At my job, in order to get code in production, we have these layers of quality control:
+
+1.	Developer unit-tests code<br >
+2.	Second developer does code review<br >
+3.	QA tester tests the code in our test environment<br >
+4.	Users test the code in our test environment.  QA approval is required before going to the next level.<br >
+5.	QA tester retests the code in our integration environment.<br >
+6.	Users retest the code in our integration environment. Both QA and UAT approval is required to go to the next level.<br >
+7.	Change is presented to the Change Approval Board containing representatives from the development, DBA, QA and infrastructure teams).  All coding changes must receive signoff from the board.<br >
+8.	Immediately after going to production, either QA or users will retest the change.  QA/UAT approval is required to keep the changes, otherwise, they will be rolled back.<br >
+
+In addition to the 8 stages of quality control:
+
+9. Developers run automated JSLint code checks.<br >
+10. We hire an third-party vendor to perform yearly security penetration tests.<br >
+
+Despite all these checks, most developers don’t think we do enough quality control.  We are currently working on adding an 11th layer of quality control using automated testing, and I am recommending to my boss that we use another automated tool (Resharper) for quality control.
+
+My understanding is that open source only has the first two layers and possibly automated testing.  Is my understanding correct?  [[User:AnonComputerGuy|AnonComputerGuy]] ([[User talk:AnonComputerGuy|talk]]) 07:48, 22 April 2014 (UTC)
+
+:It's going to vary from project to project. A lot of small ones are run by one developer, using whatever process they want. Some larger ones are sponsored by corporations that have their own quality processes in place. The Linux kernel is controlled by one person, but tons of devs work on creating and testing updates before they get added. Here's a document describing the Linux kernel patch process: [https://www.kernel.org/doc/Documentation/SubmittingPatches] [[User:Katie Ryan A|<span style="border-bottom:solid #88F">K</span><span style="border-bottom:solid #d5f">ati</span><span style="border-bottom:solid #faa">e R</span>]] ([[User_talk:Katie Ryan A|talk]]) 12:15, 22 April 2014 (UTC)
+
+:I think a different form of quality control exists in open sourced software.  After a programmer writes and tests his code, he submits it and it goes on the list of available additions to the open-source code.  Various people download and install it, test it out, and report the results on a wiki they've set up for such a purpose.  If it gets good reviews, more people download it, and they might include it in a package with other bits of software that got good reviews.  If it gets bad reviews, few people will, and they might even remove it from the list entirely.  So, it's like what you'd call customer beta testing.  The hope is that more testers will ultimately make for a better product.  Also, the time pressure isn't the same with open-source code, so you can spend as long developing and testing as you want, no need to rush out some serious flawed code. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 15:21, 22 April 2014 (UTC)
+
+:: I've been a programmer for over 40 years.  I earn exceedingly good money doing it - and I've worked for companies with spectacularly good records for producing solid, reliable code, so I hope I speak to you with some experience.
+:: There are really many problems with the approach that our OP's company is taking here:
+
+::# It's horribly expensive.   Programming is never cheap - but doing this level of scrutiny has to be making it ten times more costly.
+::# It's inevitably going to cause lots of delay.  That will result in urgent bug fixes struggling through the ten layers of approval appearing weeks after they would ordinarily have been released.   Depending on the business you're in - that could be a disaster.
+::# Programmers **HATE** it.   Your company ideology may make it impossible to speak up and say it.  You may say that they should suck it up and do it - or you may say that this would just be unprofessional - but the fact is that if you want to recruit the best of the best, you're going to have a VERY hard time doing it if you tie them up in ten layers of red tape and stomp any signs of creativity into the dust.   The result of that is that you get crappy programmers on your team...and now you NEED all of those layers of oversight because they are writing awful code and making a ton of bad design decisions.  Programming is a very unique field of human endeavor - the best programmers are easily 100 times more productive and 100 times more accurate coders than the worst...so by effectively rejecting those great talents, you're probably getting an error rate that's 50 times worse than it could be - and that's why you need all of those layers of red tape just to pull it back to something relatively sane.  The biggest problem with programmers is communication between them - having ten grade A programmers instead of a hundred grade-C programmers reduces the inter-programmer communications a hundredfold...and that's going to drastically lower the opportunities for screwups.
+::# Your testing is only as good as the specification documents that describe what the software should do.  Unless you have at least this much scrutiny on specifications, all of this is a complete waste of time.
+::# Making it this hard to get a change into code is a strong disincentive for your programmers to refactor code that's perfectly functional but inefficient or hard to understand.   That means that your code will get harder and harder to understand - and this is by far the biggest cause of problems over the long haul.
+
+:: The company I work for has one layer of QA testing and one layer of end-user testing.  We employ the best programmers money can buy and spend the least we can on red tape.  We have an excellent record for solid code and we can turn out changes rapidly and be very light on our feet - since our overheads are low, we are very profitable.  I've also worked in shops with higher levels of red tape - and I've found it strongly counter-productive.   The OpenSource model proves that.  Most OpenSource code is extremely high in quality - despite having essentially zero of the steps you describe.
+
+:: That said, it all depends on what you're doing.   If you're writing video games, then a not-very-serious bug may be largely unimportant.  If you're writing the flight control code for a 747 airliner or the control code for a nuclear reactor - then the kinds of scrutiny you employ is highly recommended because lives depend on there not being hidden bugs.
+
+:: Consider the steps you've put in place here:
+
+::#	''Developer unit-tests code'' -- (To pick a ridiculously simplistic example...) If the programmer who is writing code to calculate the square root of a number doesn't realize that you shouldn't take the square root of a negative number - so he fails to put in an error check for that case - then he's not going to include the test that attempts sqrt(-1) in his unit test data...so this approach never finds the cases he hadn't thought of when he wrote the code...so this doesn't work very well.  Basically, he only writes test cases for the error cases he knows about...and those (of course) work just fine.  Ideally, test cases come from some requirements document - but you need to review your requirements with at least as much oversight as you review the code that implements that requirement.   If the requirements for the square root code says "Shall produce an error message if the input parameter is less than zero" - then it'll get tested for - but if your requirements also fail to note that you can't take a square root of a negative number - then the error will likely go all the way through into production when some hacker with more brains than your team wonders whether you've tried that.
+::#	''Second developer does code review'' -- See [[Rubber duck debugging]].  Basically, the second developer falls asleep while the original author explains his code.  Sometimes, in the course of explaining it, the first programmer finds his own bug...but it's far from certain.
+::#	''QA tester tests the code in our test environment'' -- This is probably very effective at finding problems, but only if you have really good QA guys.  If you're paying your QA guys a third of what you're paying your programmers - then you probably don't have good QA guys.
+::#	''Users test the code in our test environment.  QA approval is required before going to the next level.'' -- Who are these "users"?  They probably do the routine operations they almost always do - and those (of course) work OK - the problem cases are in the unusual use patterns, which they probably won't happen until the software is used by people who are not in your focus group.
+::#	''QA tester retests the code in our integration environment.'' -- If these are the same people who did step (3), they'll probably run the exact same tests - so the odds of them finding a bug that wasn't there in round (3) is small.  If your "integration environment" differs greatly from the environment that your programmers originally did their own testing in - then that's something you should urgently fix!  Encourage people to commit early commit often so that integration isn't a big step.  If you're putting code together that has never been together before on the programmer's desk then you should expect huge problems because the programmer (who finds more bugs than anyone else!) never got a chance to experience them.   A model of continuous code improvement is FAR better than alternating development and integration steps.  SCRUMM-based approaches where a usable, integrated codebase is maintained more or less continuously is the modern way to do this.
+::#	''Users retest the code in our integration environment. Both QA and UAT approval is required to go to the next level.'' -- Same problem as with step (5).
+::#	''Immediately after going to production, either QA or users will retest the change.  QA/UAT approval is required to keep the changes, otherwise, they will be rolled back.'' -- Same problem as with step (5).
+
+:: I very much doubt that you're getting more bugs than if you just did steps (1), (3) and (4)...and I'm certain that all of the red tape is shackling the best minds you have and scaring away the best you might have.  I bet that encouraging code refactoring rather than discouraging it would yield massive improvements that layering on more red tape is going to prevent.
+:: [[User:SteveBaker|SteveBaker]] ([[User talk:SteveBaker|talk]]) 18:26, 23 April 2014 (UTC)
+
+:::My background is as a semiconductor engineer who mostly used code written by others and occasionally wrote code for which no off-the-shelf application existed. Also as a disaster volunteer who has to work in conditions of limited or no infrastructure. I think the comment by SteveBaker, 'Who are these "users"?' is critical. The "users" selected for testing new software typically work in well-equipped offices with the latest computers and operating systems. They are more likely than the average business user to have administrator privileges on the computer they use for testing (but not always). When the average or below-average user gets the released software, installs it on his personal XP laptop from 2005 (the one his teenage son set up and wisely did not give Dad administrator privileges), and hauls it to a brush fire that just burned down the local cell phone tower, that's when the software will get a real workout. [[User:Jc3s5h|Jc3s5h]] ([[User talk:Jc3s5h|talk]]) 19:00, 23 April 2014 (UTC)
+
+::::As far as Administrator privileges go, they should have an Admin login where they can set up test data, etc., and a user login with no special privileges, which they use for the actual testing. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 15:24, 24 April 2014 (UTC)
+
+:::I completely agree with this. I worked with our other software engineers as new hires, reviewing changes at first, but now I'm confident that they understand the projects they're maintaining well enough to make proper changes without review. They also understand the limits of their knowledge of the software and the systems it controls, and know how to ask the right questions when they do need help. The work they've done so far seems very high quality, with a very low rate of problems showing up later that trace back to their changes. That's how it should be when you take care to hire skilled developers and encourage an atmosphere where they feel they can learn the system and have control over how they do things. We could hire more developers for code review, but I wouldn't trust their review skills unless they were as skilled and comfortable with our code as the current developers, in which case I would rather have them working on their own tasks and getting twice the rate of bug fixes and new features rather than a very minor decrease in number of bugs that slip through in new development. [[User:Katie Ryan A|<span style="border-bottom:solid #88F">K</span><span style="border-bottom:solid #d5f">ati</span><span style="border-bottom:solid #faa">e R</span>]] ([[User_talk:Katie Ryan A|talk]]) 13:55, 25 April 2014 (UTC)
+
+:Open-Source Software have no quality control as closed-source software have no quality control. open- vs. closed-source-software is only about the source code being accessible by everyone or not. What a programmer/company/group have as policy has nothing directly to do with open- vs. closed-source-software. [[Special:Contributions/87.78.28.247|87.78.28.247]] ([[User talk:87.78.28.247|talk]]) 21:09, 25 April 2014 (UTC)
+
+::Opening the code up to all means more people can do code reviews, allowing for easier detection of potential problems. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 13:10, 26 April 2014 (UTC)
+
+:::Is that a good thing?  I've heard that the NSA has a thousand full-time developers looking for security vulnerabilities.  How many does dose Russia have?  How about China or North Korea?  How about professional groups such as the mob?  [[User:A Quest For Knowledge|A Quest For Knowledge]] ([[User talk:A Quest For Knowledge|talk]]) 00:17, 28 April 2014 (UTC)
+
+::::Most bugs don't cause security problems, and, for those that do, it might be better if more people know about them:
+
+::::1) This allows users to know the code is compromised, and stop using it until a security fix becomes available.
+
+::::2) This puts pressure on the developers to fix the bug quickly, and do a better job next time. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 00:24, 28 April 2014 (UTC)
+
+== Changing new tab default page in Google Chrome ==
+
+When I downloaded Yahoo Instant Messenger, it apparently snuck in some crap I don't want.  It set Bing to be my default search engine, home page, and the page that pops up when I open a new tab.  I was able to fix most of that, but it still comes up, via something called "Conduit", when I open a new tab in Google Chrome.  How do I get rid of it, hopefully replacing it with Google ?  O/S is  Windows 7, 64 bit. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 13:32, 22 April 2014 (UTC)
+
+:It's in: Options - Settings Click on the lines at the top right of the Chrome window to find these.[[Special:Contributions/217.158.236.14|217.158.236.14]] ([[User talk:217.158.236.14|talk]]) 14:23, 22 April 2014 (UTC)
+
+::I went through the settings, that's how I fixed everything else.  But I didn't find a setting for the page you get when you open a new tab.  Where is that set ? [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 15:13, 22 April 2014 (UTC) 
+
+:You've probably installed some sort of malware. My wife got hit with it a few days ago through a fake Flash update. It also blocked things like system restore and Windows Defender. After removing it (used Win 8 System Reset because we didn't feel like spending time fighting the infection), the home page and search provider settings came back becasue of Chrome's cloud sync, but since the infection was gone she could set it back. [[User:Katie Ryan A|<span style="border-bottom:solid #88F">K</span><span style="border-bottom:solid #d5f">ati</span><span style="border-bottom:solid #faa">e R</span>]] ([[User_talk:Katie Ryan A|talk]]) 14:41, 22 April 2014 (UTC)
+
+::StuRat, it's in Appearance / New Tab.[[Special:Contributions/217.158.236.14|217.158.236.14]] ([[User talk:217.158.236.14|talk]]) 08:01, 23 April 2014 (UTC)
+
+:::I have Google Chrome version 34.0.1847.116 m, and when I go to Settings + Appearance, I don't get a "New Tab" option.  I get "Get themes" and "Reset to default theme" buttons and check boxes for "Show Home button" and "Always show the bookmarks bar".  Under "Show Home button" is an option to change the web page, but I changed that to Google, and it had no effect on the page where a new tab opens. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 14:03, 23 April 2014 (UTC)
+
+:::: Here are the settings I get http://i.imgur.com/jCVznPW.jpg It could be that your administrator has disabled this option, if you are on a work computer. Sorry I couldn't give you a definitive solution [[Special:Contributions/217.158.236.14|217.158.236.14]] ([[User talk:217.158.236.14|talk]]) 15:41, 23 April 2014 (UTC)
+
+:::::Those are the same options I get.  I think you misinterpreted what they do, though.  They allow you to specify what the Home Page button does, one option of which is to go to the New Tab page.  So that's the reverse of what I want, which is to set the New Tab page to go to the Home Page. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 16:23, 23 April 2014 (UTC)
+
+::::::There is a button that lets you just reset all browser settings. It's annoying because it will disable any extensions, clear saved passwords and reset your cookies, but it will definitely get rid of the setting. When I search for "new tab" the only hits I get are the option to open the new tab on startup and the reset button, which mentions changing the new tab page back in it's warning message. Navigating Chrome's settings has always annoyed me... [[User:Katie Ryan A|<span style="border-bottom:solid #88F">K</span><span style="border-bottom:solid #d5f">ati</span><span style="border-bottom:solid #faa">e R</span>]] ([[User_talk:Katie Ryan A|talk]]) 16:52, 23 April 2014 (UTC)
+
+:::::::Yea, I was about to do that before I decided to post here first and see if there was a way to avoid the "nuclear option". [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 15:27, 24 April 2014 (UTC)
+
+:Yahoo might have tossed an Extension in that's messing with your default preferences. Go to Tools->Extensions, and see if there's any Yahoo branded stuff there, trash it if there is.
+:If that's not the case, you may have to go into the Windows Control Panel and "Uninstall a Program," then see if there's any kind of Yahoo Search application installed. If so, removing that program and restarting Windows should get Chrome back to its default New Tab page. &mdash; <b>[[User:HandThatFeeds|<span style="font-family:Comic Sans MS; color:DarkBlue;cursor:help">The Hand That Feeds You]]</span>:<sup>[[User talk:HandThatFeeds|Bite]]</sup></b> 18:48, 25 April 2014 (UTC)
+
+::I tried both.  The extensions are all things I can identify that are not related to this problem.  In "Add/remove programs" I removed everything Yahoo or Conduit related, but that didn't fix the problem, even after a reboot.  There are some programs I can't identify, but I'm reluctant to remove those, if I don't know what they do. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 20:17, 25 April 2014 (UTC)
+
+:::Hm. A few searches found a program called "Spigot" that seems to be doing what you describe. Also an extension called "YouTube Downloader" apparently hijacks your search to get their developer a cut of any ad links you click on. Might be worth running a spyware checker, like MalwareBytes. &mdash; <b>[[User:HandThatFeeds|<span style="font-family:Comic Sans MS; color:DarkBlue;cursor:help">The Hand That Feeds You]]</span>:<sup>[[User talk:HandThatFeeds|Bite]]</sup></b> 16:14, 26 April 2014 (UTC)
+
+::::Yea, it plays some clip of Ellen DeGeneris and wants me to click on it.  Not gonna happen.  Is that the best anti-malware program these days ? [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 16:29, 26 April 2014 (UTC)
+
+UPDATE: Success !  I found the bastard code under Remove Programs listed as "Search Protect".  I didn't remove it previously because it sounded unrelated.  But when I clicked on it, it said the publisher was "Conduit", and that showed up in the URL for the new tab page, so I removed it, rebooted, and now my new Chrome tab is back to Google, where it was originally set.  Thanks all for the suggestions, I will mark this one resolved. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 19:01, 27 April 2014 (UTC)
+
+{{resolved}}
+
+== The Flash Crash- the explanation. ==
+
+Hi, Your explanation of the Flash Crash of May 6, 2010 is incorrect. There is no published work to use as a reference because all the answers from professors to media outlets, the sec, etc. are not true. I have sent our material to the sec, many professors, all the media outlets, investigative journalists and they all refuse to get involved. They don't want their government funding, jobs and careers to change. We have the entire explanation of the Flash Crash and the code that caused it. This is the time to clear up this issue. Many of the people who talk about the Flash Crash do not know what caused it and are just repeating what they've been told. It is a beautiful code written by a brilliant programmer. 
+
+I don't want to go into details about the code here because it's a public venue and I don't want our material stolen. One more thing, the stock market goes up and down everyday because of this code. The direction of the market is known 4-5 days ahead. The Flash Crash was broadcast to the insiders starting on Tuesday May 4, 2010. 
+
+The published papers on the crash are all incorrect and many do not answer the question. I have contacted some of these people and given them my material. Their papers are still on the internet.
+
+I will reveal everything we have. Again we do not know who receives this information but we do know who controls the feed that delivers the code. 
+
+James Wales has a requirement on Wikipedia that your material must be backed up by published papers. That idea would be great if the published papers were reviewed by others and allowed to be criticized. It's not easy to get published. You have to know someone, have a PhD or be someone who has a respected position. I can tell you now that by doing that the public doesn't get a chance to question any explanation. If he/she said it it must be true. That's not what a free country is all about.
+
+I look forward to hearing back from all of you. You will not be disappointed. Our documentation of the code is perfect. This information is not our original material. It is not our code so please don't use that as an excuse not to look at what we have. Also if you all don't understand the material then don't let that stop you. It's not baby food. It should be vetted out in the public by many people so the professors and all the others can't hide behind their positions. 
+
+Thank you, Patty
+
+[[Special:Contributions/38.121.16.160|38.121.16.160]] ([[User talk:38.121.16.160|talk]]) 15:51, 22 April 2014 (UTC)
+
+:The place for this is on the talk page for that article.  However, I'm skeptical that you can consistently know the direction the market will take 4-5 days in advance, as that day's events will certainly have an effect. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 16:14, 22 April 2014 (UTC)
+
+:Wikipedia may not be used for [[WP:SOAPBOX|telling the world about your company, band, charity, religion or great invention]]. --[[User:ColinFine|ColinFine]] ([[User talk:ColinFine|talk]]) 22:46, 22 April 2014 (UTC)
+
+== Retro-Bit USB joystick still doesn't work on Linux ==
+
+I downloaded the fix to the Retro-Bit USB joystick adapter on Linux from [https://github.com/robmcmullen/hid-atari-retrobit this page], but it doesn't work. The module builds OK, but attempting to install it gives errors:
+
+ # rmmod ./hid-atari-retrobit.ko; rmmod usbhid; insmod ./hid-atari-retrobit.ko ; modprobe usbhid
+ Error: Module hid_atari_retrobit is not currently loaded
+ libkmod: kmod_module_get_holders: could not open '/sys/module/usbhid/holders': No such file or directory
+ Error: Module usbhid is in use
+
+The readme file talks about testing the joystick with <code>jstest /dev/input/js0</code>, but even though I seem to have the <code>jstest</code> program, no device <code>/dev/input/js0</code> shows up. The joystick still works like before, I can only move right and down, not left or up. What should I do here? [[User:JIP|<font color="#CC0000">J</font><font color="#00CC00">I</font><font color="#0000CC">P</font>]] &#124; [[User talk:JIP|Talk]] 15:54, 22 April 2014 (UTC)
+
+== Why does Java hate me ==
+
+Sometimes I use Java-based software online (e.g. games, and not just from one site). The thing is, it loves to crash. It happens on my desktop (64-bit Windows 7), laptop (32-bit Windows 8), and same desktop when it ran 32-bit Bodhi Linux on a different hard drive. I have used three different web browsers as well (Firefox, Chrome, Midori). All three of the computers use very current hardware. The weakest link in the current desktop setup that I'm writing this from is RAM at 12GB, but that should be far more than enough. 
+
+Each time I look for help it tends to involve uninstalling, reinstalling, or updating Java. All of these have been done multiple times so, since the problem has caused me grief for at least 2 years now, this has applied to several versions of Java, including the most recent. 
+
+It doesn't always crash, and once in a while I can make it a good 45 minutes to an hour without it happening, but it happens regularly enough to be a pain. I haven't been able to tie it to any other resource heavy programs or processes running at the same time, but it certainly happens more frequently when running more than one Java program. 
+
+The only thing I can do is to kill the Java process, close the browser, and reload the page that launches Java (or kill the process of the independent [downloaded] program and relaunch it).
+
+When I run Java with the console open, the console just freezes up, too, without giving me any information.
+
+Ideas appreciated. --&mdash; <tt>[[User:Rhododendrites|<span style="font-size:90%;letter-spacing:1px;text-shadow:0px -1px 0px Indigo;">Rhododendrites</span>]] <sup style="font-size:80%;">[[User_talk:Rhododendrites|talk]]</sup></tt> |&nbsp; 17:18, 22 April 2014 (UTC)
+
+:It would significantly narrow down the space of solutions if you can distinguish between two types of crashes: a crash of the [[Java VM]], and an unhandled runtime exception in the Java application or applet.  Do you know how to tell these two very different problems apart?  Once we know which is occurring, we can help debug your problem.
+
+:::Basically, we need to find the crash log.  If you are running Java from the command line, this will be the last few lines printed to the terminal when your application "goes away."  Essentially, if the error log looks like [http://www.oracle.com/technetwork/java/javase/crashes-137240.html#gdywn this], with a bunch of # hashmarks and a statement about "Java VM" then you've hit a VM crash.  We'll definitely want the text of that message.  If this occurs, the bug is in Java itself (or, in a native library used by the application, applet, or plugin container).
+:::Alternately, if the last lines print out a Java backtrace, the crash happened inside the application.  Java backtraces are very verbose, and include a lot of symbolic package names (you'll see exactly which piece of application logic failed).
+:::If you don't know where to get the Java crash log, or if you don't run the program in a terminal, check your System Event Log on Windows.  [[User:Nimur|Nimur]] ([[User talk:Nimur|talk]]) 14:55, 23 April 2014 (UTC)
+A possible thing you could try is to give java a bit more memory to run in. There are switches which you can set when you run from the command line. I'm not quite sure how you would set these when its a browser plugin though.--[[User:Salix alba|Salix alba]] ([[User talk:Salix alba|talk]]): 15:24, 23 April 2014 (UTC)
+:Haven't found any log. From what I'm seeing it's supposed to be start with hs_err_pid. Well, I searched everywhere for that (and variations) with no luck. This means, I presume, that VM is not crashing? Also, Salix alba, do you mean the amount of temporary space I give it? It's already at the maximum. --&mdash; <tt>[[User:Rhododendrites|<span style="font-size:90%;letter-spacing:1px;text-shadow:0px -1px 0px Indigo;">Rhododendrites</span>]] <sup style="font-size:80%;">[[User_talk:Rhododendrites|talk]]</sup></tt> |&nbsp; 01:09, 25 April 2014 (UTC)
+::That means it's ''probably'' an application bug, and not a Java VM bug (but, without a log, we lack proof).  It ''implies'' that the fault lies with the application developer - to whom a bug report is due.  It also implies that if you monitor the Java console when the crash occurs, the useful log information will be in there.
+::Salix Alba suggests increasing the [[Memory management#Dynamic memory allocation|Java heap size]], as discussed here: [http://docs.oracle.com/cd/E13222_01/wls/docs81/perform/JVMTuning.html#1131866 Tuning JVM Parameters].  That is a common fix to a common problem, and helps if the application consumes a lot of memory.  But, it will only make a difference if the root problem is actually because your application needs more memory than it was allocated.  You would [http://docs.oracle.com/cd/E13222_01/wls/docs81/perform/JVMTuning.html#1109778 set heap size] with a command like: 
+ $ java -XX:NewSize=128m -XX:MaxNewSize=128m -XX:SurvivorRatio=8 -Xms512m -Xmx512m
+:::[[User:Nimur|Nimur]] ([[User talk:Nimur|talk]]) 14:04, 25 April 2014 (UTC)
+
+{{hidden begin|title=Side-discussion regarding Java's history}}
+I have moved all our side discussion, which regrettably is distracting from our ability to help [[User:Rhododendrites]] resolve his technical issue.  [[User:Nimur|Nimur]] ([[User talk:Nimur|talk]]) 19:17, 26 April 2014 (UTC)
+:<small>As an aside, I take mild [http://docs.oracle.com/javase/tutorial/essential/exceptions/ exception] to the question - because Java ''isn't'' terrible.  Some of the brightest software engineering minds of the 20th century worked to create Java, but when [[Sun Microsystems]] became insolvent as a standalone business, those programmers found employment elsewhere; particularly when the Java technology platform was acquired by [[Oracle]].  A band of inept marauding hoodlums now occupy the hallowed ground of Sun Microsystems' headquarters, and they [http://mashable.com/2012/04/07/facebook-hq/#gallery/the-new-facebook-hq/521293f65198406611000738 didn't even bother to take the sign down] - they just painted over it like vandals.  [[James Gosling]] [https://duke.kenai.com/gun/Gun.jpg ''barely'' survived] for almost six months inside [[Don't be evil|the evil beast]], including a [http://nighthacks.com/roller/jag/entry/i_m_alive near-death experience with a P-51 Mustang], before he realized Google was awful and was [[Dalvik (software)|killing Java]], so he bailed and moved to Hawaii to program robot Java submarines.  So, Java may be suffering from [[bitrot]] on your operating system, but Java itself is not terrible.</small>
+:[[User:Nimur|Nimur]] ([[User talk:Nimur|talk]]) 04:08, 23 April 2014 (UTC)
+::Hmm. I don't know. What's the best way to tell the two kinds of crashes apart?
+::<small>Also, fair enough. :) Heading changed.</small> --&mdash; <tt>[[User:Rhododendrites|<span style="font-size:90%;letter-spacing:1px;text-shadow:0px -1px 0px Indigo;">Rhododendrites</span>]] <sup style="font-size:80%;">[[User_talk:Rhododendrites|talk]]</sup></tt> |&nbsp; 05:40, 23 April 2014 (UTC)
+
+::The Java browser plugin was always bug-infested, even when Sun maintained it. The security model also has [http://blog.cr0.org/2010/04/javacalypse.html serious design flaws] that mean that even a bug-free implementation would probably be unsecurable. It's a good idea to keep Java-in-the-browser disabled by default, if you install it at all.
+::Regarding Gosling's short time at Google (if that's what you're talking about), [http://nighthacks.com/roller/jag/entry/i_ve_moved_again he said] "I had a great time at Google, met lots of interesting people, but I met some folks outside doing something completely outrageous, and after much anguish decided to leave Google." Since he's a living person, we should probably leave it at that unless you have incontrovertible evidence that he's lying.
+::As an apparent supporter of open-source software you shouldn't have been rooting for Oracle in ''[[Oracle v. Google]]'', the case where Oracle tried to assert control over Dalvik. Any ruling in favor of software patents tends to be bad for open source, and a precedent establishing copyrightability of APIs could have been seriously problematic for, say, Linux. -- [[User:BenRG|BenRG]] ([[User talk:BenRG|talk]]) 19:53, 23 April 2014 (UTC)
+:::<small>IMO, Java is quite horrible, too. I'd even call ''all'' destructorless languages "horrible", unless you just want to hack together some casual games and stuff. Trying OO programming without destructors is like driving a car without brakes. Omitting them is a disaster waiting to happen. - '''''¡Ouch!''''' (<sup>[[User_talk:One.Ouch.Zero|hurt me]]</sup> / <sub>[[Special:Contributions/One.Ouch.Zero|more pain]]</sub>) 08:24, 25 April 2014 (UTC)</small>
+:::We're way off topic; but for the record, I was rooting for OpenJDK, an entity that remained unrepresented in the legal proceedings between Oracle and Google.  But, there are [http://nighthacks.com/roller/jag/entry/my_attitude_on_oracle_v nuances to the issue] that are pretty complicated.  And there is a reason why both I and Mr. Gosling reason that Oracle held the moral high-ground - which I will grant is a rarity - in this particular instance.  Here's a direct quote: [http://news.cnet.com/8301-1035_3-57423538-94/oracle-google-trial-puts-ex-sun-execs-on-opposite-sides/?tag=rb_content;contentBody "Just because Sun didn't have patent suits in our genetic code doesn't mean we didn't feel wronged. While I have differences with Oracle, in this case they are in the right. Google totally slimed Sun. We were all really disturbed..."]  [[User:Nimur|Nimur]] ([[User talk:Nimur|talk]]) 23:27, 23 April 2014 (UTC)
+::::Whatever sliming may have taken place in the past, the main issues in this case were software patents and copyrightability of APIs. It would have been bad for open source if Oracle had won. I don't know why people think that revenge is such a supremely moral act that it trumps any collateral damage. -- [[User:BenRG|BenRG]] ([[User talk:BenRG|talk]]) 20:30, 24 April 2014 (UTC)
+:::::BenRG, we are severely off-topic.  But, if you honestly believe that Google's Android and Dalvik platforms are free and open-source software, then I challenge you to: (1) find the source-code for Android; (2) compile it; and (3) run it on a commercially-available device that would otherwise be able to run a binary distribution of Android.  If you succeed at even the ''first'' of these tasks, I would be very happy to know about it; you can respond here or on my user-page.  When you invariably fail, I think you might understand why the actions of Google in this matter are less-than-benevolent.  They have stolen intellectual property, stolen commercial source-code from a vendor, redistributed binary versions of open-source software without making the source-code available (in defiance of the software license); and have broadcast a worldwide marketing campaign claiming that they are great promoters of free software.  Yet, they won their court-case, so according to American law, Google is, for legal purposes, completely "right."  [[User:Nimur|Nimur]] ([[User talk:Nimur|talk]]) 20:38, 24 April 2014 (UTC)
+::::::I don't see what Android or Dalvik being or not being open source has to do with the issues BenRG has raised. It seems clear that their point was that software patents or copyrighting API is bad for open source. While obviously not everyone is going to agree on this, I think many FLOSS proponents do so it seems a valid point in relation to the discussion. 
+::::::Clearly if you are opposed to the idea of software patents or copyrighting APIs and you believe this is what the case was mostly about, then the idea of any 'stolen intellectual property' or 'redistributed binary versions of open-source software without making the source-code available (in defiance of the software license)' is nonsense. In fact I expect even the FSF would agree on the later issue, while they want the GPL to be enforcable when needed, it's unlikely they want this at the expense of expanding copyright. (I don't think many are going to seriously suggest APIs can be copyrighted when they that copyright is released under a FLOSS licence but they can't be when they are proprietary. ''Edit: There is of course the fact that with published source code you can simply copy the uncopyrightable bits of the source code whereas when the sourcecode isn't published you may need to reverse engineer those bits. While I suspect many copyleft FLOSS proponents think this is unfortunate, I don't think many would suggest there is any legal solution.'')  
+::::::The fact that Google may not be benevolent is largely besides the point. Sure their motto may be nonsense (did anyone dispute that?), but it doesn't mean it's silly to support them when you agree with their POV on the legal isues even if their motives are entirely selfish and you generally dislike them and much of what they do or even a lot of what they did which lead up to the legalcase. 
+::::::To put it a different way, it's entirely plausible a large majority of FLOSS supporters will support Microsoft in a case between them involving their proprietary code and some open source software developer because of the legal principles at stake. 
+::::::(The idea a legal case comes down to likeability or who's more 'evil' is one of the reasons American's civil trial system and its extensively reliance on juries is frequently criticised.) 
+::::::[[User:Nil Einne|Nil Einne]] ([[User talk:Nil Einne|talk]]) 17:40, 25 April 2014 (UTC)
+:::::::Let's take further discussion of these complex issues to my talk page, or let's terminate the discussion, because it's not helping the OP.  I apologize for my role in sidelining the discussion in the first place. [[User:Nimur|Nimur]] ([[User talk:Nimur|talk]]) 19:18, 26 April 2014 (UTC)
+{{hidden end}}
+
+== Is there any desktop enviroment (for pc linux) without x window? ==
+
+Is there any desktop enviroment (for pc linux) without x windows?  [[Special:Contributions/201.78.176.96|201.78.176.96]] ([[User talk:201.78.176.96|talk]]) 17:45, 22 April 2014 (UTC)
+:See [[X Window System#Competitors]]. I believe that [http://www.maui-project.org/ Maui] is a Linux version with a full-featured desktop environment which does not use X.  [[Unity (user interface)|Unity]] in [[Ubuntu (operating system)|Ubuntu]] will have an option (or default) to not use X in a future release (version 8 of Unity).
+
+:It might not be what you were wanting, but [[Android (operating system)|Android]] uses a Linux kernel but not X. There are versions of Android for desktop computers.-<span style="font-family:cursive; color:grey;">[[User talk:gadfium|gadfium]]</span> 22:14, 22 April 2014 (UTC)
+::Also [[Chrome OS]] works on a standard PC and its desktop environment isn't X-based, but it may still ship with X and its desktop may still be drawn in a single full-screen X window (I'm not sure). -- [[User:BenRG|BenRG]] ([[User talk:BenRG|talk]]) 18:07, 23 April 2014 (UTC)

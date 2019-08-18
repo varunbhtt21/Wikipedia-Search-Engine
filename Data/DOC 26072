@@ -1,0 +1,2 @@
+Title : Template:AUTP
+Text : {{Tick}} Answered on user's {{#if:{{{1|}}}|[[User talk:{{{1}}}|talk]]|talk}} page.

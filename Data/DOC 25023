@@ -1,0 +1,85 @@
+Title : Wikipedia:Reference desk/Archives/Mathematics/2014 April 26
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Mathematics|Mathematics desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Mathematics/2014 April 25|April 25]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Mathematics/March 2014|Mar]] | [[Wikipedia:Reference desk/Archives/Mathematics/April 2014|April]] | [[Wikipedia:Reference desk/Archives/Mathematics/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Mathematics/2014 April 27|[[Wikipedia:Reference desk/Archives/Mathematics/2014 April 27|April 27]]|[[Wikipedia:Reference desk/Mathematics|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Mathematics Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Mathematics/2014 May 6|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= April 26 =
+
+== 1/2÷1/2 ==
+
+In mathematics, 1/2÷1/2=1, but if you take an apple, and divide it in half, you get half an apple. Then if you take that half and divide it half again, you get 1/4 an apple. So then why in mathematics is 1/2÷1/2=1? [[User:ScienceApe|ScienceApe]] ([[User talk:ScienceApe|talk]]) 17:08, 26 April 2014 (UTC)
+
+:Dividing in half is not the same as dividing by one half. If you divide one half in half, you get (1/2)/2=1/4. 1/2 divided by 1/2 gives you the answer of how many times 1/2 is 1/2, which is 1. —'''[[User:Kusma|Kusma]]''' ([[User talk:Kusma|t]]·[[Special:Contributions/Kusma|c]]) 17:44, 26 April 2014 (UTC)
+
+::Dividing ''in half'' is the same as dividing by 2 (or multiplying by a half).  This is the multiplicative inverse of ''dividing by a half'' (or multiplying by 2).  [[User:Dbfirs|''<font face="verdana"><font color="blue">D</font><font color="#00ccff">b</font><font color="#44ffcc">f</font><font color="66ff66">i</font><font color="44ee44">r</font><font color="44aa44">s</font></font>'']] 18:17, 26 April 2014 (UTC)
+
+:::"dividing in half" is x divide 2.
+:::"dividing by half" is x divide (1/2) or x times 2
+:::[[Special:Contributions/24.192.240.37|24.192.240.37]] ([[User talk:24.192.240.37|talk]]) 20:09, 26 April 2014 (UTC)
+
+::::Could you say that in English, please?  [[User:Dbfirs|''<font face="verdana"><font color="blue">D</font><font color="#00ccff">b</font><font color="#44ffcc">f</font><font color="66ff66">i</font><font color="44ee44">r</font><font color="44aa44">s</font></font>'']] 20:44, 26 April 2014 (UTC)
+
+:::::<small>You don't speak Reverse Polish? --[[User:ColinFine|ColinFine]] ([[User talk:ColinFine|talk]]) 21:54, 26 April 2014 (UTC)</small>
+
+::::::There's a similar English problem with percentages:
+
+::::::*$10 increased '''by''' 150% = $25.
+
+::::::*$10 increased '''to''' 150% = $15. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 16:42, 28 April 2014 (UTC)
+
+:Now to give a real world example.  Say you have half a pizza, and ask "how many times can that half a pizza be divided up into half a pizza ?".  The answer, of course, is one time. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 12:53, 27 April 2014 (UTC)
+
+::Yes, I see the problem now: dividing an apple "in two" and "by two" are both the same as dividing it "in half", but dividing "by half" is the inverse.  It's just a quirk of the language, but it must confuse many people, including some native speakers of English.  [[User:Dbfirs|''<font face="verdana"><font color="blue">D</font><font color="#00ccff">b</font><font color="#44ffcc">f</font><font color="66ff66">i</font><font color="44ee44">r</font><font color="44aa44">s</font></font>'']] 08:42, 28 April 2014 (UTC)
+
+:The truth is that there is no reason that it has to make any sense.  If you are paying your friend a debt of 4 (you have -4) then when you are done paying half, you have -2 since (-4 * (1/2) = -2).  If you are dividing a pizza in 2, (1 ÷ 2 ) then if you only do a quarter of the division you should have 2 pizzas (1 ÷ (2/4)) since 2/4 is a quarter of 2.  But that means that when you are a quarter of the way dividing a pizza in half, you temporarily have two whole pizzas.  When you are halfway through dividing a pizza in half, you have a full pizza.  These are obviously absurd results that don't make sense.  
+
+:We therefore realize that the symbolism is arbitrary.  What do you think of this reasoning, guys?  [[Special:Contributions/91.120.14.30|91.120.14.30]] ([[User talk:91.120.14.30|talk]]) 14:32, 28 April 2014 (UTC)
+
+::I don't see what's so absurd about the first one, if you take negative money as representing a debt (which you did). Then you owe your friend 2 instead of 4 after your partial repayment, and hence have −2.
+::Could you explain what you meant by doing only a quarter of the division? I'm not sure if I understand you. [[User:Double sharp|Double sharp]] ([[User talk:Double sharp|talk]]) 14:52, 28 April 2014 (UTC)
+
+::While advanced math often no longer has any relation to the physical world, I don't see a problem with dividing by fractions.  It takes a bit more thought, but it's quite doable.  In your (1 ÷ (2/4)) pizza case, the way to phrase that in English is "Divide one pizza up into fourths.  How many groups of two/fourths do you now have ?". [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 16:38, 28 April 2014 (UTC)
+
+::<small>I'm rather surprised that someone who asks intelligent questions elsewhere is so confused by fractions.  May I politely ask 91.120.14.30, are you just trolling us for fun, or would you like us to find a website that explains division of fractions for you?  The concept of a division only a quarter completed seems nonsense to me.  </small>  [[User:Dbfirs|''<font face="verdana"><font color="blue">D</font><font color="#00ccff">b</font><font color="#44ffcc">f</font><font color="66ff66">i</font><font color="44ee44">r</font><font color="44aa44">s</font></font>'']] 17:24, 28 April 2014 (UTC)
+
+:::  You're right - I just wasn't thinking about it clearly.  There is nothing suprising.  "How many quarters of a pizza are there in a pizza" is a division problem: 1 ÷ (1/4) and clearly has the answer 4 - just not "4 pizzas" but "4 pieces-of-a-pizza." So is "How many quarters of a pizza are there in 2 pizzas" which is 2 ÷ (1/4).  Neither result is surprising.  The only mistake I made is in calling the latter result "8 pizzas" rather than "8 pieces of pizza". [[Special:Contributions/91.120.14.30|91.120.14.30]] ([[User talk:91.120.14.30|talk]]) 09:08, 29 April 2014 (UTC)
+
+::This is a very common type of set problem about fractions, and probably as many people get it wrong as the Monty Hall problem and need it explained. Luckily quite a few eventually agree with the result rather than still disputing it like that famous problem! Anyway the first question to ask so one knows there is a potential problem with reasoning is if dividing a half by two gives a quarter, then is it likely that dividing it by a half which is a totally different number will give the same result? [[User:Dmcq|Dmcq]] ([[User talk:Dmcq|talk]]) 19:11, 28 April 2014 (UTC)
+
+::If you want to talk about doing a fraction ("a quarter") of a multiplication ("of the division"), you need to work in [[logarithm]]ic space to get the natural symmetries.  Then doing a quarter of halving is multiplying by <math>2^{-1/4}\approx0.841</math>.  Do that twice and you will have multiplied by <math>\sqrt{1/2}\approx0.707</math>; do it four times and you will have halved the original.  --[[User:Tardis|Tardis]] ([[User talk:Tardis|talk]]) 02:07, 29 April 2014 (UTC)
+
+:::True, but in "real space", that's just multiplying by the square root of the square root of a half.  (<small>Are we not confused enough already?</small>)  [[User:Dbfirs|''<font face="verdana"><font color="blue">D</font><font color="#00ccff">b</font><font color="#44ffcc">f</font><font color="66ff66">i</font><font color="44ee44">r</font><font color="44aa44">s</font></font>'']] 07:18, 30 April 2014 (UTC)
+
+== Variant of the [[modulo operation]] ==
+
+Is there a name for this function?
+
+<math>f(a,n) = \begin{cases} a\,\bmod\,n, & n \nmid a \\ n, & n \mid a\end{cases}</math>
+
+[[User:Jackmcbarn|Jackmcbarn]] ([[User talk:Jackmcbarn|talk]]) 20:59, 26 April 2014 (UTC)
+
+:Not this one per se, but if you fix ''n'', then the function <math>f(a) := f(a,n)</math> is a [[lift (mathematics)|lift]] of the canonical projection map <math>\mathbb Z\to\mathbb Z_n</math> that associates to each integer in <math>\mathbb Z</math> the corresponding element of the residue class group <math>\mathbb Z_n</math>.  There are many lifts.  The modulo map is one, and the one you wrote down is.  All lifts are of the form
+::<math>f(a)= (a\,\bmod\,n) + k(a)n</math>
+:for some (arbitrary) function <math>k:\mathbb Z_n\to\mathbb Z</math>.  [[User:Sławomir Biały|<span style="text-shadow:grey 0.3em 0.3em 0.1em; class=texhtml">Sławomir Biały</span>]] ([[User talk:Sławomir Biały|talk]]) 21:31, 26 April 2014 (UTC)
+:You can get rid of the cases by writing <math>f(a,n)=(a-1\,\bmod\,n)+1</math>. —'''[[User:Kusma|Kusma]]''' ([[User talk:Kusma|t]]·[[Special:Contributions/Kusma|c]]) 12:52, 27 April 2014 (UTC)
+::I hadn't seen that particular notation before, with <math>\nmid</math> and <math>\mid</math>, but Kusma's simplification makes everything much clearer. Is this notation common? -- [[User:The Anome|The Anome]] ([[User talk:The Anome|talk]]) 15:25, 27 April 2014 (UTC)
+::{{ping|Kusma}} That's not the same function. In my function, f(10.5, 10) = 0.5, but in yours, f(10.5, 10) = 10.5. (Perhaps I should have specified that I wanted this to work on non-integers, since it seems that's not always the case with mod). I guess <math>f(a,n)=\lim_{x \to 0^+}(((a-x)\,\bmod\,n)+x)</math> would work, but at that point it's just as complicated as the piecewise definition. [[User:Jackmcbarn|Jackmcbarn]] ([[User talk:Jackmcbarn|talk]]) 17:31, 27 April 2014 (UTC)
+:::(ec) I think people here were probably assuming you were working over the integers in which case Kusma is correct. If your working with reals you probably want something like
+::::<math>r = a - n \left\lceil {a \over n} \right\rceil + n.</math>
+:::using the [[ceiling function]]. Although you want to check you get the right answer for negative values.--[[User:Salix alba|Salix alba]] ([[User talk:Salix alba|talk]]): 18:12, 27 April 2014 (UTC)
+::::I had assumed this, since the notation <math>\mid,\nmid</math> certainly suggests that the arguments are integers.  But my response only requires a small change.  Then the residue class group is replaced by the quotient group <math>\mathbb R/n\mathbb Z</math> of the reals by the lattice <math>n\mathbb Z</math>.  There is a natural projection <math>\mathbb R\to\mathbb R/n\mathbb Z</math> and the function ''f'' is a lift that is continuous at every point except the identity.  [[User:Sławomir Biały|<span style="text-shadow:grey 0.3em 0.3em 0.1em; class=texhtml">Sławomir Biały</span>]] ([[User talk:Sławomir Biały|talk]]) 00:28, 28 April 2014 (UTC)

@@ -1,0 +1,29 @@
+Title : Template:Top ten Chinese male doubles tennis players
+Text : {{Navbox
+|name  = Top ten Chinese male doubles tennis players
+|title = [[Association of Tennis Professionals]]: {{flagicon|CHN}} Top ten Chinese male doubles tennis players as of 1 July 2019
+|state = {{{state|autocollapse}}}
+|listclass = hlist hnum
+|list1 = 
+*1. [[Zhang Ze]] <small>(87 {{decrease}}1)</small>
+*2. [[Gong Maoxin]] <small>(88 {{decrease}}1)</small>
+*3. [[Li Zhe (tennis)|Li Zhe]] <small>(143 {{steady}})</small>
+*4. [[Sun Fajing]] <small>(281 {{increase}}1)</small>
+*5. [[Wu Di (tennis)|Wu Di]] <small>(290 {{increase}}1)</small>
+
+|list2 =
+*6. [[Zhang Zhizhen]] <small>(337 {{steady}})</small>
+*7. [[Gao Xin]] <small>(397 {{decrease}}1)</small>
+*8. [[Hua Runhao]] <small>(402 {{decrease}}1)</small>
+*9. [[Bai Yan]] <small>(461 {{decrease}}2)</small>
+*10. [[Te Rigele]] <small>(484 {{steady}})</small>
+
+}}<noinclude>
+{{collapsible option}}
+* for updates see: [https://www.atpworldtour.com/en/rankings/doubles?rankDate=&rankRange=1-5000&countryCode=CHN atpworldtour.com] 
+* {{increase}} = increase
+* {{decrease}} = decrease
+* {{steady}} = steady
+[[Category:Sport in the People's Republic of China templates]]
+[[Category:ATP Tour navigational boxes|China male doubles]]
+</noinclude>

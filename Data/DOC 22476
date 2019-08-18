@@ -1,0 +1,40 @@
+Title : Wikipedia:WikiProject Spam/Local/nmhealth.org
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|nmhealth.org]]
+== Links ==
+* {{LinkSummary|nmhealth.org}}
+:* nmhealth.org resolves to [//164.64.82.123 164.64.82.123]
+:*: {{LinkSummary|164.64.82.123}}
+:* {{GoogleAnalyticsSummary|45084453}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|ClintSulis}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12840416|lang=en|wikidomain=w|namespace=|pagename=New Mexico Department of Health|username=ClintSulis|link=nmhealth.org|sortdomain=org.nmhealth.|domain=nmhealth.org|origdiff=http://en.wikipedia.org/w/index.php?diff=606697177&oldid=588872997|resolved=164.64.82.123|isIP=0|date=2014-05-01|time=22:53:02|wiki=en.wikipedia.org|revid=606697177|oldid=588872997|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=9|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=nmhealth.org|domain=nmhealth.org|U=9|L=9|UL=9|WUL=0|analytics=45084453}}}}
+{{User:COIBot/EditSummary|id=12840587|lang=en|wikidomain=w|namespace=|pagename=New Mexico Department of Health|username=ClintSulis|link=nmhealth.org/about/erd/|sortdomain=org.nmhealth.|domain=nmhealth.org|origdiff=http://en.wikipedia.org/w/index.php?diff=606697570&oldid=606697283|resolved=X|isIP=0|date=2014-05-01|time=22:56:45|wiki=en.wikipedia.org|revid=606697570|oldid=606697283|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=9|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=nmhealth.org/about/mcp/svcs/|domain=nmhealth.org|U=9|L=9|UL=9|WUL=0|analytics=45084453}}{{User:COIBot/OtherLinks|link=nmhealth.org/about/dhi/|domain=nmhealth.org|U=9|L=9|UL=9|WUL=0|analytics=45084453}}{{User:COIBot/OtherLinks|link=nmhealth.org/about/ddsd/|domain=nmhealth.org|U=9|L=9|UL=9|WUL=0|analytics=45084453}}{{User:COIBot/OtherLinks|link=nmhealth.org/about/sld/|domain=nmhealth.org|U=9|L=9|UL=9|WUL=0|analytics=45084453}}{{User:COIBot/OtherLinks|link=nmhealth.org/about/erd/|domain=nmhealth.org|U=9|L=9|UL=9|WUL=0|analytics=45084453}}}}
+{{User:COIBot/EditSummary|id=12840670|lang=en|wikidomain=w|namespace=|pagename=New Mexico Department of Health|username=ClintSulis|link=nmhealth.org/about/asd/|sortdomain=org.nmhealth.|domain=nmhealth.org|origdiff=http://en.wikipedia.org/w/index.php?diff=606697814&oldid=606697570|resolved=X|isIP=0|date=2014-05-01|time=22:59:09|wiki=en.wikipedia.org|revid=606697814|oldid=606697570|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=9|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=nmhealth.org/about/phd/|domain=nmhealth.org|U=9|L=9|UL=9|WUL=0|analytics=45084453}}{{User:COIBot/OtherLinks|link=nmhealth.org/about/asd/|domain=nmhealth.org|U=9|L=9|UL=9|WUL=0|analytics=45084453}}}}
+{{User:COIBot/EditSummary|id=12922823|lang=en|wikidomain=w|namespace=|pagename=New Mexico Department of Health|username=ClintSulis|link=nmhealth.org/about/ofm/|sortdomain=org.nmhealth.|domain=nmhealth.org|origdiff=http://en.wikipedia.org/w/index.php?diff=606820055&oldid=606697814|resolved=X|isIP=0|date=2014-05-02|time=21:06:04|wiki=en.wikipedia.org|revid=606820055|oldid=606697814|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=9|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=nmhealth.org/about/ofm/|domain=nmhealth.org|U=9|L=9|UL=9|WUL=0|analytics=45084453}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 4 additions out of 4 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/nmhealth.org]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bnmhealth\.org\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/nmhealth.org]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/nmhealth.org|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 23:12, 1 May 2014 (UTC)
+<!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 00:45, 14 May 2014 (UTC)

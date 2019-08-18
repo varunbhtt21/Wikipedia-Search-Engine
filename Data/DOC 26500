@@ -1,0 +1,43 @@
+Title : Template:Extended football squad 2 start
+Text : {| class="wikitable" style="text-align: center"
+|- style="text-align:center;background:#0047AB"
+! rowspan="2" width="1%"  | {{Abbr|No.|Number}}
+! rowspan="2" width="1%"  | {{Abbr|Nat.|Nationality}}
+! rowspan="2" width="22%" | Player
+! colspan="{{#switch:{{{mins|}}}|no=4|yes=5|4}}"| {{#if:{{{1|}}}||{{Abbr|Pre.|Pre-season}}}}
+! colspan="{{#switch:{{{mins|}}}|no=4|yes=5|4}}"| {{#if:{{{2|}}}||League}}
+! colspan="{{#switch:{{{mins|}}}|no=4|yes=5|4}}"| {{#if:{{{3|}}}||{{Abbr|Mid.|Mid-season}}}}
+! colspan="{{#switch:{{{mins|}}}|no=4|yes=5|4}}"| {{#if:{{{4|}}}||{{Abbr|Cup|Cup}}{{#switch:{{{cupref|}}}|no=|yes={{ref label|Cup|a|^}}|}}}}
+! colspan="{{#switch:{{{mins|}}}|no=4|yes=5|4}}"| Totals
+|- style="background:#DCDCDC"
+<!-- PRE-SEASON -->
+! {{Abbr|TA|Total appearances}}
+! {{Abbr|ST|Matches started}}
+! {{Abbr|SB|Substitution appearances}}
+! {{Abbr|Gs|Goals scored}}
+{{#switch:{{{mins|}}}|no=|yes=! {{Abbr|Ms|Minutes played}}|}}
+<!-- LEAGUE -->
+! {{Abbr|TA|Total appearances}}
+! {{Abbr|ST|Matches started}}
+! {{Abbr|SB|Substitution appearances}}
+! {{Abbr|Gs|Goals scored}}
+{{#switch:{{{mins|}}}|no=|yes=! {{Abbr|Ms|Minutes played}}|}}
+<!-- MID-SEASON -->
+! {{Abbr|TA|Total appearances}}
+! {{Abbr|ST|Matches started}}
+! {{Abbr|SB|Substitution appearances}}
+! {{Abbr|Gs|Goals scored}}
+{{#switch:{{{mins|}}}|no=|yes=! {{Abbr|Ms|Minutes played}}|}}
+<!-- CUP -->
+! {{Abbr|TA|Total appearances}}
+! {{Abbr|ST|Matches started}}
+! {{Abbr|SB|Substitution appearances}}
+! {{Abbr|Gs|Goals scored}}
+{{#switch:{{{mins|}}}|no=|yes=! {{Abbr|Ms|Minutes played}}|}}
+<!-- TOTALS -->
+! {{Abbr|TA|Total appearances}}
+! {{Abbr|ST|Matches started}}
+! {{Abbr|SB|Substitution appearances}}
+! {{Abbr|Gs|Goals scored}}
+{{#switch:{{{mins|}}}|no=|yes=! {{Abbr|Ms|Minutes played}}|}}<noinclude>
+|}{{documentation}}</noinclude>

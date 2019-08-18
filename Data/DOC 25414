@@ -1,0 +1,142 @@
+Title : Gateway Expressway
+Text : {{Use mdy dates|date=May 2014}}
+{{Infobox road
+|state=FL
+|marker_image=[[File:Florida 686A.svg|70px]][[File:Toll Florida 690.svg|50px]]
+|name=Gateway Expressway
+|alternate_name=State Road 686A, State Road 690
+|header_type=under construction
+|map=Gateway Express Map.jpg
+|map_notes=Aerial map of Gateway Expressway
+|maint=[[Florida's Turnpike Enterprise]]
+|length_mi=
+|length_ref=
+|status=Under construction
+|established=
+|history={{plainlist|1=
+*Approved February 2014
+*Construction started August 21, 2017<ref name="fdotge"/>}}
+|direction_a=East
+|terminus_a={{jct|state=FL|I|275}} in [[St. Petersburg, Florida|St. Petersburg]]
+|junction=
+|direction_b=West
+|terminus_b={{jct|state=FL|US|19|}} in [[Pinellas Park, Florida|Pinellas Park]]<br/>{{jct|state=FL|FL|686}} at [[Bayside Bridge (Pinellas County, Florida)|Bayside Bridge]]
+|previous_type=SR
+|previous_route=688
+|browse_route=SR 690
+|next_type=SR
+|next_route=692
+|counties=[[Pinellas County, Florida|Pinellas]]
+}}
+
+The '''Gateway Expressway''' is a planned [[toll road]] in [[Pinellas County, Florida]]. The project consists of two branches: an elevated highway to be designated State Road 690 (SR 690) above 118th Avenue North between [[Interstate 275 (Florida)|Interstate 275]] (I-275) and [[U.S. Route 19 in Florida|U.S. Highway 19]] (US 19) and a raised highway in the median of [[Florida State Road 686|SR 686]] from 118th Avenue North to the [[Bayside Bridge (Pinellas County, Florida)|Bayside Bridge]]. Construction was approved in February 2014 and began in November 2017. The expressway is expected to be completed by late 2022.<ref name="fdotge"/>
+
+== Route description ==
+The Gateway Expressway consists of two connected segments:
+* A four-lane, elevated segment will run above 118th Avenue from US 19 to I-275. This section will be designated SR 690.
+* A raised, four lane expressway will be built in the median of SR 686 and carry the designation SR 686A.<ref name="fdotge">{{cite web |url=http://www.fdottampabay.com/project/235/433880-1-52-01 |title=Gateway Expressway |author=Florida Department of Transportation |work=FDOT Current Projects |date=June 2019 |accessdate=June 14, 2019}}</ref> This segment will run from the planned SR 690 segment north to the [[Bayside Bridge (Pinellas County, Florida)|Bayside Bridge]] and connect to [[St. Petersburg–Clearwater International Airport]].
+
+Both segments will be tolled using [[electronic toll gantry|electronic toll gantries]] for [[SunPass]] transponders or pay-by-plate billing.<ref>{{cite web |last= Schorsch |first= Peter |title= Game-Changer: FDOT Plans Elevated Toll Road to Connect I-275 and US 19 |url= http://www.saintpetersblog.com/game-changer-fdot-plans-elevated-toll-road-to-connect-i-275-and-u-s-19 |work= Saint Peters Blog |accessdate= May 3, 2014|date=February 17, 2014}}</ref>
+
+== History ==
+The intention of the Gateway Expressway project is to solve transportation problems in Pinellas County, where several expressway projects were cancelled in the 1970s and 1980s, leaving the county without any major [[limited-access road|limited-access]] [[thoroughfare]]s except for I-275. Significant upgrades to US 19 in the 2000s improved traffic flow north–south in the county. However, only local roads travel east–west. The Gateway Expressway project had been identified for a long time as a priority project to improve traffic flow in Pinellas County.<ref name=TBO />
+
+The project was announced by Governor [[Rick Scott]] in a press conference with local officials on February 17, 2014. It had been in the works for 15 years. Construction began in November 2017 and is expected to be complete in late 2022 at a cost of $545 million. The project was not expected to be funded for another 15–20 years.<ref>{{cite press release |author= Staff |title= Governor Scott Announces Advancement of Gateway Express Project in Pinellas County |url= http://www.flgov.com/2014/02/17/governor-scott-announces-advancement-of-gateway-express-project-in-pinellas-county/ |publisher=Office of the Governor of Florida |accessdate= May 3, 2014 |date= February 17, 2014}}</ref> Funding will be provided by the [[Federal Highway Administration]] ($153 million), Penny for Pinellas funds ($53 million), and the State of Florida (remainder of project costs).<ref name=TBO>{{cite news |last= O’Donnell |first= Christopher |title= Accelerated Plan will link I-275, US 19 in Pinellas |url= http://tbo.com/pinellas-county/pinellas-expressway-construction-accelerated-20140217/ |accessdate= May 3, 2014 |newspaper= Tampa Tribune |date= February 17, 2014}}</ref>
+
+== Major intersections ==
+
+=== State Road 690===
+{{jcttop|state=FL|county=Pinellas}}
+{{FLint
+|location=Pinellas Park
+|lspan=3
+|mile=
+|road={{jct|state=FL|US|19|dir1=north}}
+|notes=Western terminus of SR 690; entrance from US 19 south
+}}
+{{FLint
+|type=incomplete
+|mile=
+|road=118th Avenue North
+|notes=Westbound exit and eastbound entrance; to [[US 19 (FL)|US 19]] south
+}}
+{{FLint
+|type=incomplete
+|mile=
+|road={{Jct|state=FL|SR|686}}
+|notes=Express Lane interchange only; westbound exit and eastbound entrance
+}}
+{{FLint
+|location=St. Petersburg
+|lspan=4
+|type=toll
+|mile=
+|place=Toll Gantry
+}}
+{{FLint
+|type=incomplete
+|mile=
+|road=118th Avenue North
+|notes=Westbound exit only; no toll from I-275
+}}
+{{FLint
+|type=incomplete
+|mile=
+|road=28th Street North
+|notes=Eastbound entrance only; no toll to I-275
+}}
+{{FLint
+|mile=0.00
+|road={{Jct|state=FL|I|275}}
+}}
+{{jctbtm|keys=incomplete,toll}}
+
+===State Road 686A express lanes ===
+
+{{jcttop|state=FL|county=Pinellas}}
+{{FLint
+|location=Pinellas Park
+|lspan=2
+|mile=0.00
+|road={{Jct|state=FL|SR|690|dir1=east}}
+|notes=Entrance from SR 690 west only
+}}
+{{FLint
+|type=toll
+|mile=
+|road={{Jct|state=FL|SR|688|name1=Ulmerton Road}}
+|notes=No southbound exit; tolled northbound entrance
+}}
+{{FLint
+|location=none
+|mile=
+|type=incomplete
+|road={{Jct|extra=airport}} [[St. Pete–Clearwater International Airport]]
+|notes=No northbound entrance
+}}
+{{FLint
+|location=Largo
+|lspan=2
+|mile=
+|road={{Jct|state=FL|SR|686|name1=Roosevelt Boulevard}}
+|notes=Northern terminus for northbound lanes
+}}
+{{FLint
+|mile=
+|road={{jct|state=FL|CR|611|county1=Pinellas|road=Bayside Bridge}}
+|notes=Northern terminus for southbound lanes
+}}
+{{jctbtm|keys=incomplete,toll}}
+
+== See also ==
+*{{portal-inline|Florida}}
+*{{portal-inline|U.S. Roads}}
+
+== References ==
+{{reflist}}
+
+[[Category:Expressways in Pinellas County, Florida]]
+[[Category:Roads in Pinellas County, Florida]]
+[[Category:Toll roads in Florida]]
+[[Category:State highways in Florida]]
+[[Category:Expressways in the Tampa Bay Area]]

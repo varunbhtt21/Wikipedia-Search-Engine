@@ -1,0 +1,47 @@
+Title : Template:Infobox highway system/doc
+Text : {{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+== Usage ==
+Copy and paste the following code below:
+{{Parameter names example|title|markers|caption|map|map_alt|map_notes|header_color|country|state|province|type|subtype|header_type|maint|formed|length_mi=|length_km=0|notes|length_ref|length_round=0|established|label1|field1|label2|field2|label3|field3|label4|field4|label5|field5|label6|field6|system|county|route}}
+<pre style="overflow: auto;">
+{{Infobox highway system
+| title      = 
+| markers    = 
+| caption    = 
+| map        = 
+| map_alt    = 
+| map_notes  = 
+| maint      = 
+| formed     = <!-- or | established = -->
+| length_km  = <!-- or | length_mi = -->
+| length_ref = 
+| notes      = 
+| links      = 
+}}
+</pre>
+
+Then fill in the fields as follows:
+* '''title:''' This is the (official) title of the system.
+* '''markers:''' Put some examples of the markers the system uses here.
+* '''caption:''' This is the markers' description, as a caption.
+* '''map:''' Put a map of the system here.
+* '''map_notes:''' This is the map's description.
+* '''map_alt:''' This is the map's [[WP:ALT|alt text]].
+* '''maint:''' This is the name of the agency or organization that maintains the system.
+* '''formed:''' This is the date of the system's formation. (Alternate parameter: '''formed''')
+* '''length_mi:''' or '''length_km:''' This is the length of the system. '''length_ref''' is used for the reference for this piece of information, and the template converts the given length into both systems of measurement.
+* '''notes:''' Additional information about the highway system.
+*'''country''', '''state''', or '''province:''' just as with {{tl|infobox road}}, but used to display the appropriate links at the bottom of the infobox.
+**'''type:''' Optional. Customizes the links displayed for some jurisditions based on roadway type.
+**'''county:''' Optional. Customized the links displayed for some states based on county, for county roads.
+* '''field1–6''' Optional.  Allows up to six additional types of highways to be added to the list.
+* '''label1–6''' Required only if using field1–6.  Adds a label for the field1–6 lines.
+
+== See also ==
+*{{tl|infobox road}}, an infobox for individual routes
+*{{tl|infobox state highway system}}, an infobox for systems in the US or Canada}}
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Highway infobox templates|*]]
+</includeonly>

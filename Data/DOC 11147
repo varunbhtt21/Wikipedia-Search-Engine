@@ -1,0 +1,37 @@
+Title : Wikipedia:WikiProject Spam/Local/schoolsuppliersindia.com
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|schoolsuppliersindia.com]]
+== Links ==
+* {{LinkSummary|schoolsuppliersindia.com}}
+:* schoolsuppliersindia.com resolves to [//31.170.167.88 31.170.167.88]
+:*: {{LinkSummary|31.170.167.88}}
+:* {{GoogleAnalyticsSummary|24425628}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Coolclin}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12267030|lang=en|wikidomain=w|namespace=|pagename=Nameplate|username=Coolclin|link=schoolsuppliersindia.com/nameplate.html#ssnameplate|sortdomain=com.schoolsuppliersindia.|domain=schoolsuppliersindia.com|origdiff=http://en.wikipedia.org/w/index.php?diff=606052619&oldid=605618189|resolved=X|isIP=0|date=2014-04-27|time=16:33:54|wiki=en.wikipedia.org|revid=606052619|oldid=605618189|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=5|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=schoolsuppliersindia.com/nameplate.html#copper|domain=schoolsuppliersindia.com|U=5|L=5|UL=5|WUL=0|analytics=24425628}}{{User:COIBot/OtherLinks|link=schoolsuppliersindia.com/nameplate.html#zink|domain=schoolsuppliersindia.com|U=5|L=5|UL=5|WUL=0|analytics=24425628}}{{User:COIBot/OtherLinks|link=schoolsuppliersindia.com/nameplate.html#brass|domain=schoolsuppliersindia.com|U=5|L=5|UL=5|WUL=0|analytics=24425628}}{{User:COIBot/OtherLinks|link=schoolsuppliersindia.com/nameplate.html#ssnameplate|domain=schoolsuppliersindia.com|U=5|L=5|UL=5|WUL=0|analytics=24425628}}{{User:COIBot/OtherLinks|link=schoolsuppliersindia.com/nameplate.html#ssnameplate|domain=schoolsuppliersindia.com|U=5|L=5|UL=5|WUL=0|analytics=24425628}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 1 additions out of 1 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/schoolsuppliersindia.com]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bschoolsuppliersindia\.com\b# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/schoolsuppliersindia.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/schoolsuppliersindia.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 22:42, 27 April 2014 (UTC)
+<!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). <!-- noleft -->No links left in here mentioned edits.  Marked stale. . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 23:00, 14 May 2014 (UTC)

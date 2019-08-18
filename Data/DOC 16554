@@ -1,0 +1,49 @@
+Title : R-4D
+Text : {{infobox rocket engine
+  |image=Apollo RCS quad.jpg
+  |image_size=
+  |caption=An RCS quad containing four R-4D thrusters, as used on the Apollo Service Module
+  |name=R-4D
+  |country_of_origin=[[United States]]
+  |manufacturer=[[Marquardt Corporation|Kaiser Marquardt]]<br/>[[Aerojet Rocketdyne]]
+  |purpose=[[Reaction control system]]
+  |type=liquid
+  |fuel=[[monomethyl hydrazine|MMH]]
+  |oxidiser=[[nitrogen tetroxide|NTO]]
+  |capacity=
+
+  |thrust(SL)=
+  |thrust(Vac)= 490 N (110 lbf)
+  |specific_impulse_vacuum=  312 s
+  |specific_impulse_sea_level=
+  |chamber_pressure= {{convert|6.93|bar|psi}}
+  |thrust_to_weight= 13.74
+  |cycle=[[Pressure-fed engine|Pressure-fed]]
+
+  |used_in=[[Orion (spacecraft)]]<br/>[[H-II Transfer Vehicle]]<br/>[[Space Shuttle]]<br/>[[Apollo (spacecraft)]]<br/>[[Cassini (spacecraft)]]
+}}
+
+The '''R-4D''' is a small [[hypergolic]] [[rocket engine]], originally designed by [[Marquardt Corporation]] for use as a [[reaction control system|reaction control thruster]] on vehicles of the [[Apollo program|Apollo moon program]]. Today, [[Aerojet Rocketdyne]] manufactures and markets modern versions of the R-4D.<ref>{{cite web |url=https://www.rocket.com/propulsion-systems/bipropellant-rockets |title=Bipropellant Rocket Engines |publisher=Aerojet Rocketdyne |accessdate=7 May 2014}}</ref>
+
+==History==
+Developed as an attitude control thruster for the Apollo [[Apollo Command/Service Module|Command/Service Module]] and [[Apollo Lunar Module|Lunar Module]] in the 1960s, each unit for the modules employed four quadruple clusters (pods). It was first flown on [[AS-201]] in February 1966. Approximately 800 were produced during the Apollo program.
+
+Sixteen R-4Ds were mounted on the exterior of each lunar module in four quadruple clusters and sixteen on each service module. Because both the lunar module and service module were jettisoned during the Apollo missions, no flown examples exist.<ref name=apolloArtifacts>{{cite web|url=http://www.apolloartifacts.com/2013/11/marquardt-r-4d-apollo-spacecraft-attitude-control-engine.html|title=Marquardt R-4D Apollo spacecraft attitude control engine|publisher=Apollo Artifacts|author=David Meerman Scott|date=November 2013|access-date=5 February 2016}}</ref>
+
+Post-Apollo, modernized versions of the R-4D have been used in a variety of spacecraft, including the [[United States Navy|U.S. Navy]]'s [[Syncom|Leasat]], [[Indian National Satellite System|Insat 1]], [[Intelsat 6]], [[Italsat]], and [[BulgariaSat-1]].<ref name=bulgariasat>{{cite web|url=http://spaceflight101.com/falcon-9-bulgariasat-1/bulgariasat/|title=BulgariaSat-1|publisher=spaceflight101|access-date=23 June 2017}}</ref> It has also been used on [[Japan]]'s [[H-II Transfer Vehicle]] and the [[European Space Agency|European]] [[Automated Transfer Vehicle]], both of which deliver cargo to the [[International Space Station]].<ref>{{cite journal |last=Stechman |first=Carl |last2=Harper |first2=Steve |date=July 2010 |title=Performance Improvements in Small Earth Storable Rocket Engines |publisher=AIAA |journal=46th AIAA/ASME/SAE/ASEE Joint Propulsion Conference}} "Derivates of this engine are still used today on satellites and spacecraft including the European autonomous transfer vehicle (ATV) and the Japanese H-2 transfer vehicle (HTV) propulsion systems and the future Orion service module.</ref>
+
+==Design==
+The R-4D is a fuel-film cooled engine.  Some of the fuel is injected longitudinally down the combustion chamber, where it forms a cooling film.<ref name=performanceImprovements>{{cite journal|last=Stechman|first=Carl|last2=Harper|first2=Steve|date=2010|title=Performance Improvements in Small Earth Storable Rocket Engines- An Era of Approaching the Theoretical|publisher=The American Institute of Aeronautics and Astronautics|doi=10.2514/6.2010-6884}}</ref> The thruster's design has changed several times since its introduction. The original R-4D's combustion chamber was formed from an [[alloy]] of [[molybdenum]], coated in a layer of [[Molybdenum disilicide|disilicide]].<ref name=apolloArtifacts/> Later versions switched to a [[niobium]] alloy, for its greater ductility. Beginning with the R-4D-14, the design was changed again to use an [[iridium]]-lined [[rhenium]] combustion chamber, which provided greater resistance to high-temperature oxidization and promoted mixing of partially reacted gasses.<ref name=performanceImprovements/>
+
+The R-4D requires no igniter as it uses hypergolic fuel.
+
+It is rated for up to one hour of continuous thrust, 40,000 seconds total, and 20,000 individual firings.<ref name="performanceImprovements" /><ref>{{cite web|url=http://www.astronautix.com/engines/r4d.htm|title=R-4D|publisher=Astronautix|access-date=5 February 2016}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Marquardt Corporation aeroengines}}
+{{Orbital spacecraft rocket engines}}
+
+[[Category:Rocket engines using hypergolic propellant]]
+[[Category:Rocket engines using the pressure-fed cycle]]

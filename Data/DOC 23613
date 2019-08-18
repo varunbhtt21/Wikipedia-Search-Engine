@@ -1,0 +1,104 @@
+Title : WebWatcher
+Text : {{Coord|34|3|28.2|N|118|23|51|W|display=title}}
+
+{{Infobox software
+| name = WebWatcher
+| logo   = webwatcher-logo.png
+| developer = [[Awareness Technologies]]
+| latest release version = 8.2.37.1168 (PC)<ref name="CNET Download">{{cite web|title=WebWatcher Downloads|url=http://download.cnet.com/WebWatcher/3000-2162_4-75621928.html|accessdate=1 May 2014}}</ref> 
+2.0.27.142 (MAC)<ref>{{cite web|title=CNET WebWatcher for Mac|url=http://download.cnet.com/WebWatcher/3000-2162_4-76016133.html|accessdate=1 May 2014}}</ref>
+3.6 (Android)
+|operating_system = 
+*Android 4.0 and up.
+*[[iOS]] version 6.0 and up.
+*[[Windows 7]]
+*[[Windows 8]]
+*[[Windows 8.1]]
+*[[Windows 10]]
+*[[macOS]]
+*[[Chrome OS]]
+|                  genre = [[Computer monitoring]]
+|                license = [[Proprietary software|Proprietary]] [[commercial software]]
+|                website = {{URL|http://www.webwatcher.com}}
+}}
+
+'''WebWatcher''' is a proprietary licensed computer and mobile device monitoring software developed by Awareness Technologies.<ref name="pcmag">{{cite web
+|last=Rubenking
+|first=Neil
+  | title = WebWatcher Review & Rating
+   | url = https://www.pcmag.com/article2/0,2817,2385748,00.asp
+    | work = pcmag.com
+     | accessdate = April 19, 2014}}</ref> WebWatcher is compatible with [[iOS]], [[Android (operating system)|Android]], [[Windows]], [[Chrome OS]] and [[macOS]] operating systems. WebWatcher Mobile records [[text messages]], call logs, web history, photos, and GPS. WebWatcher for [[Microsoft Windows|PC]] and [[macOS|Mac]] features include [[email]] & [[Instant Message]] monitoring, [[keystroke logging]], [[web content filtering|web content filtering and monitoring]], and screenshot monitoring.<ref name="Globe Mail">{{cite web
+|last=Norbury
+|first=Keith
+  | title = The case against Big Brother at work
+   | url = https://www.theglobeandmail.com/report-on-business/small-business/sb-managing/human-resources/the-case-against-big-brother-at-work/article4260681/
+    | work = theglobeandmail.com
+     | accessdate = April 19, 2014}}</ref>
+
+== History ==
+WebWatcher was developed in 2002 initially for uses of [[counter-terrorism]] for Windows PCs.<ref>{{cite web|last=Cohan|first=Peter|title=Awareness Technologies Spies on Workers, Teens|url=https://www.forbes.com/sites/petercohan/2011/11/01/awareness-technologies-spies-on-workers-teens/|work=Forbes.com|accessdate=19 April 2014}}</ref> The software is now used by parents to monitor their children's online activities.<ref name="daily news">{{cite web
+  | title = 4 services for monitoring your kid's online activities
+   | url = http://www.dailynews.com/lifestyle/20131108/4-services-for-monitoring-your-kids-online-activities
+    | work = dailynews.com
+     | accessdate = May 1, 2014}}</ref> In 2010, a version of the software was released for BlackBerry and Android devices. In 2012, WebWatcher for Mac was released. WebWatcher for iOS was released in 2014.
+
+== Features ==
+WebWatcher utilizes a [[client-server]] architecture which monitors and records user activity on the client machine. After data is recorded, it is then [[encrypted]] and transmitted through a secure [[Secure Sockets Layer|SSL]] connection to a remote server. The user can then login to a website portal to view this recorded data.<ref>{{cite web|title=webwatcher.com|url=http://www.webwatcher.com/|accessdate=2 May 2014}}</ref> This process allows a customer to view the recorded data remotely. WebWatcher also offers a Risk Free Trial for Android, iOS, Windows, Mac & [[Chromebook]] platforms.
+
+{| class="wikitable"
+|-
+! Features
+! WebWatcher for Android
+! WebWatcher for [[iPhone]]
+|-
+! Websites Visited
+| {{ya}}
+| {{ya}}
+|-
+! Website Searches
+| {{ya}}
+| {{ya}}
+|-
+! SMS Text Messages
+| {{ya}}
+| {{ya}}
+|-
+! Call History
+| {{ya}}
+| {{ya}}
+|-
+! Photos Taken
+| {{ya}}
+| {{ya}}
+|-
+! Device Geolocation
+| {{ya}}
+| {{ya}}
+|}
+
+== Reception and Criticism ==
+WebWatcher received the [[PC Magazine]] editors' choice award in a 2011 review of Parental Control & Monitoring software. In the article, WebWatcher was referred to as "Heavy-handed" saying: "if you find it necessary to track a child who's engaging in risky activities, WebWatcher will record every detail and even send you instant notification when it encounters certain words."<ref name="pcmag" /> Also, [[About.com]] readers named WebWatcher as the "Best [[Internet safety|Internet Safety]] Tool" as part of its 2011 Readers' Choice Awards.<ref>{{cite web
+| title = WebWatcher Named 'Best Internet Safety Tool' by About.com Readers
+  | url = http://www.redorbit.com/news/technology/2016678/webwatcher_named_best_internet_safety_tool_by_aboutcom_readers/
+   | accessdate = April 19, 2014}}</ref>
+  
+Critics have noted that since the software runs stealth on a device, there is an opportunity for the software to be installed illegally. To mitigate this issue, WebWatcher requires administrator credentials to be installed on a device.<ref>{{cite web
+|last=Rogers
+ |first=Kate
+  | title = NSA-Style Surveillance for Parents Looking to Monitor their Kids
+   | url = http://www.foxbusiness.com/personal-finance/2013/06/21/spying-on-your-kids-online/
+    | accessdate = May 2, 2014}}</ref>
+
+== References ==
+{{reflist|2}}
+
+[[Category:2002 software]]
+[[Category:Proprietary cross-platform software]]
+[[Category:Cross-platform software]]
+[[Category:Windows software]]
+[[Category:MacOS software]]
+[[Category:BlackBerry software]]
+[[Category:C++ software]]
+[[Category:Android (operating system) software]]
+[[Category:Content-control software]]

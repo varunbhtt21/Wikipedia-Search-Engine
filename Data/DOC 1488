@@ -1,0 +1,5 @@
+Title : Template:Format link
+Text : <includeonly>{{#invoke:hatnote|formatLink}}</includeonly><noinclude>
+{{documentation}}
+<!-- Categories go on the /doc subpage, and interwikis go on Wikidata. -->
+</noinclude>

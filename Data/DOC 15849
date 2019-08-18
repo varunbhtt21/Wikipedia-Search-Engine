@@ -1,0 +1,32 @@
+Title : Fulvimarina pelagi
+Text : {{italic title}}
+{{Taxobox
+| color = lightgrey
+| name = ''Fulvimarina pelagi''
+| regnum = [[Bacterium|Bacteria]]
+| phylum = [[Proteobacteria]]
+| classis = [[Alpha Proteobacteria]]
+| ordo = [[Rhizobiales]]
+| familia = [[Aurantimonadaceae]]
+| genus = ''[[Fulvimarina]]''
+| binomial = ''Fulvimarina pelagi''
+| species = '''''F. pelagi'''''
+| binomial_authority = Cho and Giovannoni 2003<ref>[http://www.bacterio.net/fulvimarina.html LSPN bacterio.net]</ref>
+| type_strain = ATCC BAA-666, CCUG 52903, CIP 108376, DSM 15513, HTCC 2506, KCTC 12091<ref>[http://www.straininfo.net/taxa/16280;jsessionid=94C5D8C6316637B25522C5EBBF08EAC5.straininfo2 Straininfo of Fulvimarina pelagi]</ref>
+| synonyms = 
+}}
+
+'''''Fulvimarina pelagi''''' is a [[Gram-negative]], strictly [[Aerobic organism|aerobic]], [[non-motile bacteria]] from the genus of [[Fulvimarina]] which was isolated from sea water from the western [[Sargasso Sea]].<ref>{{Cite journal | doi = 10.1099/ijs.0.02644-0| pmid = 14657114| title = ''Fulvimarina pelagi'' gen. nov., sp. nov., a marine bacterium that forms a deep evolutionary lineage of descent in the order 'Rhizobiales'| journal = International Journal of Systematic and Evolutionary Microbiology| volume = 53| issue = 6| pages = 1853–1859| year = 2003| last1 = Cho | first1 = J. -C. }}</ref><ref>[https://www.uniprot.org/taxonomy/217511 UniProt]</ref><ref>[[Deutsche Sammlung von Mikroorganismen und Zellkulturen]] [http://www.dsmz.de/de/kataloge/catalogue/culture/DSM-15514.html]</ref>
+
+==References==
+<references/>
+
+==External links==
+*[http://bacdive.dsmz.de/index.php?search=528&submit=Search Type strain of ''Fulvimarina pelagi'' at Bac''Dive'' -  the Bacterial Diversity Metadatabase]
+{{Taxonbar|from=Q16800801}}
+
+[[Category:Rhizobiales]]
+[[Category:Bacteria described in 2003]]
+
+
+{{alphaproteobacteria-stub}}

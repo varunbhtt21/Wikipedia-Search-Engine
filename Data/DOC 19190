@@ -1,0 +1,17 @@
+Title : Template:Warid
+Text : {{Template for discussion/dated|action=|page=Warid|link=Wikipedia:Templates for discussion/Log/2019 July 26#Template:Warid|help=off|bigbox={{#invoke:Noinclude|noinclude|text=yes}}}}
+{{Navbox
+|name = Warid
+|title = [[Warid Telecom|Warid]]
+|state    = {{{state|autocollapse}}}
+|listclass = hlist
+|list1 =
+* [[Warid Pakistan]] (defunct)
+* [[Warid Congo]] (defunct)
+* [[Warid Bangladesh]] (defunct)
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Mobile phone companies of the United Arab Emirates]]
+[[Category:Companies based in Abu Dhabi]]
+</noinclude>

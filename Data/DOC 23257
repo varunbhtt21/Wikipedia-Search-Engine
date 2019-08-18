@@ -1,0 +1,172 @@
+Title : Airbus E-Fan
+Text : {|{{Infobox aircraft begin
+ |name           = E-Fan
+ |image          = File:Airbus E-Fan (14088845198).jpg
+ |caption        = Airbus E-Fan in flight at 2014 [[Berlin Air Show]]
+ |alt            = <!-- Alt text for main image -->
+}}{{Infobox aircraft type
+ |type            = [[Electric aircraft]]
+ |national origin = <!-- Use the main nation (e.g. UK), not constituent country (England); don't use "EU". List collaborative programs of only 2 or 3 nations; for more than 3, use "Multi-national:. -->
+ |manufacturer    = [[Airbus]] Innovations
+ |design group    = <!--Only design group(s) different from the manufacturer -->
+ |designer        = Didier Esteyne<ref name=JAWA15>{{cite book |title= Jane's All the World's Aircraft  : development & production : 2015-16|last= Gunston |first= Bill |coauthors= |edition= |year=2015|publisher=IHS Global|location=|isbn=978-0-7106-3135-0 |pages=410–11}}</ref>
+ |first flight    = 11 March 2014 
+ |introduced      = 2017
+ |retired         = <!--Date the aircraft left service. If vague or more than a few dates, skip this. -->
+ |status          = Production cancelled (April 2017)
+ |primary user    = <!-- List only one user; for military aircraft, this is a nation or a service arm. Please DON'T add flag templates, as they limit horizontal space. -->
+ |more users      = <!-- Limited to THREE (3) 'more users' here (4 total users).  Separate users with <br />. -->
+ |produced        = <!--Years in production (e.g. 1970–99) if still in active use but no longer built -->
+ |number built    = 1
+ |program cost    = <!--Total program cost-->
+ |unit cost       = <!--Incremental or flyaway cost for military or retail price for commercial aircraft-->
+ |developed from  = <!--The aircraft which formed the basis for this aircraft-->
+ |variants with their own articles = <!--Variants OF this aircraft-->
+ |developed into  = <!--For derivative aircraft based on this aircraft-->}}
+|}
+
+The '''Airbus E-Fan''' is a prototype two-seater [[electric aircraft]] that was under development by [[Airbus]]. It was flown in front of the world press at the [[Farnborough Airshow]] in the [[United Kingdom]] in July 2014. The target market was intended to be [[Flight training|pilot training]], but production of the aircraft was cancelled in April 2017.<ref name="Rapoport01Apr17">{{cite web|url = http://www.avweb.com/avwebflash/news/AIRBUS-Pivots-Electric-Aircraft-Plans-228747-1.html|title = Airbus Pivots Electric Aircraft Plans |accessdate = 3 April 2017|author=|last = Rapoport|first = Geoff|work = AVweb|date = 1 April 2017 }}</ref>
+
+==Design and development==
+Airbus Group developed this electric aircraft with Aero Composites Saintonge.  The aircraft uses on-board [[lithium-ion batteries]] to power the two electric motors and can carry one pilot and one passenger. A test flight was conducted in April 2014 at [[Bordeaux–Mérignac Airport]], France, landing in front of a large audience, the French Minister of Industry [[Arnaud Montebourg]] being one of them. At the 2014 Farnborough Airshow, Airbus announced that the E-Fan 2.0 would go into production by 2017 with a side-by-side seating layout.<ref>{{cite web|url=http://www.avweb.com/avwebflash/news/Airbus-Commits-To-E-Fan-Production222348-1.html|title=Airbus commits to E-Fan Production|accessdate=16 July 2014}}</ref> Airbus stated at that time that there are plans for development of a commercial [[regional aircraft]] in the near future.<ref>{{cite web | last = O'Callaghan |first=Jonathan |url=http://www.dailymail.co.uk/sciencetech/article-2613186/Forget-electric-cars-Airbus-unveils-plans-fly-battery-powered-PLANES-20-years.html |title= Airbus unveils plans for battery-powered planes within the next 20 years | work = The daily Mail | edition = online | place = [[United Kingdom|UK]] | date=2013-09-17 |accessdate=2014-04-28}}</ref><ref>{{cite web|last=Bertorelli |first=Paul |url=http://www.avweb.com/avwebflash/news/Airbus-Announces-Electric-Aircraft221922-1.html |title=Airbus Announces Electric Aircraft | work =Av Web |date=2014-04-24 |accessdate= 2014-04-28}}</ref>
+
+The E-Fan is an all-electric two-seat twin-motor [[low-wing]] [[monoplane]] of [[composite material]] structure. It has a [[T-tail]] and a [[retractable landing gear|retractable tandem landing gear]] with outrigger wheels. The two motors are mounted on either side of the rear fuselage.
+
+Two production variants were initially planned, a two-seater E-Fan 2.0 for use as a trainer, and the E-Fan 4.0 four-seat touring aircraft. The E-Fan 4.0 appears identical to the E-Fan apart from a fuselage stretch.  To increase flight duration the planned E-Fan 4.0 would have had a hybrid-electric system that will have a small engine to charge the battery (like a [[Range extender (vehicle)|range extender]]), which would have increased its duration from 2 hours to 3.5 hours. The first flight of the E-Fan 2.0 was originally planned for 2017 and the E-Fan 4.0 for 2019.<ref name=JAWA15/>
+
+[[File:Meeting Ferté Alais-0008.JPG|thumbnail|A ducted fan on the E-Fan]]
+
+The E-fan is of all-composite construction and is propelled by two [[Ducted fan|ducted]], [[variable pitch fan|variable-pitch fan]]s spun by two electric motors totaling 60&nbsp;kW of power.  Ducting increases thrust while reducing noise, and having the fans mounted centrally provides better control. The motors moving the fans are powered by a series of 250-volt [[Lithium polymer battery]] packs made by South Korean company [[Kokam (company)|Kokam]]. The batteries are mounted in the inboard section of the wings. They have enough power for one hour and take one hour to recharge. An onboard backup battery is available to make an emergency landing if power runs out while airborne. The E-fan's [[landing gear]] consists of a retractable fore and aft wheel, and a fixed wheel under the wings. Unusually for an aircraft, the main wheel is powered by a 6&nbsp;kW electric motor, which allows the plane to be taxied without the main motors, and is able to accelerate it to {{convert |60|km/h|mph knot|abbr=on}} for takeoffs. Having the takeoff run performed by the undercarriage relieves some of the burden on the flight motors.<ref>{{Citation | url = http://www.gizmag.com/e-fan-airbus-electric-plane/31823/ | title = E-Fan electric aircraft makes first public flight | newspaper = Giz mag | date = 30 April 2014}}.</ref>
+
+In December 2014 Airbus announced that [[DAHER-SOCATA]] would complete the design work on the aircraft and [[type certificate|certify]] it. [[VoltAir]], an Airbus subsidiary, developed the initial prototype and worked with Daher-Socata during the testing phase as the project manager.<ref name="Kauh11Dec14">{{cite news|url = http://www.avweb.com/avwebflash/news/Daher-Socata-to-Develop-Airbus-E-Fan223235-1.html|title = Daher-Socata To Develop Airbus E-Fan|accessdate = 14 December 2014|last = Kauh|first = Elaine|date = 11 December 2014| work = AVweb}}</ref> At this point the aircraft became the '''VoltAir E-Fan'''.<ref name=JAWA15/>
+
+On 30 April 2015 the company announced that the aircraft would be produced at [[Pau Pyrénées Airport]], south-west France, at a new facility, that would be near the DAHER-SOCATA plant at [[Tarbes–Lourdes–Pyrénées Airport|Tarbes]]. First deliveries were at that time expected at the end of 2017 or early 2018.<ref>{{cite web|url=http://www.avweb.com/avwebflash/news/Airbus-E-Fan-To-Be-Built-In-Pau-France-224000-1.html|title=Airbus E-Fan To Be Built In Pau, France|work=AVweb|accessdate=1 May 2015}}</ref><ref>{{cite web|url=http://objectifaquitaine.latribune.fr/business/aeronautique-et-defense/2015-04-30/l-e-fan-decollera-de-pau.html |title=L'E-fan décollera de Pau |work=La Tribune |language=fr |date=30 April 2015 |accessdate=4 May 2015}}</ref>
+
+In April 2017 Airbus cancelled production of the E-Fan, preferring to concentrate on a proposed hybrid-electric, regional jet-sized aircraft, with an initial service date of 2030.<ref name="Rapoport01Apr17"/>
+
+==Operational history==
+On 9 July 2015, the E-Fan crossed the [[English Channel]] from [[Lydd Airport]] to [[Calais–Dunkerque Airport]]. It was flown by Didier Esteyne, the chief engineer of the E-Fan.<ref>{{cite web|url=http://www.airbusgroup.com/int/en/news-media/media~item=a32f1a6a-4eac-41a7-8861-8acf190b8b24~.html|title=CV - Didier Esteyne, pilot and designer of the E-Fan|work=airbusgroup.com|accessdate=10 October 2016}}</ref> Initially this was claimed as the first electric aircraft to cross the [[English Channel]], but it has since been pointed out that there were previous such flights, including [[MacCready Solar Challenger]] as long ago as 1981, and Airbus now say it was the "first all-electric two-engine aircraft" to make the crossing.<ref>{{cite web|url=http://news.sky.com/story/1516548/electric-shock-rival-pilots-claim-channel-first|title=Electric Shock: Rival Pilots Claim Channel First|work=Sky News|accessdate=10 July 2015}}</ref><ref>{{cite web|url=http://www.avweb.com/avwebflash/news/Did-Duwal-Beat-Airbus-Across-the-Channel-224410-1.html|title=Did Duwal Beat Airbus Across the Channel?|work=AVweb|accessdate=10 July 2015}}</ref><ref>{{cite web|url=http://www.avweb.com/blogs/insider/Airbus-Asterisked-Record-224408-1.html|title=Airbus' Asterisked Record|last=Bertorelli|first=Paul|work=AVweb|accessdate=10 July 2015}}</ref><ref>{{cite web|url=http://www.avweb.com/avwebflash/news/First-Electric-Powered-Channel-Flight-Was-34-Years-Ago-224415-1.html|title=First Electric-Powered Channel Flight Was 34 Years Ago|work=AVweb|accessdate=13 July 2015}}</ref> [[Siemens]] has sponsored electric equipment on the E-fan, but not motors.<ref>{{cite web|url=http://www.avweb.com/avwebflash/news/Pipistrel-Cancels-Channel-Flight-After-Siemens-Pulls-Support-224400-1.html|title=Pipistrel Cancels Channel Flight After Siemens Pulls Support|last=Niles|first=Russ|work=AVweb|accessdate=2 August 2015}}</ref>
+
+==Variants==
+;E-Fan
+:Two-seat concept aircraft and technology demonstrator, first flown March 2014.<ref name=JAWA15/><ref name="flight">{{cite web|url=http://www.flightglobal.com/news/articles/airbus-light-aircraft-initiative-blazes-trail-to-electric-398694/|title=Airbus light aircraft initiative blazes trail to electric future|author=Reed Business Information Limited|publisher=}}</ref>
+;E-Fan 2.0
+:Proposed all-electric two-seat production variant, initially forecast to fly in 2017.<ref name=JAWA15/>
+;E-Fan 4.0
+:Proposed hybrid-electric four-seat variant, to fly 2019; a kerosene fuelled generator would have extended endurance from 2&nbsp;h to 3&nbsp;h 30&nbsp;min.<ref name=JAWA15/>
+;E-Thrust
+:Proposed 90-seat regional jet based on the principles of the E-Fan.<ref name="flight"/>
+
+==Specifications==
+{{Aircraft specs
+|ref=Jane's All the World's Aircraft 2014/15<ref name=JAWA14>{{cite book |title= Jane's All the World's Aircraft  : development & production : 2014-15|last= Jackson |first= Paul A. |coauthors= |edition= |year=2014|publisher=IHS Global|location= |isbn=978-0-7106-3094-0 |pages=335}}</ref> and Airbus<ref name=brochure>{{cite web|title=E-Fan, the New Way to Fly|url=https://www.airbusgroup.com/service/mediacenter/download/?uuid=48b1bd2c-a428-4c65-82e5-ed3e923bd142|website=Airbus Group|publisher=Airbus Group|accessdate=25 September 2015|ref=efan-pdf}}</ref>
+
+|prime units?=met
+<!--
+        General characteristics
+-->
+|genhide=
+
+|crew=one
+|capacity=one passenger
+|length m=6.67
+|length note=
+|span m=9.50
+|height m=
+|height ft=
+|height in=
+|height note=
+|wing area sqm=
+|wing area sqft=
+|wing area note=
+|aspect ratio=<!-- sailplanes -->
+|airfoil=
+|empty weight kg=
+|empty weight lb=
+|empty weight note=
+|gross weight kg=
+|gross weight lb=
+|gross weight note=
+|max takeoff weight kg=550
+|fuel capacity=
+|more general=
+<!--
+        Powerplant
+-->
+|eng1 number=2
+|eng1 name=Electric motor
+|eng1 type=
+|eng1 kw=30
+|eng1 note=via eight-blade ducted fans,
+|more power= each producing thrust of 0.75 kN (266 lb st), Battery: Lithium-ion 18650, with 207 Wh/kg per cell, total of 29 kWh at a battery weight of 167 kg
+
+<!--
+        Performance
+-->
+|perfhide=
+
+|max speed kmh=220
+|max speed note=all performance figures estimated
+|cruise speed kmh=160
+|cruise speed note=
+|stall speed kmh=
+|stall speed mph=
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|minimum control speed kmh=
+|minimum control speed mph=
+|minimum control speed kts=
+|minimum control speed note=
+|range km=
+|range miles=
+|range nmi=
+|range note=
+|endurance=60 min
+|ceiling m=
+|ceiling ft=
+|ceiling note=
+|g limits=<!-- aerobatic -->
+|roll rate=<!-- aerobatic -->
+|glide ratio=<!-- sailplanes -->
+|climb rate ms=
+|climb rate ftmin=
+|climb rate note=
+|time to altitude=
+|sink rate ms=<!-- sailplanes -->
+|sink rate ftmin=<!-- sailplanes -->
+|sink rate note=
+|lift to drag=16:1<ref name=JAWA15/>
+|wing loading kg/m2=
+|wing loading lb/sqft=
+|wing loading note=
+|disk loading kg/m2=
+|power/mass=
+|thrust/weight=
+
+|more performance=
+}}
+
+==See also==
+{{Portal|Airbus}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category|Airbus E-Fan}}
+* [https://archive.is/20140502111249/http://www.airbus-group.com/airbusgroup/int/en/news/mediapackage.953ada3e-546f-49e8-a57f-ce931d8ce5f5.-E-Aircraft+Day+.html Airbus Group E-Aircraft Day]
+* [http://www.airbus-group.com/airbusgroup/int/en/news/media.19bf802f-1fad-4ce7-b61c-b5d6eab6b51d.-E-Fan+Brochure.html Airbus Group E-Fan Brochure]
+
+{{Airbus aircraft}}
+{{Use dmy dates|date=May 2014}}
+
+[[Category:Airbus aircraft]]
+[[Category:Twin-motored electric aircraft]]
+[[Category:2010s international experimental aircraft]]
+[[Category:Ducted fan-powered aircraft]]
+[[Category:Low-wing aircraft]]
+[[Category:T-tail aircraft]]

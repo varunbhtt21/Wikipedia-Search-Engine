@@ -1,0 +1,31 @@
+Title : Wikipedia:Reference desk/Archives/Mathematics/2014 April 18
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Mathematics|Mathematics desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Mathematics/2014 April 17|April 17]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Mathematics/March 2014|Mar]] | [[Wikipedia:Reference desk/Archives/Mathematics/April 2014|April]] | [[Wikipedia:Reference desk/Archives/Mathematics/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Mathematics/2014 April 19|[[Wikipedia:Reference desk/Archives/Mathematics/2014 April 19|April 19]]|[[Wikipedia:Reference desk/Mathematics|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Mathematics Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Mathematics/2014 April 28|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= April 18 =
+
+== Extreme points problem ==
+
+if x= -1 and x=2 are extreme points of f(x)= alog|x|+x then find the value of a and b  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/106.219.174.138|106.219.174.138]] ([[User talk:106.219.174.138|talk]]) 15:46, 18 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:You mean f(x)= alog|x|+'''b''' ??  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.179.3.227|86.179.3.227]] ([[User talk:86.179.3.227|talk]]) 20:35, 18 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+the locus of the foot of perpendicular drawn from the centre of the ellipse x^2+3y^2 on any tangent to it is:  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/106.219.174.138|106.219.174.138]] ([[User talk:106.219.174.138|talk]]) 15:49, 18 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+{{homework}} [[User:Rojomoke|Rojomoke]] ([[User talk:Rojomoke|talk]]) 10:17, 19 April 2014 (UTC)
+::See also [[Pedal curve#From the Cartesian equation]].--[[User:RDBury|RDBury]] ([[User talk:RDBury|talk]]) 15:51, 19 April 2014 (UTC)

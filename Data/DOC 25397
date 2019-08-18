@@ -1,0 +1,238 @@
+Title : Module:RFPP/data
+Text : -- This module contains data for the {{RFPP}} template.
+--
+-- ADDING PARAMETERS TO THIS MODULE?
+-- PLEASE NOTIFY User:Cyberpower678 ABOUT ANY CHANGES TO THIS MODULE,
+-- SO THAT THE BOT CAN BE UPDATED TO UNDERSTAND THE NEW MODULE PARAMETERS.
+
+--------------------------------------------------------------------------------
+-- Icons
+--------------------------------------------------------------------------------
+
+local icons = {
+	protected = 'Pictogram voting support.svg',
+	notDone = 'Pictogram voting delete.svg',
+	done = 'Pictogram voting keep.svg',
+	declined = 'Pictogram voting oppose.svg',
+	blocked = 'Stop x nuvola with clock.svg',
+	already = 'Pictogram voting keep-light-green.svg',
+	question = 'Pictogram voting question.svg',
+	note = 'Pictogram voting comment.svg',
+	checking = 'Pictogram voting wait blue.svg',
+	move = 'Pictogram voting move light green.png'
+}
+
+for key, filename in pairs(icons) do
+	icons[key] = string.format('[[File:%s|20px|link=|alt=]]', filename)
+end
+
+--------------------------------------------------------------------------------
+-- Responses
+--------------------------------------------------------------------------------
+
+-- Parameters:
+-- $1 - protection time. Takes input from parameter {{{2}}}.
+--     Either: " for a period of '''{{{2}}}'''.  After {{{2}}} the page will be automatically unprotected."
+--     Or: " '''indefinitely'''" if {{{2}}} is "indef", "indefinite", "infinite", or "indefinitely"
+-- $2 - user name. Takes input from parameter {{{2}}}
+--     "&#58; {{user|{{{2}}}}}"
+--     (The equivalent code in [[Module:UserLinks]] is used instead of the {{user}} template.)
+-- $3 - blocked by admin. Takes input from parameter {{{3}}}.
+--     " blocked by {{admin|{{{3}}}}}"
+--     (The equivalent code in [[Module:UserLinks]] is used instead of the {{admin}} template.)
+-- $4 - by admin. Takes input from parameter {{{2}}}.
+--     " by {{admin|{{{2}}}}}"
+--     (The equivalent code in [[Module:UserLinks]] is used instead of the {{admin}} template.)"
+
+local responses = {
+	semi = {
+		codes = {'semi', 's'},
+		blurb = icons.protected .. " '''[[Wikipedia:Protection policy#Semi-protection|Semi-protected]]'''$1.",
+		note = 'sentence'
+	},
+	pend = {
+		codes = {'pend', 'pd', 'pc', 'pc1', 'pc2'},
+		blurb = icons.protected .. " '''[[WP:PCPP|Pending-change protected]]'''$1.",
+		note = 'sentence'
+	},
+	full = {
+		codes = {'p', 'f'},
+		blurb = icons.protected .. " '''[[Wikipedia:Protection policy#Full protection|Fully protected]]'''$1.",
+		note = 'sentence'
+	},
+	move = {
+		codes = {'move', 'm'},
+		blurb = icons.protected .. " '''[[Wikipedia:Protection policy#Move protection|Move protected]]'''$1.",
+		note = 'sentence'
+	},
+	salt = {
+		codes = {'salt', 't'},
+		blurb = icons.protected .. " '''[[Wikipedia:Protection policy#Creation protection|Creation protected]]'''$1.",
+		note = 'sentence'
+	},
+	feed = {
+		codes = {'feed', 'fb'},
+		blurb = icons.protected .. " '''[[Wikipedia:Article Feedback/Help/Monitors#What can I do with inappropriate feedback|Feedback protected]]'''$1.",
+		note = 'sentence'
+	},
+	feed = {
+		codes = {'feed', 'fb'},
+		blurb = icons.protected .. " '''[[Wikipedia:Article Feedback/Help/Monitors#What can I do with inappropriate feedback|Feedback protected]]'''$1.",
+		note = 'sentence'
+	},
+	temp = {
+		codes = {'temp', 'tp'},
+		blurb = icons.protected .. " '''[[Wikipedia:Protection policy#Template protection|Template protected]]'''$1.",
+		note = 'sentence'
+	},
+	notd = {
+		codes = {'notd', 'no'},
+		blurb = icons.notDone .. " '''Not done'''",
+		note = 'fragment'
+	},
+	notd = {
+		codes = {'done', 'do'},
+		blurb = icons.done .. " '''Done'''",
+		note = 'fragment'
+	},
+	unpr = {
+		codes = {'unpr', 'u'},
+		blurb = icons.done .. " '''Unprotected'''",
+		note = 'fragment'
+	},
+	deny = {
+		codes = {'deny', 'd', 'decline'},
+		blurb = icons.declined .. " '''Declined'''",
+		note = 'fragment'
+	},
+	nact = {
+		codes = {'nact', 'nea'},
+		blurb = icons.declined .. " '''Declined''' – Not enough recent disruptive activity to [[Wikipedia:Protection policy|justify]] protection.",
+		note = 'sentence'
+	},
+	raiv = {
+		codes = {'raiv', 'aiv'},
+		blurb = icons.declined .. " '''Declined''' – [[Wikipedia:Template messages/User talk namespace|Warn the user appropriately]] then report them to [[Wikipedia:Administrator intervention against vandalism|AIV]] or [[Wikipedia:Administrators' noticeboard/Incidents|ANI]] if they continue.",
+		note = 'sentence'
+	},
+	npre = {
+		codes = {'npre', 'np'},
+		blurb = icons.declined .. " '''Declined''' – Pages are not protected pre-emptively.",
+		note = 'sentence'
+	},
+	nhrt = {
+		codes = {'nhrt', 'nhr'},
+		blurb = icons.declined .. " '''Declined''' – This template is not used widely enough to be considered a [[WP:HRT|high-risk template]].",
+		note = 'sentence'
+	},
+	disp = {
+		codes = {'disp', 'dr'},
+		blurb = icons.declined .. " '''Declined''' – Consider [[Wikipedia:Dispute resolution|dispute resolution]].",
+		note = 'sentence'
+	},
+	usta = {
+		codes = {'usta', 'ut'},
+		blurb = icons.declined .. " '''Declined''' – User talk pages [[Wikipedia:Protection policy#User pages|are not protected]] except in response to severe or continued vandalism.",
+		note = 'sentence'
+	},
+	rate = {
+		codes = {'rate', 'her'},
+		blurb = icons.declined .. " '''Declined''' – Pending changes protection [[Wikipedia:Protection policy#When to apply pending changes protection|should not be used]] on pages with a high edit rate.",
+		note = 'sentence'
+	},
+	bloc = {
+		codes = {'bloc', 'block', 'b'},
+		blurb = icons.blocked .. " '''User(s) [[Wikipedia:Blocking policy|blocked]]'''$2$3",
+		note = 'fragment'
+	},
+	tabl = {
+		codes = {'tabl', 'tb', 'rb'},
+		blurb = icons.blocked .. " '''User(s) [[Wikipedia:Blocking policy|blocked]]''' with talk page editing disallowed$4",
+		note = 'fragment'
+	},
+	noun = {
+		codes = {'noun', 'nu'},
+		blurb = icons.declined .. " '''Not unprotected'''",
+		note = 'fragment'
+	},
+	nucr = {
+		codes = {'nucr', 'cr'},
+		blurb = icons.declined .. " '''Not unprotected''' – Please create a [[Wikipedia:Reliable sources|sourced]] version of this article in a [[Wikipedia:Subpages|subpage]] or your userspace. When this is done, please make the request again, or ask any [[Wikipedia:Administrators|administrator]] to move the page for you.",
+		note = 'sentence'
+	},
+	ispr = {
+		codes = {'ispr', 'ap'},
+		blurb = icons.already .. " '''Already protected'''$4",
+		note = 'fragment'
+	},
+	isun = {
+		codes = {'isun', 'au'},
+		blurb = icons.already .. " '''Already unprotected'''$4",
+		note = 'fragment'
+	},
+	isdo = {
+		codes = {'isdo', 'ad'},
+		blurb = icons.already .. " '''Already done'''$4",
+		note = 'fragment'
+	},
+	ques = {
+		codes = {'ques', 'q'},
+		blurb = icons.question .. " '''Question:'''",
+		note = 'fragment'
+	},
+	note = {
+		codes = {'note', 'n'},
+		blurb = icons.note .. " '''Note:'''",
+		note = 'sentence'
+	},
+	chck = {
+		codes = {'chck', 'ch'},
+		blurb = icons.checking .. " '''Checking''' to see if protection is necessary.",
+		note = 'sentence'
+	},
+	anew = {
+		codes = {'anew', '3rr', 'an3', 'ew'},
+		blurb = icons.move .. " '''Consider [[WP:AN3|the Edit warring noticeboard]]''' – This is a case of possible [[WP:EW|edit-warring]] by one or two users.",
+		note = 'sentence'
+	},
+	arch = {
+		codes = {'arch', 'ar', 'archive'},
+		blurb = icons.note .. [[ ''<span style="color: gray;">Requesting immediate archiving...</span>'']],
+		note = 'fragment'
+	},
+	w = {
+		codes = {'w', 'withdrawn'},
+		blurb = icons.notDone .. " '''Withdrawn''' by requestor",
+		note = 'fragment'
+	},
+}
+
+--------------------------------------------------------------------------------
+-- Sort table by codes
+--------------------------------------------------------------------------------
+
+local codes = {}
+for k, t in pairs(responses) do
+	for i, code in ipairs(t.codes) do
+		if codes[code] then
+			error('duplicate code "' .. tostring(code) .. '" detected')
+		end
+		codes[code] = {blurb = t.blurb, note = t.note}
+	end
+end
+
+--------------------------------------------------------------------------------
+-- Indef strings
+--------------------------------------------------------------------------------
+
+local indefStrings = {
+	indef = true,
+	indefinite = true,
+	infinite = true,
+	indefinitely = true
+}
+
+return {
+	codes = codes,
+	indefStrings = indefStrings
+}

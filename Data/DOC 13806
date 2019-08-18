@@ -1,0 +1,181 @@
+Title : Wikipedia:Wikipedia Signpost/2014-04-30/Recent research
+Text : <noinclude>{{Wikipedia:Signpost/Template:Signpost-header|||}}</noinclude>
+
+{{Wikipedia:Signpost/Template:Signpost-article-start|{{{1|Wikipedia predicts flu more accurately than Google; 43% of academics have edited Wikipedia}}}|By [[User:Piotrus|Piotr Konieczny]], [[User:Junkie.dolphin|Giovanni Luca Ciampaglia]] and [[User:Tbayer (WMF)|Tilman Bayer]]| 30 April 2014}}
+
+{{WRN}}
+
+=== Wikipedia Usage Estimates Prevalence of Influenza-Like Illness ===
+
+Researchers from [[Harvard Medical School]] have tested the possibility of predicting the number of seasonal [[influenza-like illness]] (ILI) in the U.S. using data about the traffic to a selected number of Wikipedia entries related to influenza.<ref>{{Cite journal
+| doi = 10.1371/journal.pcbi.1003581
+| last = McIver
+| first = David J
+ |author2=John S. Brownstein
+| title = Wikipedia Usage Estimates Prevalence of Influenza-Like Illness in the United States in Near Real-Time
+| journal = PLOS Computational Biology
+| date = 2014-04-17
+| url = http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003581
+}}</ref>
+
+They compared their models against the prediction of [[Google Flu Trends]] (GFT), one of the earliest and most famous web-based tools for predicting the evolution of seasonal influenza disease patterns. [[Gold standard]] for comparison were the public data released by the [[Center for Disease Control]] (CDC). The accuracy of GFT is increasingly under question by several authors, culminating in a recent [http://www.sciencemag.org/content/343/6176/1203.summary ''Science'' commentary piece] about the promises and perils of Big Data for prediction of real-world phenomena. The authors start from this observation and submit that Wikipedia searches may be less subject to the biases that affected GFT, and test this hypothesis in the present work. They find that their model is more accurate than GFT, and was able to predict the peak week of the influenza season more often. Another undoubted advantage of Wikipedia compared to GFT, the authors argue, is its public availability, which makes the present model open to public scrutiny.
+
+=== Survey of academics' view on Wikipedia and open-access publishing ===
+
+A study titled "Academic opinions of Wikipedia and open-access publishing"<ref>{{Cite journal
+| issn = 1468-4527
+| volume = 38
+| issue = 3
+| last = Xiao
+| first = Lu
+ |author2=Nicole Askin
+| title = Academic opinions of Wikipedia and open-access publishing
+| journal = Online Information Review
+| date = 2014-04-29
+| url = http://www.emeraldinsight.com/journals.htm?articleid=17108137&show=abstract
+}} {{closed access}}</ref> examined academics’ awareness of and attitudes towards Wikipedia and open-access journals for academic publishing through a survey of 120 academics carried out in late 2011 and early 2012. The study comes from the same authors who published a similar paper in 2012, reviewed [[Wikipedia:Wikipedia Signpost/2012-04-30/Recent research|here]], which suffered from a major basic fallacy: Wikipedia is not the place to publish original research academic work. The authors, unfortunately, seem to ignore [[WP:OR|no original research policy]] when they write: "There are in general three models in the current movement towards open-access academic publishing: pushing traditional journals towards open access by changing policies; creating open-access journals; and using existing online open-access venue Wikipedia" and "we surveyed academics to understand their perspectives on using Wikipedia for academic publishing in comparison with open-access journals". In the final discussion segment, the authors do acknowledge the existence of the OR policy, where they suggest that certain types or academic papers (reviews) are similar enough to Wikipedia articles that integration of such articles into Wikipedia could be feasible. The authors do provide a valuable literature review noting prior works which analyze the peer-review system in Wikipedia, perceptions of Wikipedia in academia, and related issues (through said review is partially split between the introduction and discussion section).
+
+The study provides some interesting findings regarding academics' view of the benefits of Wikipedia-style peer review and publishing. Most respondents (77 percent) reported reading Wikipedia, and a rather high number (43 percent) reported having made at least one edit, with 15 percent having written an article. Interestingly, as many as four respondents stated that they were "credited for time spent reviewing Wikipedia articles related to their academic careers" in their professional workplaces.  The more experience one had with Wikipedia, the more likely one would see advantages in the wiki publishing model. Most common advantages listed were cost reductions (40 percent), timely review (19 percent), post-publication corrections (52 percent), making articles available before validation (27 percent) and reaching a wider audience (8 percent). Disadvantages included questionable stability (86 percent), absence of integration with libraries and scholarly search engines (55 percent), lower quality (43 percent), less credibility (57 percent), less academic acceptance (78 percent) and less impact on academia (56 percent).
+
+54 percent of respondents were aware that Wikipedia had a peer-review process and about third of these considered it to be less rigorous than that of scholarly journals; none of the respondents demonstrated any significant experience with the specifics of how Wikipedia articles are reviewed, suggesting that their involvement with the Wikipedia is rather limited. 75% of the survey respondents did not feel comfortable having others edit their papers-in-progress, and over 25% expressed concern about the lack of control over changes made post-publications. Majority of respondents did not also feel comfortable with their work being reviewed by Wikipedians, with the most common concern being unknown qualifications of Wikipedia editors and reviewers.
+
+Perhaps of most value to the Wikipedia community is the analysis of suggestions made by the respondents with regards to making Wikipedia more accepted at the universities. Here, the most common suggestion was “making the promoted peer-reviewed articles searchable from university libraries” and in general, making it more easy to find and identify high quality articles (some functionality as [[User:Pyrospirit/metadata|displaying the quality assessment of an article in mainspace]] already exists in MediaWiki but is implemented as opt-in feature only).
+
+The authors conclude that the academic researchers’ increased familiarity with either open access publishing or wiki publishing is associated with increased comfort with these models; and the academic researchers’ attitudes towards these models are associated with their familiarity, academic environment and professional status. Overall, this study seems like a major improvement over the authors' 2012 paper, and a valuable paper addressing the topics of the place of Wikipedia in the open publishing movement and the relationship between Wikipedia and academia.
+
+===Briefly===
+* '''Wikipedia use driven by new media or replacing news media?''': In a series of blog posts<ref>{{Cite web
+| last = Taha Yasseri, Jonathan Bright
+| title = The electoral information cycle
+| work = Can social data be used to predict elections?
+| url = http://socialelectionprediction.wordpress.com/2014/04/08/the-electoral-information-cycle/
+}}</ref><ref>
+{{Cite web
+| last = Taha Yasseri, Jonathan Bright
+| title = Outliers on the electoral information cycle.
+| work = Can social data be used to predict elections?
+| url = http://socialelectionprediction.wordpress.com/2014/04/11/outliers-on-the-electoral-information-cycle/
+}}</ref><ref>
+{{Cite web
+| last = Taha Yasseri, Jonathan Bright
+| title = Media effect or media replacement?
+| work = Can social data be used to predict elections?
+| url = http://socialelectionprediction.wordpress.com/2014/04/22/media-effect-or-media-replacement/
+}}</ref> [[Oxford Internet Institute]] researchers [[User:Adler.fa|Taha Yasseri]] and Jonathan Bright examined pageview data from before, during and after the [[European Parliament election, 2009|2009 European Parliament election]] on different language Wikipedias (mostly corresponding to different European countries where the election took place). They found evidence both for the theory that Wikipedia readership is driven by media coverage (people turning to Wikipedia for background information on what they say in the news) and for the theory that Wikipedia acts as "media replacement" (people looking online for e.g. election results instead of getting that information from news media).
+*'''New Python library for researchers''': Wikimedia Foundation researcher [[User:EpochFail|Aaron Halfaker]] published a [https://pythonhosted.org/mediawiki-utilities/ collection of software tools] "for extracting and processing data from MediaWiki installations, slave databases and xml dumps."
+*'''"Do Famous People Live Longer?" Yes for academics, no for artists and athletes''': Four researchers from [[Ben-Gurion University of the Negev]] examined<ref>Nir Ofek, Lior Rokach, Armin Shmilovici, Gilad Katz:
+Do Famous People Live Longer? A Wikipedia Analysis. [[ResearchGate]], January 2014.
+[http://www.researchgate.net/publication/259920939_Do_Famous_People_Live_Longer_A_Wikipedia_Analysis PDF]</ref> 7756 biographical Wikipedia articles about people who had died between 2009 and 2011 for gender, occupation and age at death. 84% of the article subjects were male, "and the mean age of death was lower for males than females (76.31 vs. 78.50 years). Younger ages of death were evident among sports players and performing artists (73.04) and creative workers (74.68). Older deaths were seen in professionals and academics (82.63)." Two of the authors also published another preprint titled "Wikiometrics: A Wikipedia Based Ranking System"<ref>Lior Rokach, Gilad Katz: Wikiometrics: A Wikipedia Based Ranking System. ResearchGate, January 2014. [http://www.researchgate.net/publication/259920867_Wikiometrics_A_Wikipedia_Based_Ranking_System PDF]</ref>, applying it to universities and academic journals in particular. The resulting rankings correlate strongly with some established metrics like impact factors.
+
+===Other recent publications===
+''A list of other recent publications that could not be covered in time for this issue - [[m:Research:Newsletter#How_to_contribute|contributions are always welcome]] for reviewing or summarizing newly published research.''
+* "Behavioral Aspects in the Interaction Between Wikipedia and its Users"<ref>
+{{Cite book
+| publisher = Springer Berlin Heidelberg
+| isbn = 978-3-642-40621-8
+| pages = 135-149
+ |editor=Cristian Lai |editor2=Alessandro Giuliani |editor3=Giovanni Semeraro
+| last = Reinoso
+| first = Antonio J.
+ |author2=Juan Ortega-Valiente
+| title = Distributed Systems and Applications of Information Filtering and Retrieval
+| chapter = Behavioral Aspects in the Interaction Between Wikipedia and its Users
+| series = Studies in Computational Intelligence
+| date = 2014-01-01
+| chapterurl = http://link.springer.com/chapter/10.1007/978-3-642-40621-8_8
+ |DOI=10.1007/978-3-642-40621-8_8}} {{closed access}}</ref> (see also our review of an earlier paper that the two authors published with others in 2012: "[[m:Research:Newsletter/2013/May#Science_eight_times_more_popular_on_the_Spanish_Wikipedia_than_on_the_English_Wikipedia.3F|Science eight times more popular on the Spanish Wikipedia than on the English Wikipedia?]]")
+*"Bots vs. Wikipedians, Anons vs. Logged-Ins"<ref>{{Cite arxiv
+| last = Steiner
+| first = Thomas
+| title = Bots vs. Wikipedians, Anons vs. Logged-Ins
+| date = 2014-02-03
+| arxiv = 1402.0412
+}}</ref> (poster at the [[International World Wide Web Conference|WWW 2014]] conference)
+*"Telling Breaking News Stories from Wikipedia with Social Multimedia: A Case Study of the 2014 Winter Olympics"<ref>{{Cite arxiv
+| last = Steiner
+| first = Thomas
+| title = Telling Breaking News Stories from Wikipedia with Social Multimedia: A Case Study of the 2014 Winter Olympics
+| date = 2014-03-17
+| arxiv = 1403.4289
+}}</ref>
+*"A classifier to determine which Wikipedia biographies will be accepted"<ref>
+{{Cite journal
+| doi = 10.1002/asi.23199
+| issn = 2330-1643
+| pages = â€“
+| last = Ofek
+| first = Nir
+ |author2=Lior Rokach
+| title = A classifier to determine which Wikipedia biographies will be accepted
+| journal = Journal of the Association for Information Science and Technology
+| date = 2014-05-01
+| url = http://onlinelibrary.wiley.com/doi/10.1002/asi.23199/abstract
+}} {{closed access}}</ref> - according to the abstract, it relies on "indicators [that] do not refer to the content itself, but to meta-content features (such as the number of categories that the biography is associated with) and to author-based features (such as if it is a first-time author)".
+* "What Makes a Good Biography? Multidimensional Quality Analysis Based on [[Wikipedia:Article Feedback Tool|Wikipedia Article Feedback]] Data"<ref>Lucie Flekova, Oliver Ferschke, and Iryna Gurevych
+What Makes a Good Biography? Multidimensional Quality Analysis Based on Wikipedia Article Feedback Data
+http://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2014/WWW2014_WikiAFT.pdf
+Preprint of an article accepted for publication in the proceedings of the 23rd International World Wide Web Conference</ref>
+* "Counter narratives and controversial crimes: The Wikipedia article for the ‘Murder of Meredith Kercher’"<ref>{{Cite journal
+| doi = 10.1177/0963947013510648
+| issn = 0963-9470
+| volume = 23
+| issue = 1
+| pages = 61-76
+| last = Page
+| first = Ruth
+| title = Counter narratives and controversial crimes: The Wikipedia article for the ‘Murder of Meredith Kercher’
+| journal = Language and Literature
+| date = 2014-02-01
+| url = http://lal.sagepub.com/content/23/1/61
+}} {{closed access}}</ref> (a linguistic essay examining two different versions of the article each on the English and the Italian Wikipedia. University press release: "[http://www.24dash.com/news/education/2014-02-10-Scrutinising-the-myth-of-social-media-neutrality Scrutinising the myth of social media ‘neutrality’]")
+* "Assessing the Quality of Thai Wikipedia Articles Using Concept and Statistical Features"<ref>Kanchana Saengthongpattana, Nuanwan Soonthornphisaj: Assessing the Quality of Thai Wikipedia Articles Using Concept and Statistical Features, p. 513 in: New Perspectives in Information Systems and Technologies, Volume 1. Editors:  Álvaro Rocha, Ana Maria Correia, Felix B Tan, Karl A Stroetmann.
+ISBN: 978-3-319-05950-1 (Print) 978-3-319-05951-8 (Online)</ref>
+*"The Genealogy of Knowledge: Introducing a Tool and Method for Tracing the Social Construction of Knowledge on Wikipedia"<ref>Friedrich Chasin, Uri Gal, Kai Riemer: The Genealogy of Knowledge: Introducing a Tool and Method for Tracing the Social Construction of Knowledge on Wikipedia. 24th Australasian Conference on Information Systems, 4-6 Dec 2013, Melbourne</ref>
+*"Wikipedia As a Tool for Disseminating Knowledge of (Agro)Biodiversity"<ref>
+{{Cite journal
+| issn = 1063-0198
+| volume = 24
+| issue = 1
+| pages = 118-126
+| last = Signore
+| first = Angelo
+ |author2=Francesco Serio, Pietro Santamaria
+| title = Wikipedia As a Tool for Disseminating Knowledge of (Agro)Biodiversity
+| journal = HortTechnology
+| date = 2014-02-01
+| url = http://horttech.ashspublications.org/content/24/1/118
+}} {{closed access}}</ref>
+*"Complementary and Alternative Medicine on Wikipedia: Opportunities for Improvement"<ref>{{Cite journal
+| doi = 10.1155/2014/105186
+| issn = 1741-427X
+| volume = 2014
+| last = Koo
+| first = Malcolm
+| title = Complementary and Alternative Medicine on Wikipedia: Opportunities for Improvement
+| journal = Evidence-Based Complementary and Alternative Medicine
+| date = 2014-04-17
+| url = http://www.hindawi.com/journals/ecam/2014/105186/abs/
+}}</ref>
+*"Revision Graph Extraction in Wikipedia Based on Supergram Decomposition and Sliding Update"<ref>
+{{Cite journal
+| issn = 1745-1361
+| volume = E97-D
+| issue = 4
+| pages = 770-778
+| last = Wu
+| first = Jianmin
+ |author2=Mizuho Iwaihara
+| title = Revision Graph Extraction in Wikipedia Based on Supergram Decomposition and Sliding Update
+| journal = IEICE TRANSACTIONS on Information and Systems
+| date = 2014-04-01
+| url = http://search.ieice.org/bin/summary.php?id=e97-d_4_770&category=D&year=2014&lang=E&abst=
+}}  {{closed access}}</ref> (earlier coverage of related papers by the same authors: [[m:Research:Newsletter/2013/August#Full_papers|"Revision graph extraction in Wikipedia based on supergram decomposition"]], "[[m:Research:Newsletter/2012/September#cite_ref-20|Unearthing the "actual" revision history of a Wikipedia article]]")
+*"Detecting Controversial Articles in Wikipedia "<ref>Joy Lind, Darren A. Narayan: Detecting Controversial Articles in Wikipedia [http://www.math.iit.edu/~rellis/teaching/454553All/GoodModules/WikipediaEditWars.pdf PDF]</ref> (as an exercise in an undergraduate course on graph theory)
+
+===References===
+{{reflist}}
+
+<noinclude>{{Wikipedia:Signpost/Template:Signpost-article-comments-end||2014-03-26|2014-05-28}}</noinclude>
+
+[[Category:Wikipedia Signpost archives 2014-04|30 Research]]
+[[Category:Wikipedia Signpost Research report archives 2014|0430]]

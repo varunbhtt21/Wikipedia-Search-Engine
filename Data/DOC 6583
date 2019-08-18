@@ -1,0 +1,45 @@
+Title : Template:Database Population Arrout
+Text : <includeonly>{{#switch: {{{1|}}}
+ | max = 250
+ | source-chart = Sources: database Ldh/EHESS/Cassini and Insee
+ | source1 = http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=1376
+ | source2 = http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2010&typgeo=COM&codgeo=09018
+ | source3 = 
+ | source4 = 
+ | 1 = 1793/223
+ | 2 = 1800/215
+ | 3 = 1806/242
+ | 4 = 1821/89
+ | 5 = 1831/245
+ | 6 = 1836/267
+ | 7 = 1841/315
+ | 8 = 1846/312
+ | 9 = 1851/296
+ | 10 = 1856/316
+ | 11 = 1861/297
+ | 12 = 1866/264
+ | 13 = 1872/262
+ | 14 = 1876/277
+ | 15 = 1881/265
+ | 16 = 1886/254
+ | 17 = 1891/261
+ | 18 = 1896/256
+ | 19 = 1901/251
+ | 20 = 1906/204
+ | 21 = 1911/202
+ | 22 = 1921/166
+ | 23 = 1926/145
+ | 24 = 1931/125
+ | 25 = 1936/110
+ | 26 = 1946/103
+ | 27 = 1954/85
+ | 28 = 1962/68
+ | 29 = 1968/52
+ | 30 = 1975/44
+ | 31 = 1982/47
+ | 32 = 1990/64
+ | 33 = 1999/60
+ | 34 = 2006/65
+ | 35 = 2010/75
+|2010/9999
+}}</includeonly><noinclude>{{documentation}}</noinclude>

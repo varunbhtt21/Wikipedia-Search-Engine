@@ -1,0 +1,29 @@
+Title : Template:Cal State Fullerton Titans athletic director navbox
+Text : {{Navbox
+| name        = Cal State Fullerton Titans athletic director navbox
+| title       = [[Cal State Fullerton Titans|{{white|Cal State Fullerton Titans athletic directors}}]]
+| basestyle   = {{CollegePrimaryStyle|Cal State Fullerton Titans|color=white}}
+| state       = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass   = hlist
+| nowrapitems = yes
+
+| list1  = 
+* [[Ernest Becker (athletic director)|Ernest Becker]] (1963–1964)
+* [[Elmer L. Johnson]] (1965–1968)
+* [[John Caine (athletic director)|John Caine]] (1968–1972)
+* [[Neale Stoner]] (1972–1979)
+* [[Mike Mullally]] (1979–1981)
+* [[Lynn Eilefson]] (1982–1985)
+* [[Ed Carroll (athletic director)|Ed Carroll]] (1985–1991)
+* [[Bill Schumard]] (1991–1994)
+* [[John Easterbrook]] (1994–2001)
+* [[Brian Quinn (athletic director)|Brian Quinn]] (2002–2012)
+* [[Steve Walk]] # (2012)
+* [[Jim Donovan (athletic director)|Jim Donovan]] (2013– )
+
+''# denotes interim athletic director''
+}}<noinclude>
+{{collapsible option}}
+[[Category:NCAA Division I athletic director navigational boxes]]
+[[Category:Cal State Fullerton Titans navigational boxes|Athletic Director]]
+<noinclude>

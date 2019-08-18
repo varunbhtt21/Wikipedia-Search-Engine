@@ -1,0 +1,60 @@
+Title : Template:SPCProb
+Text : <div style="width:30em; float:right; font-size:90%">
+Note: SIGNIFICANT SEVERE area needed where denoted by '''''bold italic''''' type – otherwise default to next lower category.
+
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto"
+|+ Day 1 probability to categorical outlook conversion<ref name="NewCategories">{{Cite web|title=SPC Convective Outlooks|url=http://www.spc.noaa.gov/misc/SPC_probotlk_info.html|work=Storm Prediction Center|publisher=National Oceanic and Atmospheric Administration|last1=Grams|first1=Jeremy|last2=Bunting|first2=Bill|last3=Weiss|first3=Steve|date=October 22, 2014|accessdate=2014-10-22|location=Norman, Oklahoma}}</ref><ref>http://products.weather.gov/PDD/SPC_Day_1to3_Cat_Conv_Outlook.pdf</ref>
+! Outlook probability!!TORN!!WIND!!HAIL
+|-
+| No thunderstorms|| style="background:#afddf6;" colspan="3"|''No Thunder''
+|-
+| < 2%|| style="background:#d2ffa6;;"|''No Severe''||<small>not used</small>||<small>not used</small>
+|-
+| 2%||style="background:lime;"|MRGL||<small>not used</small>||<small>not used</small>
+|-
+| < 5%||<small>not used</small>||style="background:#d2ffa6;"|''No Severe''||style="background:#d2ffa6;"|''No Severe''
+|-
+| 5%|| style="background:yellow;"|SLGT||style="background:lime;"|MRGL||style="background:lime;"|MRGL
+|-
+| 10%|| style="background:orange;"|ENH||<small>not used</small>||<small>not used</small>
+|-
+| 15%|| style="background:red;"|'''''MDT'''''|| style="background:yellow;"|SLGT|| style="background:yellow;"|SLGT
+|-
+| 30%|| style="background:magenta;"|'''''HIGH'''''|| style="background:orange;"|ENH|| style="background:orange;"|ENH
+|-
+| 45%|| style="background:magenta;"|HIGH|| style="background:red;"|'''''MDT'''''|| style="background:red;"|'''''MDT'''''
+|-
+| 60%|| style="background:magenta;"|HIGH|| style="background:magenta;"|'''''HIGH'''''|| style="background:red;"|MDT
+|}
+
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto"
+|+  Day 2 and Day 3 probability to categorical outlook conversion<ref name="NewCategories"/><br>* Not used on Day 3 Convective Outlooks
+! Outlook probability!!Combined TORN, WIND, and HAIL
+|-
+| No thunderstorms|| style="background:#afddf6;"|''No Thunder''
+|-
+| < 5%|| style="background:#d2ffa6;"|''No Severe''
+|-
+| 5%|| style="background:lime;"|MRGL
+|-
+| 15%|| style="background:yellow;"|SLGT
+|-
+| 30%|| style="background:orange;"|ENH
+|-
+| 45%|| style="background:red;"|'''''MDT'''''
+|-
+| 60%*|| style="background:magenta;"|'''''HIGH'''''
+|}
+
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto"
+|+ Day 4–8 probability to categorical outlook conversion<ref name="NewCategories"/>
+! Outlook probability!!Combined TORN, WIND, and HAIL
+|-
+| < 15%|| ''No Area''
+|-
+| 15%|| style="background:#ffee66;"|Severe ''(15%)''
+|-
+| 30%|| style="background:#ff8888;"|Severe ''(30%)''
+|}
+</div>
+<noinclude>{{Template reference list}}</noinclude>

@@ -1,0 +1,316 @@
+Title : Line 3 (Harbin Metro)
+Text : {{Infobox rail line
+| name        =
+| logo        = {{huge|{{rint|harbin|3}}}}
+| logo_width  = 
+| color       = {{HBM color|3}}
+| image       = 
+| image_width = 
+| image_alt   =
+| caption     = 
+| type        = [[Rapid transit]]
+| system      = [[Harbin Metro]]
+| status      = Operational
+| locale      = [[Harbin]], [[Heilongjiang]], [[People's Republic of China|China]]
+| start       = 
+| end         = 
+| stations    = 4 (in operation)<br>Phase I: 5<br>Phase II: 31 (Southeast: 20, Northwest: 11)
+| routes      = 1
+| daily_ridership = 
+| open        = Phase I: {{Start date and age|2017|01|26|df=yes}}
+| planopen    = Phase II (Southeast): 2020<br>Phase II (Northwest): 2022
+| close       = 
+| owner       = [[Harbin]] Government
+| operator    = [[Harbin Metro|Harbin Metro Group Corporation]]
+| character   = Underground
+| depot       = 
+| stock       = 
+| linelength  = 
+Total: {{convert|37.6|km|mi|2|abbr=on}}<br>Phase I: {{convert|5.25|km|mi|2|abbr=on}}<br>Phase II: {{convert|32.35|km|mi|2|abbr=on}}
+| tracklength = 
+| tracks      = 2
+| gauge       = {{track gauge|sg}}
+| electrification = 
+| speed       = 
+| elevation   = 
+| website     =
+| map         = 
+| map_state   = collapsed
+}}
+'''Line 3''' of the [[Harbin Metro]] ({{zh|s=哈尔滨地铁三号线|p=Hārbīn Dìtiě Sān Hào Xiàn}}) is a [[rapid transit]] line in [[Harbin]], running from Harbinxizhan to Yidaeryuan. The line is 5.45 km long with 5 stations, all of which are underground, and it commenced operations on 26 January 2017. 
+
+==History==
+The first phase of the line, from Harbinxizhan to Yidaeryuan, commenced operations on 26 January 2017.<ref>{{cite web |url=http://news.focus.cn/hrb/2017-01-26/11372062.html |title=哈尔滨地铁3号线一期今日正式开通 附乘车票价表 |author=<!--Not stated--> |date=26 January 2017 |website=news.focus.cn |access-date=3 February 2018 |language=Chinese}}</ref>
+
+Harbindajie station opened as an infill station on June 16, 2017. Harbindajie station renamed to Kaishengyuanguangchang station on March 20, 2019.
+
+{| class="wikitable" cellpadding="3" style="border-collapse: collapse; text-align: right;"
+!Segment!!Commencement!!Length!!Station(s)!!Name
+|-
+|style="text-align: left;"| Harbinxizhan — Yidaeryuan
+| 26 January 2017<ref>{{cite web |url=http://news.focus.cn/hrb/2017-01-26/11372062.html |title=哈尔滨地铁3号线一期今日正式开通 附乘车票价表 |author=<!--Not stated--> |date=26 January 2017 |website=news.focus.cn |access-date=3 February 2018 |language=Chinese}}</ref>
+| {{convert|5.25|km|mi|2|abbr=on}}
+| 3
+|style="text-align: left;"| Phase 1
+|-
+|style="text-align: left;"| Kaishengyuanguangchang{{efn|name=Mar2019}}
+| 16 June 2017
+| infill station
+| 1
+|style="text-align: left;"| 
+|}
+
+==Stations==
+
+{| class="wikitable"
+! colspan="2" | station name
+! rowspan="2" | Connections
+! colspan="2" rowspan="2" | Distance<br>{{small|km}}
+! rowspan="2" | Location
+|-
+! {{small|English}}
+! {{small|Chinese}}
+|- style = "background:#{{HBM color|3}}; height: 2pt"
+| colspan = "6" |
+|- bgcolor="lightgrey"
+|''{{HBM stations|Chengxianglu}}''
+|{{large|{{lang|zh-cn|城乡路}}}}
+|
+| -1.30
+| -1.30
+|[[Daoli District|Daoli]]
+|-
+|{{HBM stations|Harbinxizhan}}
+|{{large|{{lang|zh-cn|哈尔滨西站}}}}
+|{{rint|cn|rail|link=Harbin West railway station}} [[Harbin West railway station|VAB]]
+|0.00
+|0.00
+| rowspan="6" |[[Nangang District, Harbin|Nangang]]
+|- 
+|{{HBM stations|Kaishengyuanguangchang}}{{efn|name=Mar2019|Known as Harbindajie station (哈尔滨大街) before March 20, 2019.}}
+|{{large|{{lang|zh-cn|凯盛源广场}}}}
+|
+|0.70
+|0.70
+|-
+|{{HBM stations|Haxidajie}}
+|{{large|{{lang|zh-cn|哈西大街}}}}
+|
+|1.10
+|1.80
+|-
+|{{HBM stations|Yidaeryuan}}
+|{{large|{{lang|zh-cn|医大二院}}}}
+|{{rint|harbin|1}}
+|1.65
+|3.45
+<!--|- bgcolor="lightgrey"
+|Zhengyilu
+|{{large|{{lang|zh-cn|征仪路}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Hapinglu
+|{{large|{{lang|zh-cn|哈平路}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Xushengjie
+|{{large|{{lang|zh-cn|旭升街}}}}
+|
+|
+|
+| rowspan="7" |[[Xiangfang District|Xiangfang]]
+|- bgcolor="lightgrey"
+|Songjiangshengtaiyuan
+|{{large|{{lang|zh-cn|松江生态园}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Jinxiangjie
+|{{large|{{lang|zh-cn|进乡街}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Qilunjichang
+|{{large|{{lang|zh-cn|汽轮机厂}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Youfangjie
+|{{large|{{lang|zh-cn|油坊街}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Gongbinlu
+|{{large|{{lang|zh-cn|公滨路}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Zhujianglu
+|{{large|{{lang|zh-cn|珠江路}}}}
+|{{rint|harbin|2}}
+|
+|
+|- bgcolor="lightgrey"
+|Xiangjianglu
+|{{large|{{lang|zh-cn|湘江路}}}}
+|
+|
+|
+| rowspan="3" |[[Nangang District, Harbin|Nangang]]
+|- bgcolor="lightgrey"
+|Huizhanzhongxin
+|{{large|{{lang|zh-cn|会展中心}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Haihedonglu
+|{{large|{{lang|zh-cn|海河东路}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Xianfenglu
+|{{large|{{lang|zh-cn|先锋路}}}}
+|
+|
+|
+| rowspan="6" |[[Daowai District|Daowai]]
+|- bgcolor="lightgrey"
+|Dayoufangjie
+|{{large|{{lang|zh-cn|大有坊街}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Taipingqiao
+|{{large|{{lang|zh-cn|太平桥}}}}
+|{{rint|harbin|1}}
+|
+|
+|- bgcolor="lightgrey"
+|Jingyugongyuan
+|{{large|{{lang|zh-cn|靖宇公园}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Jingyuwudaojie
+|{{large|{{lang|zh-cn|靖宇五道街}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Beimalu
+|{{large|{{lang|zh-cn|北马路}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Zhaolingongyuan
+|{{large|{{lang|zh-cn|兆麟公园}}}}
+|
+|
+|
+| rowspan="12" |[[Daoli District|Daoli]]
+|- bgcolor="lightgrey"
+|Youyigong
+|{{large|{{lang|zh-cn|友谊宫}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Renminguangchang
+|{{large|{{lang|zh-cn|人民广场}}}}
+|{{rint|harbin|2}}
+|
+|
+|- bgcolor="lightgrey"
+|Shanghaijie
+|{{large|{{lang|zh-cn|上海街}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Gongludaqiao
+|{{large|{{lang|zh-cn|公路大桥}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Hesongjie
+|{{large|{{lang|zh-cn|河松街}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Heshanjie
+|{{large|{{lang|zh-cn|河山街}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Dingxianggongyuan
+|{{large|{{lang|zh-cn|丁香公园}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Tiyugongyuan
+|{{large|{{lang|zh-cn|体育公园}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Qunlidiwudadao
+|{{large|{{lang|zh-cn|群力第五大道}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Qunlidiliudadao
+|{{large|{{lang|zh-cn|群力第六大道}}}}
+|
+|
+|
+|- bgcolor="lightgrey"
+|Gongnongdajie
+|{{large|{{lang|zh-cn|工农大街}}}}
+|
+|
+|-->
+|- style = "background:#{{HBM color|3}}; height: 2pt"
+| colspan = "6" |
+|}
+
+===Notes===
+{{notelist}}
+
+==Rolling stock==
+Services on the line are provided by six-car Type B trains, which have a total capacity of 1440. These trains are the same as those which run on Line 1.<ref>{{cite web |url=http://www.railjournal.com/index.php/asia/harbin-opens-metro-line-3.html |title=Harbin opens metro Line 3 |last=Barrow |first=Keith |date=26 January 2017 |publisher=International Railway Journal |access-date=3 February 2018 }}</ref><ref>{{cite web |url=http://www.camet.org.cn/index.php?m=content&c=index&a=show&catid=42&id=1562 |title=哈尔滨地铁3号线一期首列列车抵哈调试 |author=<!--Not stated--> |date=27 September 2016 |website=camet.org.cn |access-date=3 February 2018 |language=Chinese}}</ref>
+
+==Future plans==
+[[File:Harbin_Metro_System_Map_Line3_2018.png|center|800px]]
+The {{convert|32|km|miles|abbr=on}} second phase of the line, which extends it to the southeast and northwest, began construction in 2017. It consists of 30 stations, of which 19 are on the southeastern portion and the remaining 11 on the northwestern. The southeastern portion would commence operations in 2020 while the northwestern would do so in 2022.<ref>{{cite web |url=http://newhouse.hrb.fang.com/2017-08-17/26075543_all.htm |title=哈尔滨地铁3号线增设4座车站 沿线哈慈新盘盘点 |author=<!--Not stated--> |date=17 August 2017 |website=newhouse.hrb.fang.com |language=Chinese|access-date=3 February 2018 }}</ref>
+
+Eventually, the line is planned to run in a circle around Harbin and would be {{convert|37|km|miles|abbr=on}} long, with 34 stations.<ref>{{cite web |url=http://district.ce.cn/newarea/roll/201410/22/t20141022_3753092.shtml |title=哈尔滨地铁3号线34座站点公布 贯穿道里道外等四区 |author=<!--Not stated--> |date=22 October 2014 |website=district.ce.cn |access-date=3 February 2018 |language=Chinese }}</ref>
+
+==References==
+{{Reflist}}
+
+{{Heilongjiang transit}}
+{{DEFAULTSORT:Harbin Metro, Line 3}}
+[[Category:Harbin Metro]]
+[[Category:Railway lines opened in 2017]]
+
+{{PRChina-rail-transport-stub}}
+{{metro-stub}}

@@ -1,0 +1,45 @@
+Title : Template:Database Population Artigueloutan
+Text : <includeonly>{{#switch: {{{1|}}}
+ | max = 250
+ | source-chart = Sources: database Ldh/EHESS/Cassini and Insee
+ | source1 = http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=1435
+ | source2 = http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2010&typgeo=COM&codgeo=64059
+ | source3 = 
+ | source4 = 
+ | 1 = 1793/403
+ | 2 = 1800/454
+ | 3 = 1806/513
+ | 4 = 1821/518
+ | 5 = 1831/600
+ | 6 = 1836/610
+ | 7 = 1841/700
+ | 8 = 1846/664
+ | 9 = 1851/639
+ | 10 = 1856/717
+ | 11 = 1861/710
+ | 12 = 1866/718
+ | 13 = 1872/691
+ | 14 = 1876/672
+ | 15 = 1881/655
+ | 16 = 1886/646
+ | 17 = 1891/577
+ | 18 = 1896/527
+ | 19 = 1901/524
+ | 20 = 1906/476
+ | 21 = 1911/503
+ | 22 = 1921/405
+ | 23 = 1926/429
+ | 24 = 1931/420
+ | 25 = 1936/401
+ | 26 = 1946/333
+ | 27 = 1954/348
+ | 28 = 1962/404
+ | 29 = 1968/435
+ | 30 = 1975/459
+ | 31 = 1982/534
+ | 32 = 1990/669
+ | 33 = 1999/722
+ | 34 = 2006/811
+ | 35 = 2010/914
+|2010/9999
+}}</includeonly><noinclude>{{documentation}}</noinclude>

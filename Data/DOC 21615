@@ -1,0 +1,28 @@
+Title : Template:Critics' Choice Movie Award for Best Comedy
+Text : {{Navbox 
+| name       = Critics' Choice Movie Award for Best Comedy 
+| title      = [[Critics' Choice Movie Award for Best Comedy]]
+| state = {{{state|autocollapse}}}
+|listclass = hlist
+
+| list1=
+* ''[[The 40-Year-Old Virgin]]'' (2005)
+* ''[[Borat]]'' (2006)
+* ''[[Juno (film)|Juno]]'' (2007)
+* ''[[Tropic Thunder]]'' (2008)
+* ''[[The Hangover]]'' (2009)
+* ''[[Easy A]]'' (2010)
+* ''[[Bridesmaids (2011 film)|Bridesmaids]]'' (2011)
+* ''[[Silver Linings Playbook]]'' (2012)
+* ''[[American Hustle]]'' (2013)
+* ''[[The Grand Budapest Hotel]]'' (2014)
+* ''[[The Big Short (film)|The Big Short]]'' (2015)
+* ''[[Deadpool (film)|Deadpool]]'' (2016)
+* ''[[The Big Sick]]'' (2017)
+* ''[[Crazy Rich Asians (film)|Crazy Rich Asians]]'' (2018)
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Broadcast Film Critics Association Award templates|Comedy]]
+<!-- {{:vi:Template:Giải BFCA cho phim hài hay nhất}} -->
+</noinclude>

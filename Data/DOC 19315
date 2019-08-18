@@ -1,0 +1,22 @@
+Title : Template:AACTA International Award for Best Supporting Actor
+Text : {{Navbox 
+|name      = AACTA International Award for Best Supporting Actor
+|title     = [[AACTA International Award for Best Supporting Actor]] 
+|state = {{{state|autocollapse}}}
+|border    = {{#if:{{{list only|}}}|child}}
+|bodyclass = hlist
+|basestyle = background: #DECD87
+
+|list1 = 
+* [[Robert De Niro]] (2012)
+* [[Michael Fassbender]] (2013)
+* [[J. K. Simmons]] (2014)
+* [[Mark Rylance]] (2015)
+* [[Dev Patel]] (2016)
+* [[Sam Rockwell]] (2017)
+* [[Mahershala Ali]] (2018)
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:AACTA Award navigational boxes|AACTA International Award for Best Supporting Actor ]]
+</noinclude>

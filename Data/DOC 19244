@@ -1,0 +1,43 @@
+Title : Receiver Operating Characteristic Curve Explorer and Tester
+Text : {{Infobox biodatabase
+|title = 
+|logo =
+|description = Receiver operating characteristic curve testing of metabolomics clustering
+|scope = 
+|center = University of Alberta
+|laboratory = Dr. David Wishart
+|author = 
+|citation = <ref name=ref_23543913 />
+|released = 
+|format = '''Data input''': Metabolomics produced datasets, uploaded as CSV files containing samples, values and subgroup labeling information. '''Data output''': CSV, PNG, PDF, R history file.
+|url = http://www.roccet.ca
+|download = 
+|frequency = Last updated on March 2014
+|curation = 
+}}
+
+'''Receiver Operating Characteristic Curve Explorer and Tester''' ('''ROCCET''') is an open-access web server for performing biomarker analysis using ROC ([[Receiver Operating Characteristic]]) curve analyses on metabolomic data sets.<ref name=ref_23543913>{{cite journal|last=Xia|first=J|author2=Broadhurst DI |author3=Wilson M |author4=Wishart DS |title=Translational biomarker discovery in clinical metabolomics: an introductory tutorial|journal=Metabolomics|date=Apr 2013|volume=9|issue=2|pages=280–99|pmid=23543913 |doi=10.1007/s11306-012-0482-9 |pmc=3608878}}</ref> ROCCET is designed specifically for performing and assessing a standard binary classification test (disease vs. control). ROCCET accepts metabolite data tables, with or without clinical/observational variables, as input and performs extensive [[biomarker]] analysis and [[biomarker]] identification using these input data. It operates through a menu-based navigation system that allows users to identify or assess those clinical variables and/or metabolites that contain the maximal diagnostic or class-predictive information.  ROCCET supports both manual and semi-automated feature selection and is able to automatically generate a variety of mathematical models that maximize the sensitivity and specificity of the biomarker(s) while minimizing the number of biomarkers used in the biomarker model. ROCCET also supports the rigorous assessment of the quality and robustness of newly discovered biomarkers using permutation testing, hold-out testing and cross-validation.
+
+==Background – ROC curves in biomarker discovery==
+Biomarkers are commonly defined as measured characteristics that may be used as indicators of some biological state or condition.  They may be genes, chemicals, proteins, physiological parameters, imaging data or histological measurements.   Biomarkers can consist of single components (i.e. blood glucose) or multiple components (a biomarker panel such as acylcarnitines). [[Biomarker (medicine)|Medical biomarkers]] fall into 5 major categories: 1) diagnostic (used to identify if you have a disease or condition); 2) [[prognostic]] (used to determine how well you will do with the disease or condition); 3) predictive (used to determine if you may get the disease); 4) efficacy or monitoring (used to determine how well a drug or treatment is doing in fighting the disease) and 5) exposure (used to determine if you have been exposed to a drug, food, toxin or other kind of substance). Good biomarkers should exhibit good sensitivity (the fraction of correctly identified true positives) and good specificity (the fraction of correctly identified true negatives).  A perfect biomarker or biomarker panel would be 100% sensitive (predict all people in the sick group as being sick) and 100% specific (not predicting anyone from the healthy group as being sick).  However, since few things in life are perfect, there is often a trade-off between sensitivity and specificity. In medical biomarker studies it is becoming increasingly common to report this tradeoff in sensitivity and specificity using a [[Receiver Operating Characteristic]] (ROC) curve.<ref name=ref_18818262>{{cite journal|last=Soreide|first=K|title=Receiver-operating characteristic curve analysis in diagnostic, prognostic and predictive biomarker research|journal=J Clin Pathol|volume=62|issue=1|pages=1–5|pmid=18818262|doi=10.1136/jcp.2008.061010|year=2009}}</ref> ROC curves plot the sensitivity of a biomarker on the y axis, against the false discovery rate (1- specificity) on the x axis. An image of different ROC curves is shown in Figure 1.
+ROC curves provide a simple visual method for one to determine the boundary limit (or the separation threshold) of a biomarker or a combination of biomarkers for the optimal combination of sensitivity and specificity. The AUC (area under the curve) of the ROC curve reflects the overall accuracy and the separation performance of the biomarker (or biomarkers),<ref name=ref_21532099>{{cite journal|last=Kumar|first=R|author2=Indrayan A |title=Receiver operating characteristic (ROC) curve for medical researchers|journal=Indian Pediatr.|date=Apr 2011|volume=48|issue=4|pages=277–87|pmid=21532099|doi=10.1007/s13312-011-0055-4}}</ref> and can be readily used to compare different biomarker combinations or models.<ref name=ref_6878708>{{cite journal|last=Hanley|first=JA|author2=McNeil BJ |title=A method of comparing the areas under receiver operating characteristic curves derived from the same cases. Radiology.|journal=Radiology|date=Sep 1983|volume=148|issue=3|pages=839–43|pmid=6878708|doi=10.1148/radiology.148.3.6878708}}</ref> As a rule of thumb, the fewer the biomarkers that one uses to maximize the AUC of the ROC curve, the better.
+
+==Metabolomics==
+ROCCET’s ROC curve generation and analysis is specifically tailored for [[metabolomics]] datasets. [[Metabolomics]] data sets produced by high throughput analytical chemistry techniques typically consist of large matrices containing multiple values for multiple samples. The comparison between groups or subsets of samples within the data usually involves statistical procedures employing univariate analysis and multivariate analysis such as [[Partial least squares|Partial Least Squares]] - [[Discriminant analysis|Discriminant Analysis]] (PLS-DA) <ref name=ref_Barker>{{cite journal|last=Barker|first=M|author2=Rayens W |title=Partial least squares for discrimination|journal=J Chemometr.|date=Mar 2003|volume=17|issue=3|pages=166–73|doi=10.1002/cem.785}}</ref> or machine learning classification procedures such as Support Vector Machine (SVM).<ref name=ref_18767870>{{cite journal|last=Mahadevan|first=S|author2=Shah SL |author3=Marrie TJ |author4=Slupsky CM |title=Analysis of metabolomic data using support vector machines|journal=Anal. Chem.|date=Oct 2008|volume=80|issue=19|pages=7562–70|doi=10.1021/ac800954c|pmid=18767870}}</ref>  As a result, ROCCET offers two different kinds of analytical modules – a univariate module and a multivariate module. In the univariate module single variables are evaluated (by a [[t-test]]) and ranked for their separation performance (i.e. the AUC of the ROC), including [[confidence intervals]] (CI) and a computed optimal threshold. In the multivariate module one can choose between three different techniques – SVM ([[support vector machine]]), PLS-DA ([[partial least squares]] [[discriminant analysis]]) and [[Random forests|Random Forests]] for classifying and selecting metabolites or clinical variables for an optimal ROC performance. The resulting analysis produces the top-performing multi-variable model(s) based on their ROC curve characteristics. This module also presents the significant variables (clinical variables and/or metabolites) contributing to the model (via “ROC explorer”). ROCCET also supports an option to manually select specific variables to be included in a given biomarker model.  These variables can be analyzed using “ROC tester”. ROCCET also supports the rigorous assessment of the quality and robustness of newly discovered biomarkers or biomarker panels using permutation testing, hold-out testing and cross-validation.
+ROCCET generates a variety of colorful, journal-ready graphs and tables (see Figures 1 and 2) and supports the downloading of all generated files including tables ([[Comma-separated values|CSV]] format), graphs ([[Portable Network Graphics|PNG]] or [[PDF]]) and the processing history as an R file (which can be read as a simple text file). A tutorial for using ROCCET is offered in the following reference.<ref name=ref_23543913 /> Training datasets are available on ROCCET website for experimenting with the tool.
+
+==See also==
+*[[Receiver operating characteristic]]
+*[[Metabolomics]]
+*[[Biomarker (medicine)]]
+*[[Sensitivity and specificity]]
+*[[Biology]]
+*[[Microbiology]]
+*[[Univariate]]
+*[[wikt:multivariate|Multivariate]]
+*[[Biomarker]]
+
+==References==
+{{reflist|30em}}
+
+[[Category:Biological databases]]

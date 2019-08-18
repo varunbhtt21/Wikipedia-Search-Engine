@@ -1,0 +1,51 @@
+Title : Wikipedia:Reference desk/Archives/Mathematics/2014 April 19
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Mathematics|Mathematics desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Mathematics/2014 April 18|April 18]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Mathematics/March 2014|Mar]] | [[Wikipedia:Reference desk/Archives/Mathematics/April 2014|April]] | [[Wikipedia:Reference desk/Archives/Mathematics/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Mathematics/2014 April 20|[[Wikipedia:Reference desk/Archives/Mathematics/2014 April 20|April 20]]|[[Wikipedia:Reference desk/Mathematics|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Mathematics Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Mathematics/2014 April 29|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= April 19 =
+
+== Integral ==
+
+How to Integral of sqrt(1-x^2) for (1,-1)
+
+How equal to pi/2  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/37.238.28.58|37.238.28.58]] ([[User talk:37.238.28.58|talk]]) 09:43, 19 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+{{homework}} --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 09:46, 19 April 2014 (UTC)
+
+:Wolfram Alpha [[http://www.wolframalpha.com/input/?i=integrate+%281-x^2%29^%281%2F2%29+from+-1+to+1]] doesn't mind doing your homework. [[User:Bo Jacoby|Bo Jacoby]] ([[User talk:Bo Jacoby|talk]]) 16:29, 19 April 2014 (UTC).
+
+:Our article [[Integration by substitution]] should help you to find an appropriate method.  [[User:Dbfirs|''<font face="verdana"><font color="blue">D</font><font color="#00ccff">b</font><font color="#44ffcc">f</font><font color="66ff66">i</font><font color="44ee44">r</font><font color="44aa44">s</font></font>'']] 20:27, 19 April 2014 (UTC)
+
+:Actually performing the integration might not be the quickest method of solving this problem. As a hint: start with <math>x^2+y^2=1</math> (the equation of the unit circle). Manipulating this will give you the integrand. Using this, can you determine why the value is π/2? --<font face="Book Antiqua">[[User:Kinu|<font color="blue"><strong>Kinu</strong></font>]]&nbsp;<sup>[[User_talk:Kinu|<font color="red">''t''</font>]]</sup>/<sub>[[Special:Contributions/Kinu|<font color="red">''c''</font>]]</sub></font> 22:10, 19 April 2014 (UTC)
+
+::True, a diagram gives a quick answer, but I interpreted the question as asking for the method of integration.  [[User:Dbfirs|''<font face="verdana"><font color="blue">D</font><font color="#00ccff">b</font><font color="#44ffcc">f</font><font color="66ff66">i</font><font color="44ee44">r</font><font color="44aa44">s</font></font>'']] 06:33, 20 April 2014 (UTC)
+
+:You'd need to know (prove) the formula for the area of the unit disk without doing integration, otherwise your reasoning is circular. [[User:YohanN7|YohanN7]] ([[User talk:YohanN7|talk]]) 12:54, 20 April 2014 (UTC)
+::Well, semicircular at least.  [[User:Sławomir Biały|<span style="text-shadow:grey 0.3em 0.3em 0.1em; class=texhtml">Sławomir Biały</span>]] ([[User talk:Sławomir Biały|talk]]) 16:11, 20 April 2014 (UTC)
+::: :D [[User:YohanN7|YohanN7]] ([[User talk:YohanN7|talk]]) 22:03, 20 April 2014 (UTC)
+
+This can also be done using contour integration, you then only have to evaluate a trivial integral. A derivation that only uses Cauchy's theorem (avoiding the residue theorem which in this case would invoke the notion of the residue at infinity) can be set up as follows. You define (1-z)^(1/2) and (1+z)^(1/2) in the complex plane. The function (1-z)^(1/2) for z = 1 + r exp(i theta) can be defined as i r^(1/2) exp(i theta/2) and we take theta between -pi and pi (so the branch cut is on the real axis from negative infinity till 1).
+The function (1+z)^(1/2) for z = -1 + r exp(i theta) can be defined as
+r^(1/2) exp(i theta/2) and we take theta between -pi and pi, so the branch cut is between negative infinity and -1 on the real axis. We then define sqrt(1-z^2) as the product of (1-z)^(1/2) and
+(1+z)^(1/2) as defined above. This function only has a branch cut between -1 and 1 on the real axis, the brach cut jumps from -1 till minus infinity cancel out. This defines sqrt(1-z^2) as an analytic function on the complex plane minus the branch cut.
+
+Then consider the contour integral of the function sqrt(1-z^2) along a line segment just below the segment from -1 to 1 on the real axis and from 1 back to -1 just above the real axis with the two segments joined together by small circles.  If we denote the real integral of sqrt(1-x^2) from -1 to 1 as I, then the contour integral is easily seen to be equal to 2 I in the limit that the two segments colapse on the real axis and the radii of the two circles vanishes. This then means that any contour that encircles the branch cut counterclocwise should be equal to 2 I. This is because you can traverse such a contour and just before completing it, you move to the contour considered above, traverse that clockwise and then you move back to the first contour. The branch cut is then outside the combined contour, so the function is analytic in the interior of the combined contour. By Cauchy's theorem the contour integral is equal to zero, which means that the integrals along the two counterclockwise contours are equal.
+
+We can then evaluate the integral by considering the contour integral of sqrt(1-z^2) along a big circle of radius R in the limit of R to infinity. If we put z = R exp(i theta) then it follows from the above definition of sqrt(1-z^2) that for large R this is
+i R exp(i theta) -i/2 R^(-1) exp(- i theta) + O(1/R^2)....
+Integrating this along the circle yields pi +O(1/R) (the first term yields zero, the second yields pi, and while all the other terms in the expansion also yield zero, we only need to use that all these terms can only yield a contribution of O(1/R)). In the limit of R to infinity, the integral is thus pi, and that then implies that I = pi/2. [[User:Count Iblis|Count Iblis]] ([[User talk:Count Iblis|talk]]) 17:15, 22 April 2014 (UTC)

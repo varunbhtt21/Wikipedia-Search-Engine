@@ -1,0 +1,15 @@
+Title : Template:POTD/2014-05-14
+Text : {{POTD {{{1|{{{style|default}}}}}}
+|image=Autorecessive.svg
+|title=[[Autosomal recessive gene]]
+|texttitle=Autosomal recessive gene
+|size=350
+|caption=
+
+A chart showing the inheritance of an '''[[Dominance (genetics)|autosomal recessive gene]]''', including the distinction between offspring that carry the gene but are or are not affected by it.
+
+|credit=Diagram: [[User:Cburnett|Cburnett]]
+}}
+<noinclude>
+[[Category:Wikipedia Picture of the day {{#time:F Y|{{SUBPAGENAME}}}}]]
+</noinclude>

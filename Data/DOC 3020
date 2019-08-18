@@ -1,0 +1,52 @@
+Title : Wikipedia:Media Viewer
+Text : {{notice|This page is written by staff of the [[Wikimedia Foundation]] (WMF) in their official capacity. Any stated assumptions, promises, plans, or goals are theirs. To discuss this page, please go to [[WT:Media Viewer]].}}
+
+[[File:Media_Viewer_Desktop_-_Large_Image_Opaque_Info.png|thumb|240px|Media Viewer lets you browse larger images on Wikimedia sites.]]
+
+[[mw:Multimedia/About_Media_Viewer|Media Viewer]] is a component of the MediaWiki and Wikipedia user interface, introduced in early 2014. It changes the way images are displayed when you click on them on the desktop version of Wikipedia. 
+
+This multimedia browser displays images in larger size when you click on their thumbnails, as an overlay on the current page. To reduce visual clutter, all information is shown below the image, and can be expanded at a click of a button. [[mw:Multimedia/Media_Viewer/Usability_testing|Usability studies]] suggest that Media Viewer provides a more immersive multimedia experience, right where people expect it. They tell us they can see the images more clearly, without having to jump to separate pages—and that the interface is more intuitive, offering easy access to images and metadata. Some useful information that will help you understand an image, such as image notes that describe what you see, are not yet functioning in the current Media Viewer software. 
+
+[[mw:Multimedia/About_Media_Viewer|Media Viewer]] has been tested extensively around the world, and the feedback collected from over 10,000 users suggests that this tool is generally useful to them, as outlined in [[mw:Multimedia/Media_Viewer/Survey|these survey results]]. On the English Wikipedia, more than 15,000 beta users tested the tool extensively since it was introduced as a beta feature in November 2013. This feedback was invaluable to improve the tool over a six-month period.
+
+Media Viewer was enabled as the default image viewer on the English Wikipedia on June 3, 2014. It is also being rolled out on all wikis worldwide, as described in [[mw:Multimedia/Media_Viewer/Release_Plan#Large_Wikis|this release plan]].
+
+==Try it out ==
+To try Media Viewer, click on any of the thumbnails below, then browse through this picture gallery.
+
+<gallery  mode="packed" perrow=5 widths=180px heights=120px>
+Swallow flying drinking.jpg|
+Tamme-Lauri tamm suvepäeval.jpg|
+The Bridge (August 2013).jpg|
+RhB Ge 4-4 II Wiesener Viadukt.jpg|
+Chamaeleo namaquensis (Namib-Naukluft, 2011).jpg|
+Axis axis (Nagarhole, 2010).jpg|
+Common Kingfisher Alcedo atthis.jpg|
+Barack Obama with artistic gymnastic McKayla Maroney 2.jpg|
+Fomalhaut planet.jpg|
+Squirrel posing.jpg|
+Purekkari neemel.jpg|
+13-11-02-olb-by-RalfR-03.jpg|
+Hommik Viru rabas.jpg|
+</gallery>
+
+== How it works ==
+Until now, casual users found viewing images on Wikimedia sites a frustrating experience: when they clicked on a thumbnail in an article, they were taken to a separate page where the image was shown in medium size and surrounded with a lot of text information that many found confusing. Media Viewer intends to improve this viewing experience by showing images in a different size, as an overlay on the page being viewed.
+
+With Media Viewer, a reader can click on any image thumbnail to see it in a larger size, without the licensing information. Readers see the file name and author credits at the bottom of the screen – and view more information in an expandable panel below the image – with prominent links to the file description page for editing and more info. Viewers can expand the image to full screen, for a more immersive experience – or browse through all images in an article or gallery by clicking on the next and previous arrows. The 'Use this file' tool makes it easier to share images with the community, add them to articles or download them for individual purposes – with full attribution to contributors. Learn more on this [[mw:Help:Multimedia/Media_Viewer|help page]].
+
+==How to turn it on and off==
+[[File:Preferences-appearance-files-mediaviewer.png|thumb|The Media Viewer selection box]]If you prefer, and have a Wikipedia account, you can easily enable or disable this tool in your preferences: {{myprefs|1|Files|check or uncheck 'Enable Media Viewer'}}, as described on [[mw:Help:Multimedia/Media_Viewer#How_can_I_turn_off_this_feature.3F|this Media Viewer help page]].
+
+Registered users can also disable Media Viewer globally on all wikis by adding <code>mw.config.set("wgMediaViewerOnClick", false);</code> to their [[m:Special:Mypage/global.js|global.js]] file.
+
+== How you can help ==
+Please let us know if you have any questions or comments about Media Viewer. You are invited to [[w:Wikipedia_talk:Media_Viewer|share your feedback in this discussion on the English Wikipedia]], to help improve this feature. You're also welcome to [https://www.surveymonkey.com/s/media-viewer-1?c=help-enwiki take this quick survey] -- or join [[mw:Talk:Multimedia/About_Media_Viewer|this in-depth discussion on MediaWiki.org]], as you prefer.
+
+For more information about this tool, visit [[mw:Multimedia/About_Media_Viewer|this project overview page]]. 
+
+To learn more about other multimedia projects under development, visit the [[mw:Multimedia|Multimedia project hub]].
+
+To keep up with our work and participate in future discussions, you are invited to [https://lists.wikimedia.org/mailman/listinfo/multimedia join the multimedia mailing list]. 
+
+[[Category:Reader help]]

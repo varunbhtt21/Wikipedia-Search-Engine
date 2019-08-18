@@ -1,0 +1,40 @@
+Title : Wikipedia:WikiProject Spam/Local/whohasitcheaper.com
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|whohasitcheaper.com]]
+== Links ==
+* {{LinkSummary|whohasitcheaper.com}}
+:* whohasitcheaper.com resolves to [//198.187.29.34 198.187.29.34]
+:*: {{LinkSummary|198.187.29.34}}
+:* {{GoogleAnalyticsSummary|50531205}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{IPSummary|2.123.207.144}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12883800|lang=en|wikidomain=w|namespace=|pagename=EBay|username=2.123.207.144|link=www.whohasitcheaper.com|sortdomain=com.whohasitcheaper.|domain=whohasitcheaper.com|origdiff=http://en.wikipedia.org/w/index.php?diff=606763109&oldid=606604748|resolved=198.187.29.34|isIP=1|date=2014-05-02|time=12:45:58|wiki=en.wikipedia.org|revid=606763109|oldid=606604748|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=5|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.whohasitcheaper.com|domain=whohasitcheaper.com|U=5|L=5|UL=5|WUL=1|analytics=50531205}}}}
+{{User:COIBot/EditSummary|id=12884178|lang=en|wikidomain=w|namespace=|pagename=EBay v. Bidder&#039;s Edge|username=2.123.207.144|link=www.whohasitcheaper.com|sortdomain=com.whohasitcheaper.|domain=whohasitcheaper.com|origdiff=http://en.wikipedia.org/w/index.php?diff=606763553&oldid=596813982|resolved=198.187.29.34|isIP=1|date=2014-05-02|time=12:50:06|wiki=en.wikipedia.org|revid=606763553|oldid=596813982|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=5|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.whohasitcheaper.com|domain=whohasitcheaper.com|U=5|L=5|UL=5|WUL=1|analytics=50531205}}}}
+{{User:COIBot/EditSummary|id=12884237|lang=en|wikidomain=w|namespace=|pagename=EBay API|username=2.123.207.144|link=www.whohasitcheaper.com|sortdomain=com.whohasitcheaper.|domain=whohasitcheaper.com|origdiff=http://en.wikipedia.org/w/index.php?diff=606763740&oldid=597272359|resolved=198.187.29.34|isIP=1|date=2014-05-02|time=12:52:01|wiki=en.wikipedia.org|revid=606763740|oldid=597272359|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=5|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.whohasitcheaper.com|domain=whohasitcheaper.com|U=5|L=5|UL=5|WUL=1|analytics=50531205}}}}
+{{User:COIBot/EditSummary|id=12884382|lang=en|wikidomain=w|namespace=|pagename=For Dummies|username=2.123.207.144|link=www.whohasitcheaper.com|sortdomain=com.whohasitcheaper.|domain=whohasitcheaper.com|origdiff=http://en.wikipedia.org/w/index.php?diff=606764059&oldid=602880153|resolved=198.187.29.34|isIP=1|date=2014-05-02|time=12:55:01|wiki=en.wikipedia.org|revid=606764059|oldid=602880153|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=5|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.whohasitcheaper.com|domain=whohasitcheaper.com|U=5|L=5|UL=5|WUL=1|analytics=50531205}}}}
+{{User:COIBot/EditSummary|id=12885633|lang=en|wikidomain=w|namespace=|pagename=Amazon.com|username=2.123.207.144|link=www.whohasitcheaper.com|sortdomain=com.whohasitcheaper.|domain=whohasitcheaper.com|origdiff=http://en.wikipedia.org/w/index.php?diff=606765950&oldid=606695866|resolved=198.187.29.34|isIP=1|date=2014-05-02|time=13:13:23|wiki=en.wikipedia.org|revid=606765950|oldid=606695866|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=5|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.whohasitcheaper.com|domain=whohasitcheaper.com|U=5|L=5|UL=5|WUL=1|analytics=50531205}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 5 additions out of 5 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/whohasitcheaper.com]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bwhohasitcheaper\.com\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/whohasitcheaper.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/whohasitcheaper.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. <!-- auto-closed --><!-- noleft -->No links left in here mentioned edits.  Marked stale.  --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 19:22, 2 May 2014 (UTC)

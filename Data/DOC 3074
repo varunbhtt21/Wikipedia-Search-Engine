@@ -1,0 +1,36 @@
+Title : Mandel Q parameter
+Text : {{multiple issues|
+{{incoherent|date=April 2014}}
+{{technical|date=April 2014}}
+}}
+
+The '''Mandel Q parameter''' measures the departure of the occupation number distribution from [[Poisson distribution|Poissonian statistics]]. It was introduced in [[quantum optics]] by [[Leonard Mandel|L. Mandel]].<ref name="Mandel1979">{{cite journal|last1=Mandel|first1=L.|title=Sub-Poissonian photon statistics in resonance fluorescence|journal=Optics Letters|volume=4|issue=7|year=1979|pages=205|issn=0146-9592|doi=10.1364/OL.4.000205}}</ref> It is a convenient way to characterize non-classical states with negative values indicating a sub-Poissonian statistics, which have no classical analog. It is defined as the normalized variance of the boson distribution:
+
+:<math> Q=\frac{\left \langle (\Delta \hat{n})^2 \right \rangle - \langle \hat{n} \rangle}{\langle \hat{n} \rangle} = \frac{\langle \hat{n}^{(2)} \rangle - \langle \hat{n} \rangle^2}{\langle \hat{n} \rangle} -1 = \langle \hat{n} \rangle \left(g^{(2)}(0)-1 \right)</math>
+
+where  <math> \hat{n}</math> is the [[Fock state|photon number operator]] and  <math> g^{(2)} </math> is the normalized second-order correlation function as defined by [[Roy J. Glauber|Glauber]].<ref name="Glauber1963">{{cite journal|last1=Glauber|first1=Roy J.|title=The Quantum Theory of Optical Coherence|journal=Physical Review|volume=130|issue=6|year=1963|pages=2529–2539|issn=0031-899X|doi=10.1103/PhysRev.130.2529}}</ref>
+
+==Non-classical value==
+
+Negative values of Q corresponds to state which variance of photon number is less than the mean (equivalent to sub-Poissonian statistics). In this case, the [[phase space]] distribution cannot be interpreted as a classical probability distribution.
+
+:<math> -1\leq Q < 0  \Leftrightarrow 0\leq  \langle (\Delta \hat{n})^2  \rangle \leq \langle \hat{n} \rangle</math>
+
+The minimal value   <math> Q=-1 </math> is obtained for [[Fock state|photon number states]], which by definition have a well-defined number of photon and for which  <math> \Delta n=0 </math>.
+
+== Examples ==
+For [[black-body radiation]], the phase-space functional is [[Normal distribution|Gaussian]]. The resulting occupation distribution of the number state is characterized by a [[Bose–Einstein statistics]] for which <math> Q=\langle n\rangle </math>.<ref>Mandel, L., and Wolf, E., '' Optical Coherence and Quantum Optics'' (Cambridge 1995)</ref>
+
+[[Coherent states]] have a Poissonian photon-number statistics for which <math> Q=0 </math>.
+
+==References==
+{{reflist}}
+
+==Further reading==
+* [[Leonard Mandel|L. Mandel]], [[Emil Wolf|E. Wolf]] ''Optical Coherence and Quantum Optics'' (Cambridge 1995)
+* R. Loudon ''The Quantum Theory of Light'' (Oxford 2010)
+
+
+[[Category:Quantum mechanics]]
+[[Category:Quantum optics]]
+[[Category:Quantum field theory]]

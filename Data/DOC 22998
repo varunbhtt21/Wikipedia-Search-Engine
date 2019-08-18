@@ -1,0 +1,22 @@
+Title : Template:Precursors in religion
+Text : {{Navbox
+| name = Precursors in religion
+| title      = [[Precursor (religion)|Precursors in religion]]
+| state = {{{state|autocollapse}}}
+| listclass  = hlist
+
+| group1 = Precursors
+| list1 =
+*[[Asita]] 
+*[[Báb]] 
+*[[Bahira]] (Sergius)
+*[[John the Baptist]]
+*[[Sayyid Kazim Rashti]] 
+*[[Shaykh Ahmad]] 
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Religion and belief templates]]
+[[Category:Precursors in religion]]
+[[Category:Exclude in print]]
+</noinclude>

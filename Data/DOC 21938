@@ -1,0 +1,51 @@
+Title : Dynamic site acceleration
+Text : {{multiple issues|{{refimprove|date=November 2018}}
+{{update|date=November 2018}}}}
+'''Dynamic Site Acceleration''' (DSA) is a group of technologies which make the delivery of [[Web 2.0|dynamic websites]] more efficient.<ref>http://www.globaldots.com/how-dynamic-site-acceleration-works/</ref> Manufacturers of [[application delivery controller]]s and [[content delivery network]]s (CDNs) use a host of techniques to accelerate dynamic sites, including:
+*Improved connection management, by [[multiplexing]] client connections and [[HTTP persistent connection|HTTP keep-alive]]
+*[[Link prefetching|Prefetching]] of uncachable web responses
+*Dynamic [[Web cache|cache control]]
+*On-the-fly compression
+*Full page caching
+*Off-loading [[SSL termination proxy|SSL]] termination
+*Response based [[Time to live|TTL]]-assignment (bending) 
+*TCP optimization
+*Route optimization
+
+== Techniques==
+
+=== TCP multiplexing ===
+An edge device, either an [[Application delivery controller|ADC]] or a CDN, is capable of TCP multiplexing which can be placed between web servers and clients to offload origin servers and accelerate content delivery.
+
+Usually, each connection between client and server requires a dedicated process that lives on the origin for the duration of the connection. When clients have a slow connection, this occupies part of the origin server because the process has to stay alive while the server is waiting for a complete request. With TCP multiplexing, the situation is different. The device obtains a complete and valid request from the client before sending this to the origin when the request has fully arrived. This offloads application and database servers, which are slower and more expensive to use compared to ADCs or CDNs.<ref>{{cite web|url=https://devcentral.f5.com/articles/3-really-good-reasons-you-should-use-tcp-multiplexing#.U2Ke3Vcw2ws |title=Archived copy |accessdate=2014-05-01 |deadurl=yes |archiveurl=https://web.archive.org/web/20140226135951/https://devcentral.f5.com/articles/3-really-good-reasons-you-should-use-tcp-multiplexing |archivedate=2014-02-26 |df= }}</ref>
+
+===Dynamic cache control===
+[[Hypertext Transfer Protocol|HTTP]] has a built-in system for [[Web cache#Cache control|cache control]], using headers such as [[HTTP ETag|ETag]], "expires" and "last modified". Many CDNs and ADCs that claim to have DSA, have replaced this with their system, calling it dynamic caching or dynamic cache control. It gives them more options to invalidate and bypass the cache over the standard HTTP cache control.<ref>{{Cite web|url=https://www.ibm.com/support/knowledgecenter/en/SSZLC2_7.0.0/com.ibm.commerce.admin.doc/concepts/cdc_dc.htm|title=IBM Knowledge Center|website=www.ibm.com|language=en-US|access-date=2018-11-14}}</ref>
+
+The purpose of dynamic cache control is to increase the cache-hit ratio of a website, which is the rate between requests served by the cache and those served by the normal server.<ref>{{Cite web|url=https://www.section.io/dynamic-content-caching/|title=What is Dynamic Caching {{!}} section.io|website=www.section.io|access-date=2018-11-14}}</ref>
+
+Due to the dynamic nature of web 2.0 websites, it is difficult to use static [[Web cache|web caching]]. The reason is that dynamic sites, per definition, have personalized content for different users and regions. For example, mobile users may see different content from what desktop users may see, and registered users may need to see different content from what anonymous users see. Even among registered users, content may vary widely, often example being [[social media]] websites.
+
+Static caching of dynamic user-specific pages introduces a potential risk of serving irrelevant content or 3rd party's content to the wrong users, if the identifier allowing the caching system to differentiate content, the URL/GET-request, isn't correctly varied by appending user-specific tokens/keys to it.
+
+Dynamic cache control has more options to configure caching, such as [[HTTP cookie|cookie-based]] cache control, that allows serving content from cache based on the presence or lack of specific cookies. A cookie stores the unique identifier-key of a logged-in user on their device and it's already implemented for authenticating users upon execution of any page that opens a session, in a dynamic caching system, the caches are referred to by URL as well as the cookie keys, allowing to simply enable serving of default caches to anonymous users and personalized caches to logged-in users (without forcing you to modify the code, to make it append additional user identifiers to the URL, like in a static caching system).
+
+=== Prefetching ===
+If personalized content cannot be cached, it might be queued on an edge device. This means that the system will store a list of possible responses that might needed in the future, allowing them to be readily served. This differs from caching as prefetched responses are only served once, being especially useful for accelerating responses of third-party [[Application programming interface|APIs]], such as advertisements.<ref>{{Cite web|url=https://support.cloudflare.com/hc/en-us/articles/206776707-Does-Cloudflare-Do-Prefetching-|title=Does Cloudflare Do Prefetching?|website=Cloudflare Support|language=en-US|access-date=2018-11-14}}</ref>
+
+=== Route Optimization ===
+Route optimization, also known as "latency-based routing", optimizes the route of traffic between clients and the different origin servers in order to minimize latency. Route optimization can be done by a DNS provider<ref>http://aws.amazon.com/about-aws/whats-new/2012/03/21/amazon-route-53-adds-latency-based-routing/</ref> or by a CDN<ref>http://www.akamai.com/dl/feature_sheets/fs_edgesuite_sureroute.pdf</ref>.
+
+Route optimization comes down to measuring multiple paths between the client and origin server, and then recording the fastest path between them. This path is then used to serve content when a client in a specific geographical zone makes a request.<ref>{{Cite web|url=https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-latency|title=Choosing a Routing Policy - Amazon Route 53|website=docs.aws.amazon.com|access-date=2018-11-14}}</ref>
+
+== Relationship with Front-end Optimization ==
+Although Front-end Optimization (FEO) and DSA both describe a group of techniques to improve online content delivery, they work over different aspects. There are overlaps, such as on-the-fly data compression and improved cache-control, however, the key differences are:
+
+*FEO focuses on changing the actual content, whereas DSA focuses on improving content delivery without touching content (i.e. DSA has verbatim delivery of content). DSA focuses on optimizing bit delivery across the network, ''without'' changing the content while FEO aims to decrease the number of objects required to download websites, ''and'' to decrease the total amount of traffic. This can be done by device-aware content serving (e.g. dropping the quality of images), [[minification (programming)|minification]], [[resource consolidation]] and inlining  Because FEO changes the actual traffic, configuration tends to be more difficult, as there is a risk of affecting the user-experience, by serving content that was incorrectly changed.
+*DSA focuses on decreasing page-loading times ''and'' offloading web-servers, especially for dynamic sites. FEO focuses primarily on decreasing page loading times and reducing bandwidth. Still, cost-savings on origin servers can also be made by implementing FEO as it decreases page-loading time, without rewriting code, consequently saving man-hours that would normally be necessary to optimize the code. Also, revenue might increase from lower page-loading times
+
+==References==
+{{reflist}}
+
+[[Category:Computer networking]]
+[[Category:Web services]]

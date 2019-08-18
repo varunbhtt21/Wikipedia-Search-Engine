@@ -1,0 +1,30 @@
+Title : Template:Coimbatore–Mettupalayam branch line
+Text : {{BS-map
+|inline = <includeonly>1</includeonly>
+|title = Coimbatore–Mettupalayam<br/>branch line
+|legend = 0
+|map = 
+{{BS||<small>km</small>|}}
+{{BS2|STR+4|O1=lCONTf4|||{{rmri|ul}}|''to {{rws|Udhagamandalam}}''}}
+{{BS2|BHF||0|{{rws|Mettupalayam}}}}
+{{BS2|HST||7|Karamadai}}
+{{BS2|HST||19|Periyanaikanpalayam}}
+{{BS2|SPLa|||}}
+{{BS2|vABZg+l|vCONTfq||{{rmri|r}}|''to {{rws|Irugur Junction}}''}}
+{{BS2|vBHF||33|{{rws|Coimbatore North Junction}}}}
+{{BS2|vBHF||35|{{rws|Coimbatore Junction}}}}
+{{BS2|vCONTf|||{{rmri|dn}}|''to {{rws|Podanur Junction}}''}}
+|bottomstyle=text-align:center;
+|bottom = {{navbar|Coimbatore–Mettupalayam branch line|text=This diagram:}}
+}}<noinclude>
+
+{{rdt intro|Coimbatore–Mettupalayam branch line of [[Salem railway division]], [[Southern Railway zone]]}}
+
+Source:
+* [[Google maps]]
+* [http://enquiry.indianrail.gov.in/ntes/ National Train Enquiry System]
+* [http://indiarailinfo.com/train/mettupalaiyam-coimbatore-passenger-56145-mtp-to-cbe/2686/2647/41 Train No:56145 Mettupalayam–Coimbatore passenger]
+{{Railways in Southern India}}
+[[Category:Templates for railway lines of India]]
+
+</noinclude>

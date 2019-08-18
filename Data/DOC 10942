@@ -1,0 +1,60 @@
+Title : Template:Hockeyettan Labelled Map
+Text : {{Location map+|Sweden|width=750|float=none
+ |alt=Hockeyettan North team map
+ |caption=Hockeyettan team map. [[File:Blue pog.svg|8px|link=]] North. [[File:Red pog.svg|8px|link=]] East. [[File:Green pog.svg|8px|link=]] West. [[File:Yellow pog.svg|8px|link=]] South.
+ |places=
+  {{Location map~|Sweden|lat_deg=67|lat_min=51|lon_deg=20|lon_min=13|position=top|background=#FFFFFF|label_size=70|mark=Blue pog.svg|label=[[Kiruna IF|Kiruna]]}}
+  {{Location map~|Sweden|lat_deg=65|lat_min=51|lon_deg=23|lon_min=10|position=top|background=#FFFFFF|label_size=70|mark=Blue pog.svg|label=[[Kalix UHC|Kalix]]}}
+  {{Location map~|Sweden|lat_deg=62|lat_min=23|lon_deg=17|lon_min=18|position=bottom|background=#FFFFFF|label_size=70|mark=Blue pog.svg|label=[[IF Sundsvall Hockey|Sundsvall]]}}
+  {{Location map~|Sweden|lat_deg=62|lat_min=28|lon_deg=17|lon_min=9|position=top|background=#FFFFFF|label_size=70|mark=Blue pog.svg|label=[[Kovlands Ishockeyförening|Kovland]]}}
+  {{Location map~|Sweden|lat_deg=63|lat_min=17|lon_deg=18|lon_min=44|position=top|background=#FFFFFF|label_size=70|mark=Blue pog.svg|label=[[Örnsköldsviks HF|Örnsköldsvik]]}}
+  {{Location map~|Sweden|lat_deg=63|lat_min=10|lon_deg=14|lon_min=38|position=top|background=#FFFFFF|label_size=70|mark=Blue pog.svg|label=[[Östersunds IK|Östersund]]}}
+  {{Location map~|Sweden|lat_deg=65|lat_min=19|lon_deg=21|lon_min=30|position=top|background=#FFFFFF|label_size=70|mark=Blue pog.svg|label=[[Piteå HC|Piteå]]}}
+  {{Location map~|Sweden|lat_deg=64|lat_min=45|lon_deg=20|lon_min=57|position=top|background=#FFFFFF|label_size=70|mark=Blue pog.svg|label=[[SK Lejon|Lejon]]}}
+  {{Location map~|Sweden|lat_deg=63|lat_min=10|lon_deg=17|lon_min=16|position=top|background=#FFFFFF|label_size=70|mark=Blue pog.svg|label=[[Sollefteå HK|Sollefteå]]}}
+  {{Location map~|Sweden|lat_deg=63|lat_min=49|lon_deg=20|lon_min=15|position=top|background=#FFFFFF|label_size=70|mark=Blue pog.svg|label=[[Tegs SK (ice hockey)|Teg]]}}
+  {{Location map~|Sweden|lat_deg=63|lat_min=55|lon_deg=19|lon_min=45|position=top|background=#FFFFFF|label_size=70|mark=Blue pog.svg|label=[[Vännäs HC|Vännäs]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=15|lon_deg=17|lon_min=6|position=left|background=#FFFFFF|label_size=70|mark=Red pog.svg|label=[[Åker/Strängnäs HC|Åker]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=38|lon_deg=17|lon_min=4|position=top|background=#FFFFFF|label_size=70|mark=Red pog.svg|label=[[Enköpings SK HK|Enköping]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=19|lon_deg=18|lon_min=4|position=left|background=#FFFFFF|mark=Red pog.svg|label=}} <!-- Hammarby has a separate label to avoid overlaps -->
+  {{Location map~|Sweden|lat_deg=59|lat_min=23|lon_deg=18|lon_min=-1|position=right|background=#FFFFFF|label_size=70|marksize=1|label=[[Hammarby Hockey|Hammarby]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=10|lon_deg=18|lon_min=8|position=bottom|background=#FFFFFF|label_size=70|mark=Red pog.svg|label=[[Haninge Anchors HC|Haninge]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=14|lon_deg=17|lon_min=59|position=left|background=#FFFFFF|mark=Red pog.svg|label=}} <!-- Huddinge has a separate label to avoid overlaps -->
+  {{Location map~|Sweden|lat_deg=59|lat_min=16.5|lon_deg=17|lon_min=60|position=left|background=#FFFFFF|label_size=70|marksize=1|label=[[Huddinge IK|Huddinge]]}}
+  {{Location map~|Sweden|lat_deg=61|lat_min=44|lon_deg=17|lon_min=8|position=left|background=#FFFFFF|label_size=70|mark=Red pog.svg|label=[[Hudiksvalls HC|Hudiksvall]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=32|lon_deg=18|lon_min=5|position=right|background=#FFFFFF|mark=Red pog.svg|label=}} <!-- Vallentuna has a separate label to avoid overlaps -->
+  {{Location map~|Sweden|lat_deg=59|lat_min=32|lon_deg=18|lon_min=5|position=right|background=#FFFFFF|label_size=70|marksize=1|label=[[IF Vallentuna BK|Vallentuna]]}}
+  {{Location map~|Sweden|lat_deg=60|lat_min=20|lon_deg=17|lon_min=30|position=left|background=#FFFFFF|label_size=70|mark=Red pog.svg|label=[[Tierps HK|Tierp]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=19|lon_deg=18|lon_min=31|position=bottom|background=#FFFFFF|label_size=70|mark=Red pog.svg|label=[[Värmdö HC|Värmdö]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=31|lon_deg=17|lon_min=55|position=left|background=#FFFFFF|label_size=70|mark=Red pog.svg|label=[[Väsby IK HK|Väsby]]}}
+  {{Location map~|Sweden|lat_deg=57|lat_min=38|lon_deg=18|lon_min=17|position=left|background=#FFFFFF|label_size=70|mark=Red pog.svg|label=[[Visby/Roma HK|Visby/Roma]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=38|lon_deg=17|lon_min=51|position=top|background=#FFFFFF|label_size=70|mark=Red pog.svg|label=[[Wings HC Arlanda|Wings]]}}
+  {{Location map~|Sweden|lat_deg=60|lat_min=28|lon_deg=15|lon_min=26|position=left|background=#FFFFFF|label_size=70|mark=Green pog.svg|label=[[Borlänge HF|Borlänge]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=32|lon_deg=13|lon_min=28|position=left|background=#FFFFFF|label_size=70|mark=Green pog.svg|label=[[Forshaga IF|Forshaga]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=23|lon_deg=15|lon_min=50|position=left|background=#FFFFFF|label_size=70|mark=Green pog.svg|label=[[IFK Arboga IK|Arboga]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=7|lon_deg=15|lon_min=8|position=left|background=#FFFFFF|label_size=70|mark=Green pog.svg|label=[[Kumla Hockey|Kumla]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=42|lon_deg=16|lon_min=13|position=left|background=#FFFFFF|label_size=70|mark=Green pog.svg|label=[[Surahammars IF|Surahammar]]}}
+  {{Location map~|Sweden|lat_deg=59|lat_min=35|lon_deg=15|lon_min=15|position=left|background=#FFFFFF|label_size=70|mark=Green pog.svg|label=[[Lindlövens IF|Lindlöven]]}}
+  {{Location map~|Sweden|lat_deg=58|lat_min=42|lon_deg=13|lon_min=49|position=left|background=#FFFFFF|label_size=70|mark=Green pog.svg|label=[[Mariestad BoIS HC|Mariestad]]}}
+  {{Location map~|Sweden|lat_deg=58|lat_min=23|lon_deg=13|lon_min=50|position=left|background=#FFFFFF|label_size=70|mark=Green pog.svg|label=[[Skövde IK|Skövde]]}}
+  {{Location map~|Sweden|lat_deg=58|lat_min=20|lon_deg=12|lon_min=40|position=left|background=#FFFFFF|label_size=70|mark=Green pog.svg|label=[[Grästorps IK|Grästorp]]}}
+  {{Location map~|Sweden|lat_deg=58|lat_min=2|lon_deg=14|lon_min=58|position=left|background=#FFFFFF|label_size=70|mark=Green pog.svg|label=[[Tranås AIF IF|Tranås]]}}
+  {{Location map~|Sweden|lat_deg=57|lat_min=45|lon_deg=16|lon_min=38|position=left|background=#FFFFFF|label_size=70|mark=Green pog.svg|label=[[Västerviks IK|Västervik]]}}
+  {{Location map~|Sweden|lat_deg=57|lat_min=39|lon_deg=15|lon_min=51|position=left|background=#FFFFFF|label_size=70|mark=Green pog.svg|label=[[Vimmerby HC|Vimmerby]]}}
+  {{Location map~|Sweden|lat_deg=56|lat_min=40|lon_deg=12|lon_min=51|position=left|background=#FFFFFF|label_size=70|mark=Yellow pog.svg|label=[[Halmstad HF|Halmstad]]}}
+  {{Location map~|Sweden|lat_deg=57|lat_min=42|lon_deg=14|lon_min=7|position=left|background=#FFFFFF|label_size=70|mark=Yellow pog.svg|label=[[HC Dalen|Dalen]]}}
+  {{Location map~|Sweden|lat_deg=56|lat_min=2|lon_deg=12|lon_min=41|position=left|background=#FFFFFF|label_size=70|mark=Yellow pog.svg|label=[[Helsingborgs HC|Helsingborg]]}}
+  {{Location map~|Sweden|lat_deg=56|lat_min=50|lon_deg=13|lon_min=56|position=left|background=#FFFFFF|label_size=70|mark=Yellow pog.svg|label=[[IF Troja/Ljungby|Troja/Ljungby]]}}
+  {{Location map~|Sweden|lat_deg=55|lat_min=36|lon_deg=13|lon_min=0|position=left|background=#FFFFFF|label_size=70|mark=Yellow pog.svg|label=[[IK Pantern|Pantern]]}}
+  {{Location map~|Sweden|lat_deg=56|lat_min=12|lon_deg=15|lon_min=16|position=bottom|background=#FFFFFF|label_size=70|mark=Yellow pog.svg|label=[[Kallinge-Ronneby IF|Kallinge-Ronneby]]}}
+  {{Location map~|Sweden|lat_deg=56|lat_min=1|lon_deg=14|lon_min=9|position=left|background=#FFFFFF|label_size=70|mark=Yellow pog.svg|label=[[Kristianstads IK|Kristianstad]]}}
+  {{Location map~|Sweden|lat_deg=56|lat_min=11|lon_deg=14|lon_min=44|position=left|background=#FFFFFF|mark=Yellow pog.svg|label=}} <!-- Mörrum has a separate label to avoid overlaps -->
+  {{Location map~|Sweden|lat_deg=56|lat_min=6|lon_deg=14|lon_min=44|position=left|background=#FFFFFF|label_size=70|marksize=1|label=[[Mörrums GoIS IK|Mörrum]]}}
+  {{Location map~|Sweden|lat_deg=56|lat_min=44|lon_deg=15|lon_min=54|position=left|background=#FFFFFF|label_size=70|mark=Yellow pog.svg|label=[[Nybro Vikings|Nybro]]}}
+  {{Location map~|Sweden|lat_deg=56|lat_min=16|lon_deg=14|lon_min=31|position=left|background=#FFFFFF|label_size=70|mark=Yellow pog.svg|label=[[Olofströms IK|Olofström]]}}
+  {{Location map~|Sweden|lat_deg=56|lat_min=31|lon_deg=14|lon_min=58|position=left|background=#FFFFFF|label_size=70|mark=Yellow pog.svg|label=[[Tingsryds AIF|Tingsryd]]}}
+  {{Location map~|Sweden|lat_deg=57|lat_min=6|lon_deg=12|lon_min=15|position=left|background=#FFFFFF|label_size=70|mark=Yellow pog.svg|label=[[Varberg Vipers|Varberg]]}}
+}}<noinclude>
+{{list-dev}}
+{{Documentation|Template:Image label begin/doc}}
+</noinclude>

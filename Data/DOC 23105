@@ -1,0 +1,32 @@
+Title : Martelella mediterranea
+Text : {{italic title}}
+{{Taxobox
+| color = lightgrey
+| name = ''Martelella mediterranea''
+| regnum = [[Bacterium|Bacteria]]
+| phylum = [[Proteobacteria]]
+| classis = [[Alpha Proteobacteria]]
+| ordo = [[Rhizobiales]]
+| familia = [[Aurantimonadaceae]]
+| genus = ''[[Martelella]]''
+| binomial = ''Martelella mediterranea''
+| species = '''''M. mediterranea'''''
+| binomial_authority =  Rivas et al. 2005<ref name = Martelella-endophytica>[http://www.bacterio.net/martelella.html LSPN bacterio.net]</ref>
+| type_strain = CECT 5861, CIP 108716, DSM 17316, LMG 22193,  MACL11, Rivas MACL11<ref>[http://www.straininfo.net/strains/654288 Straininfo of Martelella mediterranea]</ref>
+| synonyms = Martelia mediterranea<ref name = Martelella-mediterranea>[https://www.uniprot.org/taxonomy/293089 UniProt]</ref>
+}}
+
+'''''Martelella mediterranea''''' is a [[Gram-negative]], [[oxidase]]- and [[catalase]]-positive, strictly [[Aerobic organism|aerobic]], non-[[spore]]-forming, [[non-motile bacteria]] from the genus of [[Martelella]] which was isolated from water sample from the [[Lake Martel]] on [[Mallorca]] in [[Spain]].<ref name = Martelella-mediterranea/><ref>{{Cite journal | doi = 10.1099/ijs.0.63438-0| title = ''Martelella mediterranea'' gen. nov., sp. nov., a novel  -proteobacterium isolated from a subterranean saline lake| journal = International Journal of Systematic and Evolutionary Microbiology| volume = 55| issue = 2| pages = 955| year = 2005| last1 = Rivas | first1 = R.| pmid=15774691}}</ref><ref>[[Deutsche Sammlung von Mikroorganismen und Zellkulturen]] [http://www.dsmz.de/de/kataloge/catalogue/culture/DSM-17316.html]</ref>
+
+==References==
+<references/>
+
+==External links==
+*[http://bacdive.dsmz.de/index.php?search=531&submit=Search Type strain of ''Martelella mediterranea'' at Bac''Dive'' -  the Bacterial Diversity Metadatabase]
+{{Taxonbar|from=Q16985190}}
+
+[[Category:Rhizobiales]]
+[[Category:Bacteria described in 2005]]
+
+
+{{Alphaproteobacteria-stub}}

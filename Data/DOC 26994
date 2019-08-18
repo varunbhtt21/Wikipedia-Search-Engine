@@ -1,0 +1,54 @@
+Title : Template:Members of the Order of the Thistle
+Text : {{Navbox
+ | name = Members of the Order of the Thistle
+ | title = [[Order of the Thistle|Current members of the Order of the Thistle]]
+ | state = {{{state|}}}
+ | listclass = hlist
+
+ | image = [[File: Insignia of Knight of the Thistle.png|right|80px]]
+ | groupstyle = text-align: left;
+
+ | group1 = The Sovereign
+ | list1 =
+* [[Elizabeth II]]
+
+ | group2 = Knights and Ladies<br />Companion
+ | list2 =
+* [[Andrew Bruce, 11th Earl of Elgin|The Earl of Elgin and Kincardine]]
+* [[David Ogilvy, 13th Earl of Airlie|The Earl of Airlie]]
+* [[Robert Lindsay, 29th Earl of Crawford|The Earl of Crawford and Balcarres]]
+* [[Norman Macfarlane, Baron Macfarlane of Bearsden|The Lord Macfarlane of Bearsden]]
+* [[James Mackay, Baron Mackay of Clashfern|The Lord Mackay of Clashfern]]
+* [[David Wilson, Baron Wilson of Tillyorn|The Lord Wilson of Tillyorn]]
+* [[Eric Anderson (teacher)|Sir Eric Anderson]]
+* [[David Steel|The Lord Steel of Aikwood]]
+* [[George Robertson, Baron Robertson of Port Ellen|The Lord Robertson of Port Ellen]]
+* [[William Cullen, Baron Cullen of Whitekirk|The Lord Cullen of Whitekirk]]
+* [[David Hope, Baron Hope of Craighead|The Lord Hope of Craighead]]
+* [[Narendra Patel, Baron Patel|The Lord Patel]]
+* [[David Douglas-Home, 15th Earl of Home|The Earl of Home]]
+* [[Robert Smith, Baron Smith of Kelvin|The Lord Smith of Kelvin]]
+* [[Richard Scott, 10th Duke of Buccleuch|The Duke of Buccleuch and Queensberry]]
+* [[Ian Wood (businessman)|Sir Ian Wood]]
+<!--* 0 vacancies-->
+
+ | group3 = Extra Knights
+ | list3 =
+* [[Prince Philip, Duke of Edinburgh|The Duke of Edinburgh]]
+* [[Charles, Prince of Wales|The Duke of Rothesay]]
+* [[Anne, Princess Royal|The Princess Royal]]
+* [[Prince William, Duke of Cambridge|The Earl of Strathearn]]
+
+ | group4 = Officers
+ | list4 =
+* [[Iain Torrance]] ([[Dean of the Thistle|Dean]])
+* [[David Ogilvy, 13th Earl of Airlie|The Earl of Airlie]] ([[Chancellor of the Order of the Thistle|Chancellor]])
+* RAdm Christopher Hope Layman ([[Gentleman Usher of the Green Rod|Green Rod]])
+* [[Joseph Morrow (Lord Lyon)|Joseph Morrow]] ([[Lord Lyon King of Arms|King of Arms]])
+* [[Elizabeth Roads]] (Secretary)
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Recipients of Orders, decorations, and medals templates]]
+[[Category:United Kingdom templates]]
+</noinclude>

@@ -1,0 +1,5 @@
+Title : Template:IPA-na
+Text : <onlyinclude>{{IPA-all|{{{1}}}|{{#switch:{{{2}}}|lang=Nauruan:|{{{2|Nauruan pronunciation:}}}}}|{{{3|}}}}}</onlyinclude><noinclude>
+{{documentation|Template:Usage of IPA templates}}
+[[Category:Future IPA templates]]
+</noinclude>

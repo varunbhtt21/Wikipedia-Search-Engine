@@ -1,0 +1,74 @@
+Title : Template:Update after/testcases
+Text : {{template test cases notice}}
+
+{{testcase
+|id=Case 1: Past year only
+|layout=vertical
+|{{tlx|Update after|{{LASTYEAR}}}}
+|{{Update after|{{LASTYEAR}}}}
+|{{Update after/sandbox|{{LASTYEAR}}}}
+}}
+
+{{testcase
+|id=Case 2: Past year and month
+|layout=vertical
+|{{tlx|Update after|{{LASTYEAR}}|{{CURRENTMONTH}}}}
+|{{Update after|{{LASTYEAR}}|{{CURRENTMONTH}}}}
+|{{Update after/sandbox|{{LASTYEAR}}|{{CURRENTMONTH}}}}
+}}
+
+{{testcase
+|id=Case 3: Past year, month and day
+|layout=vertical
+|{{tlx|Update after|{{LASTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}
+|{{Update after|{{LASTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}
+|{{Update after/sandbox|{{LASTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}
+}}
+
+{{testcase
+|id=Case 4: Past year, month, day and reason
+|layout=vertical
+|{{tlx|Update after|{{LASTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|reason{{=}}{{lorem ipsum}}}}
+|{{Update after|{{LASTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|reason={{lorem ipsum}}}}
+|{{Update after/sandbox|{{LASTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|reason={{lorem ipsum}}}}
+}}
+
+{{testcase
+|id=Case 5: Past year, month, day and text
+|layout=vertical
+|{{tlx|Update after|{{LASTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|text{{=}}{{lorem ipsum}}}}
+|{{Update after|{{LASTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|text={{lorem ipsum}}}}
+|{{Update after/sandbox|{{LASTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|text={{lorem ipsum}}}}
+}}
+
+{{testcase
+|id=Case 6: today and text
+|layout=vertical
+|{{tlx|Update after|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|text{{=}}{{lorem ipsum}}}}
+|{{Update after|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|text={{lorem ipsum}}}}
+|{{Update after/sandbox|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|text={{lorem ipsum}}}}
+}}
+
+{{testcase
+|id=Case 7: Future year
+|layout=vertical
+|{{tlx|Update after|{{NEXTYEAR}}}}
+|{{Update after|{{NEXTYEAR}}}}
+|{{Update after/sandbox|{{NEXTYEAR}}}}
+}}
+
+{{testcase
+|id=Case 8: Future year, month, day, reason and text
+|layout=vertical
+|{{tlx|Update after|{{NEXTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|reason{{=}}{{lorem ipsum}}|text{{=}}{{lorem ipsum}}}}
+|{{Update after|{{NEXTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|reason={{lorem ipsum}}|text={{lorem ipsum}}}}
+|{{Update after/sandbox|{{NEXTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|reason={{lorem ipsum}}|text={{lorem ipsum}}}}
+}}
+
+{{testcase
+|id=Case 9: No parameters
+|layout=vertical
+|{{tlx|Update after}}
+|{{Update after}}
+|{{Update after/sandbox}}
+}}

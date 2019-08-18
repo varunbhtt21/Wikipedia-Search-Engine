@@ -1,0 +1,122 @@
+Title : Template:ITF profile/doc
+Text : {{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+{{Template shortcut|ITF|itf}}
+{{Uses Wikidata|P599}}
+{{Tracks Wikidata|P599}}
+{{Lua|Module:EditAtWikidata|Module:WikidataCheck}}
+
+'''{{NAMESPACE}}:{{BASEPAGENAME}}''' displays an external link to a professional tennis player's profile at [https://www.itftennis.com/ ITFtennis.com], the official website of the [[International Tennis Federation]] (ITF). It is intended for use in the [[Wikipedia:External links|external links]] section of an article.
+
+== Usage ==
+Unnamed parameters:
+: {{tlcw|{{BASEPAGENAME}} | <var>ID</var> }}
+: {{tlcw|{{BASEPAGENAME}} | <var>ID</var> | <var>NAME</var> }}
+
+Named parameters (with "id"):
+: {{tlcw|{{BASEPAGENAME}} | id{{=}} <var>ID</var> }}
+: {{tlcw|{{BASEPAGENAME}} | id{{=}} <var>ID</var> | name{{=}} <var>NAME</var> }}
+
+Named parameters (with "number"):
+: {{tlcw|{{BASEPAGENAME}} | number{{=}} <var>ID</var> }}
+: {{tlcw|{{BASEPAGENAME}} | number{{=}} <var>ID</var> | name{{=}} <var>NAME</var> }}
+
+Using [[Wikidata]] property [[d:Property:P599|P599]]:
+: {{tlcw|{{BASEPAGENAME}} }}
+: {{tlcw|{{BASEPAGENAME}} | name{{=}} <var>NAME</var> }}
+
+== Examples ==
+
+=== ID in template ===
+''Usage in the article [[Roger Federer]], with article name as link text:''
+: {{tlcw|a=1|{{BASEPAGENAME}} | 10019424 }}
+: {{tlcw|a=1|{{BASEPAGENAME}} | id{{=}} 10019424 }}
+: {{tlcw|a=1|{{BASEPAGENAME}} | number{{=}} 10019424 }}
+
+''Usage with name parameter as link text:''
+: {{tlcw|a=1|{{BASEPAGENAME}} | 10019424 | Roger Federer }}
+: {{tlcw|a=1|{{BASEPAGENAME}} | id{{=}} 10019424 | name{{=}} Roger Federer }}
+: {{tlcw|a=1|{{BASEPAGENAME}} | number{{=}} 10019424 | name{{=}} Roger Federer }}
+
+''Output:''
+:* {{{{BASEPAGENAME}} | 10019424 | Roger Federer }}
+
+''URL:''
+: <kbd>[https://www.itftennis.com/procircuit/players/player/profile.aspx?playerid=10019424 https://www.itftennis.com/procircuit/players/player/profile.aspx?playerid={{hilite|10019424}}]</kbd>
+
+=== ID in Wikidata ===
+''Usage in the article [[Maria Sharapova]]:''
+: {{tlcw|a=1|{{BASEPAGENAME}} }}
+: {{tlcw|a=1|{{BASEPAGENAME}} | name{{=}} Maria Sharapova }}
+
+''Output:''
+:* {{{{BASEPAGENAME}} | 100013223 | Maria Sharapova }} [[File:Blue pencil.svg |frameless |text-top |10px |alt=Edit this at Wikidata |link=https://www.wikidata.org/wiki/Q11666#P599 |Edit this at Wikidata]]
+
+''URL:''
+: <kbd>[https://www.itftennis.com/procircuit/players/player/profile.aspx?playerid=100013223 https://www.itftennis.com/procircuit/players/player/profile.aspx?playerid={{hilite|100013223}}]</kbd>
+
+=== No ID in template or Wikidata ===
+''Usage:''
+: {{tlcw|a=1|{{BASEPAGENAME}} }}
+
+''Output:''
+:* {{{{BASEPAGENAME}} }}
+
+== TemplateData ==
+{{TemplateData header}}
+<templatedata>
+{
+  "description": "This template displays an external link to a professional tennis player's profile at ITFtennis.com, the official website of the International Tennis Federation (ITF). It is intended for use in the external links section of an article.",
+  "params": {
+    "id": {
+      "label": "id",
+      "aliases": ["number","1"], 
+      "description": "The \"id\" parameter (or \"number\" or unnamed parameter \"1\") should contain the ID portion of the URL. Example: 10019424 is the ID in https://www.itftennis.com/procircuit/players/player/profile.aspx?playerid=10019424.",
+      "type": "number",
+      "required": false,
+      "default": "Wikidata property P599"
+    },
+    "name": {
+      "label": "name",
+      "aliases": ["2"], 
+      "description": "The \"name\" parameter (or unnamed parameter \"2\") may be used to specify the link text, which should be the name of the tennis player. This parameter is optional; it defaults to the Wikipedia article name, without any disambiguation such as \"(tennis)\".",
+      "type": "string",
+      "required": false,
+      "default": "{{PAGENAMEBASE}}"
+    }
+  },
+  "paramOrder": [
+    "id",
+    "name"
+  ]
+}
+</templatedata>
+
+== Tracking categories ==
+; template with ID
+* {{clc|ITF template with ID different from Wikidata}}
+* {{clc|ITF template with ID not in Wikidata}}
+; template missing ID
+* {{clc|ITF template missing ID and not in Wikidata}}
+
+== Templates and modules used ==
+* [[Template:First word]], implemented with [[Module:String]]
+* [[Module:EditAtWikidata]]
+* [[Module:WikidataCheck]]
+
+== See also ==
+* {{tl|ITF junior profile}}
+* {{tl|ITF wheelchair profile}}
+* {{tl|ATP}} for a male player's profile at the [[Association of Tennis Professionals]] website
+* {{tl|WTA}} for a female player's profile at the [[Women's Tennis Association]] website
+* {{tl|Davis Cup player}} for a male player's profile at the [[Davis Cup]] website
+* {{tl|Fed Cup player}} for a female player's profile at the [[Fed Cup]] website
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go here and interwikis go in Wikidata. -->
+[[Category:People and person external link templates]]
+[[Category:Sports governing body external link templates]]
+[[Category:Tennis external link templates]]
+[[Category:External link templates using Wikidata]]
+[[Category:Templates that add a tracking category]]
+}}</includeonly>

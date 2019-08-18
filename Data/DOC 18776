@@ -1,0 +1,26 @@
+Title : Wikipedia:WikiProject Human–Computer Interaction/Importance Scale
+Text : <noinclude>[[Category:WikiProject Human–Computer Interaction|Quality scale]]</noinclude>
+{{Collapse top|'''WikiProject Human–Computer Interaction article importance rating scheme'''&nbsp;<small>(click show to view)</small>|bg=#B0E0E6|expand=yes}}
+{{Importance scheme
+|topic          = Human–Computer Interaction
+|Top_text       = The subject is extremely important, even crucial, to its specific field.  Reserved for more general, broad ideas, including theories, frameworks, concepts, and approaches that are more critical to the field of Human Computer Interaction and more widely known outside the field.
+|Top_example    = [[Usability]]
+
+|High_text      =  The subject is extremely notable, but has not achieved a more universal notability or critical status.  This may include issues that are important but not widely known outside the field such as specific methods, methodologies, processes, technologies or techniques, or well-known researchers within the field.
+|High_example   = [[Socially distributed cognition]]
+
+|Mid_text       = The subject is primarily notable within the field of Human Computer Interaction, but is less widely known outside of it.  This may include specific technologies, tools, sub-topics in HCI, or specific organizations or companies.
+|Mid_example    = [[Google Glass]]
+
+|Low_text       = The subject is not particularly notable or significant even within the field of Human Computer Interaction, and is possibly only included to cover a specific part of another notable article.  This may include standards, specific jobs, or other articles too broad to be highly relevant within the specific field of HCI.
+|Low_example    = [[Technical writing]] [[Psychology]]
+
+|NA             = yes
+|NA_text        = Subject importance is not applicable. Generally applies to non-article pages such as redirects, categories, templates, etc.
+|NA_example     = [[:Category:WikiProject_Human–Computer_Interaction_articles|Human–Computer Interaction articles]]
+
+|Unknown        = yes
+|Unknown_text = 
+|Unknown_example = ???
+}}<noinclude>[[Category:WikiProject Human–Computer Interaction|Importance scale]]</noinclude>
+{{Collapse bottom}}

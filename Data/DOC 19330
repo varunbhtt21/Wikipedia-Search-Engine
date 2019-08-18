@@ -1,0 +1,22 @@
+Title : Template:AACTA International Award for Best Supporting Actress
+Text : {{Navbox 
+|name      = AACTA International Award for Best Supporting Actress
+|title     = [[AACTA International Award for Best Supporting Actress]] 
+|state = {{{state|autocollapse}}}
+|border    = {{#if:{{{list only|}}}|child}}
+|bodyclass = hlist
+|basestyle = background: #DECD87
+
+|list1 = 
+* [[Jacki Weaver]] (2012)
+* [[Jennifer Lawrence]] (2013)
+* [[Patricia Arquette]] (2014)
+* [[Rooney Mara]] (2015)
+* [[Nicole Kidman]] (2016)
+* [[Allison Janney]] (2017)
+* [[Nicole Kidman]] (2018)
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:AACTA Award navigational boxes|AACTA International Award for Best Supporting Actress]]
+</noinclude>

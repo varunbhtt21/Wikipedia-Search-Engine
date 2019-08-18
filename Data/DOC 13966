@@ -1,0 +1,69 @@
+Title : Wikipedia:WikiProject Articles for creation/Help desk/Archives/2014 April 23
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:WikiProject Articles for creation/Help desk|Help desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:WikiProject Articles for creation/Help desk/Archives/2014 April 22|April 22]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:WikiProject Articles for creation/Help desk/Archives/March 2014|Mar]] | [[Wikipedia:WikiProject Articles for creation/Help desk/Archives/April 2014|April]] | [[Wikipedia:WikiProject Articles for creation/Help desk/Archives/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:WikiProject Articles for creation/Help desk/Archives/2014 April 24|[[Wikipedia:WikiProject Articles for creation/Help desk/Archives/2014 April 24|April 24]]|[[Wikipedia:WikiProject Articles for creation/Help desk|Current help desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background:#57DB1E; text-align: center;" align="center" | <font face="Arial" color="black">'''Welcome to the WikiProject Articles for creation Help Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:WikiProject Articles for creation/Help desk/Archives/2014 May 3|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:WikiProject Articles for creation/Help desk|current Help Desk]] pages.
+|}
+
+
+__TOC__</noinclude>
+= April 23 =
+
+== Review of [[Wikipedia talk:Articles for creation/Goliath Games]] ==
+
+I hit save page at the bottom of the Articles for Creation for Goliath Games, but it keeps saying it was not submitted for review.  Then it says to hit save page again.  I'm hoping it went through since I did what it said, but it's still saying it didn't.  I'm not sure what else to do.  Can you tell me if it submitted properly?
+
+Thanks! [[Special:Contributions/24.131.180.120|24.131.180.120]] ([[User talk:24.131.180.120|talk]]) 03:15, 23 April 2014 (UTC)
+
+:It's not submitted for review, but it's not suitable to be an article anyway. This is firstly because it's written like an advertisement, and secondly because it cites no independent reliable sources (see [[Wikipedia:VRS]]) to establish and verify the notability of the company. [[User:Arthur goes shopping|Arthur goes shopping]] ([[User talk:Arthur goes shopping|talk]]) 08:30, 23 April 2014 (UTC)
+
+== Review of [[Wikipedia talk:Articles for creation/Solana Networks]] ==
+
+
+I had developed a new entry for the following:
+
+[[Wikipedia talk:Articles for creation/Solana Networks]]
+
+Feedback from review came back the 1st time to say that more verifiable
+citations were needed. Spent a ton of time to dig up various citations
+from the net and post. Then resubmitted. The 2nd review came back and
+said there were too many citations - some of them "junk".
+
+I am not sure where to strike the balance. It would be helpful if the
+2nd reviewer (or someone else) indicates which specific citations are
+problems so i can delete them. 
+
+Help?
+
+tthanks.
+[[User:Sdoya|Sdoya]] ([[User talk:Sdoya|talk]]) 03:35, 23 April 2014 (UTC)sodya
+
+:The second reviewer specifically mentions press releases. You haven't removed them all yet; there is at least one still there, [http://www.redorbit.com/news/science/1941853/solana_networks_signs_oem_agreement_with_lumeta_corporation/].
+
+:[http://www.sytacom.mcgill.ca/news-events/conferences/conf-NMMC2010.html] is another example of a "junk" reference... all it confirms is that someone from the company gave a talk at a conference. [[User:Arthur goes shopping|Arthur goes shopping]] ([[User talk:Arthur goes shopping|talk]]) 08:20, 23 April 2014 (UTC)
+
+== Review of [[User:Margin1522/sandbox]] ==
+
+If possible I'd like cancel my request for review.
+
+It seems I misunderstood the purpose of the review. I am a registered user and I've created articles before. My article is a translation from the German Wikipedia, and I think it's good enough, so if it's OK I would like to just go ahead and create it. Thanks. [[User:Margin1522|Margin1522]] ([[User talk:Margin1522|talk]]) 05:52, 23 April 2014 (UTC)
+
+:I have accepted the article and added some appropriate templates. <s>There seems to be a citation error in the resulting text, you may wish to take a look.</s> A bot now claims to have fixed the error. [[User:Arthur goes shopping|Arthur goes shopping]] ([[User talk:Arthur goes shopping|talk]]) 08:13, 23 April 2014 (UTC)
+
+::Thank you very much. The citation was fixed and works as intended now. I agree that it needs more secondary references. Will try to work on that. [[User:Margin1522|Margin1522]] ([[User talk:Margin1522|talk]]) 09:55, 23 April 2014 (UTC)
+
+== Review of [[Wikipedia talk:Articles for creation/Your submission name here]] ==
+
+as im the band member itself...i would like it on wikipedia,cause as sahar history have not been listed in any site.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Ownedistruktion|Ownedistruktion]] ([[User talk:Ownedistruktion|talk]] • [[Special:Contributions/Ownedistruktion|contribs]]) 07:47, 23 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:Hi Owneddistruktion. If the topic has not been discussed or detailed in any other website, there are possible concerns about whether it meets Wikipedia's notability requirements. Has it been described in detail in published books, music magazines or newspapers? [[User:Arthur goes shopping|Arthur goes shopping]] ([[User talk:Arthur goes shopping|talk]]) 08:04, 23 April 2014 (UTC)

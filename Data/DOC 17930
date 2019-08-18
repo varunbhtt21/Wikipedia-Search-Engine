@@ -1,0 +1,110 @@
+Title : Template:Cycling in different countries and cities
+Text : {{Navbox
+| name  = Cycling in different countries and cities
+| title = [[File:Sinnbild Radfahrer, StVO 1992.svg|25px]] [[Cycling]] by country and city
+| state = {{{state|autocollapse}}}
+| listclass = hlist
+|group1 = Africa
+|list1 = 
+* [[Sport in Algeria#Cycling|Algeria]]
+* [[Sport in Burkina Faso#Cycling|Burkina Faso]]
+* [[Sport in South Africa#Cycling|South Africa]]
+* [[Sport in Tunisia#Cycling|Tunisia]]
+
+|group2 = Asia
+|list2 =
+* [[Cycling in Azerbaijan|Azerbaijan]]<!---moving to Europe will lead to blocking of user and IP--->
+* [[Sport in Bangladesh#Cycling|Bangladesh]]
+* [[Cycling in China|China]]
+**[[Cycling in Hong Kong|Hong Kong]]
+* [[Cycling in India|India]]
+* [[Sport in Indonesia#Cycling|Indonesia]]
+* [[Two-wheeler usage in Japan|Japan]]
+* [[Sport in Jordan#Cycling|Jordan]]
+* [[Sport in Kazakhstan#Cycling|Kazakhstan]]
+* [[Sport in Malaysia#Cycling|Malaysia]]
+**[[Cycling in Penang Island|George Town]]
+**[[Cycling in Kuala Lumpur|Kuala Lumpur]]
+* [[Sport in Pakistan#Cycling|Pakistan]]
+* [[Sports in Taiwan#Cycling|Taiwan]]
+* [[Sport in the United Arab Emirates#Cycling|United Arab Emirates]]
+
+|group3 = Europe
+|list3 ={{Navbox |child 
+|group1=East
+|list1=
+* [[Cycling in the Czech Republic|Czech Republic]]
+**[[Cycling in Prague|Prague]]
+* [[Sport in Moldova#Cycling|Moldova]]
+* [[Cycling in Romania|Romania]] 
+**[[Cycling in Bucharest|Bucharest]]
+
+|group2=North
+|list2=
+* [[Cycling in Denmark|Denmark]] 
+**[[Cycling in Copenhagen|Copenhagen]]
+* [[Sport in Estonia#Cycling|Estonia]]
+* [[Sport in Ireland#Cycling|Ireland]]
+* [[Sport in Latvia#Cycling|Latvia]]
+* [[Sport in Lithuania#Cycling|Lithuania]]
+* [[Cycling in the United Kingdom|United Kingdom]]
+**[[Cycling in Cardiff|Cardiff]]
+**[[Cycling in Leeds|Leeds]]
+**[[Cycling in London|London]]
+**[[Cycling in Manchester|Manchester]]
+
+|group3 = South
+|list3 = 
+* [[Sport in Italy#Cycling|Italy]]
+* [[Cycling in Malta|Malta]]
+* [[Sport in Portugal#Cycling|Portugal]]
+* [[Sport in Slovakia#Cycling|Slovakia]]
+* [[Sport in Slovenia#Cycling|Slovenia]]
+* [[Cycling in Spain|Spain]]
+**[[Cycling in Madrid|Madrid]]
+
+|group4 = West
+|list4 = 
+* [[Sport in Belgium#Cycling|Belgium]]
+* [[Cycling in France|France]]
+**[[Cycling in Paris|Paris]]
+* [[Cycling in Germany|Germany]]
+**[[Cycling in Berlin|Berlin]]
+**[[Cycling in Munich|Munich]]
+* [[Sport in Luxembourg#Cycling|Luxembourg]]
+* [[Cycling in the Netherlands|Netherlands]] 
+**[[Cycling in Amsterdam|Amsterdam]]
+}}
+
+|group4 = North America
+|list4 = 
+* [[Sport in Belize#Cycling|Belize]]
+* [[Cycling in Canada|Canada]]
+**[[Cycling in Toronto|Toronto]]
+* [[Cycling in the United States|United States]]
+**[[Cycling in Atlanta|Atlanta]]
+**[[Cycling in Boston|Boston]]
+**[[Cycling in Detroit|Detroit]]
+**[[Cycling in Illinois|Illinois]] ([[Cycling in Chicago|Chicago]])
+**[[Cycling in Los Angeles|Los Angeles]]
+**[[Cycling in Minnesota|Minnesota]]
+**[[Cycling in New York City|New York City]]
+**[[Cycling in Portland, Oregon|Portland]]
+**[[Cycling in San Francisco|San Francisco]]
+**[[Cycling in Syracuse, New York|Syracuse]]
+
+|group5 = Oceania
+|list5 =
+* [[Cycling in Australia|Australia]]
+**[[Cycling in New South Wales|New South Wales]] ([[Cycling in Sydney|Sydney]])
+**[[Cycling in Perth|Perth]]
+**[[Cycling in Victoria|Victoria]] ([[Cycling in Melbourne|Melbourne]])
+* [[Cycling in New Zealand|New Zealand]] 
+**[[Cycling in Auckland|Auckland]]
+
+|group6 = South America
+|list6 =
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Cycling navigational boxes]]</noinclude>

@@ -1,0 +1,55 @@
+Title : Wikipedia:WikiProject Spam/Local/motorwaygroup.com
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|motorwaygroup.com]]
+== Links ==
+* {{LinkSummary|motorwaygroup.com}}
+:* motorwaygroup.com resolves to [//192.3.24.57 192.3.24.57]
+:*: {{LinkSummary|192.3.24.57}}
+:* {{GoogleAnalyticsSummary|39858322}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* COIBot [[en:User:COIBot#Domainredlist|domainredlist]] search for link motorwaygroup.com gives: 
+:*: motorwaygroup.com ([[:en:User:COIBot#Monitor list|Automonitor]]: reported to [[:en:Wikipedia talk:WikiProject Spam]] ([http://en.wikipedia.org/w/index.php?diff=605096865&oldid=605008757 diff]))
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{IPSummary|110.169.140.165}}
+* {{IPSummary|110.169.156.134}}
+* {{IPSummary|110.169.176.124}}
+* {{IPSummary|124.121.164.131}}
+* {{IPSummary|124.122.28.125}}
+* {{IPSummary|124.122.62.216}}
+* {{IPSummary|171.97.141.54}}
+* {{IPSummary|58.11.193.86}}
+* {{IPSummary|58.11.195.45}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=10480938|lang=en|wikidomain=w|namespace=|pagename=Used Cars|username=124.122.62.216|link=motorwaygroup.com|sortdomain=com.motorwaygroup.|domain=motorwaygroup.com|origdiff=http://en.wikipedia.org/w/index.php?diff=603701232&oldid=588309560|resolved=192.3.24.57|isIP=1|date=2014-04-11|time=05:30:56|wiki=en.wikipedia.org|revid=603701232|oldid=588309560|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=7|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=motorwaygroup.com|domain=motorwaygroup.com|U=7|L=9|UL=1|WUL=1|analytics=39858322}}}}
+{{User:COIBot/EditSummary|id=10496102|lang=en|wikidomain=w|namespace=|pagename=Used Cars|username=110.169.156.134|link=motorwaygroup.com|sortdomain=com.motorwaygroup.|domain=motorwaygroup.com|origdiff=http://en.wikipedia.org/w/index.php?diff=603716954&oldid=603704580|resolved=192.3.24.57|isIP=1|date=2014-04-11|time=08:39:56|wiki=en.wikipedia.org|revid=603716954|oldid=603704580|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=1|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=motorwaygroup.com|domain=motorwaygroup.com|U=1|L=9|UL=1|WUL=1|analytics=39858322}}}}
+{{User:COIBot/EditSummary|id=11886060|lang=en|wikidomain=w|namespace=|pagename=History of plug-in hybrids|username=171.97.141.54|link=motorwaygroup.com/best-used-cars-under-10000-on-craigslist-autos/|sortdomain=com.motorwaygroup.|domain=motorwaygroup.com|origdiff=http://en.wikipedia.org/w/index.php?diff=605029906&oldid=597477324|resolved=X|isIP=1|date=2014-04-20|time=15:54:56|wiki=en.wikipedia.org|revid=605029906|oldid=597477324|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=1|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=motorwaygroup.com/best-used-cars-under-10000-on-craigslist-autos/|domain=motorwaygroup.com|U=1|L=9|UL=1|WUL=1|analytics=39858322}}}}
+{{User:COIBot/EditSummary|id=11982099|lang=en|wikidomain=w|namespace=|pagename=Law, government, and crime in Winnipeg|username=58.11.195.45|link=motorwaygroup.com/best-used-cars-under-5000-dollars-on-craigslist-cars/|sortdomain=com.motorwaygroup.|domain=motorwaygroup.com|origdiff=http://en.wikipedia.org/w/index.php?diff=605087785&oldid=604963948|resolved=X|isIP=1|date=2014-04-21|time=01:06:11|wiki=en.wikipedia.org|revid=605087785|oldid=604963948|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=1|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=motorwaygroup.com/best-used-cars-under-5000-dollars-on-craigslist-cars/|domain=motorwaygroup.com|U=1|L=9|UL=1|WUL=1|analytics=39858322}}}}
+{{User:COIBot/EditSummary|id=11981096|lang=en|wikidomain=w|namespace=|pagename=Used car|username=124.121.164.131|link=motorwaygroup.com/best-used-cars-under-5000-dollars-on-craigslist-cars/|sortdomain=com.motorwaygroup.|domain=motorwaygroup.com|origdiff=http://en.wikipedia.org/w/index.php?diff=605088398&oldid=603709964|resolved=X|isIP=1|date=2014-04-21|time=01:12:44|wiki=en.wikipedia.org|revid=605088398|oldid=603709964|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=1|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=motorwaygroup.com/best-used-cars-under-5000-dollars-on-craigslist-cars/|domain=motorwaygroup.com|U=1|L=9|UL=1|WUL=1|analytics=39858322}}}}
+{{User:COIBot/EditSummary|id=11980087|lang=en|wikidomain=w|namespace=|pagename=Consideration|username=58.11.193.86|link=motorwaygroup.com/best-used-cars-under-5000-dollars-on-craigslist-cars/|sortdomain=com.motorwaygroup.|domain=motorwaygroup.com|origdiff=http://en.wikipedia.org/w/index.php?diff=605088733&oldid=604022247|resolved=X|isIP=1|date=2014-04-21|time=01:16:24|wiki=en.wikipedia.org|revid=605088733|oldid=604022247|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=1|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=motorwaygroup.com/best-used-cars-under-5000-dollars-on-craigslist-cars/|domain=motorwaygroup.com|U=1|L=9|UL=1|WUL=1|analytics=39858322}}}}
+{{User:COIBot/EditSummary|id=11979533|lang=en|wikidomain=w|namespace=|pagename=Bricklin SV-1|username=110.169.140.165|link=motorwaygroup.com/best-used-cars-under-5000-dollars-on-craigslist-cars/|sortdomain=com.motorwaygroup.|domain=motorwaygroup.com|origdiff=http://en.wikipedia.org/w/index.php?diff=605089407&oldid=604657964|resolved=X|isIP=1|date=2014-04-21|time=01:23:22|wiki=en.wikipedia.org|revid=605089407|oldid=604657964|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=1|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=motorwaygroup.com/best-used-cars-under-5000-dollars-on-craigslist-cars/|domain=motorwaygroup.com|U=1|L=9|UL=1|WUL=1|analytics=39858322}}}}
+{{User:COIBot/EditSummary|id=13101838|lang=en|wikidomain=w|namespace=|pagename=Fresno State–San Diego State football rivalry|username=110.169.176.124|link=motorwaygroup.com/craigslist-fresno-cars-affordable-used-car-options/|sortdomain=com.motorwaygroup.|domain=motorwaygroup.com|origdiff=http://en.wikipedia.org/w/index.php?diff=607006438&oldid=583931842|resolved=X|isIP=1|date=2014-05-04|time=10:00:03|wiki=en.wikipedia.org|revid=607006438|oldid=583931842|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=1|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=motorwaygroup.com/craigslist-fresno-cars-affordable-used-car-options/|domain=motorwaygroup.com|U=1|L=9|UL=1|WUL=1|analytics=39858322}}}}
+{{User:COIBot/EditSummary|id=13642942|lang=en|wikidomain=w|namespace=|pagename=Warranty|username=124.122.28.125|link=motorwaygroup.com/need-extended-warranty-for-used-cars/|sortdomain=com.motorwaygroup.|domain=motorwaygroup.com|origdiff=http://en.wikipedia.org/w/index.php?diff=607613492&oldid=606329511|resolved=X|isIP=1|date=2014-05-08|time=11:11:33|wiki=en.wikipedia.org|revid=607613492|oldid=606329511|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=1|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=motorwaygroup.com/need-extended-warranty-for-used-cars/|domain=motorwaygroup.com|U=1|L=9|UL=1|WUL=1|analytics=39858322}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 9 additions out of 9 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/motorwaygroup.com]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bmotorwaygroup\.com\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/motorwaygroup.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/motorwaygroup.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 10:58, 4 May 2014 (UTC)
+
+New data reported. <!-- auto-closed --><!-- noleft -->No links left in here mentioned edits.  Marked stale.  --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 13:44, 8 May 2014 (UTC)

@@ -1,0 +1,24 @@
+Title : Template:Extended football squad 2 player mins/doc
+Text : {{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+=== Usage ===
+<code><nowiki>{{Extended football squad 2 player mins|no= |nat= |n= |</nowiki>''stats''<nowiki>}}</nowiki></code>
+
+The parameter "mins" must be set to '''YES''' in the template [[Template:Extended football squad 2 start|Extended football squad 2 start]].
+
+* ''<nowiki>{{{no}}}</nowiki>'' – Player's jersey number
+* ''<nowiki>{{{nat}}}</nowiki>'' – Player's nationality ([[Template:Flagicon|flagicon]] automatically included)
+* ''<nowiki>{{{n}}}</nowiki>'' – Player's name
+* ''<nowiki>{{{stats}}}</nowiki>'' – Statistics split by separators "|" (up to 20 stats with mins off; up to 25 stats with mins on)
+
+===Microformat===
+{{UF-hcard-person}}
+
+=== See also ===
+* [[Template:Extended football squad 2 player]]
+* [[Template:Extended football squad player]]
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:football squad templates]]
+</includeonly>

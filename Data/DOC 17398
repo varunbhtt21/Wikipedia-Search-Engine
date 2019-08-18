@@ -1,0 +1,55 @@
+Title : Wikipedia:Bots/Requests for approval/Joe's Null Bot 9
+Text : <noinclude>[[Category:Approved Wikipedia bot requests for approval|{{#titleparts:{{PAGENAME}}|1|3}}]]</noinclude><div class="boilerplate metadata" style="background-color:
+#A0FFA0; margin:2em 0 0 0; padding:0 10px 0 10px; border:1px solid #AAAAAA;">
+:''The following discussion is an archived debate. <span style="color:red">'''Please do not modify it.'''</span> To request review of this BRFA, please start a new section at [[WT:BRFA]].'' The result of the discussion was [[File:Symbol keep vote.svg|20px|alt=|link=]] '''Approved'''{{#ifeq:yes|yes|.}}<!-- from Template:Bot Top-->
+==[[User:Joe's Null Bot|Joe's Null Bot 9]]==
+{{Newbot|Joe's Null Bot|9}}
+<!-- ^^^ Ignore everything above this line ^^^ -->
+
+<!-- Leave this alone -->
+'''Operator:''' {{botop|Joe Decker}}
+
+<!-- And leave this alone -->
+'''Time filed:''' 04:43, Wednesday April 30, 2014 ([[UTC]])
+
+<!-- Automatic: edits are not reviewed, except when issues arise -->
+<!-- Supervised: all edits are reviewed soon after being made -->
+<!-- Manual: all edits are reviewed before being made -->
+'''Automatic, Supervised, or Manual:''' Automatic
+
+<!-- Programming Language: The computer language that this bot will be written in. E.g. Python, Java, C, VB, AutoWikiBrowser. NOT English etc. -->
+'''[[Programming language]](s):'''  PERL
+
+<!-- Source code available: e.g. a link to the source code, "Standard pywikipedia"/"AWB"/etc. Be sure the bot account's password is not given out! -->
+'''[[Source code]] available:'''  Yes
+
+<!-- A SHORT bot function overview (max 2–3 lines); place the in-depth explanation in the "function details" section below-->
+'''Function overview:'''   Apply a special purge to articles with [[WP:PROD|proposed deletion]] templates in the same manner we do so for BLPPROD and a handful of CSDs. 
+
+<!-- Bot tasks require consensus in order to be approved. Please list any relevant discussions here to indicate consensus for the task. If such input is not necessary (for instance, a task that is duplicating or closely matching an existing bot) leave this blank-->
+'''Links to relevant discussions (where appropriate):'''  [[Wikipedia:Administrators%27_noticeboard#Weird_PRODs]]
+
+<!-- e.g. Continuous, daily, one time run, etc. -->
+'''Edit period(s):'''  1x/day
+
+<!-- Should be a reasonable guess as to how many distinct pages you'll be editing. For open-ended tasks, estimate pages per some reasonable time period.-->
+'''Estimated number of pages affected:'''  250
+
+<!-- Whether the bot skips articles and other pages with the {{bots}} template. If "no", please provide a reason in the Function details or Discussion.-->
+'''[[Template:bots|Exclusion compliant]]''' ''(Yes/No)''''':'''  y
+<!-- Bots with Administrative powers are rare and run by Users who are already Administrators -- >
+
+'''Adminbot''' ''(Yes/No)''''':''' Yes <!-- close the comment above to enable -->
+
+<!-- For existing bots only-->
+'''Already has a bot flag''' ''(Yes/No)''''':''' Yes
+
+<!-- List full and complete function details here. Please be precise and explicit, describing all changes the bot would make. Bots cannot be approved for open-ended tasks, so ensure the details cover all cases. Consider making several BRFAs for tasks with large independent changes. Vague or incomplete details can delay the BRFA process. Straight-forward details and examples will speed up the approval. If you need to modify these details after a discussion starts, it is recommended that you use del tags – <del></del> – to remove text and ins tags – <ins></ins> – for additions (this preserves coherence of the discussion), or show/hide boxes as you see fit. -->
+'''Function details:'''  Currently, task 1 traverses [[:Category:BLP articles proposed for deletion by days left]] and applies a special purge (see the bot user page for more details on this) to each to insure that each category is placed into time-dependent categories correctly.  This handles articles marked with BLPPROD, but not PROD.  
+
+As there's been a request to extend this to articles marked with the PROD tag, the simplest way to do this is to modify task 1 so that it traverses [[:Category:All articles proposed for deletion]] instead.   This category contains both PROD and BLPPROD tagged articles.  Other than that change, and a change to a value in a paranoia check in the software, I expect no other changes.
+
+===Discussion===
+<!-- This is not a vote.  It is a discussion -->
+{{BotSpeedy}} '''[[User:MBisanz|<span style='color: #FFFF00;background-color: #0000FF;'>MBisanz</span>]]''' <sup>[[User talk:MBisanz|<span style='color: #FFA500;'>talk</span>]]</sup> 05:15, 4 May 2014 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> To request review of this BRFA, please start a new section at [[WT:BRFA]].''<!-- from Template:Bot Bottom --></div>

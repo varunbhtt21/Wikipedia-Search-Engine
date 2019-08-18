@@ -1,0 +1,30 @@
+Title : Template:Earth's Children
+Text : {{Navbox 
+|name       = Earth's Children
+|title      = [[Jean M. Auel]]'s [[Earth's Children]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|titlestyle = background:#D7DA9E;
+|groupstyle = background:#D7DA9E;
+| group1    = Volumes
+| list1     =
+* ''[[The Clan of the Cave Bear]]''
+* ''[[The Valley of Horses]]''
+* ''[[The Mammoth Hunters]]''
+* ''[[The Plains of Passage]]''
+* ''[[The Shelters of Stone]]''
+* ''[[The Land of Painted Caves]]''
+| group2    = Adaptations
+| list2     =
+* ''[[The Clan of the Cave Bear (film)|The Clan of the Cave Bear]]''
+
+| group3    = Characters
+| list3     =
+* [[Ayla (Earth's Children)|Ayla]]
+* [[Jondalar]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Earth's Children|*]]
+[[Category:Women writers navigational boxes]]
+</noinclude>

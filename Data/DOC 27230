@@ -1,0 +1,119 @@
+Title : List of power stations in the United Arab Emirates
+Text : {{Expand list|date=May 2014}}
+The following page lists '''power stations in [[United Arab Emirates]]'''.
+
+== Gas turbines ==
+
+{|class="wikitable sortable"
+|-
+! Plant 
+! Community
+! Coordinates
+! Capacity (MW)
+! Year completed
+! Ref
+|-
+| Shuweihat
+| [[Jebel Dhana]]
+| <!-- 24.165,52.568 -->
+| 1,615
+| 2003-2005
+| <ref name="IndustCardsCC">{{cite web | url=http://www.industcards.com/cc-uae.htm | title=CCGT Plants in the United Arab Emirates | publisher=Power Plants Around The World | work=Gallery | date=17 October 2013 | accessdate=4 May 2014 | df= }}{{dead link|date=February 2018|bot=medic}}{{cbignore|bot=medic}}</ref> <ref>{{cite web | url=http://globalenergyobservatory.org/form.php?pid=5392| title=Shuweihat I Cogen CCGT Power Plant | publisher=Global Energy Observatory | accessdate=2 March 2014}}</ref>
+|-
+| Al Taweelah
+| [[Al Samha]]
+| 
+| 4,696
+| 1989-2009
+| <ref name="IndustCardsCC"/>
+|-
+| Aweer/Ameer
+| Dubai
+| 
+| 1,846
+| 1997-2009
+| <ref name="IndustCardsCC"/>
+|-
+| Jebel Ali
+| Dubai
+|
+|
+|
+| <ref name="IndustCardsCC"/>
+|-
+| Qidfa
+| Fujairah
+|
+|
+|
+| <ref name="IndustCardsCC"/>
+|-
+| Umm Al Nar
+| Abu Dhabi
+|
+| 2,746
+| 1979-2007
+| <ref name="IndustCardsCC"/>
+|-
+| [[Fujairah power and desalination plant]]
+| [[Fujairah]]
+|
+| 2,000
+| 
+| 
+|-
+|}
+
+== Oil and Gas-fired thermal plant ==
+This plants are to be converted to CCGT (Combined-cycle gas turbine technology) system for power generation, to enhance efficiency and reduce emissions.{{Citation needed|date=July 2017}} 
+{|class="wikitable sortable"
+|-
+! Plant 
+! Community
+! Coordinates
+! Capacity (MW)
+! Year completed
+! Ref
+|-
+| Madinat Zayed
+| [[Madinat Zayed]]
+| <!-- 23.579642247076, 53.729377985001 -->
+| 118
+| 1991-1993
+| <ref>{{cite web | url=http://globalenergyobservatory.org/form.php?pid=4129| title=Madinat Zayed Thermal Power Plant | publisher=Global Energy Observatory | accessdate=2 March 2014}}</ref><ref>{{cite web|accessdate=2017-07-24|title=AMPC - Production|url=http://www.ampc.ae/en/production/|website=www.ampc.ae}}</ref>
+|-
+|}
+
+== Nuclear ==
+{| class="wikitable sortable"
+|-
+! Name
+! Site
+! Coordinates
+! Type
+! Effect
+! Operational
+! Current status
+! Manufacturer
+|-
+| '''[[Barakah nuclear power plant|Barakah]]''' 1 || || || [[APR-1400]] ||align="right"| 1400 MW || || under construction || [[Korea Electric Power Corporation|KEPCO]]
+|-
+| Barakah 2 || || || APR-1400 ||align="right"| 1400 MW || || under construction || KEPCO
+|-
+| Barakah 3 || || || APR-1400 ||align="right"| 1400 MW || || under construction || KEPCO
+|-
+| Barakah 4 || || || APR-1400 ||align="right"| 1400 MW || || under construction || KEPCO
+|-
+|}
+
+== See also ==
+{{Portal|Energy|United Arab Emirates}}
+*[[List of power stations in Asia]]
+*[[Mott MacDonald]]
+
+== References ==
+{{reflist}}
+
+{{Power stations}}
+
+[[Category:Lists of power stations by country|United Arab Emirates]]

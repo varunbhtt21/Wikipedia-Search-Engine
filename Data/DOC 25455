@@ -1,0 +1,36 @@
+Title : Wikipedia:WikiProject Spam/Local/bestwebsol.com
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|bestwebsol.com]]
+== Links ==
+* {{LinkSummary|bestwebsol.com}}
+:* bestwebsol.com resolves to [//66.147.240.179 66.147.240.179]
+:*: {{LinkSummary|66.147.240.179}}
+:* {{GoogleAnalyticsSummary|35707849}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|BestWebSolution}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12957986|lang=en|wikidomain=w|namespace=|pagename=Best Web Solution|username=BestWebSolution|link=www.bestwebsol.com|sortdomain=com.bestwebsol.|domain=bestwebsol.com|origdiff=http://en.wikipedia.org/w/index.php?oldid=606868470&rcid=652993285|resolved=66.147.240.179|isIP=0|date=2014-05-03|time=07:24:00|wiki=en.wikipedia.org|revid=606868470|oldid=0|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=17|top=0|deleted=1|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.bestwebsol.com|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/open-source-customization.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/our-seo-service.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/web-development/content-management.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/web-development/php-web-development.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/web-development/shopping-cart-development.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/web-development/web-portal-development.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/web-design/banner-design.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/web-design/flash-website-design-a-development.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/web-design/static-website-design.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/web-design/logo-design.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/our-seo-service.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/web-hosting.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/web-development.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com/custom-web-design.html|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}{{User:COIBot/OtherLinks|link=www.bestwebsol.com|domain=bestwebsol.com|U=17|L=17|UL=>>|WUL=>>|analytics=35707849}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 1 additions out of 1 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/bestwebsol.com]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bbestwebsol\.com\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/bestwebsol.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/bestwebsol.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. <!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). <!-- noleft -->No links left in here mentioned edits.  Marked stale.  --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 08:49, 3 May 2014 (UTC)

@@ -1,0 +1,35 @@
+Title : FooDB
+Text : [[File:UoA biolab Foodb.png|thumb|Foodb web home page]]
+{{Infobox biodatabase
+|title = FooDB
+|logo =
+|description = A database of detailed food component with information on the known health effects
+|scope = Macronutrient and  micronutrients values, chemistry and biochemistry, health effects, biology, structures
+|center = University of Alberta
+|laboratory = Dr. David Wishart
+|author =
+|citation =<ref name=ref_1>{{cite journal |last1=Scalbert |first1=A. |author2=Andres-Lacueva, C. |author3=Arita, M. |author4=Kroon, P. |author5=Manach, C. |author6=Urpi-Sarda, M. |author7=Wishart, D.S. |title=Databases on Food Phytochemicals and Their Health-Promoting Effects |journal=J. Agric. Food Chem. |date=2011 |volume=59 |issue=9 |pages=4331–4348 |doi=10.1021/jf200591d |pmid=21438636}}</ref><ref name=ref_18953024>{{cite journal |last1=Wishart |first1=D. S. |last2=Knox |first2=C. |last3=Guo |first3=A. |last4=Eisner |first4=A. |last5=Young |first5=N. |last6=Gautam |first6=B. |last7=Hau |first7=D. D. |last8=Psychogios |first8=N. |last9=Dong |first9=E. |last10=Bouatra |first10=S. |last11=Mandal |first11=R. |last12=Sinelnikov |first12=I. |last13=Xia |first13=J. |last14=Jia |first14=L. |last15=Cruz |first15=J. A. |last16=Lim |first16=E. |last17=Sobsey |first17=C. A. |last18=Shrivastava |first18=S. |last19=Huang |first19=P. |last20=Liu |first20=P. |last21=Fang |first21=L. |last22=Peng |first22=J. |last23=Fradette |first23=R. |last24=Cheng |first24=D. |last25=Tzur |first25=D. |last26=Clements |first26=M. |last27=Lewis |first27=A. |last28=Souza |first28=A. D. |last29=Zuniga |first29=A. |last30=Dawe |first30=M. |last31=Xiong |first31=Y. |last32=Clive |first32=D. |last33=Greiner |first33=R. |last34=Nazyrova |first34=A. |last35=Shaykhutdinov |first35=R. |last36=Li |first36=L. |last37=Vogel |first37=H. J. |last38=Forsythe |first38=I. |title=HMDB: a knowledgebase for the human metabolome |journal=Nucleic Acids Research |date=2009 |volume=37 |issue=Database issue |pages=D603–D610 |doi=10.1093/nar/gkn810 |pmid=18953024 |pmc=2686599}}</ref>
+|released =
+|format =
+|url = http://www.foodb.ca/
+|frequency = Updated every 2–3 months
+|curation = Manually curated
+}}
+
+'''FooDB''' (The Food Database) is a freely available, open-access database containing chemical ([[micronutrient]] and macronutrient) composition data on common, unprocessed foods.<ref name=ref_1 /> It also contains extensive data on [[flavour]] and aroma constituents, [[food additives]] as well as positive and negative health effects associated with food constituents. The database contains information on more than 28,000 chemicals found in more than 1000 raw or unprocessed food products. The data in FooDB was collected from many sources including textbooks, scientific journals, on-line food composition or nutrient databases, [[flavour]] and aroma databases and various on-line metabolomic databases.<ref name=ref_18953024 />  This literature-derived information has been combined with experimentally derived data measured on thousands of compounds from more than 40 very common food products through the Alberta Food Metabolome Project which is led by Dr. David Wishart of the [[University of Alberta]]. Users are able to browse through the FooDB data by food source, name, descriptors or function. Chemical structures and molecular weights for compounds in FooDB may be searched via a specialized chemical structure search utility.  Users are able to view the content of FooDB using two different “Viewing” options: FoodView, which lists foods by their chemical compounds, or ChemView, which lists chemicals by their food sources. Knowledge about the precise chemical composition of foods can be used to guide public health policies, assist food companies with improved food labelling, help dieticians prepare better dietary plans, support nutraceutical companies with their submissions of health claims and guide consumer choices with regard to food purchases.
+
+== See also ==
+* [[Human Metabolome Database]]
+* [[DrugBank]]
+* [[Food]]
+* [[Food composition data]]
+* [[Food composition databases]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.foodb.ca/ Foodb website]
+
+[[Category:Food databases]]
+[[Category:Biological databases]]

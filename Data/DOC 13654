@@ -1,0 +1,36 @@
+Title : Module:Zh/doc
+Text : {{module rating|protected}}
+== Usage ==
+
+This is the module for the template {{tl|Lang-zh}}. Its main features are described on that template's [[Template:Lang-zh/doc|documentation page]], refer to that for how to use it in articles. This documentation describes some particular features of the module.
+
+The first table in the module lists the articles in which the template will put traditional Chinese first. Add articles to this list in the same fashion (the order doesn't matter) to include them. If you cannot edit the module because its protected use the {{tl|edit template-protected}} template on its talk page to request a change.
+
+===Use from other modules===
+
+The module can be called directly from another module as well as a template. To do this first load the module
+
+<source lang="lua">
+local Zh = require("Module:Zh")._Zh
+</source>
+
+Then call it as follows, with the arguments in a table
+
+<source lang="lua">
+local output = Zh{["c"] = "中国", ["p"] = "zhōngguó"}
+</source>
+
+==Modules used==
+* [[Module:No globals]]
+* [[Module:Arguments]]
+
+==Tracking categories==
+* {{clc|Articles containing Chinese-language text}}
+* {{clc|Articles containing simplified Chinese-language text}}
+* {{clc|Articles containing traditional Chinese-language text}}
+* {{clc|Pages using template Zh with sup tags}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go here and interwikis go in Wikidata. -->
+[[Category:Modules that add a tracking category]]
+}}</includeonly>

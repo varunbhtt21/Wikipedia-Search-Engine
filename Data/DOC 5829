@@ -1,0 +1,26 @@
+Title : Wikipedia:OUP/Navbox
+Text : {{sidebar
+| name         = Wikipedia:OUP/Nav
+| outertitle   = 
+| topimage     = 
+| pretitle     = 
+| title        = [[Wikipedia:OUP|Oxford University Press]]
+| titlestyle   = font-size:large; text-align:left; padding:0.5em 0.5em 0 0;border-bottom: 5px solid #C3E4ED;
+| headingstyle =text-align:left;padding:0.5em;
+| contentstyle = text-align:left;padding-left:0.5em;
+| bodystyle = background:#FFFFFF;
+| navbar       = none
+| heading1     = 
+| content1     = 
+
+| heading2     = '''Pages'''
+| content2     = 
+* [[Wikipedia:OUP|Main]]
+* [[Wikipedia:OUP/Approved|Approved accounts]]
+* [[Wikipedia:OUP/Metrics|Metrics]]
+* [[Wikipedia talk:OUP|Experiences and feedback]]
+
+<div class="plainlinks" style="float:right;font-size:80%">[//en.wikipedia.org/w/index.php?title=Wikipedia:OUP/Nav&action=edit e]</div>
+}}
+
+[[Category:Wikipedia OUP access|Nav]]

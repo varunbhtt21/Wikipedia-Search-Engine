@@ -1,0 +1,40 @@
+Title : Template:Attached KML/Utica Avenue
+Text : <?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Utica Avenue</name>
+	<Style id="line-62AF44-4">
+		<LineStyle>
+			<color>ff44af62</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-DB4436-4">
+		<LineStyle>
+			<color>ff3644db</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Utica Avenue</name>
+		<Placemark>
+			<name>Malcolm X Boulevard</name>
+			<styleUrl>#line-DB4436-4</styleUrl>
+			<LineString>
+				<coordinates>
+					-73.93144369125366,40.69476108090823,0 -73.92858982086182,40.68047529976021,0 -73.92858982086182,40.68029630130162,0 -73.92858982086182,40.68011730236235,0 -73.92861127853394,40.67992203024406,0 -73.92869710922241,40.67974303029978,0 -73.92880439758301,40.67956402987482,0 -73.92908334732056,40.67923857332529,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Utica Avenue</name>
+			<styleUrl>#line-62AF44-4</styleUrl>
+			<LineString>
+				<coordinates>
+					-73.92908334732056,40.67923857332529,0 -73.92998456954956,40.67837610578439,0 -73.93013477325439,40.67819710168893,0 -73.93024206161499,40.67796927759955,0 -73.93030643463135,40.67774145273157,0 -73.93032789230347,40.67739971396978,0 -73.93161535263062,40.66353340692343,0 -73.93161535263062,40.66315904176319,0 -73.92627239227295,40.61312170751863,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

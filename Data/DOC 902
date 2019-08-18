@@ -1,0 +1,25 @@
+Title : Template:Dormant/doc
+Text : {{Documentation subpage}}
+To mark a proposed policy (or other community document) as dormant, add the following above its lead:
+
+{{tlx|Dormant}}
+
+Do not substitute this template.
+
+The {{para|category}} parameter can be used to override the auto-categorisation feature of this template. Otherwise, the use of this template will categorise the target page into [[:Category:Wikipedia archives]]. Use {{para|category|Category:Vegetables}} to categorise the page into [[:Category:Vegetables]] instead of the usual category, or use {{para|category}} (nothing typed after <code>=</code>) to do no categorisation through the template.
+
+
+In addition, a shortcut can be added to this template by using the following syntax:
+
+{{Tlx|Dormant|SHORTCUT}}
+
+Up to 5 shortcuts can be added to this template in this fashion:
+
+{{Tlx|Dormant|SHORTCUT1|SHORTCUT2|SHORTCUT3|SHORTCUT4|SHORTCUT5}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Template categories  -->
+[[Category:Wikipedia archives]]
+[[Category:Wikipedia header templates]]
+
+}}</includeonly>

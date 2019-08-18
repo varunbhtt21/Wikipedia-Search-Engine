@@ -1,0 +1,7 @@
+Title : Template:Country data Mombasa
+Text : {{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Mombasa 
+| flag alias = Flag of Mombasa.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

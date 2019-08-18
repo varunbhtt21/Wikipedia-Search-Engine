@@ -1,0 +1,11 @@
+Title : Category:Algeria military ship templates
+Text : <!---
+For consistency, the name of this and similar categories use country/continent/regional names rather than adjectives or adjectivals, as some of these adjectives and adjectivals are less than straightforward (see [[List of adjectival forms of place names]]).
+---->
+{{template category
+|type  = navbox
+|topic = 
+}}
+
+[[Category:Military ship templates]]
+[[Category:Algeria military templates|Ship]]

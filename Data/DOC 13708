@@ -1,0 +1,47 @@
+Title : List of earthquakes in Washington (state)
+Text : This is a list of [[earthquakes]] in [[Washington (state)|Washington]], a U.S. state.
+
+{| class="wikitable sortable" style="text-align: center;"
+|+
+! Date !! Location !! [[Mercalli intensity scale|MMI]] !! {{m|Mag}} !! Deaths !! Injuries !! Total damage / notes !! scope="col" class="unsortable" | 
+|-
+| [[2001 Nisqually earthquake|2001-02-28]] || [[Puget Sound]] || VIII || 6.8 {{M|w}} || 0–1 || 400 || $1–4 billion ||
+|-
+| 1999-07-03 || [[Satsop, Washington|Satsop]] || VII || 5.8 {{M|w}} || || 7 || $8.1 million || <ref name=PAGER-CAT/><ref>{{citation|title=Ground Motions of the December 2015 M4.7 Vancouver Island Earthquake: Attenuation and Site Response|first=F. J.|last=Jackson|first2=S.|last2=Molnar|first3=H.|last3=Ghofrani|first4=G. M.|last4=Atkinson|first5=J. F.|last5=Cassidy|authorlink5=John Cassidy (seismologist)|first6=K.|last6=Assatourians|year=2017|journal=Bulletin of the Seismological Society of America|volume=107|number=6|page=2903|doi=10.1785/0120170071|bibcode=2017BuSSA.107.2903J}}</ref>
+|-
+| [[1965 Puget Sound earthquake|1965-04-29]] || [[Puget Sound]] || VIII || 6.7 {{M|w}} || 7 || || $12.5 million || 
+|-
+| 1962-11-06 || [[Clark County, Washington|Clark County]] || VII || 5.2 {{M|w}} || || || Minor || <ref>{{harvnb|Stover|Coffman|1993|pp=380, 388}}</ref>
+|-
+ | [[1949 Olympia earthquake|1949-04-13]] || [[Olympia, Washington|Olympia]] || VIII || 6.7 {{M|w}} || 8 || At least 64 || $25 million || 
+|-
+| [[1946 Vancouver Island earthquake|1946-06-23]] || [[Strait of Georgia]] || VIII || 7.3 {{M|w}} || 2 || || Limited || 
+|-
+| 1945-04-29 || [[North Bend, Washington|North Bend]] || VII || 5.5 {{M|s}} || || || Minor || <ref>{{harvnb|Stover|Coffman|1993|pp=380, 385}}</ref>
+|-
+| 1891-11-29 || [[Puget Sound]] || VI || || || || Tsunami || {{harvnb|NGDC}}
+|-
+| [[1872 North Cascades earthquake|1872-12-15]] || [[North Cascades]] || VIII || 6.5–7.0 || || || scientific interest || 
+|-
+| [[1700 Cascadia earthquake|1700-01-26]] || [[Cascadia subduction zone]] || || 8.7–9.2 {{M|w}} || || || Tsunami || 
+|- class="sortbottom"
+| colspan="08" style="text-align: center;" |<small>Note: The inclusion criteria for adding events are based on [[Wikipedia:WikiProject Earthquakes|WikiProject Earthquakes]]' [[Wikipedia:WikiProject Earthquakes/notability guidelines|notability guideline]] that was developed for stand-alone articles. The principles described also apply to lists. In summary, only damaging, injurious, or deadly events should be recorded.</small>
+|}
+
+==References==
+{{reflist|30em|refs=
+<ref name=PAGER-CAT>{{citation|title=PAGER-CAT Earthquake Catalog|url=ftp://hazards.cr.usgs.gov/web/data/pager/catalogs/|author=USGS|date=September 4, 2009|publisher=[[United States Geological Survey]]|series=Version 2008_06.1}}</ref>
+}}
+
+; Sources
+{{refbegin}}
+*{{citation|title=Significant Earthquake Database|url=https://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1|author=NGDC|publisher=[[National Geophysical Data Center]], [[National Oceanic and Atmospheric Administration|NOAA]]|doi=10.7289/V5TD9V7K|year=1972|type=Data Set}}
+* {{citation|last1=Stover|first1=C. W.|last2=Coffman|first2=J. L.|title=Seismicity of the United States, 1568–1989 (Revised)|series=U.S. Geological Survey Professional Paper 1527|url=https://books.google.com/books?id=bY0KAQAAIAAJ|year=1993|publisher=[[United States Government Printing Office]]}}
+{{refend}}
+
+{{Earthquakes in Washington (state)}}
+
+[[Category:Earthquakes in Washington (state)| ]]
+[[Category:Washington (state)-related lists|Earthquakes]]
+[[Category:Lists of earthquakes in the United States|Washington]]
+[[Category:Tsunamis in the United States]]

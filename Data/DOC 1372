@@ -1,0 +1,84 @@
+Title : Joshin 7000 series
+Text : {{short description|Japanese train type}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox train
+| name             = Joshin 7000 series
+| image            = Joshin7000.JPG
+| imagealt         =
+| imagesize        = 300px
+| caption          = Set 7001 in December 2013
+| service          = December 2013 –
+| manufacturer     = [[Niigata Transys]]
+| factory          =
+| family           =
+| replaced         =
+| yearconstruction = 2013
+| yearservice      =
+| refurbishment    =
+| yearscrapped     =
+| numberconstruction=
+| numberbuilt      = 2 vehicles (1 set)
+| numberservice    = 2 vehicles (1 set)
+| numberpreserved  =
+| numberscrapped   =
+| formation        = 2 cars per trainset
+| fleetnumbers     =
+| capacity         = 282 per set
+| operator         = [[Joshin Electric Railway]]
+| depots           =
+| lines            = [[Joshin Line]]
+| carbody          =
+| trainlength      =
+| carlength        = {{Convert|20,500|mm|ftin|abbr=on}}
+| width            = {{Convert|2,800|mm|ftin|abbr=on}}
+| height           = {{Convert|4140|mm|ftin|abbr=on}}
+| floorheight      =
+| doors            = 3 pairs per side
+| maxspeed         = {{Convert|90|km/h|mph|round=5|abbr=on}}
+| weight           =
+| acceleration     = 3.3 km/h/s
+| deceleration     = 3.5 km/h/s (service), 4.0 km/h/3 (emergency)
+| traction         =
+| poweroutput      =
+| transmission     =
+| aux              =
+| powersupply      =
+| hvac             =
+| electricsystem   = 1,500 V DC
+| collectionmethod = [[Overhead lines]]
+| bogies           = NF05D (motored), NF05T (trailer)
+| brakes           =
+| safety           = ATS
+| coupling         =
+| multipleworking  =
+| gauge            = {{RailGauge|1067mm|lk=on}}
+}}
+
+The {{Nihongo|'''Joshin 7000 series'''|上信電鉄7000形|Jōshin Dentetsu 7000-gata}} is an [[electric multiple unit]] (EMU) train type operated by the [[private railway]] operator [[Joshin Electric Railway]] on the [[Joshin Line]] in [[Gunma Prefecture]], Japan, since December 2013.<ref name="railfan638">{{cite magazine|title = 上信電鉄7000形|trans-title=Joshin Dentetsu 7000 series|magazine=[[Japan Railfan Magazine]] |volume = 54|issue = 638|pages=76–77|publisher = Koyusha Co., Ltd.|location = Japan |language= Japanese|date = 2014}}</ref>
+
+==Formation==
+{{as of|2015|04|01}}, the company operates one two-car set, consisting of one motored ("Mc") car and one unpowered trailer ("Tc") car, and is formed as shown below.<ref name="jrrprivate2015">{{cite book |script-title=ja: 私鉄車両編成表 2015 |trans-title=Private Railway Rolling Stock Formations - 2015 |publisher = Kotsu Shimbunsha |date = 23 July 2015 |location = Japan |language = Japanese |page = 16|isbn = 978-4-330-58415-7|title=私鉄車両編成表 }}</ref>
+
+{| class="wikitable"
+|-
+| Designation || Mc || Tc
+|-
+| Numbering || KuMoHa 7001 || KuHa 7501
+|}
+
+The "Mc" car is fitted with two KP3274 single-arm [[Pantograph (rail)|pantographs]].<ref name="railfan638"/>
+
+==Interior==
+Passenger accommodation consists of a mixture of transverse 4-person seating bays and longitudinal bench seating.<ref name="railfan638"/> The train does not have toilets.<ref name="railfan638"/>
+
+==History==
+The set entered service from December 2013.<ref name="railfan638"/>
+
+==References==
+{{Commons category}}
+{{reflist}}
+
+[[Category:Electric multiple units of Japan]]
+[[Category:Train-related introductions in 2013]]
+[[Category:Rail transport in Gunma Prefecture]]
+[[Category:Niigata Transys rolling stock]]

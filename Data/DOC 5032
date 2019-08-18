@@ -1,0 +1,27 @@
+Title : Template:Texas Woman's University
+Text : {{Navbox
+| name       = Texas Woman's University
+| title = {{colored link|white|Texas Woman's University}}
+| basestyle = {{CollegePrimaryStyle|Texas Woman's Pioneers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+
+| group1 = Athletics
+| list1  =
+* [[Texas Woman's Pioneers]]
+
+| group2 = Buildings 
+| list2 =
+* [[Texas Women's Hall of Fame]]
+* [[Guinn Hall]]
+* [[Stark Hall]]
+* [[Pioneer Hall (Texas Woman's University)|Pioneer Hall]]
+
+| group3 = Orgs
+| list3 = 
+* [[Sigma Lambda Alpha (sorority)|Sigma Lambda Alpha]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Texas universities and colleges navigational boxes]]
+</noinclude>

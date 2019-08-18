@@ -1,0 +1,41 @@
+Title : Wikipedia:WikiProject Spam/Local/permabit.com
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|permabit.com]]
+== Links ==
+* {{LinkSummary|permabit.com}}
+:* permabit.com resolves to [//199.168.184.40 199.168.184.40]
+:*: {{LinkSummary|199.168.184.40}}
+:* {{GoogleAnalyticsSummary|3562232}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Ldimershein}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12835956|lang=en|wikidomain=w|namespace=|pagename=Permabit|username=Ldimershein|link=permabit.com/company/our-edge/|sortdomain=com.permabit.|domain=permabit.com|origdiff=http://en.wikipedia.org/w/index.php?diff=606689127&oldid=606685569|resolved=X|isIP=0|date=2014-05-01|time=21:51:47|wiki=en.wikipedia.org|revid=606689127|oldid=606685569|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=8|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=permabit.com/company/our-edge/|domain=permabit.com|U=8|L=7|UL=6|WUL=0|analytics=3562232}}}}
+{{User:COIBot/EditSummary|id=12837674|lang=en|wikidomain=w|namespace=|pagename=Permabit|username=Ldimershein|link=permabit.com/company/intellectual-property/|sortdomain=com.permabit.|domain=permabit.com|origdiff=http://en.wikipedia.org/w/index.php?diff=606692191&oldid=606689821|resolved=X|isIP=0|date=2014-05-01|time=22:13:25|wiki=en.wikipedia.org|revid=606692191|oldid=606689821|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=8|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=permabit.com/company/intellectual-property/|domain=permabit.com|U=8|L=7|UL=6|WUL=0|analytics=3562232}}}}
+{{User:COIBot/EditSummary|id=12840335|lang=en|wikidomain=w|namespace=|pagename=Permabit|username=Ldimershein|link=permabit.com/products/oemsoftware/albireo-software-development-kit-sdk/|sortdomain=com.permabit.|domain=permabit.com|origdiff=http://en.wikipedia.org/w/index.php?diff=606696968&oldid=606693086|resolved=X|isIP=0|date=2014-05-01|time=22:51:05|wiki=en.wikipedia.org|revid=606696968|oldid=606693086|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=8|top=1|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=permabit.com/products/oemsoftware/albireo-sanblox/|domain=permabit.com|U=8|L=7|UL=6|WUL=0|analytics=3562232}}{{User:COIBot/OtherLinks|link=permabit.com/products/oemsoftware/albireo-evdo/|domain=permabit.com|U=8|L=7|UL=6|WUL=0|analytics=3562232}}{{User:COIBot/OtherLinks|link=permabit.com/products/oemsoftware/albireo-virtual-data-optimizer-vdo/|domain=permabit.com|U=8|L=7|UL=6|WUL=0|analytics=3562232}}{{User:COIBot/OtherLinks|link=permabit.com/products/oemsoftware/albireo-software-development-kit-sdk/|domain=permabit.com|U=8|L=7|UL=6|WUL=0|analytics=3562232}}}}
+{{User:COIBot/EditSummary|id=12841027|lang=en|wikidomain=w|namespace=|pagename=Permabit|username=Ldimershein|link=permabit.com/products/technologies/deduplication-index-engine/|sortdomain=com.permabit.|domain=permabit.com|origdiff=http://en.wikipedia.org/w/index.php?diff=606698437&oldid=606696968|resolved=X|isIP=0|date=2014-05-01|time=23:05:43|wiki=en.wikipedia.org|revid=606698437|oldid=606696968|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=8|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=permabit.com/products/technologies/deduplication-index-engine/|domain=permabit.com|U=8|L=7|UL=6|WUL=0|analytics=3562232}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 4 additions out of 4 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/permabit.com]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bpermabit\.com\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/permabit.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|open}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/permabit.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 23:06, 1 May 2014 (UTC)
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 23:36, 1 May 2014 (UTC)

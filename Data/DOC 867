@@ -1,0 +1,56 @@
+Title : Wikipedia:Reference desk/Archives/Computing/2014 April 18
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Computing|Computing desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Computing/2014 April 17|April 17]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Computing/March 2014|Mar]] | [[Wikipedia:Reference desk/Archives/Computing/April 2014|April]] | [[Wikipedia:Reference desk/Archives/Computing/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Computing/2014 April 19|[[Wikipedia:Reference desk/Archives/Computing/2014 April 19|April 19]]|[[Wikipedia:Reference desk/Computing|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Computing Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Computing/2014 April 28|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= April 18 =
+
+== surprise share turns up ==
+
+Hi, I don't know the terms for this but I went to save a file today on my macbook pro & found another computer image under Share on the left of the pane. (Note that I don't share with any other computer to my knowledge & don't know what happens when you do.) 
+
+Its identity is brwccaf7820ebc7 –though I can't raise this on find/ search & the message when I click on it says "unable to connect" or something like that. I had someone stay over with an iPad who used the wifi here; another time visiting friends I used their unlocked wifi. Is there any way I can remove/ close it? Thanks, [[User:Manytexts|Manytexts]] ([[User talk:Manytexts|talk]]) 01:17, 18 April 2014 (UTC)
+
+== Windows 8 system recovery ==
+
+In [[Windows 8]], how can one restore the system back to factory condition -- I mean, just tear down everything that was installed and start anew ("nuke and pave" in leetspeak)?   Also, can this be combined with a downgrade to [[Windows 7]]? [[Special:Contributions/24.5.122.13|24.5.122.13]] ([[User talk:24.5.122.13|talk]]) 08:37, 18 April 2014 (UTC)
+:If you installed from CD/DVD, then reformat the hard disk and install again.  If you have a computer with a W8 preinstall, there is normally a recovery partition that has a static image that you can burn a DVD from.  Then reformat the HD and install from the DVD.  If you want Windows 7 then get a CD and install it.  The recovery partition would include a lot of bloatcrap from your computer manufacturer, that you mostly don't want anyway.  [[Special:Contributions/70.36.142.114|70.36.142.114]] ([[User talk:70.36.142.114|talk]]) 11:23, 18 April 2014 (UTC)
+::In Windows 8 you can do a reset which reinstalls Windows.[http://windows.microsoft.com/en-us/windows-8/restore-refresh-reset-pc] --<span style="color:Turquoise">''''' &nbsp;[[User:Gadget850|Gadget850]]'''''<sup>[[User talk:Gadget850|&nbsp;''talk'']]</sup></span> 12:22, 18 April 2014 (UTC)
+:::Thanks! [[Special:Contributions/24.5.122.13|24.5.122.13]] ([[User talk:24.5.122.13|talk]]) 17:52, 18 April 2014 (UTC)
+
+== De-populating a PDF form field ==
+
+Hello All. I am trying to enter information into a PDF document that has drop-down fields. Here's the issue. An entry is blank. Then you go to the little dropdown arrow, choose some item from a list of possibilities. Then you realized that field actually should have remained blank. When you go back to that field there is no entry in the drop-down that is blank. I've tried clicking on the text entry and then hitting delete, escape & spacebar; I've tried the same with the drop-down open. Nothing seem to work to de-populate the field once invoked—I can ''change'' to a different item from the drop-down, but I cannot choose nothing. An awful workaround does exist: I can print, white out and copy but that is ridiculous. There's just got to be a way. Anyone come across this and know of a solution?--[[Special:Contributions/71.167.166.18|71.167.166.18]] ([[User talk:71.167.166.18|talk]]) 14:31, 18 April 2014 (UTC)
+:This is not an issue concerning the pdf file itself, but rather of the program you are using to edit it.  Are you doing this in a browser?  If not, which pdf viewer are you using? [[User:Looie496|Looie496]] ([[User talk:Looie496|talk]]) 14:47, 18 April 2014 (UTC)
+::Hello Looie. I'm using Adobe Acrobat Professional version 8.3.1.--[[Special:Contributions/71.167.166.18|71.167.166.18]] ([[User talk:71.167.166.18|talk]]) 16:10, 18 April 2014 (UTC)
+:::[[user:Looie496]] Getting attention.--[[Special:Contributions/71.167.166.18|71.167.166.18]] ([[User talk:71.167.166.18|talk]]) 16:21, 22 April 2014 (UTC)
+::::Sorry, I have no idea how to solve this.  I'm sure that Acrobat is responsible, but I don't know if it is possible to get Acrobat to behave differently.  You could try to fill out the form using some other pdf-reading program, but I have no idea whether that would work. [[User:Looie496|Looie496]] ([[User talk:Looie496|talk]]) 17:11, 22 April 2014 (UTC)
+
+== Facebook ==
+
+if i am not able to get notifications from a person in facebook  am i blocked by him.i have sent him a friend request and wanted to check or tick the option Notifications but it is not done for this particular person only why [[Special:Contributions/117.194.235.160|117.194.235.160]] ([[User talk:117.194.235.160|talk]]) 18:44, 18 April 2014 (UTC)[[Special:Contributions/117.194.235.160|117.194.235.160]] ([[User talk:117.194.235.160|talk]]) 18:41, 18 April 2014 (UTC)
+
+:If someone blocks you or if you block them, their profile won't show up in searches, you won't see anything they've posted or shared,even on friends' walls, and if someone tags them their name won't show up as a link. So it definitely didn't block you, or you wouldn't be able to see his profile at all. [[User:Katie Ryan A|<span style="border-bottom:solid #88F">K</span><span style="border-bottom:solid #d5f">ati</span><span style="border-bottom:solid #faa">e R</span>]] ([[User_talk:Katie Ryan A|talk]]) 19:56, 18 April 2014 (UTC)
+
+== People are being rude to me on youtube. How do I report this? ==
+
+People are being rude to me on youtube. How do I report this? [[User:Venustar84|Venustar84]] ([[User talk:Venustar84|talk]]) 21:43, 18 April 2014 (UTC)
+
+:I would start by taking a look at [https://support.google.com/youtube/answer/2802268 this page] for some pointers. It also has a link to [https://www.youtube.com/reportabuse report abuse]. - [[User:EronMain|Eron]]<sup>[[User Talk:EronMain|Talk]]</sup> 21:45, 18 April 2014 (UTC)
+
+::Unfortunately rudeness seems to be very common in Youtube comments, so I suspect it would have to be quite serious for the admins to do anything about it.--[[User:Shantavira|Shantavira]]|[[User talk:Shantavira|<sup>feed me</sup>]] 10:50, 19 April 2014 (UTC)

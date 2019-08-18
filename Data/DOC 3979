@@ -1,0 +1,98 @@
+Title : List of power stations in Israel
+Text : {{Location map+|Israel|width=150|float=right|caption=Location of power stations in Israel: [[File:Orange pog.svg|15px]] Gas  [[File:Black pog.svg|15px]] Coal
+|places=
+  {{Location map~|Israel|lat_deg=31|lat_min=55|lon_deg=34|lon_min=55|position=top|mark=Orange pog.svg|background=|label=<small>Gezer</small>}}
+  {{Location map~|Israel|lat_deg=32|lat_min=37|lon_deg=35|lon_min=03|position=top|mark=Orange pog.svg|background=|label=<small>Hagit</small>}}
+  {{Location map~|Israel|lat_deg=32|lat_min=28|lon_deg=34|lon_min=53|position=top|mark=Black pog.svg|background=|label=<small>Orot Rabin</small>}}
+  {{Location map~|Israel|lat_deg=31|lat_min=38|lon_deg=34|lon_min=31|position=top|mark=Black pog.svg|background=|label=<small>Rutenberg</small>}}
+
+}}
+The following is a list of the power stations in [[Israel]].
+
+==Coal==
+{| class="wikitable sortable"
+! Name
+! Capacity (MW)
+! Commissioned
+! Location
+! Refs
+|-
+| [[Orot Rabin]] || 2,590 || || Hadera || 
+|-
+| [[Rutenberg Power Station|Rutenberg]] || 2,250 || || Ashkelon || 
+|-
+|}
+
+==Gas==
+
+{| class="wikitable sortable"
+! width="21%" | Name
+! width="6%" | Capacity (MW)
+! width="10%" | Commissioned
+! width="20%" | Location
+! width="10%" | Refs
+|-
+| Ashkelon South
+| 800
+| 2013–2014
+| 
+| <ref name="IndustCardsCC">{{cite web | url=http://www.industcards.com/cc-israel.htm | title=CCGT Power Plants in Israel | publisher=Power Plants Around The World | work=Gallery | date=3 July 2013 | accessdate=25 April 2014 | deadurl=yes | archiveurl=http://arquivo.pt/wayback/20090719011746/http%3A//www.industcards.com/cc%2Disrael.htm | archivedate=19 July 2009 | df= }}</ref>
+|-
+| Gezer
+| 1332
+| 1998–2008
+| 
+| <ref name="IndustCardsCC" /><ref>{{cite web | url=http://globalenergyobservatory.org/form.php?pid=3310 | title=Gezer GCCT Power Plant | publisher=Global Energy Observatory | accessdate=25 April 2014}}</ref>
+|-
+| Hagit
+| 1030
+| 1996–2007
+| 
+| <ref name="IndustCardsCC" /> <ref>{{cite web | url=http://globalenergyobservatory.org/form.php?pid=3446 | title=Hagit CCGT Power Plant | publisher=Global Energy Observatory | accessdate=25 April 2014}}</ref>
+|-
+| Mishor Rotem
+| 440
+| 2013
+|  
+| <ref name="IndustCardsCC" />
+|-
+| Ramat Hovav
+| 520
+| 1989–1999
+|  
+| <ref name="IndustCardsCC" />
+|-
+| Tzafit
+| 595
+| 1991–2012
+|  
+| <ref name="IndustCardsCC" />
+|-
+|Dalia
+|860
+|2015
+|  
+| <ref name="IndustCardsCC" />
+|-
+|}
+
+== Solar ==
+*[[Ashalim power station]]
+*[[Ketura Sun]]
+*Neot Hovav
+
+
+==See also==
+{{Portal|Energy|Israel}}
+*[[Energy in Israel]]
+*[[List of largest power stations in the world]]
+
+==References==
+{{reflist}}
+
+{{GeoGroupTemplate}}
+{{Energy in Israel}}
+{{Power stations}}
+
+[[Category:Power stations in Israel| ]]
+[[Category:Lists of power stations by country|Israel]]

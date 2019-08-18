@@ -1,0 +1,10 @@
+Title : Module:Location map/data/France
+Text : return {
+	name = 'France',
+	top = 51.5,
+	bottom = 41.0,
+	left = -5.8,
+	right = 10.0,
+	image = 'France location map-Regions and departements-2016.svg',
+	image1 = 'France relief location map.jpg'
+}

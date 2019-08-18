@@ -1,0 +1,34 @@
+Title : Template:Infobox video game/Wikidata
+Text : {{Infobox video game
+| title         = 
+| italic title  = 
+| collapsible   = 
+| state         = 
+| image         = {{#property: P18}}
+| caption       = 
+| developer     = {{#property: P178}}
+| publisher     = {{#property: P123}}
+| series        = {{#property: P179}}
+| engine        = {{#property: P408}}
+| platforms     = {{#property: P400}}
+| released      = {{#property: P577}}
+| genre         = {{#property: P136}}
+| modes         = {{#property: P404}}
+| director      = {{#property: P57}}
+| producer      = {{#property: P162}}
+| designer      = {{#property: P287}}
+| programmer    = {{#property: P943}}
+| artist        = 
+| writer        = 
+| composer      = {{#property: P86}}
+| cabinet       = 
+| arcade system = 
+| cpu           = {{#property: P880}}
+| sound         = 
+| display       = 
+}}<noinclude>
+
+Try it in context: {{Wikidata example|Super Mario Bros. 3|Infobox video game/Wikidata}}
+
+{{documentation}}
+</noinclude>

@@ -1,0 +1,72 @@
+Title : Template:1980–81 ECAC Hockey standings (men)
+Text : {|class=wikitable style="text-align:center; font-size:95%;" width=75% 
+! colspan="15" style="background-color: #FFE6BD;" | {{navbar-header|'''[[1980–81 NCAA Division I men's ice hockey season|1980–81]] [[ECAC Hockey|ECAC Hockey standings]]'''|1980–81 ECAC Hockey standings (men)}}
+|-
+! rowspan="2" width="15%"| 
+! colspan="7" | Conference
+! rowspan="2" width="5%" |
+! colspan="6" | Overall
+|-
+! width="5%" | GP
+! width="5%" | W
+! width="5%" | L
+! width="5%" | T
+! width="5%" | Pct.
+! width="5%" | GF
+! width="5%" | GA
+! width="5%" | GP
+! width="5%" | W
+! width="5%" | L
+! width="5%" | T
+! width="5%" | GF
+! width="5%" | GA
+|-
+! colspan="15" style="background-color: #FFF5E5;" | East Region
+|- style="text-align:center;{{#switch:{{{team}}}|BC|BC=background-color:#CCFFCC}}"
+| [[Boston College Eagles men's ice hockey|Boston College]] || 22 || 13 || 6 || 3 || '''.659''' || 85 || 72 ||  || 31 || 20 || 8 || 3 || 126 || 100
+|- style="text-align:center;{{#switch:{{{team}}}|MAINE|MAINE=background-color:#CCFFCC}}"
+| [[Maine Black Bears men's ice hockey|Maine]] || 21 || 12 || 9 || 0 || '''.571''' || 101 || 93 ||  || 34 || 23 || 11 || 0 || 197 || 147
+|- style="text-align:center;{{#switch:{{{team}}}|NEU|NEU=background-color:#CCFFCC}}"
+| [[Northeastern Huskies men's ice hockey|Northeastern]] || 21 || 12 || 9 || 0 || '''.571''' || 118 || 104 ||  || 26 || 13 || 13 || 0 || 140 || 139
+|- style="text-align:center;{{#switch:{{{team}}}|PRO|PRO=background-color:#CCFFCC}}"
+| [[Providence Friars men's ice hockey|Providence]]* || 22 || 12 || 9 || 1 || '''.568''' || 106 || 90 ||  || 33 || 17 || 15 || 1 || 165 || 143
+|- style="text-align:center;{{#switch:{{{team}}}|UNH|UNH=background-color:#CCFFCC}}"
+| [[New Hampshire Wildcats men's ice hockey|New Hampshire]] || 24 || 13 || 10 || 1 || '''.563''' || 128 || 100 ||  || 33 || 19 || 13 || 1 || 166 || 129
+|- style="text-align:center;{{#switch:{{{team}}}|BU|BU=background-color:#CCFFCC}}"
+| [[Boston University Terriers men's ice hockey|Boston University]] || 22 || 10 || 12 || 0 || '''.455''' || 87 || 88 ||  || 29 || 14 || 15 || 0 || 115 || 116
+|-
+! colspan="15" style="background-color: #FFF5E5;" | West Region
+|- style="text-align:center;{{#switch:{{{team}}}|CLK|CLK=background-color:#CCFFCC}}"
+| [[Clarkson Golden Knights men's ice hockey|Clarkson]]† || 20 || 17 || 2 || 1 || '''.875''' || 119 || 65 ||  || 37 || 26 || 7 || 4 || 202 || 119
+|- style="text-align:center;{{#switch:{{{team}}}|CGT|CGT=background-color:#CCFFCC}}"
+| [[Colgate Red Raiders men's ice hockey|Colgate]] || 20 || 12 || 7 || 1 || '''.625''' || 99 || 84 ||  || 35 || 21 || 12 || 2 || 194 || 150
+|- style="text-align:center;{{#switch:{{{team}}}|RPI|RPI=background-color:#CCFFCC}}"
+| [[RPI Engineers men's ice hockey|Rensselaer]] || 21 || 10 || 11 || 0 || '''.476''' || 98 || 83 ||  || 29 || 16 || 13 || 0 || 158 || 118
+|- style="text-align:center;{{#switch:{{{team}}}|SLU|SLU=background-color:#CCFFCC}}"
+| [[St. Lawrence Saints men's ice hockey|St. Lawrence]] || 22 || 9 || 12 || 1 || '''.432''' || 77 || 87 ||  || 33 || 15 || 16 || 2 || 137 || 126
+|- style="text-align:center;{{#switch:{{{team}}}|VER|VER=background-color:#CCFFCC}}"
+| [[Vermont Catamounts men's ice hockey|Vermont]] || 22 || 4 || 16 || 2 || '''.227''' || 81 || 114 ||  || 34 || 9 || 23 || 2 || 136 || 173
+|-
+! colspan="15" style="background-color: #FFF5E5;" | Ivy Region
+|- style="text-align:center;{{#switch:{{{team}}}|COR|COR=background-color:#CCFFCC}}"
+| [[Cornell Big Red men's ice hockey|Cornell]] || 22 || 12 || 9 || 1 || '''.568''' || 95 || 79 ||  || 31 || 19 || 11 || 1 || 144 || 110
+|- style="text-align:center;{{#switch:{{{team}}}|YALE|YALE=background-color:#CCFFCC}}"
+| [[1980–81 Yale Bulldogs men's ice hockey season|Yale]] || 21 || 11 || 9 || 1 || '''.548''' || 96 || 101 ||  || 26 || 13 || 12 || 1 || 127 || 137
+|- style="text-align:center;{{#switch:{{{team}}}|PRI|PRI=background-color:#CCFFCC}}"
+| [[Princeton Tigers men's ice hockey|Princeton]] || 21 || 10 || 11 || 0 || '''.476''' || 78 || 99 ||  || 25 || 12 || 13 || 0 || 93 || 111
+|- style="text-align:center;{{#switch:{{{team}}}|HAR|HAR=background-color:#CCFFCC}}"
+| [[Harvard Crimson men's ice hockey|Harvard]] || 21 || 8 || 12 || 1 || '''.405''' || 79 || 98 ||  || 26 || 11 || 14 || 1 || 103 || 119
+|- style="text-align:center;{{#switch:{{{team}}}|DAR|DAR=background-color:#CCFFCC}}"
+| [[Dartmouth Big Green men's ice hockey|Dartmouth]] || 22 || 8 || 14 || 0 || '''.364''' || 87 || 115 ||  || 26 || 10 || 16 || 0 || 100 || 138
+|- style="text-align:center;{{#switch:{{{team}}}|BRN|BRN=background-color:#CCFFCC}}"
+| [[Brown Bears men's ice hockey|Brown]] || 22 || 3 || 18 || 1 || '''.159''' || 67 || 125 ||  || 26 || 5 || 20 || 1 || 83 || 144
+|-
+! colspan="15" style="background-color: #FFF5E5;" | Independent
+|- style="text-align:center;{{#switch:{{{team}}}|ARMY|ARMY=background-color:#CCFFCC}}"
+| [[Army Cadets men's ice hockey|Army]]^ || - || - || - || - || - || - || - ||  || 35 || 21 || 13 || 1 || 230 || 160
+|-
+| colspan=15 style="text-align:center;" |[[1981 ECAC Hockey Men's Ice Hockey Tournament|Championship]]: Providence<br>† <small>indicates conference regular season champion</small><br>* <small>indicates conference tournament champion</small><br>^ <small>Army had been accepted into ECAC Hockey but had not begun a conference schedule</small>
+|}<noinclude>
+{{Documentation}}
+[[Category:ECAC Hockey standings templates]]
+</noinclude>

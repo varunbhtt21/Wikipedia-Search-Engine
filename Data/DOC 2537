@@ -1,0 +1,31 @@
+Title : Template:Davido
+Text : {{Navbox musical artist
+| name  = Davido
+| title = [[Davido]]
+| state = {{{state|autocollapse}}}
+| bodyclass = hlist 
+| background = solo_singer
+| above = 
+*[[List of awards and nominations received by Davido|Awards and nominations]]
+
+| group1 = Studio albums 
+| list1  =
+
+*''[[Omo Baba Olowo]]''
+
+| group2 = Singles
+| list2  =
+*"[[Dami Duro]]"
+*"[[Gobe (song)|Gobe]]"
+*"[[Skelewu]]" 
+*"[[Aye (song)|Aye]]"
+*"[[Fall (Davido song)|Fall]]" 
+
+| group3 = Featured singles
+| list3  =
+*"[[Gallardo (Runtown song)|Gallardo]]"
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:American pop singers templates]]
+</noinclude>

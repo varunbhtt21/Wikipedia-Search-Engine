@@ -1,0 +1,80 @@
+Title : Kentucky Route 48
+Text : {{Use mdy dates|date=April 2014}}
+{{Infobox road
+|state=KY
+|type=KY
+|route=48
+|length_mi=11.040
+|length_ref=<ref name="KYTC">{{cite web|url=http://apps.transportation.ky.gov/DMI_Reports/Official_MP_RL_params.aspx|publisher=Kentucky Transportation Cabinet |author=Division of Planning |work=Highway Information System |title=Official Milepoint Route Log Extract.|accessdate=April 24, 2014}}</ref>
+|established=
+|direction_a=West
+|terminus_a={{Jct|state=KY|US|31E|US|150}} in [[Highgrove, Kentucky|Highgrove]]
+|junction=
+|direction_b=East
+|terminus_b={{Jct|state=KY|US|62|KY|55}} in [[Bloomfield, Kentucky|Bloomfield]]
+|counties=[[Nelson County, Kentucky|Nelson]], [[Spencer County, Kentucky|Spencer]]
+|previous_type=KY
+|previous_route=47
+|next_type=KY
+|next_route=49
+}}
+'''Kentucky Route 48''' ('''KY&nbsp;48''') is an {{convert|11|mi|km|adj=mid|-long}} [[state highway]] in the U.S. state of [[Kentucky]]. KY 48 runs from [[U.S. Route 31E]] (US 31E) and [[U.S. Route 150 in Kentucky|U.S. Route 150]] (US 150) in [[Highgrove, Kentucky|Highgrove]] to [[U.S. Route 62 in Kentucky|US 62]] and [[Kentucky Route 55|KY 55]] in [[Bloomfield, Kentucky|Bloomfield]], passing through the community of [[Fairfield, Kentucky|Fairfield]].
+
+==Route description==
+KY 48 travels southeast from US 31E in [[Nelson County, Kentucky|Nelson County]]. After about {{convert|1.5|mi|km}} southeast of Highgrove, KY 48 enters Spencer County and straddles the county line before reentering Nelson County west of Fairfield. After passing through Fairfield, KY 48 begins heading eastward before terminating at US 62 and KY 55 in Bloomfield.
+{{-}}
+
+==Major intersections==
+{{KYinttop|length_ref=<ref name="KYTC"/>}}
+{{KYint
+|county=Nelson
+|location=Highgrove
+|mile=0.000
+|road={{Jct|state=KY|US|31E|name1=Louisville Road|road=Crenshaw Lane}}
+|notes=Western terminus
+}}
+{{KYint
+|county=Spencer
+|location=none
+|mile=4.121
+|road={{Jct|state=KY|KY|623|dir1=north|name1=Lilly Pike}}
+|notes=Southern terminus of KY 623
+}}
+{{KYint
+|county=Nelson
+|cspan=4
+|location=none
+|mile=6.370
+|road={{Jct|state=KY|KY|509|dir1=west|name1=Fairfield Road}}
+|notes=Eastern terminus of KY 509
+}}
+{{KYint
+|location=Fairfield
+|mile=7.001
+|road={{Jct|state=KY|KY|652|dir1=north|name1=Little Union Road}}
+|notes=Southern terminus of KY 652
+}}
+{{KYint
+|location=Bloomfield
+|lspan=2
+|mile=10.908
+|road={{Jct|state=KY|KY|162|dir1=west|name1=Bardstown Road}}
+|notes=Eastern terminus of KY 162
+}}
+{{KYint
+|mile=11.040
+|road={{Jct|state=KY|US|62|KY|55|name1=Springfield Road / Chaplin Road|name2=Taylorsville Road}}
+|notes=Eastern terminus
+}}
+{{Jctbtm}}
+
+==See also==
+*{{portal-inline|Kentucky}}
+*{{portal-inline|U.S. Roads}}
+
+==References==
+{{reflist}}
+
+[[Category:State highways in Kentucky|0048]]
+[[Category:Transportation in Nelson County, Kentucky]]
+[[Category:Transportation in Spencer County, Kentucky]]

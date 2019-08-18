@@ -1,0 +1,92 @@
+Title : CCDC47
+Text : {{Infobox_gene}}
+'''Coiled-coil domain 47 (CCDC47)''' is a gene located on [[human chromosome 17]], specifically locus 17q23.3 which encodes for the protein CCDC47. The gene has several aliases including GK001 and MSTP041. The protein itself contains coiled-coil domains, the SEEEED superfamily, a domain of unknown function (DUF1682) and a transmembrane domain. The function of the protein is unknown, but it has been proposed that CCDC47 is involved in calcium ion homeostasis and the endoplasmic reticulum overload response.<ref>{{cite web|title=AceView|url=http://www.ncbi.nlm.gov/ieb/research/acembly/index.html|publisher=NCBI|accessdate=1 March 2014}}{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+== Gene ==
+The CCDC47 gene itself is located on the minus strand of [[human chromosome 17]] and contains 13 [[exon]] splice sites and 14 distinct [[introns]]. After removal of exons, the gene is 3445 base pairs in length. No evidence for [[micro RNA]] or pseudogenes has been found. The gene does not have various [[isoforms]], only transcript variant 1X exists.
+
+[[File:Chromosome 17 Diagram.jpg|thumb|400px|left|Genomic location of CCDC47 at 17q23.3<ref>{{cite web|title=CCDC47 coiled-coil domain containing 47|publisher=NCBI|url=https://www.ncbi.nlm.nih.gov/gene/57003|accessdate=3 March 2014}}</ref>]]
+
+== Protein ==
+
+=== Structure ===
+
+The protein encoded by CCDC47 is 483 amino acids in length and contains both a [[signal peptide]] and [[transmembrane domain]]. It is rich in negatively charged amino acids such as [[aspartic acid]] and [[glutamic acid]] giving it an acidic [[isoelectric point]] of 4.56.<ref>{{cite web|title=SAPS Anaysis|url=http://workbench.sdsc.edu|publisher=SDSC Workbench|accessdate=14 April 2014}}</ref> The protein is also rich in [[methionine]]. In total, it weighs 55.9 kDal which is conserved through various orthologs. CCDC47 also contains the SEEEED superfamily and domain of unknown function 1682 (DUF1682). The SEEEED superfamily is a short, low complexity region which is composed mainly of serine. The family routinely lies on the clathrin adaptor complex 3 beta-1 subunit proteins.<ref>{{cite web|title=NCBI BLAST|url=http://blast.ncbi.nlm.hin.gov/Blast|publisher=National Center for Biotechnology Information|accessdate=7 March 2014}}{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The exact function of DUF 1682 is unclear but one member of the family has been described as an adipocyte-specific protein.<ref>{{cite web|title=Genecards|url=https://www.genecards.org|publisher=The Human Gene Compendium|accessdate=7 March 2014}}</ref>
+[[File:C Terminus CCDC47.png|thumb|PHYRE was able to predict with 76.1% confidence the C-terminus structure of CCDC47 from amino acids 396-473. This alpha helix structure is depicted above.]]
+
+There are two predicted [[disulfide bonds]] in the structure of CCDC47 at cysteines 209 to 214 and cysteines 215 to 283, respectively.<ref>{{cite web|title=Sulfinator|url=http://web.expasy.org/sulfinator|publisher=ExPASy|accessdate=7 April 2014}}</ref> The C-terminal portion of the protein is highly charged and its [[secondary structure]] is predicted to be that of an [[alpha helix]] region.<ref>{{cite web|title=PHYRE 2 Protein Recognition Software|url=http://www.sbg.bio.ic.ac.uk/phyre2/html/page.cgi?id-index|accessdate=14 April 2014}}</ref> This region also contains coiled coil domains which are structural motifs in which 2-7 alpha helices are coiled together and are subsequently involved in biological expression. These domains typically follow the pattern HxxHCxC where H is a hydrophobic amino acid, C is a charged amino acid and x is any amino acid.<ref name="pmid14760737">{{cite journal |vauthors = Mason JM, Arndt KM |title = Coiled coil domains: stability, specificity, and biological implications |journal = ChemBioChem |volume = 5 |issue = 2 |pages = 170–6 |year = 2004 |pmid = 14760737 |doi = 10.1002/cbic.200300781 }}</ref> Many amino acid sequences following this pattern are seen in the C-terminal region of CCDC47 where the highest conservation through orthologs is represented.
+
+[[File:CCDC47 Protein.jpg|thumb|400px|center|The CCDC47 protein construct, including the signal peptide, SEEEED superfamily, transmembrane domain and DUF1682.]]
+
+=== Regulation and translation ===
+
+CCDC47 is regulated by the promoter GXP43413.<ref>{{cite web|title=El Dorado|url=http://www.genomatix.de/cgi-bin//eldorado|publisher=Genomatix|accessdate=3 April 2014}}{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The promoter is 819 base pairs in length and is highly conserved in mammals. Conserved binding sites in mammals which are located on this promoter include Nuclear Respiratory Factor 1 (NFR1), cAMP-responsive element binding protein (CREB), PAR b ZIP family and Sp4 Transcription Factor. [[NRF1]] encodes a protein which homodimerizes and activates expression of key metabolic genes. CREB binds to cAMP response elements thereby increasing or decreasing the transcription of downstream genes<ref>{{cite web|title=Protein One|url=http://www.proteinone.com/products/proteins/transcription-factors/|publisher=Transcription Factors|accessdate=29 March 2014|archive-url=https://web.archive.org/web/20140605033608/http://www.proteinone.com/products/proteins/transcription-factors|archive-date=2014-06-05|dead-url=yes|df=}}</ref> while PAR b ZIP family is involved in the regulation of [[circadian rhythms]].<ref>{{cite web|title=Protein Spotlight, The PAR b ZIP Family|url=http://web.expasy.org/spotlight/snapshots/002/|accessdate=March 28, 2014}}</ref>
+In regards to the [[mRNA]], [[translation]] begins at base pair 337 and ends at 1728. There is a strong [[stem loop]] located in the 5' UTR region from bases 289-318 which likely is involved in regulation of the mRNA due to its close proximity to the [[start codon]].<ref>{{cite web|title=The mfold Web Server|url=http://mfold.rna.albany.edu/?q-mfold|accessdate=3 April 2014}}</ref>
+
+=== Cellular distribution ===
+
+The final protein is thought to be translated from the endoplasmic reticulum into the cytoplasm of the cell. The protein is anchored in the membrane of the ER at the transmembrane domain located from amino acid 137 to 165.<ref>{{cite web|title=DAS-TM Filter Server|url=http://mendel.imp.ac.at/sat/DAS/DAS.html|publisher=ExPASy|accessdate=17 April 2014}}</ref> The portion of the protein which extends into the [[cytosol]] is predicted to be highly [[phosphorylated]] as the protein's phosphorylation sites are conserved into the bony fish orthologs.<ref>{{cite web|title=NetPhos Server 2.0|url=http://www.cbs.dtu.dk/services/NetPhos|publisher=ExPASy|accessdate=20 April 2014}}</ref> Research has shown that CCDC47 is expressed in the response to an ER overload making this close proximity to the ER important.<ref name="VigueriePicard2012">{{cite journal|last1=Viguerie|first1=Nathalie|last2=Picard|first2=Flora|last3=Hul|first3=Gabby|last4=Roussel|first4=Balbine|last5=Barbe|first5=Pierre|last6=Iacovoni|first6=Jason S.|last7=Valle|first7=Carine|last8=Langin|first8=Dominique|last9=Saris|first9=Wim H. M.|title=Multiple effects of a short-term dexamethasone treatment in human skeletal muscle and adipose tissue|journal=Physiological Genomics|volume=44|issue=2|year=2012|pages=141–151|issn=1094-8341|doi=10.1152/physiolgenomics.00032.2011}}</ref>
+
+=== Post translational modification ===
+
+In addition to the high levels of [[phosphorylation]] seen in CCDC47, three sulfination sites are predicted and conserved in mammals, reptiles and birds but not in fish, amphibians or invertebrates.<ref>{{cite web|title=Sulfinator|url=http://web.expasy.org/sulfinator|publisher=ExPASy|accessdate=20 April 2014}}</ref> Five potential [[sumoylation]] sites are also seen and conserved back to the bony fish.<ref>{{cite web|title=SumoPLOT|url=http://www.abgent.com/sumplot|publisher=ExPASy|accessdate=20 April 2014}}{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> There is no [[glycosylation]] of the protein as it is not predicted to extend into the extracellular portion of the cell.
+
+== Expression ==
+
+[[Microarray]] tissue expression patterns from GEO were analyzed and showed that CCDC47 appears to be an ubiquitously expressed at moderate levels in many different human tissues.<ref>{{cite web|title=GEO Profiles|url=https://www.ncbi.nlm.nih.gov/geo|publisher=NCBI|accessdate=20 March 2014}}</ref> Although the protein is ubiquitously expressed, the highest levels of expression are seen in neuronal tissues such as the [[superior cervical ganglion]], brain amygdala and [[ciliary ganglion]]. Elevated expression is also seen in the [[thyroid]] and CD34+ cells.
+
+== Homology ==
+
+CCDC47 has no known [[paralogs]] through text based queries, BLAST and BLAT. The gene has many [[orthologs]] extending back to invertebrates such as ''C. elegans'' and is highly conserved in mammals with a percent identity greater than 95%. CCDC47 has been sequenced in a wide taxonomy of organisms including mammals, birds, reptiles, amphibians, bony fish and invertebrates. Percent identity of human CCDC47 to a specific ortholog declines with increasing years of divergence, as expected. Homologous genes of CCDC47 are also present in mosquitos, mushrooms, arabidopsis and Asian rice. These [[homologs]] contain the same DUF1682 which is found in CCDC47.
+
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|+ '''Orthologs of CCDC47'''
+! scope="col" | Genus 
+Species
+! scope="col" | Common Organism Name
+! scope="col" | Divergence from 
+Humans (MYA)<ref>{{cite web|title=Time Tree: The Timescale of Life|url=http://www.timetree.org/|accessdate=13 March 2014}}</ref>
+! scope="col" | NCBI Protein 
+Accession Number
+! scope="col" | Sequence Identity 
+to Humans<ref>{{cite web|title=BLAST|url=https://www.ncbi.nlm.nih.gov/BLAST/%7Cpublisher=NCBI|publisher=NCBI|accessdate=13 March 2014}}</ref>
+! scope="col" | Sequence Length 
+(AA)
+|-
+| ''Mus musculus'' || Mouse || 92.3 || NP_080285.2 || 97.90% || 483
+|-
+| ''Myotis davidii || Mouse-eared Bat || 94.2 || XP_006776781.1 || 97.50% || 483
+|-
+| ''Elephantulus edwardii'' || Elephant Shrew || 98.7 || XP_006886355.1 || 95.00% || 483
+|-
+| ''Alligator mississippiensis'' || American Alligator || 296 || XP_006271625.1 || 91.00% || 482
+|- ''Pelodiscus sinensis'' || Soft-Shelled Turtle || 296 || XP_006125807.1 || 90.70% || 482
+|-
+| ''Falco cherrug'' || Saker Falcon || 296 || XP_005439470.1 || 90.10% || 482
+|- 
+| ''Ophiophagus hannah'' || King Cobra || 296 || ETE73955 || 78.90% || 516
+|-
+| ''Xenopus laevis '' || African Clawed Frog || 371.2 || NP_001087058.1 || 78.70% || 489
+|-
+| ''Danio rerio'' || Zebra Fish || 400.1 || NP_001004551.1 || 76.20% || 486
+|-
+| ''Latimeria chalumnae'' || Coelacanth || 414.9 || XP_00599466.3 || 83.50% || 478
+|-
+| ''Saccoglossus kowalevskii'' || Acorn Worm || 661.2 || XP_006822108 || 50.50% || 496
+|- ''Strongylocentrotus purpuratus'' || Sea Urchin || 742.9 || XP_783258.2 || 45.70% || 481
+|-
+| ''Pediculus humanus corporis'' || Human Body Lice || 782.7 || XP_002424359 || 46.10% || 447
+|-
+| ''Acyrthosiphon pison'' || Aphid || 782.7 || NP_001162147 || 43.50% || 449
+|-
+| ''Caenorhabditis elegans'' || Roundworm || 937.5 || NP_497788.1 || 35.10% || 442
+|}
+
+== References ==
+{{Reflist|33em}}
+
+==External links==
+* {{UCSC gene info|CCDC47}}
+
+[[Category:Genes on human chromosome 17]]
+[[Category:Human proteins]]

@@ -1,0 +1,118 @@
+Title : Commonwealth Railways L class
+Text : {{Use Australian English|date=May 2014}}
+{{Use dmy dates|date=May 2014}}
+{{Infobox locomotive
+|name             = Commonwealth Railways L class
+|powertype        = Steam
+|image            = 
+|alt              = 
+|caption          = 
+|designer         = 
+|builder          = [[Clyde Engineering]]
+|ordernumber      = 
+|serialnumber     = 
+|buildmodel       = 
+|builddate        = 1951-1952
+|totalproduction  = 10
+|rebuilder        = 
+|rebuilddate      = 
+|numberrebuilt    =
+|whytetype        = 2-8-2
+|uicclass         = 
+|gauge            = {{track gauge|1435 mm|allk=on}}
+|leadingdiameter  = 
+|driverdiameter   = 
+|trailingdiameter = 
+|minimumcurve     = 
+|wheelbase        = 
+|length           = 
+|width            = 
+|height           = 
+|axleload         = 
+|weightondrivers  = 
+|locoweight       = {{convert|165|LT|t ST|abbr=on}}
+|tenderweight     = 
+|locotenderweight = 
+|tendertype       = 
+|fueltype         = [[Coal]]
+|fuelcap          = 
+|watercap         = 
+|tendercap        = 
+|sandcap          = 
+|boiler           = 
+|boilerpressure   = {{convert|200|psi|bar kPa|0|abbr=on}}
+|feedwaterheater  = 
+|firearea         = {{convert|47|sqft|m2|abbr=on}}
+|tubearea         = 
+|fluearea         = 
+|tubesandflues    = 
+|fireboxarea      = 
+|totalsurface     = 
+|superheatertype  = 
+|superheaterarea  = 
+|cylindercount    = 
+|cylindersize     = {{convert|22|x|28|in|mm|0|abbr=on}}
+|frontcylindersize= 
+|rearcylindersize = 
+|hpcylindersize   = 
+|lpcylindersize   = 
+|valvegear        = 
+|valvetype        = 
+|valvetravel      = 
+|valvelap         = 
+|valvelead        = 
+|transmission     = 
+|maxspeed         = 
+|poweroutput      = 
+|tractiveeffort   = {{convert|40,418|lbf|kN|abbr=on}}
+|factorofadhesion = 
+|trainheating     = 
+|locobrakes       = 
+|locobrakeforce   = 
+|trainbrakes      = 
+|safety           = 
+|operator         = [[Commonwealth Railways]]
+|operatorclass    = 
+|powerclass       = 
+|numinclass       = 
+|fleetnumbers     = L80-L89
+|officialname     = 
+|nicknames        = 
+|axleloadclass    = 
+|locale           = 
+|deliverydate     = 
+|firstrundate     = 
+|lastrundate      = 
+|retiredate       = 
+|withdrawndate    = May 1959
+|preservedunits   = 
+|restoredate      = 
+|scrapdate        = Mid 1960
+|currentowner     = 
+|disposition      = All scrapped}} 
+
+The '''Commonwealth Railways L class''' was a class of {{whyte|2-8-2}} freight locomotives built in 1951-1952 by [[Clyde Engineering]], [[Granville, New South Wales|Granville]], for the [[Commonwealth Railways]], Australia.
+
+==History==
+In the late 1940s, the [[Government of Australia|Federal Government]] placed an order with [[Clyde Engineering]], [[Granville, New South Wales|Granville]] for fifty 2-8-2 locomotives. These were ordered as part of Australia's contribution to the [[United Nations Relief and Rehabilitation Administration]] rehabilitation of China. With the first locomotives under construction, China fell to the Communists and Australia's obligations ceased.<ref name=LOberg>{{cite book|last=Oberg|first=Leon|title=Locomotives of Australia 1850s-1980s|year=1984|publisher=Reed Books|location=Frenchs Forest|isbn=0 730100 05 7|page=198}}</ref><ref name=Chris>[http://www.comrails.com/cr_locos/r_l.html#80 L class] Chris's Commonwealth Railways Pages</ref>
+
+The government was able to renegotiate the contract, with only twenty built. Ten were taken by the [[Commonwealth Railways]], even though it already had diesel locomotives on order, with the other ten going to the [[South Australian Railways]] as the [[South Australian Railways 740 class|740 class]]. Some never entered service being placed on the scrap line at [[Port Augusta, South Australia|Port Augusta]]. All were officially withdrawn by May 1959. They were scrapped in the mid 1960s with the boilers sold overseas.<ref name=LOberg/><ref name=Chris/>
+
+Some the tenders were converted into water carriers for use on the Commonwealth Railways weed killer train, still being in use in the early 1980s.<ref name=LOberg/>
+
+==References==
+===Notes===
+{{Reflist}}
+===Bibliography===
+{{refbegin}}
+*{{FluMarWil-LocRailCR}}
+{{refend}}
+
+{{AusLocos|state=collapsed}}
+
+[[Category:Clyde Engineering locomotives]]
+[[Category:Commonwealth Railways steam locomotives|L class]]
+[[Category:Railway locomotives introduced in 1951]]
+[[Category:2-8-2 locomotives]]
+[[Category:Standard gauge locomotives of Australia]]
+[[Category:Scrapped locomotives]]

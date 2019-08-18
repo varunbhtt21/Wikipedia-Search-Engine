@@ -1,0 +1,8 @@
+Title : Template:1898 Triangular Football League standings
+Text : {{CFB Standings Start|1898 Triangular Football League standings|Triangular Football League|ties=yes}}
+{{CFB Standings Entry|[[1898 Dartmouth football team|Dartmouth]] |conf-champ=yes|2|0|0|5|6|0}}
+{{CFB Standings Entry|{{cfb link|year=1898|team=Amherst Lord Jeffs|title=Amherst}} |1|1|0|4|5|1}}
+{{CFB Standings Entry|{{cfb link|year=1898|team=Williams Ephs|title=Williams}} |0|2|0|3|8|0}}
+{{CFB Standings End|non-BCS-champ=yes|no-poll=y}}
+<noinclude>[[Category:Triangular Football League standings templates|{{PAGENAME}}]]
+[[Category:1898 college football standings templates|Triangular Football League]]</noinclude>

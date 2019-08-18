@@ -1,0 +1,180 @@
+Title : Wikipedia:Reference desk/Archives/Science/2014 April 20
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Science|Science desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Science/2014 April 19|April 19]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Science/March 2014|Mar]] | [[Wikipedia:Reference desk/Archives/Science/April 2014|April]] | [[Wikipedia:Reference desk/Archives/Science/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Science/2014 April 21|[[Wikipedia:Reference desk/Archives/Science/2014 April 21|April 21]]|[[Wikipedia:Reference desk/Science|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Science Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Science/2014 April 30|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= April 20 =
+
+== If it's called cardiac arrest when the heart suddenly stops... ==
+
+...what's it called when the brain suddenly stops? [[User:Ac05number1|Ac05number1]] ([[User talk:Ac05number1|talk]]) 02:37, 20 April 2014 (UTC)
+
+:[[Brain death]].  <span style="font-family:monospace;">[[User:Dismas|Dismas]]</span>|[[User talk:Dismas|<sup>(talk)</sup>]] 02:54, 20 April 2014 (UTC)
+
+::Even in total brain death, parts of the brain, like the [[brain stem]], may remain active. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 02:59, 20 April 2014 (UTC)
+
+:::That's not correct.  See [[brain death#Medical criteria]]. [[User:Looie496|Looie496]] ([[User talk:Looie496|talk]]) 13:26, 20 April 2014 (UTC)
+
+::::Thanks for the correction.  I was thinking of a [[persistent vegetative state]]. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 17:07, 23 April 2014 (UTC)
+
+:I don't think it stops ''suddenly''.  The heart doesn't usually completely stop all at once either, just parts of it stop or pump out of sequence. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 02:57, 20 April 2014 (UTC)
+
+*In some contexts, where a "cardiac arrest" is called a "heart attack", a [[Stroke]] is sometimes called a "brain attack".  --[[User:Jayron32|<font style="color:#000099">Jayron</font>]]'''''[[User talk:Jayron32|<font style="color:#009900">32</font>]]''''' 03:06, 20 April 2014 (UTC)
+
+: Why does the term "cerebral arrest" not exist?  --  [[User:JackofOz|<font face="Papyrus">Jack of Oz</font>]] [[User talk:JackofOz#top|<span style="font-size:85%"><font face="Verdana" ><sup>[pleasantries]</sup></font></span>]] 07:34, 20 April 2014 (UTC)
+::There's no accounting for the quirks of English. But consider this: The term "arrest" means to stop.[http://www.etymonline.com/index.php?allowed_in_frame=0&search=arrest&searchmode=none] It occurs to me that the term "arrest" in any context usually refers to a sudden or swift action - like it's either beating or it isn't. In the case of the heart, if it stops beating it's pretty obvious just from listening to the chest. The brain doesn't "beat" like the heart does. It requires medical equipment to detect its activity, or lack thereof. ←[[User:Baseball Bugs|Baseball Bugs]] <sup>''[[User talk:Baseball Bugs|What's up, Doc?]]''</sup> [[Special:Contributions/Baseball_Bugs|carrots]]→ 07:46, 20 April 2014 (UTC)
+
+::<small>Cerebral arrests are the Thought Police's job. —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 08:44, 20 April 2014 (UTC)</small>
+::: <small> Cool. I'm sometimes tempted to make a citizen's cerebral arrest.  Of course, in my particular case, it would be a cerebral citizen's arrest.  :)  --  [[User:JackofOz|<font face="Papyrus">Jack of Oz</font>]] [[User talk:JackofOz#top|<span style="font-size:85%"><font face="Verdana" ><sup>[pleasantries]</sup></font></span>]] 09:02, 20 April 2014 (UTC) </small>
+
+*"Cardiac arrest" means that the heart suddenly stops pumping blood, but in almost every case the individual muscle fibers continue to contract for a while.  What happens is that they lose their global synchrony, resulting in [[fibrillation]].  The most directly analogous phenomenon in the brain is an [[epileptic seizure]].  Those are rarely fatal, though, because they eventually end and don't cause the heart to stop.  Breathing may stop for a while, but it usually resumes after the seizure ends. [[User:Looie496|Looie496]] ([[User talk:Looie496|talk]]) 13:21, 20 April 2014 (UTC)
+::Yes but the brain can also go into a loop vis avis BB.[[Special:Contributions/31.55.123.188|31.55.123.188]] ([[User talk:31.55.123.188|talk]]) 00:47, 21 April 2014 (UTC)
+
+:The criterion of flat EEGs 24 hours apart is actually quite fascinating - I never knew that.  What ''do'' the people report who have had a short period of totally flat EEG and return to life? [[User:Wnt|Wnt]] ([[User talk:Wnt|talk]]) 01:22, 25 April 2014 (UTC)
+
+== The end of LADEE ==
+
+From [http://www.ibtimes.com/nasa-ladee-spacecraft-rests-pieces-far-side-moon-following-planned-crash-1573894 IB Times]: "Before LADEE crashed into the lunar surface, the spacecraft reached speeds of 3,600 miles per hour,  and it most likely broke apart before impact."
+
+What could cause [[LADEE]] to break up before impact?  [[User:Bubba73|Bubba73]] <sup>[[User talk:Bubba73|You talkin' to me?]]</sup> 05:24, 20 April 2014 (UTC)
+
+:I can think of two reasons why a plunging satellite might break up, but neither seems strong enough on the  Moon to have that effect:
+
+:1) Hitting the atmosphere.  The Moon has a very thin atmosphere, so even at 3600 mph, this doesn't seem likely to cause it to break up, to me, even considering that the satellite isn't designed to withstand re-entry.
+
+:2) Tidal effects.  Here the near side of the object is pulled more than the far side.  This caused [[Comet Shoemaker–Levy 9]] to break up before it hit Jupiter.  But, the Moon's gravity is far less than Jupiter's, so this seems unlikely. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 07:18, 20 April 2014 (UTC)
+
+::: Yes, but it had been orbiting only about 1 mile above the surface for a while, without breaking up.  [[User:Bubba73|Bubba73]] <sup>[[User talk:Bubba73|You talkin' to me?]]</sup> 08:20, 20 April 2014 (UTC)
+
+:I think it's just an error by the IB Times. The [http://www.nasa.gov/press/2014/april/nasa-completes-ladee-mission-with-planned-impact-on-moons-surface/ NASA press release] says it broke up "during impact". -- [[User:BenRG|BenRG]] ([[User talk:BenRG|talk]]) 08:05, 20 April 2014 (UTC)
+
+:: Probably.  [[User:Bubba73|Bubba73]] <sup>[[User talk:Bubba73|You talkin' to me?]]</sup> 08:20, 20 April 2014 (UTC)
+
+:: I don't think either knows for sure.  I suspect it loses stability in flight and begins cartwheeling.  The centrifugal force rips it apart.  --[[User:DHeyward|DHeyward]] ([[User talk:DHeyward|talk]]) 15:39, 22 April 2014 (UTC)
+
+:::But what would cause it to rotate so quickly ?  If it hit the Earth's atmosphere, I could see it, but the Moon's atmosphere seems to thin.  Or perhaps if all the remaining fuel was burned in one maneuvering rocket, that might cause this effect, but why would it do this ?   I suppose if the reason it was crashing was that one of the station-keeping rockets had failed, then you might expect something like that (firing the remaining rockets constantly in an attempt to maintain orbit, and spinning rapidly as a result).  However, in this case, I don't think that happened.  [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 17:11, 23 April 2014 (UTC)
+
+== What strain/breed of ''Columbia livia''/''Columbia livia domestica'' is the common white dove? ==
+
+I have a problem with the so-called white doves (it's Easter day, after all... happy Easter to everyone!). [[Release dove|This article]] says the most common strain of white doves is the ''Stielbacht'', a breed or strain that does not apperar in [[List of pigeon breeds|this list]]. Should it be added or is it something different from a proper breed?--[[User:Carnby|Carnby]] ([[User talk:Carnby|talk]]) 10:04, 20 April 2014 (UTC)
+:It's not Columbia, but ''Columba'', which is mentioned.
+:Resolved? - '''''¡Ouch!''''' (<sup>[[User_talk:One.Ouch.Zero|hurt me]]</sup> / <sub>[[Special:Contributions/One.Ouch.Zero|more pain]]</sub>) 06:03, 22 April 2014 (UTC)
+
+== Nodal loads on shear and moment diagrams ==
+
+How do you represent nodal loads on shear and moment diagrams. As far as I know, these diagrams, always start and end at 0. So if for example, a simply supported beam has a uniform load on it but also a nodal load on 1 support. How do you factor this in?  If I simply draw the uniform load on the diagrams and  then put in the nodal load, the diagrams wouldn't end at 0 and hence the beam wouldn't be in equilibrium. [[User:Clover345|Clover345]] ([[User talk:Clover345|talk]]) 14:35, 20 April 2014 (UTC)
+
+:Well, the moments must be balanced (add up to zero), or it will start spinning.  What makes you think they won't be ? [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 17:20, 23 April 2014 (UTC)
+
+== Do I need to perform a HIV test? ==
+
+For more than a year, I have been having my hair cut at a nearby barber shop (around 10+ times). The barber always cuts my chin when shaving, maybe because my beard is hard. He used his fingers cleaning the blood, and I did not notice it until recently. I have 2 flus, 1 at the time being, and 1 long ago I cannot remember. 3 months ago I had a muscle pain in my left leg which lasted for nearly 2 months. I felt extreme pain when I stretched my leg or performed a high kick. Currently it has not fully gone, but is negligible. I am 25, healthy. I don't care much about the flus, but the leg pain was really unusual.
+
+Although I got cut many times, I know the risk is very small. The number of HIV infected people going to the same barber shop is small, the number of people getting cut is small, the chance between 2 bleeding people is small. But I am still worry about my unusual leg pain. Are there many causes for such pain? I do not really want to take a HIV test because of the discriminations. People here consider only those with social issues (drug, have sex with prostitutes, etc...) are vulnerable to the disease and need such kind of test. -- [[Special:Contributions/222.252.79.24|222.252.79.24]] ([[User talk:222.252.79.24|talk]]) 14:39, 20 April 2014 (UTC)
+
+:We cannot give you medical advice or diagnosis. See your doctor (and change your barber).--[[User:Shantavira|Shantavira]]|[[User talk:Shantavira|<sup>feed me</sup>]] 14:49, 20 April 2014 (UTC)
+
+:For the benefit of other respondents, the IP geolocates to Vietnam (technically Hanoi, but I have doubts Vietnamese geolocation is that accurate). [[User:Nil Einne|Nil Einne]] ([[User talk:Nil Einne|talk]]) 16:25, 20 April 2014 (UTC)
+
+:{{u|222.252.79.24}} - Be careful when looking for these kinds of things on the Internet; many people answer confidently without knowing what they're talking about and it's very easy to get bad information. Most doctors will not give definitive answers to these kinds of questions over the internet, nevermind us non-doctors, so as already stated we cannot give medical advice here. If you've not seen them already, there's an article on [[HIV/AIDS]] tagged as "good article" (high quality) as well as on [[Misconceptions about HIV/AIDS]]. The US government has a website for HIV/AIDS information that might be useful ([http://aids.gov/hiv-aids-basics aids.gov]) and the [http://www.aidshealth.org/asia/vietnam AIDS Healthcare Foundation] also operates in Vietnam, offering various services including testing. But it would be best to just call your local doctor who would be best able to point you in the right directions and answer questions you have. --&mdash; <tt>[[User:Rhododendrites|<span style="font-size:90%;letter-spacing:1px;text-shadow:0px -1px 0px Indigo;">Rhododendrites</span>]] <sup style="font-size:80%;">[[User_talk:Rhododendrites|talk]]</sup></tt> |&nbsp; 17:55, 20 April 2014 (UTC)
+
+:Is the stigma or social discrimination attached to merely ''taking'' the HIV test, or to ''failing'' the test? ←[[User:Baseball Bugs|Baseball Bugs]] <sup>''[[User talk:Baseball Bugs|What's up, Doc?]]''</sup> [[Special:Contributions/Baseball_Bugs|carrots]]→ 03:39, 21 April 2014 (UTC)
+::It is apply to both those who apply the test, and those who are HIV-positive, although the latter being worse. The stigma even comes from your beloved relatives. I had a drugged cousin who died of this disease around 10 years ago. My uncle (his father) sent him to a drug treatment camp, only for him to be beaten badly by others. Other relatives, including my parents, did not give him any concerns. No treatment was given, and he died when he was at my age, 5 years after the infection. Sad story. I think I will have an anonymous test in the next few months anyway, although I highly doubt if I am really in trouble with this cursed disease. -- [[Special:Contributions/222.252.79.24|222.252.79.24]] ([[User talk:222.252.79.24|talk]]) 12:20, 21 April 2014 (UTC)
+
+== ''Acacia motteana'' and ''Acacia podalyriifolia'' ==
+
+I have read that ''[[:pt:Acacia motteana|Acacia motteana]]'' and ''[[Acacia podalyriifolia]]'' are two names for the same species. Do you know if it's true?--[[User:Carnby|Carnby]] ([[User talk:Carnby|talk]]) 14:54, 20 April 2014 (UTC)
+:[http://www.noarovivaio.it/main.php?i=dettaglio-pianta&id_pianta=42 This page] says so - assuming that "sin." means "synonym". I couldn't find the use of ''A. motteana'' on any English language website. [[User:Alansplodge|Alansplodge]] ([[User talk:Alansplodge|talk]]) 22:07, 20 April 2014 (UTC)
+
+== Revision strategy ==
+
+How do you revise for physics exams? Past papers and example questions?  Do you have to time yourself?  I find it too hard to time unless I've done every type of question possible which isn't always feasible as there's too many possible types. [[Special:Contributions/90.205.212.104|90.205.212.104]] ([[User talk:90.205.212.104|talk]]) 16:20, 20 April 2014 (UTC)
+
+:Your tutor will be able to guide you better than we can. Every course has a [[syllabus]], and you will be asked questions on what you have covered from the syllabus. Your tutor will tell you whether there will be [[Multiple choice|multiple choice questions]] on the paper, and how to complete the paper if there is. He/she will also be able to provide you with past papers. You only need to revise what is on the syllabus. --[[User:TammyMoet|TammyMoet]] ([[User talk:TammyMoet|talk]]) 18:59, 20 April 2014 (UTC)
+
+:Yes, your teacher will be the best guide, because we don't know what exam or syllabus you are studying for, but past papers are an excellent way to revise , provided that they are on the same syllabus as your exam.  Understanding is more important than timing, but it would be useful to try an occasional times paper just to check that you are not working too slowly.  Have you not done a "mock" paper?  [[User:Dbfirs|''<font face="verdana"><font color="blue">D</font><font color="#00ccff">b</font><font color="#44ffcc">f</font><font color="66ff66">i</font><font color="44ee44">r</font><font color="44aa44">s</font></font>'']] 20:27, 20 April 2014 (UTC)
+
+::Read and re read your notes whilst subjecting yuorself to physical pain such as sitting on your leg. In this way, the knowledge will embed itself in your brain.[[Special:Contributions/31.55.123.188|31.55.123.188]] ([[User talk:31.55.123.188|talk]]) 00:21, 21 April 2014 (UTC)
+
+:::<small>I made it a point to perform all my studying for the [http://www.faa.gov/pilots/become/knowledge/ Private Pilot Knowledge Test] using only my cockpit kneeboard as my writing surface, and occasionally studying in unusual attitudes... because if I could perform well in those conditions, I could ace the written test in normal desk conditions.  Quoting an [http://www.faa.gov/news/safety_briefing/2012/media/MarApr2012Pilot.pdf archived newsletter], "...Quality unusual attitude training creates a unique environment in which to learn how to override the potentially debilitating mental inertia that accompanies the normal shock of an unexpected loss of control."  As physics written tests go, this exam was one of the easiest I've had to endure, but I also spent more time studying for it than any previous exam I had taken.  [[User:Nimur|Nimur]] ([[User talk:Nimur|talk]]) 21:48, 21 April 2014 (UTC)</small>
+
+:<small>Is "revision" British English for studying ? [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 22:46, 21 April 2014 (UTC) </small>
+
+::<small>Yes. Think of re-vision as re-viewing.</small> --[[Special:Contributions/50.100.193.30|50.100.193.30]] ([[User talk:50.100.193.30|talk]]) 23:01, 21 April 2014 (UTC)
+
+:::<small>Seems potentially confusing, where "note revision" could either mean modifying your notes or studying them. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 23:11, 21 April 2014 (UTC) </small>
+
+::::<small>Yes, potentially confusing to American readers, but not in the UK where I used to '''re-write''' my notes (onto small cards that I carried round with me to look at in boring moments) as part of my '''revision''' (studying, reviewing) for exams.  This British sense of the verb ''to revise'' is restricted to education, but has been in use since 1886 (first unambiguous usage with this sense in ''The Lancet'').  It's sense 3 in [[wikt:revise|Wiktionary]], marked as ''UK, Australia, New Zealand''.</small>  [[User:Dbfirs|''<font face="verdana"><font color="blue">D</font><font color="#00ccff">b</font><font color="#44ffcc">f</font><font color="66ff66">i</font><font color="44ee44">r</font><font color="44aa44">s</font></font>'']] 09:23, 22 April 2014 (UTC)
+
+== microscopy ==
+
+compare the limit resolution of air and oil  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/115.240.159.50|115.240.159.50]] ([[User talk:115.240.159.50|talk]]) 17:07, 20 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+::{{DYOH}} --[[User:Jayron32|<font style="color:#000099">Jayron</font>]]'''''[[User talk:Jayron32|<font style="color:#009900">32</font>]]''''' 19:43, 20 April 2014 (UTC)
+
+:We have articles on both [[Oil immersion]] and [[Water immersion objective]]. Personally speaking, my objectives seem to improve when I am immersed in a good [[Single malt whisky]]. Hope this helps.--[[User:Aspro|Aspro]] ([[User talk:Aspro|talk]]) 22:02, 20 April 2014 (UTC)
+::But even macroscopic details become blurry after a while. [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 02:59, 21 April 2014 (UTC)
+
+== Location of the big bang and size of the universe ==
+
+The observable universe is centred on Earth and it's unknown how big the universe is with some saying that it's infinite. I have a couple of questions, though I imagine you guys will have to correct me on a lot.
+
+I see in the news every so often that new and improved telescopes have revealed how the very early universe took shape after the big bang. Does that mean in the observable universe we can see or almost see the location of the big bang and the very first galaxies?
+
+The universe was only 630 million years old when [[GRB 090423]] exploded and it took 13 billion years for that light to reach us. Similar to the above question, since we know GRB's location and how long is ago it exploded (relevant because everything is moving away from the big bang), doesn't that give us some clue as to the size of the universe and the location of the big bang? And would the location of the big bang be the centre of the universe, roughly, as everything in the universes exploded outwards from that location? Thanks, [[Special:Contributions/92.16.58.122|92.16.58.122]] ([[User talk:92.16.58.122|talk]]) 18:15, 20 April 2014 (UTC)
+
+I know that the universe was just a small ball then it got much larger when the big bang occurred, like a balloon, so my question of location is whether the small ball expanded uniformly and so our knowledge of the early galaxies mean we know where the centre is and the length of time it took for that light to reach us mean we can guess the size of the universe. [[Special:Contributions/92.16.58.122|92.16.58.122]] ([[User talk:92.16.58.122|talk]]) 18:35, 20 April 2014 (UTC)
+
+:The usual analogy used for the young is to imagine the universe as the ''surface'' of a balloon. Draw a load of galaxies on a deflated balloon, then inflate it. The galaxies move further apart, but none of them are the centre. There is no location where the big bang started. The galaxies are not expanding away from the centre, they are expanding away from each other. There is no centre. The big bang wasn't an explosion of matter into space: it is the beginning of time and space as we know it, and space expands like the surface of a balloon. 
+
+:This is exactly the right question for you to ask, to find out more about [[the big bang]]. So, well done. [[Special:Contributions/86.146.28.229|86.146.28.229]] ([[User talk:86.146.28.229|talk]]) 19:12, 20 April 2014 (UTC)
+::I see, thanks. So does GRB 090423's (former) location give us some clue as to the size of the universe? I imagine at 630 million years, the universe was much closer together/smaller than it is now. [[Special:Contributions/92.16.58.122|92.16.58.122]] ([[User talk:92.16.58.122|talk]]) 20:10, 20 April 2014 (UTC)
+:::Not necessarily. We have some sense for the size of the [[observable universe]], which includes ALL parts of the universe we can get ANY information about. Since the universe is actually larger than what we can observe, and by definition what we cannot observe we have no information about, we can only speculate about the actual size of the entire universe. You may find good reading at [[Universe#Size, age, contents, structure, and laws]] and [[Shape of the universe]]. The first section starts with the sentence "The size of the Universe is unknown; it may be infinite." That's about all we can say.  --[[User:Jayron32|<font style="color:#000099">Jayron</font>]]'''''[[User talk:Jayron32|<font style="color:#009900">32</font>]]''''' 20:18, 20 April 2014 (UTC)
+::Also, I read that because everything is moving further away there are some stars that we'll never see because the light can't reach us. With better telescopes would that change? [[Special:Contributions/92.16.58.122|92.16.58.122]] ([[User talk:92.16.58.122|talk]]) 20:13, 20 April 2014 (UTC)
+:::Nope.   Telescopes can only capture light that we get; if the light never gets here, no matter how good our telescopes, we'll never see it.--[[User:Jayron32|<font style="color:#000099">Jayron</font>]]'''''[[User talk:Jayron32|<font style="color:#009900">32</font>]]''''' 20:18, 20 April 2014 (UTC)
+
+:::[[Cosmological_horizon#Future_horizon | Future horizon]] explains this at little more.--[[User:Aspro|Aspro]] ([[User talk:Aspro|talk]]) 21:13, 20 April 2014 (UTC)
+
+:The crucial point is that the universe is (or seems to be) [[Cosmological principle|homogeneous]]. This implies that there's no place where the big bang happened, and relics of the big bang (such as the [[CMBR]]) fill the universe uniformly. The matter that emitted the CMBR that we see now is now a certain distance away, and in that sense we're seeing faraway objects when we see the CMBR, but if we were somewhere else in the universe we would see similar CMBR from a different set of objects at the appropriate distance from that location. -- [[User:BenRG|BenRG]] ([[User talk:BenRG|talk]]) 01:08, 21 April 2014 (UTC)
+
+:(EC) The closest thing to the [[Big Bang]] that it's possible to see is the [[last scattering surface]], which existed around the time of the [[Recombination (cosmology)|recombination]], about 378,000 years after the [[Big Bang]].  It isn't possible to see anything that existed earlier than that time because before that time, the universe <strike>was so dense that it</strike> was opaque.  The light from that last scattering surface is called the [[cosmic microwave background]], which we can still detect.  But the cosmic microwave background comes to us from all directions equally, instead of coming from one particular direction, due to the [[Hubble expansion|expansion of the universe]] being an [[Metric expansion of space|expansion of space itself]], not an expansion of the universe into previously empty space outside of the universe.  I.e., there is no direction that points toward the Big Bang, except that if you count time as a "direction", then the direction that points toward the Big Bang is "backwards in time".  That perspective of "backwards in time" being very much like a "direction" is a standard perspective in Einstein's [[theory of relativity]].  [[User:Red Act|Red Act]] ([[User talk:Red Act|talk]]) 01:30, 21 April 2014 (UTC)
+::Also, if you have the math for it (I don't, but someone might) [[Minkowski space]] would be a useful read.  --[[User:Jayron32|<font style="color:#000099">Jayron</font>]]'''''[[User talk:Jayron32|<font style="color:#009900">32</font>]]''''' 02:15, 21 April 2014 (UTC)
+
+::"Dense" isn't quite the right word; as per the name "recombination", the universe was ''hot'' enough prior to that time that it was a plasma and thus (more) opaque to radiation.  ([[Pressure ionization]] does occur, but not at densities 10<sup>-20</sup> that of water like at recombination.)  --[[User:Tardis|Tardis]] ([[User talk:Tardis|talk]]) 02:37, 21 April 2014 (UTC)
+:::Point taken.  I have struck out the problematic phrase.  [[User:Red Act|Red Act]] ([[User talk:Red Act|talk]]) 05:50, 21 April 2014 (UTC)
+
+==does anything not sink to the ocean floor? ==
+
+does anything not sink to the ocean floor?  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Wilburlou544|Wilburlou544]] ([[User talk:Wilburlou544|talk]] • [[Special:Contributions/Wilburlou544|contribs]]) 22:18, 20 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:Yes, any object with a lower average [[density]] than [[seawater]] (about 1.025 [[gram]]s per [[liter|milliliter]]) will float.  The [[volume]] used in determining that "average density" includes any volume of air that's unable to be replaced by water; see [[Archimedes' principle]] and [[buoyancy]].  [[User:Red Act|Red Act]] ([[User talk:Red Act|talk]]) 23:18, 20 April 2014 (UTC)
+
+::See [[Great Pacific garbage patch]] for an awful example... [[User:OttawaAC|OttawaAC]] ([[User talk:OttawaAC|talk]]) 01:25, 21 April 2014 (UTC)
+
+:::An interesting variation on the OPs question (and possibly what they meant to ask): is there anything that will sink in water but not ultimately come to rest on the seafloor? I.e., something that will stop falling at a certain point and just sort of float about 20,000 feet down (or whatever). The answer to that question is also yes, and buoyancy is again the reason. [[User:Evanh2008|Evan]]&nbsp;<sup>([[User talk:Evanh2008|talk]]&#124;[[Special:Contributions/Evanh2008|contribs]])</sup> 02:23, 21 April 2014 (UTC)
+
+::::The density of [[seawater]] is only a few percent more at the floor of the ocean than at the surface, due to the low [[Properties of water#Compressibility|compressibility of water]], so the large majority of objects will either sink to the ocean floor or float.  But yes, there do exist objects that have a density within the necessary range to maintain an intermediate elevation.  For objects in or around that density range, the [[compressibility]] of the object would be an important consideration, too, i.e., the density of the object is going to change some depending on how deep it is, too, due to the pressure of the surrounding water.  [[User:Red Act|Red Act]] ([[User talk:Red Act|talk]]) 03:41, 21 April 2014 (UTC)
+
+:I interpreted this Q differently: "Is there any living sea creature, which, when dead, won't eventually sink to the ocean floor ?".  In this case I'd say that the decomposition process will eventually reduce the organism to microscopic floating particles and a portion which sinks, such as bones. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 22:50, 21 April 2014 (UTC)
+
+::Just because it's relevant and awesome, behold the recently discovered [[Osedax]]. Also relevant is [[marine snow]]. [[User:SemanticMantis|SemanticMantis]] ([[User talk:SemanticMantis|talk]]) 00:05, 22 April 2014 (UTC)
+
+:::I think the [[giant isopod]]s at those [[whale fall]]s are even cooler. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 01:38, 22 April 2014 (UTC)
+
+::My guess was that the question was about [[flight 370]].  [[User:Red Act|Red Act]] ([[User talk:Red Act|talk]]) 00:10, 22 April 2014 (UTC)
+:::And perhaps more specifically [http://www.abc.net.au/news/2014-04-23/material-washed-ashore-examined-for-links-to-flight-mh370/5407584 some metallic material recently washed ashore] that ''might'' have come from that flight (but "We're just guessing at the moment"). [[User:Mitch Ames|Mitch Ames]] ([[User talk:Mitch Ames|talk]]) 12:56, 23 April 2014 (UTC)
+:::: ... but [http://www.abc.net.au/news/2014-04-24/atsb-rules-out-link-of-metal-material-to-mh370/5408286 probably did not come] from that flight. [[User:Mitch Ames|Mitch Ames]] ([[User talk:Mitch Ames|talk]]) 10:23, 24 April 2014 (UTC)

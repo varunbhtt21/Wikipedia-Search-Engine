@@ -1,0 +1,20 @@
+Title : Template:Firesprite
+Text : {{Navbox
+| name   = Firesprite
+| title  = [[Firesprite]]
+|listclass = hlist
+
+| group1 = Games
+| list1 =
+
+* ''[[The Playroom (2013 video game)|The Playroom]]'' <small>(2013)</small>
+
+| group2 = People
+| list2 = 
+* Graeme Ankers
+* Lee Carus
+* Stuart Lovegrove
+* Stuart Tilley
+* Chris Roberts
+}}<noinclude>
+</noinclude>

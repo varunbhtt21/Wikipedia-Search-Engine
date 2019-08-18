@@ -1,0 +1,30 @@
+Title : Template:2014 Rugby League Four Nations Ladder
+Text : {| class="wikitable" style="text-align:center;"
+|-
+! colspan="10" | {{navbar-header|[[2014 Rugby League Four Nations|2014 Four Nations]]|2014 Rugby League Four Nations Ladder}}
+|-
+!width=20 abbr="Position" |
+!width=175 |Team
+!width=20 abbr="Played" |Pld
+!width=20 abbr="Won" |W
+!width=20 abbr="Drawn" |D
+!width=20 abbr="Lost" |L
+!width=20 abbr="Points for" |PF
+!width=20 abbr="Points against" |PA
+!width=20 abbr="Points difference" |PD
+!width=20 abbr="Points" |Pts
+|- style="background: #ccffcc;"
+|1||style="text-align:left;"|{{rl|New Zealand}} '''W'''
+|3||3||0||0||60||38||+22||'''6'''
+|-style="background: #ccffcc;"
+|2||style="text-align:left;"|{{rl|Australia}}
+|3||2||0||1||72||60||+12||'''4'''
+|-
+|3||style="text-align:left;"|{{rl|England}}
+|3||1||0||2||58||58||0||'''2'''
+|- 
+|4||style="text-align:left;"|{{rl|Samoa}}
+|3||0||0||3||56||90||–34||'''0'''
+|}<noinclude>
+[[Category:Rugby league standings templates]]
+</noinclude>

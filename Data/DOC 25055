@@ -1,0 +1,40 @@
+Title : Template:Downtown Dallas labelled map
+Text : {{Image frame|align={{{float|center}}}|width={{{width|400}}}
+|content={{Image label begin|image=Dallasmap downtown.svg|width={{{width|400}}}|float=center}}
+<!--Outer Items-->
+{{Image label|x=0.67|y=0.1075|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[Bryan Place, Dallas, Texas|<span style="color:black">'''Bryan Place'''</span>]]</div>}}
+{{Image label|x=0.6825|y=0.67|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[Cedars, Dallas, Texas|<span style="color:black">'''Cedars'''</span>]]</div>}}
+{{Image label|x=0.7825|y=0.3075|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[Deep Ellum, Dallas, Texas|<span style="color:black">'''Deep Ellum'''</span>]]</div>}}
+{{Image label|x=0.22|y=0.025|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[Oak Lawn, Dallas, Texas|<span style="color:black">'''Oak Lawn'''</span>]]</div>}}
+{{Image label|x=0.42|y=0.025|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[State Thomas, Dallas, Texas|<span style="color:black">'''State Thomas'''</span>]]</div>}}
+{{Image label|x=0.3125|y=0.095|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[Uptown Dallas|<span style="color:black">'''Uptown'''</span>]]</div>}}
+{{Image label|x=0.17|y=0.1825|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[Victory Park, Dallas, Texas|<span style="color:black">'''Victory Park'''</span>]]</div>}}
+<!--Inner Items-->
+{{Image label|x=0.3875|y=0.175|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[Arts District, Dallas, Texas|<span style="color:LightSeaGreen">Arts District</span>]]</div>}}
+{{Image label|x=0.42|y=0.27|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[City Center District, Dallas, Texas|<span style="color:MediumOrchid">City Center District</span>]]</div>}}
+{{Image label|x=0.345|y=0.595|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[Convention Center District, Dallas, Texas|<span style="color:purple">Convention Center District</span>]]</div>}}
+{{Image label|x=0.6075|y=0.4575|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[Farmers Market District, Dallas, Texas|<span style="color:ForestGreen">Farmers Market District</span>]]</div>}}
+{{Image label|x=0.32|y=0.47|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[Government District, Dallas, Texas|<span style="color:DodgerBlue">Government District</span>]]</div>}}
+{{Image label|x=0.47|y=0.3575|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[Main Street District, Dallas, Texas|<span style="color:OrangeRed">Main Street District</span>]]</div>}}
+{{Image label|x=0.145|y=0.57|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[Reunion District, Dallas, Texas|<span style="color:Gold">Reunion District</span>]]</div>}}
+{{Image label|x=0.12|y=0.3575|scale={{{width|400}}}|text=<div style="font-size:70%; padding:2px;background-color: #fff; border: 1px solid #bbb">[[West End Historic District, Dallas, Texas|<span style="color:Orange">West End Historic District</span>]]</div>}}
+<!--Roads-->
+{{Image label|x=0.67|y=0.5625|scale={{{width|400}}}|text=[[File:I-30.svg|19px|link=Interstate 30]]}}
+{{Image label|x=0.1525|y=0.455|scale={{{width|400}}}|text=[[File:I-35E.svg|22px|link=Interstate 35E (Texas)]]}}
+{{Image label|x=0.905|y=0.595|scale={{{width|400}}}|text=[[File:I-45.svg|19px|link=Interstate 45]]}}
+{{Image label|x=0.585|y=0.1575|scale={{{width|400}}}|text=[[File:US 75.svg|18px|link=U.S. Route 75 in Texas]]}}
+{{Image label end}}
+| caption = {{center|{{{caption|Districts of [[Downtown Dallas|downtown Dallas]]}}}}}
+}}<noinclude>
+{{documentation|content=
+== Usage ==
+{{tld|Downtown Dallas labelled map}}
+:'''Parameters'''
+* <code>float</code> = left, right, center, or none
+* <code>width</code> = integer value (default is 400)
+* <code>caption</code> = text (default is Districts of downtown Dallas)
+
+[[Category:Labelled map templates]]
+[[Category:Texas templates]]
+}}
+</noinclude>

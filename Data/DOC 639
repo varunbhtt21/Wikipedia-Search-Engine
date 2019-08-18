@@ -1,0 +1,14 @@
+Title : Template:Nursing-book-stub
+Text : {{asbox
+| image     = Nursing symbol.svg
+| pix       = 30
+| subject   = 
+| qualifier = about a book on [[nursing]] 
+| category  = Nursing stubs
+| tempsort  =  Book
+| category1 = Medical book stubs
+| tempsort1 = Nursing
+| name      = Template:Nursing-book-stub
+}}<noinclude>
+[[Category:Book stub templates]]
+</noinclude>

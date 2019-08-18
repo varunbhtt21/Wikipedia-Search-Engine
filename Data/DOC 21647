@@ -1,0 +1,42 @@
+Title : ShiftX
+Text : {{Infobox biodatabase
+|title = 
+|logo =
+|description = Protein chemical shift calculation server
+|center = University of Alberta
+|laboratory = Dr. David Wishart
+|author = 
+|citation =  <ref name=pmid12766419 /><ref name=pmid21448735 /> 
+|released = 
+|format = '''Data Input''': X-ray or NMR coordinates (PDB format); '''Data Output''': 1H, 13C and 15N chemical shifts (Shifty or BMRB format)
+|url = http://shiftx.wishartlab.com/; http://www.shiftx2.ca/; http://www.shiftx2.ca/download.html
+|frequency = 
+|curation = Manually curated
+}}
+'''ShiftX''' (Shifts from [[X-ray]] structures) is a freely available web server for rapidly calculating protein chemical shifts from protein [[X-ray]] (or [[NMR]]) coordinates. [[Protein Chemical Shift Prediction|Protein chemical shift prediction]] (also known as protein chemical shift calculation) is particularly useful in verifying protein chemical shift assignments, adjusting mis-referenced chemical shifts, refining NMR protein structures (via [[chemical shift]]s) and assisting with the [[NMR]] assignment of unassigned proteins that have either had their structures (or the structures of a homologous protein) determined by [[X-ray]] or [[NMR]] methods.
+
+The ShiftX web server takes atomic coordinates ([[Protein Data Bank|PDB]] format) of proteins as input and quickly (<1 sec) generates the chemical shifts of both backbone (1H, 13C and 15N) and side chain (1H only) atoms as output (BMRB or Shifty format). The server is optimized to work with [[diamagnetic]] proteins rather than [[paramagnetic]] proteins (i.e. proteins with [[paramagnetic]] centers).  The ShiftX web server is based on a program of the same name that was developed in 2003 by members of Dr. David Wishart’s laboratory<ref name=pmid12766419>{{cite journal|last=Neal|first=S |author2=Nip, A. |author3=Zhang, H. |author4=Wishart, D.S. |title=Rapid and accurate calculation of protein 1H, 13C and 15N chemical shifts.|journal=J. Biomol. NMR|volume=26|pages=215–240|pmid=12766419|doi=10.1023/A:1023812930288|issue=3|date=July 2003}}</ref> [1].  Both the ShiftX program and the ShiftX web server make use of pre-calculated, empirically derived chemical shift tables relating 1H, 13C and 15N chemical shifts to backbone torsion angles, side chain orientations, local [[Secondary structure#Secondary structure|secondary structure]] and nearest neighbor effects.  These tables were derived using data mining techniques from a large database of reference-corrected protein chemical shifts called [[RefDB (chemistry)|RefDB]]<ref name=pmid12652131>{{cite journal|last=Zhang|first=H |author2=Neal, S. |author3=Wishart, D.S. |title=RefDB: A database of uniformly referenced protein chemical shifts.|journal=J. Biomol. NMR|date=March 2003|volume=25|issue=3|pages=173–195|doi=10.1023/A:1022836027055|pmid=12652131|url=http://www.springerlink.com/content/p51g622235470q16/}}</ref>[2].  These sequence/structure dependencies on chemical shifts, which cannot easily be converted to analytical formulae, are combined with standard classical or semi-classical equations (for ring current effects and [[hydrogen bond]] effects) to further improve the 1H, 13C and 15N chemical shift calculations.  ShiftX differs from other protein chemical shift calculation techniques in that it blends both empirical observations with classical or semi-quantum mechanical approaches.  Most other protein chemical shift calculation methods use either empirical (such as SPARTA<ref name=pmid11824752>{{cite journal|last=Xu|first=X.P.|author2=Case, D.A. |title=Automated prediction of 15N, 13Calpha, 13Cbeta and 13C' chemical shifts in proteins using a density functional database.|journal=J Biomol NMR|date=Dec 2001|volume=21|pages=321–333|pmid=11824752|issue=4}}</ref> [3]) or [[Quantum mechanics|quantum mechanical]] (such as ShiftS<ref name=pmid17610132>{{cite journal|last=Shen|first=Y.|author2=Bax, A. |title=Protein backbone chemical shifts predicted from searching a database for torsion angle and sequence homology.|journal=J Biomol NMR|date=Aug 2007|volume=38|pages=289–302|pmid=17610132|doi=10.1007/s10858-007-9166-6|issue=4}}</ref> [4]) approaches, exclusively.  ShiftX is both fast and accurate.  It has a correlation coefficient (r) between measured and calculated shifts of 0.91(1HA), 0.98 (13CA), 0.99 (13CB), 0.86 (13CO), 0.91 (15N), 0.74 (1HN), and 0.907 (side chain 1H) with RMS errors of 0.23, 0.98, 1.10, 1.16, 2.43, 0.49, and 0.30 ppm.  ShiftX is used in several programs or web servers including [[SHIFTCOR|ShiftCor]].  It is also used in the generation and updating of the re-referenced chemical shift database known as [[RefDB (chemistry)|RefDB]].
+
+	Recently, substantial improvements to the performance of ShiftX were achieved by using [[machine learning]] methods to better integrate protein structure features (including solvent accessible surface area) and local or nearest-neighbor interactions. This led to the release of an updated version of ShiftX called ShiftX2<ref name=pmid21448735>{{cite journal|last=Han|first=B. |author2=Liu, Y. |author3=Ginzinger, S. |author4=Wishart, D.S.|title=SHIFTX2: significantly improved protein chemical shift prediction.|journal=J. Biomol. NMR|date=May 2011|volume=50|issue=1|pages=43–57|doi=10.1007/s10858-011-9478-4|pmid=21448735|url=http://www.springerlink.com/content/g411k103h641244g/|pmc=3085061}}</ref> [5]. ShiftX2 is substantially more accurate than ShiftX and it is able to calculate a much larger collection of side chain chemical shifts (1H, 13C and 15N).  It is also available as a freely accessible web server. However, it is 2-3X slower. ShiftX2 achieves correlation coefficients between experimentally observed and predicted backbone chemical shifts of 0.98 (15N), 0.99 (13CA), 0.999 (13CB), 0.97 (13CO), 0.97 (1HN), 0.98 (1HA) with corresponding RMS errors of 1.12, 0.44, 0.51, 0.53, 0.17, and 0.12 ppm. A comparison of the performance of different protein chemical shift calculators is given in Table 1.
+
+
+
+Table 1: Correlation coefficients between the experimentally observed backbone chemical shifts and the calculated/predicted backbone shifts for different chemical shift predictors using an identical test set of 61 test proteins.
+
+==See also==
+*[[Protein]]
+*[[Protein NMR]]
+*[[NMR]]
+*[[Chemical shift]]
+*[[Random Coil Index]]
+*[[Protein Chemical Shift Re-Referencing]]
+*[[Protein secondary structure]]
+*[[Protein Chemical Shift Prediction]]
+*[[Protein structure prediction]]
+*[[Crystallography]]
+*[[Protein data bank]]
+
+== References ==
+{{reflist}}
+
+[[Category:Biological databases]]

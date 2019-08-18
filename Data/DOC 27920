@@ -1,0 +1,69 @@
+Title : Huawei Ascend Y300
+Text : {{Infobox mobile phone
+| name          = Huawei Ascend Y300
+| modelnumber   = '''Y300-0100''' '''Y300-0151'''
+| logo          =  
+| logosize      =
+| image         =
+| imagesize     =
+| caption       =
+| brand         = [[Huawei]]
+| manufacturer  = [[Huawei Technologies Co. Ltd.]]
+| slogan        = ''Now, you got it all''
+| series        = [[Huawei Ascend]]
+| networks      = 2G - GSM 850, 900, 1800, 1900
+
+3G Network - HSDPA 900, 2100 (Y300-0100 model)
+
+HSDPA 850, 1900, 2100 (Y300-0151 model)
+| released      = March 2013
+| available     =
+| discontinued  =
+| status        = In production
+| unitssold     =
+| unitsshipped  = 
+| predecessor   = Huawei Ascend Y210D
+| successor     = Huawei Ascend Y321
+| related       = Huawei Ascend G510
+| type          = [[Slate phone|Touchscreen]] [[smartphone]]
+| form          = [[Slate phone|Slate]]
+| size          = {{convert|124.5|mm|in|abbr=on}} H<br />{{convert|63.8|mm|in|abbr=on}} W<br />{{convert|11.2|mm|in|abbr=on}} D
+| weight        = {{convert|130|g|oz|abbr=on}}
+| os            = [[Android (operating system)|Android 4.1.1]] [[Jelly Bean (operating system)|"Jelly Bean"]]
+| root_access   = Company Unrooted
+| soc           = Qualcomm MSM8225 Snapdragon
+| cpu           = 1&nbsp;GHz Dual-core Cortex-A5
+| gpu           = Adreno 203
+| memory        = 512 [[Megabyte|MB]]
+| storage       = 4&nbsp;GB (2&nbsp;GB used by the system
+| memory_card   = Up to 32&nbsp;GB [[Secure Digital|microSD]]
+| battery       = 1730&nbsp;[[Ampere-hour|mAh]] [[Lithium-ion battery|Li-ion]]<br />User replaceable
+| input         = Accelerometer, Proximity sensor, light sensor, GPS
+| display       = {{convert|4|in|mm|abbr=on}} 480x800 [[Pixel|px]] (233 [[Pixel density|ppi]])
+| rear_camera   = 5 megapixels
+| front_camera = 0.3 megapixels (VGA)
+| sound         = Loudspeaker &
+3.5mm headphone connector
+| connectivity  = GPRS, EDGE, Wi-Fi (802.11 b/g/n), Wi-Fi hotspot, DLNA, Bluetooth (v2.1, A2DP, EDR), USB (microUSB v2.0)
+| website       = {{URL|www.huawei.com}}, {{url|www.huaweidevice.com}},
+| references    =<ref>
+{{cite web |url= http://www.gsmarena.com/huawei_ascend_y300-5386.php |title=Full Phone Specifications|publisher= GSM Arena}}</ref>
+}}
+'''Huawei Ascend Y300''' is a [[smartphone]] that was designed and marketed by [[Huawei|Huawei Technologies Co. Ltd]]. Huawei uses [[Android (operating system)|Android]] & 
+[[Firefox OS]] <ref>{{cite web|url = http://www.modaco.com/topic/371614-romdragonsphere-teamb2ghtml5no-androidfirefox-os-oficial-buildb009new-updateflasheableapn-fix/|title = [ROM][Dragonsphere Team][B2G][HTML5][NO ANDROID]Firefox OS [OFICIAL BUILD][B009](NEW UPDATE:Flasheable+APN FIX)|date = April 11, 2014|accessdate = January 23, 2015|website = MoDaCo|publisher = |last = |first = }}</ref> for the smartphone
+
+It initially ran the [[Android Jelly Bean|Android 4.1.1 (Jelly Bean)]] operating system. It has a 1&nbsp;GHz Dual Core Cortex-A5 proArenar with 4GB internal storage with 1.09GB available for the user and 512MB (Shared with [[GPU]] 119MB) of [[RAM]] memory. The phone also has a 4.0 inch 480 x 800 pixels, (~233 ppi pixel density) [[Liquid crystal display|LCD display]] and a 5.0MP [[auto focus]] rear [[camera]] 2592 х 1944 pixels with [[LED]] [[Flash (photography)|Flash]] and 0.3([[Graphics display resolution|VGA]]) front camera.
+
+==References==
+{{reflist}}
+
+
+
+{{Huawei}}
+
+[[Category:Smartphones]]
+[[Category:Touchscreen mobile phones]]
+[[Category:Huawei Ascend]]
+
+
+{{mobile-stub}}

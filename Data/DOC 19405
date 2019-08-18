@@ -1,0 +1,52 @@
+Title : Template:1988–89 ECAC Hockey standings (men)
+Text : {|class=wikitable style="text-align:center; font-size:95%;" width=75% 
+! colspan="15" style="background-color: #FFE6BD;" | {{navbar-header|'''[[1988–89 NCAA Division I men's ice hockey season|1988–89]] [[ECAC Hockey|ECAC Hockey standings]]'''|1988–89 ECAC Hockey standings (men)}}
+|-
+! rowspan="2" width="15%"| 
+! colspan="7" | Conference
+! rowspan="2" width="5%" |
+! colspan="6" | Overall
+|-
+! width="5%" | GP
+! width="5%" | W
+! width="5%" | L
+! width="5%" | T
+! width="5%" | PTS
+! width="5%" | GF
+! width="5%" | GA
+! width="5%" | GP
+! width="5%" | W
+! width="5%" | L
+! width="5%" | T
+! width="5%" | GF
+! width="5%" | GA
+|- style="text-align:center;{{#switch:{{{team}}}|HAR|HAR=background-color:#CCFFCC}}"
+| [[Harvard Crimson men's ice hockey|Harvard]]† || 22 || 20 || 2 || 0 || '''40''' || 130 || 49 ||  || 34 || 31 || 3 || 0 || 191 || 89
+|- style="text-align:center;{{#switch:{{{team}}}|SLU|SLU=background-color:#CCFFCC}}"
+| [[St. Lawrence Saints men's ice hockey|St. Lawrence]]* || 22 || 18 || 4 || 0 || '''36''' || 99 || 56 ||  || 36 || 29 || 7 || 0 || 169 || 95
+|- style="text-align:center;{{#switch:{{{team}}}|CGT|CGT=background-color:#CCFFCC}}"
+| [[Colgate Red Raiders men's ice hockey|Colgate]] || 22 || 15 || 6 || 1 || '''31''' || 108 || 82 ||  || 31 || 19 || 10 || 2 || 161 || 118
+|- style="text-align:center;{{#switch:{{{team}}}|CLK|CLK=background-color:#CCFFCC}}"
+| [[Clarkson Golden Knights men's ice hockey|Clarkson]] || 22 || 13 || 7 || 2 || '''28''' || 104 || 87 ||  || 32 || 16 || 13 || 3 || 135 || 129
+|- style="text-align:center;{{#switch:{{{team}}}|COR|COR=background-color:#CCFFCC}}"
+| [[Cornell Big Red men's ice hockey|Cornell]] || 22 || 13 || 9 || 0 || '''26''' || 76 || 74 ||  || 30 || 16 || 13 || 1 || 113 || 100
+|- style="text-align:center;{{#switch:{{{team}}}|VER|VER=background-color:#CCFFCC}}"
+| [[Vermont Catamounts men's ice hockey|Vermont]] || 22 || 13 || 9 || 0 || '''26''' || 108 || 73 ||  || 34 || 20 || 13 || 1 || 158 || 116
+|- style="text-align:center;{{#switch:{{{team}}}|YALE|YALE=background-color:#CCFFCC}}"
+| [[Yale Bulldogs men's ice hockey|Yale]] || 22 || 10 || 12 || 0 || '''20''' || 72 || 84 ||  || 31 || 11 || 19 || 1 || 99 || 137
+|- style="text-align:center;{{#switch:{{{team}}}|RPI|RPI=background-color:#CCFFCC}}"
+| [[RPI Engineers men's ice hockey|Rensselaer]] || 22 || 8 || 12 || 2 || '''18''' || 74 || 82 ||  || 32 || 12 || 17 || 3 || 118 || 123
+|- style="text-align:center;{{#switch:{{{team}}}|DAR|DAR=background-color:#CCFFCC}}"
+| [[Dartmouth Big Green men's ice hockey|Dartmouth]] || 22 || 7 || 14 || 1 || '''15''' || 70 || 96 ||  || 26 || 8 || 17 || 1 || 82 || 113
+|- style="text-align:center;{{#switch:{{{team}}}|ARMY|ARMY=background-color:#CCFFCC}}"
+| [[Army Cadets men's ice hockey|Army]] || 22 || 6 || 15 || 1 || '''13''' || 62 || 108 ||  || 30 || 13 || 16 || 1 || 93 || 125
+|- style="text-align:center;{{#switch:{{{team}}}|PRI|PRI=background-color:#CCFFCC}}"
+| [[Princeton Tigers men's ice hockey|Princeton]] || 22 || 4 || 17 || 1 || '''9''' || 73 || 113 ||  || 26 || 6 || 19 || 1 || 97 || 133
+|- style="text-align:center;{{#switch:{{{team}}}|BRN|BRN=background-color:#CCFFCC}}"
+| [[Brown Bears men's ice hockey|Brown]] || 22 || 1 || 21 || 0 || '''2''' || 51 || 132 ||  || 26 || 1 || 25 || 0 || 58 || 155
+|-
+| colspan=15 style="text-align:center;" |[[1989 ECAC Hockey Men's Ice Hockey Tournament|Championship]]: St. Lawrence<br>† <small>indicates conference regular season champion</small><br>* <small>indicates conference tournament champion</small>
+|}<noinclude>
+{{Documentation}}
+[[Category:ECAC Hockey standings templates]]
+</noinclude>

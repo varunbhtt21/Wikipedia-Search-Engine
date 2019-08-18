@@ -1,0 +1,100 @@
+Title : EQUiSat
+Text : {{Infobox spaceflight
+| name                  = EQUiSat
+| image                 = EQUiSat new logo 2015.png
+| image_caption         = Mission logo
+
+| mission_type          = Education
+| website               = {{url|http://www.brownspace.org/equisat}}
+| mission_duration      = 3–6&nbsp;months planned
+
+| spacecraft_type       = 1U [[CubeSat]]
+| manufacturer          = Brown University Space Engineering
+| dry_mass           = {{convert|1.3|kg|lb}}
+| dimensions            = 10cm cube
+}}
+
+'''EQUiSat''' is a 1U (one unit) [[CubeSat]] designed and built by Brown Space Engineering (formerly Brown CubeSat Team), an undergraduate student group at [[Brown University]]'s [[Brown University School of Engineering|School of Engineering]]. EQUiSat's mission is to test a battery technology that has never flown in space which will power an [[#Optical Beacon (Flash)|beacon]] that was designed to be visible from Earth.<ref name="upcoming_elena">{{cite web|title=Upcoming ElaNa CubeSat Launches|url=http://www.nasa.gov/content/upcoming-elana-cubesat-launches|publisher=NASA|accessdate=18 October 2016}}</ref><ref name="equisatpressrelease">{{cite web|url=http://brownspace.org/2017/02/01/equisat-set-for-iss-launch-in-q2-2018/|title=EQUiSat Set for ISS Launch in Q2 2018 |accessdate=30 March 2017}}</ref><ref name="brownnews3-23-17">{{cite web|title=Countdown: NASA launch date for student space project nears|url=https://news.brown.edu/articles/2017/03/cubesat|publisher=Brown University|accessdate=30 March 2017}}</ref>
+
+== Mission ==
+The primary mission of EQUiSat is to prove the accessibility of space to the masses through both demonstration of a low-cost DIY CubeSat and educational outreach.<ref name="ABC" />
+To further the primary mission, Brown Space Engineering will maintain EQUiSat as a low-cost and rigorously documented [[open source]] project, allowing others to replicate EQUiSat's subsystems without large budgets or extensive expertise. The total cost of parts to reproduce EQUiSat is around $5,000. Brown Cubesat Team espouses a [[Do it yourself|DIY]] philosophy to minimize costs, while also utilizing production processes that are widely achievable by and accessible to non-professionals.<ref name="Brown Press Release">{{cite web|url=https://news.brown.edu/pressreleases/2014/02/cubesat|title=NASA to launch students' nanosatellite|accessdate=April 26, 2014|publisher=Brown University|year=2014}}</ref> Brown Space Engineering's budget is very low compared to other CubeSats, and the goal is for the project to be replicated for under $5,000.<ref name="Go Local Prov" />
+
+EQUiSat's second mission is to test the viability of operating {{chem|LiFePO|4}} [[Lithium iron phosphate battery|batteries]] in space.<ref name="Go Local Prov">{{cite web|url=http://www.golocalprov.com/news/satellite-made-by-brown-u.-students-to-be-launched-on-nasa-rocket/|title=Satellite Made By Brown U. Students to Launch on NASA Rocket|accessdate=April 26, 2014|publisher=Go Local Prov|year=2014}}</ref> A {{chem|LiFePO|4}} battery has never been flown in space, but it carries certain advantages over batteries of different chemistry, such as high current draw capabilities with less risk of thermal runaway than lithium-ion batteries.<ref name="Brown Press Release"/>
+
+=== Outreach ===
+The other way in which Brown Space Engineering will increase the accessibility of space is by educating youth on the design and role of satellites in society. Brown Space Engineering is cooperating with schools and museums across the country to develop an educational outreach plan to teach students and the general public about EQUiSat and the impact of it and similar satellites on scientific advancement of society. Upon launch, the opportunity to easily locate, hear, and see EQUiSat in the night sky provides an important tangible component to these outreach efforts. Another mode of outreach is the availability of EQUiSat source code/CAD files online.<ref name="github">{{cite web|url=https://github.com/BrownSpaceEngineering|title=EQUiSat GitHub repository|accessdate=30 March 2017}}</ref>
+
+== Payload ==
+EQUiSat's primary payload is a high power LED array, which when flashed will appear on Earth as bright as the [[Polaris|North Star]].<ref name="ABC">{{cite web|url=http://www.abc6.com/story/24745098/nasa-to-launch-brown-univ-students-nanosatellite|title=NASA to launch Brown University students' nanosatellite|accessdate=April 26, 2014|publisher=ABC|year=2014}}</ref> The payload will be used to engage those on earth, especially in pursuit of the project's primary mission, which is to make space more accessible to the public.
+
+The secondary payload is the [[Lithium iron phosphate battery|lithium iron phosphate]] ({{chem|LiFePO|4}}) batteries that will power the LEDs. The secondary mission of EQUiSat is to test the viability of {{chem|LiFePO|4}} batteries, which have never been flown in space, making the batteries more than power storage units but a payload themselves.
+
+== Launch ==
+On February 6, 2014, [[NASA]] announced that it would launch EQUiSat as part of the [[Launch Services Program#CubeSats|CubeSat Launch Initiative (CSLI)]].<ref name="about">{{cite web|title=About|url=http://brownspace.org/about/|website=Brown Space Engineering|accessdate=18 October 2016}}</ref><ref name="nasapress">{{cite web|title=NASA Announces Fifth Round of CubeSat Space Mission Candidates|url=https://www.nasa.gov/press/2014/february/nasa-announces-fifth-round-of-cubesat-space-mission-candidates|accessdate=30 March 2017}}</ref> EQUiSat launched aboard an [[International Space Station]] (ISS) resupply mission on May 21, 2018.<ref name=WPRI /><ref name=BDH1 /> It was released into orbit from the ISS on July 13, 2018.<ref name=WGBH/> EQUiSat was placed into a 400&nbsp;km altitude orbit at 52˚ inclination.<ref name="upcoming_elena"/><ref name="equisatpressrelease"/>
+
+== Subsystems ==
+[[File:Render3-3-13.JPG|thumb|right|Render of the EQUiSat CubeSat]]
+
+=== Optical Beacon (Flash) ===
+The flash subsystem is an optical beacon allowing those on earth to visually track EQUiSat after launch. The beacon is an array of four extremely bright LEDs (~10,000 lumens each) that will be flashed for .1 seconds three times in rapid succession every minute when EQUiSat is in the night sky.<ref name="Brown Press Release" /> The array will have an apparent magnitude of 3, approximately the same intensity as Polaris. In order to further increase light intensity for those on Earth, the high power LED array will all be on one panel that will be directed towards Earth's northern hemisphere using passive attitude control.<ref name="payload">{{cite web|title=Optical Beacon (Flash)|url=http://brownspace.org/payload/|accessdate=30 March 2017}}</ref>
+
+=== Radio ===
+A transceiver onboard EQUiSat will transmit a signal in the [[UHF]] 70&nbsp;cm Amateur Radio band at 435-438&nbsp;MHz, and will consist of a registered call sign beacon and sensor data. The transmissions may be received by amateur radio users, but will also be posted online to increase access for the general public. The radio will also act as a beacon to track the position of the satellite. The primary ground station, built in partnership with Brown's Amateur Radio Club, will be the primary point of contact for EQUiSat, and will be able to terminate communications with the satellite if necessary.<ref name="Herald">{{cite web|url=http://www.browndailyherald.com/2013/09/03/brown-cubesat-team-shoots-stars-microsatellite/|title=Brown CubeSat team shoots for the stars with microsatellite|accessdate=April 26, 2014|publisher=Brown Daily Herald|year=2014}}</ref><ref name="radio">{{cite web|url=http://brownspace.org/radio/|title=EQUiSat’s Communication System|accessdate=30 March 2017}}</ref>
+
+The antenna is coiled for launch, as CubeSat specification mandates that no satellite parts may protrude from side rails by more than 1&nbsp;cm before launch. Thus, a deployment system consisting of nylon wire holding the antenna taut is used. This nylon wire is wound around nichrome filaments, which will burn the wire 30 minutes after deployment. The antenna will then spring back into position.<ref name="radio"/>
+
+=== Attitude Control ===
+EQUiSat will use a passive magnetic attitude control system (ACS), which will require no reliance on an attitude determination system, no energy drain from torque coils or momentum wheels, and no reliance on the complex algorithms required to de-tumble and stabilize the satellite. Two pairs of hysteresis rods will be used to impart a torque on the satellite to offset tumbling brought about by launch from the ISS and the antenna deployment. These hysteresis rods are not only able to impart a torque, but also dampen the transient response of these tumbles as they do so. This will reduce the tumbling over the course of several days. The ACS also makes use of a permanent magnet to align EQUiSat with the earth's magnetic field. This will keep us pointed towards the surface of the earth in the northern hemisphere.<ref name="Brown Press Release" /><ref name="acds">{{cite web|url=http://brownspace.org/acds/|title=Attitude Control and Determination System|accessdate=30 March 2017}}</ref>
+
+=== Electronics ===
+The electronics subsystem will tie together all other subsystems to allow the satellite to function properly. The electronics subsystem consists of five custom built [[Printed circuit board|PCB]]s, each of which will be physically stacked inside EQUiSat. The five boards are:
+*'''Flash Panel''': The Flash Panel houses the four LEDs, the antenna deployment system, four temperature sensors, an IR sensor and a photodiode.
+*'''LED Driver Board''': This board is located directly below the Flash Panel. It contains the four boost regulator circuits, one per LED. These boost regulators draw 60A at 6.6V from the batteries, which is then converted to 36V and 2.7A for the LEDs. It also contains the drive circuitry for the antenna deployment system.
+*'''Battery Board''': This board is located in between the two layers of batteries. It contains circuitry that performs Max Power Point Tracking to continuously optimize battery charging based upon the solar panel output. It also has controls for managing battery output and monitoring battery properties.
+*'''Control Board''': The Control Board contains the brains of the satellite; including the [[Atmel]] SAMD21J18A processor, memory, and demultiplexers that manage incoming data from all other boards. The Control Board also interfaces with the radio, and contains an [[Inertial measurement unit|IMU]] and a [[magnetometer]].
+*'''Radio Adapter Board''': This is a more simple board that provides an interface between the radio and Control Board.
+
+The electronics subsystem is designed, tested and assembled completely in-house, aside from the PCB manufacturing. All components are commercial off-the-shelf, and may be easily purchased online. The PCBs were designed with PCB CAD software and the CAD files are uploaded to GitHub for easy public access.<ref name="Brown Press Release" /><ref name="github"/><ref name="electronics">{{cite web|url=http://brownspace.org/avionics-hardware/|title=Avionics Hardware|accessdate=30 March 2017}}</ref><ref name="software">{{cite web|url=http://brownspace.org/avionics-software/|title=Avionics Software|accessdate=30 March 2017}}</ref>
+
+=== Software ===
+The electronics subsystem is backed up with software that runs on the processor. The processor runs a [[real-time operating system]] based on [[FreeRTOS]]. The usage of a real-time operating system is standard in small embedded systems and will allow EQUiSat to respond to events in a timely, deterministic manner.
+
+The software is responsible for data collection from the sensors mentioned in the electronics subsystem section. It will then process the data having read it from its built-in [[analog-to-digital converter|ADC]] and transmit data appropriately. The software will also be able to process incoming transmissions from the primary ground station.
+
+[[Cosmic radiation]] provides the possibility of a bit flip while in orbit. This does not pose an issue if a bit in data memory is flipped as it is volatile and thus a reboot of the system will solve this. If a bit is flipped in program memory, a watchdog timer will trigger a reboot of the system where the program memory is overwritten by a copy stored in radiation-safe MRAM by the bootloader. This watchdog timer is reset to its original value on normal program operation, thus will only trigger a reboot if it counts to zero due to a corrupted program.
+
+As for the rest EQUiSat's subsystems, the software files are available online.<ref name="github"/><ref name="software"/>
+
+=== Power ===
+The power system includes solar panels for power generation in space and two battery systems for power storage.
+
+The solar panels are produced from scrap [[gallium arsenide]] cells using a well documented production process. As a result, they cost 35 times less than comparably powerful off-the-shelf panels. The panels make up 5 sides of the CubeSat, and are made up of varying configuration of Triangular Advanced Solar Cells and TrisolX cells. As a result of the former manufacturer going out of business during development, only the top and bottom panels on EQUiSat contain these cells. The other three panels use the TrisolX cells. 24 cells in a 4S6P configuration, and three side panels contain 20 cells in a 4S5P configuration. The top and bottom panels are currently designed to output 8.76V at 140–170 mA for an average output power of just over 1.3 W in full sunlight. The other panels output a similar voltage for roughly .5-.7W power.
+
+EQUiSat contains two sets of batteries: one to power the flash system and another to power the radio system and microcontrollers. The batteries that will power the flash are A123 System 18650 LiFePO4 cells in a 2S2P configuration. The batteries that will power the radio and microcontroller are two LIR2450 [[lithium-ion]] rechargeable coin cell batteries in parallel. EQUiSat will alternate between battery systems, with priority going to the LIR2450 batteries first.<ref name="Brown Press Release" /><ref name="power">{{cite web|url=http://brownspace.org/power/|title=Solar Panels and Batteries|accessdate=30 March 2017}}</ref>
+
+=== Structure ===
+The chassis and other components are manufactured in-house to maximize cost accessibility. The chassis is milled from a solid block of Al 6061 using a three-axis [[CNC]] mill, [[lathe]] and [[Tap and die|taps]]. This provides the body of EQUiSat and the fastening points for all components. In addition, the block to securely place the six batteries in is milled out of [[Delrin]]. Perfecting the manufacturing process was done using machinable wax, to reduce material waste.
+
+The chassis, along with other machined components and the complete assembly, was designed in CAD software. The CNC toolpaths and [[G-code]] were produced from these files.<ref name="Brown Press Release" /><ref name="mfg">{{cite web|url=http://brownspace.org/manufacturing/|title=CAD & Manufacturing|accessdate=30 March 2017}}</ref>
+
+== See also ==
+
+*[[List of CubeSats]]
+
+== References ==
+
+{{reflist|refs=
+<ref name=WPRI>{{cite news |last=Del Santo  |first=T.J. |date=May 22, 2018 |title=Made-in-RI satellite now in space |url=https://www.wpri.com/news/local-news/made-in-ri-satellite-now-in-space/1192936844 |work=WPRI |location= |access-date=March 26, 2018 }}</ref>
+<ref name=BDH1>{{cite news |last=Wells |first=Jackson |date=May 24, 2018 |title=Student-built satellite launches into space |url=http://www.browndailyherald.com/2018/05/24/student-built-satellite-launches-space/ |work=Brown Daily Herald |location= |access-date=March 26, 2018 }}</ref>
+<ref name=WGBH>{{cite news |last=Herwick III |first= Edgar B. |date=July 18, 2018 |title=Brown University Undergrads Launch The Little DIY Satellite That Could |url=https://www.wgbh.org/news/science-and-technology/2018/07/18/brown-university-undergrads-launch-the-little-diy-satellite-that-could |work=WGBH |location= |access-date=March 26, 2018 }}</ref>
+}}
+
+== External links ==
+
+* [http://www.brownspace.org/ Official homepage]
+* [http://brownspace.org/equisat-resources/ EQUiSat resources]
+
+[[Category:Student satellites]]
+[[Category:Brown University]]
+[[Category:CubeSats]]

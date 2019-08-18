@@ -1,0 +1,32 @@
+Title : Paraburkholderia eburnea
+Text : {{Italic title}}
+{{Taxobox
+| color = lightgrey
+| name = ''Paraburkholderia eburnea''
+| regnum = [[Bacteria]]
+| phylum = [[Proteobacteria]]
+| classis = [[Beta Proteobacteria]]
+| ordo = [[Burkholderiales]]
+| familia = [[Burkholderiaceae]]
+| genus = ''[[Paraburkholderia]]''
+| species = '''''P. eburnea'''''
+| binomial = ''Paraburkholderia eburnea''
+| binomial_authority = (Kang ''et al''. 2014) Sawana ''et al''. 2015<ref>{{cite journal | authors = Sawana A, Adeolu M, Gupta RS. | year = 2014 | title = Molecular signatures and phylogenomic analysis of the genus ''Burkholderia'': Proposal for division of this genus into the emended genus ''Burkholderia'' containing pathogenic organisms and a new genus ''Paraburkholderia'' gen. nov. harboring environmental species | journal = Front. Genet. | volume = 5 | pages = 429 | doi = 10.3389/fgene.2014.00429| pmc = 4271702 }}</ref>
+| type_strain = 
+| synonyms =
+* ''Burkholderia eburnea'' <small>Kang ''et al''. 2014</small><ref>[http://www.bacterio.net/burkholderia.html LSPN bacterio.net]</ref>
+}}
+
+'''''Paraburkholderia eburnea''''' is a [[Gram-negative]], [[Aerobic organism|aerobic]], non-[[spore]]-forming [[bacterium]] from the [[genus]] ''[[Paraburkholderia]]'' and the family [[Burkholderiaceae]] which was isolated from [[peat soil]].<ref>{{Cite journal | doi = 10.1099/ijs.0.051078-0| pmid = 24363296| title = ''Burkholderia eburnea'' sp. nov., isolated from peat soil| journal = International Journal of Systematic and Evolutionary Microbiology| volume = 64| issue = Pt 4| pages = 1108–15| year = 2013| last1 = Kang | first1 = S. R.| last2 = Srinivasan | first2 = S.| last3 = Lee | first3 = S. S.}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q16954539}}
+
+{{DEFAULTSORT:Paraburkholderia eburnea}}
+[[Category:Burkholderiales]]
+[[Category:Bacteria described in 2014]]
+
+
+{{Betaproteobacteria-stub}}

@@ -1,0 +1,12 @@
+Title : Template:Museum begin
+Text : <includeonly>{| class="wikitable sortable" width=100% style="text-align: center;"
+|-
+! width=200px | Name
+! width=250px | Location
+! width=100px | Type
+! Summary
+! width=100px | Image
+|-
+</includeonly><noinclude>
+[[Category:Museum templates]]
+</noinclude>

@@ -1,0 +1,70 @@
+Title : Baoji railway station
+Text : {{one source|date=April 2014}}
+{{Infobox station
+| name             = Baoji
+| native_name      = 宝鸡
+| native_name_lang = zh-Hans
+| symbol_location  = cn
+| symbol           = rail
+| symbol_location2 = 
+| symbol2          = 
+| symbol_location3 = 
+| symbol3          = 
+| symbol_location4 = 
+| symbol4          = 
+| image            = Baoji_Railway_Station_2012-09.JPG
+| alt              = 
+| caption          = A view of the Baoji Railway Station.
+| mlanguage        = <!-- Template:Infobox Chinese/Chinese -->
+| other_name       = 
+| address          = 1 Yingbin Road<ref>{{Cite web|title = 客运营业站站点|url = http://www.12306.cn/mormhweb/kyyyz/|website = 12306.cn|accessdate = 2018-09-11|language=Chinese}}</ref> 
+| borough          = [[Weibin District, Baoji|Weibin District]], [[Baoji]], [[Shaanxi]]
+| country          = China
+| map_type         = China
+| map_caption      = Location of the station
+| coordinates      = {{coord|34|22|27|N|107|8|53|E|region:CN_type:railwaystation|display=title,inline}}
+| operator         = {{rint|cn|rail}} [[CR Xi'an]]
+| line             = {{Plainlist|1=
+* {{rint|cn|rail}} [[Longhai railway]]
+* {{rint|cn|rail}} [[Baoji–Chengdu railway]]
+* {{rint|cn|rail}} [[Baoji–Zhongwei railway]]
+}}
+| platforms        = 6 (2 [[side platforms]] and 2 [[island platforms]])
+| connections      = {{Plainlist|1=
+* Bus terminal
+ }}
+| structure        = 
+| disabled         = 
+| code             = {{Plainlist|1=
+* 39629 (TMIS code)<ref>{{cite book|title=中华人民共和国铁路车站代码（GB/T 10302-2010）|publisher=中国标准出版社|year=2010|isbn=155066140495|ignore-isbn-error=true|pages=2|language=zh-cn}}</ref>
+* BJY (telegraph code)
+* BJI (Pinyin code)
+}}
+| classification   = [[Class 1 station (China Railway)|Class 1 station]] (一等站)
+| opened           = 1936
+| closed           = 
+| former           = 
+| passengers       = 
+| pass_year        = 
+| services         = 
+{{Adjacent stations
+|system1=CR
+|line1=Longhai|left1=Guozhen|right1=Tianshui
+}}
+}}
+'''Baoji railway station''' is a [[railway station]] in [[Weibin District, Baoji|Weibin District]], [[Baoji]], [[China]]. It is the junction of [[Baocheng Railway]], [[Longhai Railway]] and Baozhong Railway. The station was constructed in 1936.<ref>{{cite web|url=http://www.baojinews.com/_info/content_94889.htm |script-title=zh:西安铁路局宝鸡火车站 |date=2008-06-05 |language=zh |deadurl=yes |archiveurl=https://web.archive.org/web/20140427000406/http://www.baojinews.com/_info/content_94889.htm |archivedate=2014-04-27 |df= }}</ref>
+
+== References ==
+{{reflist}}
+
+{{Baoji–Chengdu Railway}}
+{{Longhai Railway}}
+{{Shaanxi transit}}
+
+[[Category:Stations on the Longhai Railway]]
+[[Category:Stations on the Baoji–Chengdu Railway]]
+[[Category:Railway stations in Shaanxi]]
+[[Category:Railway stations opened in 1936]]
+
+
+{{PRChina-railstation-stub}}

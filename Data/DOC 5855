@@ -1,0 +1,39 @@
+Title : Wikipedia:Reference desk/Archives/Computing/2014 April 20
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Computing|Computing desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Computing/2014 April 19|April 19]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Computing/March 2014|Mar]] | [[Wikipedia:Reference desk/Archives/Computing/April 2014|April]] | [[Wikipedia:Reference desk/Archives/Computing/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Computing/2014 April 21|[[Wikipedia:Reference desk/Archives/Computing/2014 April 21|April 21]]|[[Wikipedia:Reference desk/Computing|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Computing Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Computing/2014 April 30|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= April 20 =
+
+== qusquestion SAMP ==
+
+Good day, I think you can talk with developers SAMP-A (samp.com And I want to ask, if there are bugs about desynchronization.
+Us players SAMP say that there is a Bug SAMP about desynchronization , shows that the player under cheat GodMod
+Here's the video https://vk.com/video248294157_168450846 tell me it's a bug or not a bug? is there any such Bugs?
+Thank you sincerely team administrators Advance RolePlay (project SAMP).  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/178.123.86.107|178.123.86.107]] ([[User talk:178.123.86.107|talk]]) 17:47, 20 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:I don't believe this is a genuine question, it looks like spam, SAMP dot com is some sort of ad website. I don't know how to do the fancy formatting thing, can someone mark or hide this section please?  [[User:Vespine|Vespine]] ([[User talk:Vespine|talk]]) 23:04, 21 April 2014 (UTC)
+
+== I want detail ==
+
+In Windows (7) file and folder listings I prefer to see file size and date information, but somehow something changed so that I see only the file names. How can I change it back? --[[User:Halcatalyst|Halcatalyst]] ([[User talk:Halcatalyst|talk]]) 21:48, 20 April 2014 (UTC)
+:There should be a small icon with a black triangle below the title bar at the right. Click on the triangle and select ''Details''. That should do it. -- [[User:Toshio Yamaguchi|'''<span style="color:black;">Toshio</span>''']] [[User talk:Toshio Yamaguchi|'''<span style="color:black;">Yamaguchi</span>''']] 22:22, 20 April 2014 (UTC)
+::Thank you! I would say they did a good job of hiding it in plain sight. --[[User:Halcatalyst|Halcatalyst]] ([[User talk:Halcatalyst|talk]]) 03:39, 21 April 2014 (UTC)
+
+== USB 2 device on USB 3 port ==
+
+When I plug a USB 2 external drive into a USB 3 port, I was surprised to get 25-40% better performance.  Will plugging a USB 2 printer or scanner into a USB 3 port increase the speed the data gets transferred?  [[User:Bubba73|Bubba73]] <sup>[[User talk:Bubba73|You talkin' to me?]]</sup> 21:49, 20 April 2014 (UTC)

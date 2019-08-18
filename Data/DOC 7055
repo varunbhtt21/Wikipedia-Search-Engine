@@ -1,0 +1,11 @@
+Title : Wikipedia:RSUK/Userbox
+Text : {{userbox
+| border-c      = black
+| id            = '''RSUK'''
+| id-c          = #BD0F2B
+| id-fc         = #FFFFFF
+| id-s          = 14
+| info          = This user has access to<br />'''[[WP:RSUK|Royal Society UK]]''' through<br />[[WP:TWL|The Wikipedia Library]]
+| info-c        = #fff
+| info-a        = center
+| usercategory  = Wikipedians who have access to RSUK}}<noinclude>[[Category:Wikipedians who have access to RSUK‎]]</noinclude>

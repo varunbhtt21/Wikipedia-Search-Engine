@@ -1,0 +1,9 @@
+Title : Template:Country data Heligoland
+Text : {{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Heligoland
+| flag alias = Flag of Helgoland.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+}}<noinclude>
+</noinclude>

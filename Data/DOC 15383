@@ -1,0 +1,58 @@
+Title : Tennessee State Route 365
+Text : {{Infobox road
+|state=TN
+|type=Sec
+|route=365
+|map=
+|length_mi=3.7
+|length_round=
+|length_ref=
+|established=
+|direction_a=South
+|terminus_a={{jct|state=TN|US|45}} in [[Henderson, Tennessee|Henderson]]
+|junction={{jct|state=TN|Sec|200}} in Henderson
+|direction_b=North
+|terminus_b={{jct|state=TN|US|45}} in Henderson
+|counties=[[Chester County, Tennessee|Chester]]
+|previous_type=SR
+|previous_route=364
+|next_type=SR
+|next_route=366
+}}
+
+'''State Route 365''' ('''SR 365''') is a secondary north–south state highway located in [[Henderson, Tennessee|Henderson]], [[Chester County, Tennessee]].
+
+==Route Description==
+
+'''SR 365''' begins at [[U.S. Route 45 in Tennessee|US 45]] and [[Tennessee State Route 5|SR 5]]. It then continues east through downtown [[Henderson, Tennessee|Henderson]] as Main Street for approximately {{convert|0.8|mi|km}} and turns in front of [[Freed-Hardeman University]] <ref>http://www.fhu.edu/about/index.aspx</ref> onto White Avenue and continues for approximately {{convert|2.5|mi|km}} ending between mile markers 7 and 8 of US 45.
+
+==History==
+Main Street at one time was part of [[Tennessee State Route 100|SR 100]] until the Noah Weaver Bypass was constructed which bypassed the downtown area. White Avenue was also once known as US 45 Business.<ref>http://www.rootsweb.ancestry.com/~tnchest2/events/tornado1952.html</ref>
+
+==Major Intersections==
+
+{{jcttop|length_ref=|state=TN|county=Chester|location=Henderson}}
+{{TNint
+|mile=0.0
+|road={{jct|state=TN|US|45|name1=[[Tennessee State Route 5|SR 5]]|city1=Selmer|city2=Bethel Springs|city3=Jackson|to2=to|TN|100}}
+|notes=Southern terminus
+}}
+{{TNint
+|mile=
+|road={{jct|state=TN|Sec|200|dir1=north|name1=Steed Street|city1=Lexington}}
+|notes=Southern terminus of SR 200
+}}
+{{TNint
+|mile=3.7
+|road={{jct|state=TN|US|45|name1=[[Tennessee State Route 5|SR 5]]|city1=Selmer|city2=Bethel Springs|city3=Jackson}}
+|notes=Northern terminus
+}}
+{{jctbtm}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{cite map |url= http://www.tdot.state.tn.us/maps.htm |format= PDT |year= 2014 |title= Official Tennessee Transportation Map |publisher= [[Tennessee Department of Transportation]]}}
+
+[[Category:State highways in Tennessee|365]]

@@ -1,0 +1,99 @@
+Title : Wikipedia:Reference desk/Archives/Computing/2014 April 21
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Computing|Computing desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Computing/2014 April 20|April 20]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Computing/March 2014|Mar]] | [[Wikipedia:Reference desk/Archives/Computing/April 2014|April]] | [[Wikipedia:Reference desk/Archives/Computing/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Computing/2014 April 22|[[Wikipedia:Reference desk/Archives/Computing/2014 April 22|April 22]]|[[Wikipedia:Reference desk/Computing|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Computing Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Computing/2014 May 1|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= April 21 =
+
+== name of power cable ==
+
+Is there a name for the type of detachable power cable commonly used in the US for computer and audio/video equipment, with a three-prong plug like [[:File:NEMA-AC-Power-Plugs.jpg|the one on the right]] and the other end is like [[:File:IEC 60320 C13.svg|this]] and goes into [[:File:IEC60320 C14.jpg|this type]] of connector?  [[User:Bubba73|Bubba73]] <sup>[[User talk:Bubba73|You talkin' to me?]]</sup> 05:23, 21 April 2014 (UTC)
+:In the UK (with a different plug) it's called a "kettle lead", which led me to [[IEC 60320]]  [[User:Rojomoke|Rojomoke]] ([[User talk:Rojomoke|talk]]) 05:40, 21 April 2014 (UTC)
+::While I can't speak specifically for the UK, kettles from my experience and from my expectation from the standard and as per our article, should generally be C15/C16. That used in computers etc generally C13/C14. A C15 plugged power cord should generally fit and be safely used in a C14 socketed appliance like an ATX PSU, but a C13 plugged cord would generally not fit in a C16 socketed appliance which is by design for safety reasons. So while they may be called kettle leads because the often aren't distinguished, in reality while they are similar to they are not the same as most real kettle leads. BTW, the article on the connector is linked to from the images above as these are used there. [[User:Nil Einne|Nil Einne]] ([[User talk:Nil Einne|talk]]) 14:25, 21 April 2014 (UTC)
+
+::: I had seen references to "IEC cable", and I thought they were referring to this type. But there are a lot of IEC connectors. 
+
+::: I had looked at the [[IEC 60320]] article, but I didn't go down far enough to this [[IEC 60320#C13/C14 coupler]] section.  Still, they are so common that it seems like there would be a nice name for them.  [[User:Bubba73|Bubba73]] <sup>[[User talk:Bubba73|You talkin' to me?]]</sup> 02:22, 22 April 2014 (UTC)
+
+== connection to database using php and mysql ==
+<syntaxhighlight lang="php">
+<?php
+$username = "root";
+$password = "tiger";
+$hostname = "localhost"; 
+
+//connection to the database
+$dbhandle = mysql_connect($hostname, $username, $password) 
+  or die("Unable to connect to MySQL");
+echo "Connected to MySQL<br>";
+?>
+</syntaxhighlight>
+i'm trying above piece of code to connect to mysql database but it always shows server error,
+both of php and mysql are successfully installed and configured.
+versions are php-5.2.17-Win32-VC6-x86, mysql- 5.6.17.0.
+any help is cordially welcomed[[Special:Contributions/14.139.187.94|14.139.187.94]] ([[User talk:14.139.187.94|talk]]) 06:47, 21 April 2014 (UTC).
+:Formatted the code for you. --[[User:Canley|Canley]] ([[User talk:Canley|talk]]) 13:19, 22 April 2014 (UTC)
+:I take it you don't see the "Unable to connect to MySQL" message in the code? Does your php.ini file call the mysql extension (it should include "extension=mysql.dll")? And check if libmysql.dll is in the System32 folder. --[[User:Canley|Canley]] ([[User talk:Canley|talk]]) 13:32, 22 April 2014 (UTC)
+::Is the MySQL server actually running? I've wasted a bit of time trying to find similar bugs when mysqld was not running. Running mysql from the command prompt should tell you. Calling <code>phpinfo();</code> from php should be able to tell you if php and mysql are talking to each other.--[[User:Salix alba|Salix alba]] ([[User talk:Salix alba|talk]]): 16:50, 22 April 2014 (UTC)
+
+== PGP decryption ==
+
+When a disk encrypted with PGP is decrypted using the program on the hard drive, it takes a few hours to decrypt a 500GB hard drive.  But if there is a drive problem and a recovery disk is used to perform the decryption (the CD can be removed once decryption has started), it takes about 3-4 days.  Why is this?  <span style="font-family:monospace;">[[User:Dismas|Dismas]]</span>|[[User talk:Dismas|<sup>(talk)</sup>]] 10:40, 21 April 2014 (UTC)
+
+:I don't know the answer, but it's possible that the barebones OS on the recovery CD is limited to one CPU core, or to a slower method of hard drive access. -- [[User:BenRG|BenRG]] ([[User talk:BenRG|talk]]) 05:32, 22 April 2014 (UTC)
+
+== samsumg tv volume problem ==
+
+My Samsung lcd tv volume is very loud when i turn it on, and a black white rectangle bar appears on the bottom right next to the volume bar and does not go away the volume is over 100 and the bar becomes longer as you turn down the volume till it reaches 100 then it does not change but stays there the whole time i watch the tv, i have tried everything like turning off autovolume, factory reset, removing the power supply for 5 minutes and reset from the secret menu but nothing worked.Please help!!! [http://i57.tinypic.com/35bgw2g.png click here for visual] <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/113.199.212.143|113.199.212.143]] ([[User talk:113.199.212.143|talk]]) 11:52, 21 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:I don't think we can fix your TV remotely. Have you tried the Samsung support website? If that doesn't help you will need to return the TV to your supplier if it's still under warranty, or else take it to a TV repair shop.--[[User:Shantavira|Shantavira]]|[[User talk:Shantavira|<sup>feed me</sup>]] 16:22, 21 April 2014 (UTC)
+
+Good to know that you can't fix it remotely, you don't need to be so rude, i was just asking if anything could be done to solve it, or is it in some kind of mode, i don't need your stupid answer.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/113.199.212.143|113.199.212.143]] ([[User talk:113.199.212.143|talk]]) 16:48, 21 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+*[[User:StuRat]] may have something helpful to say.  You might see if there's a way to reset the TV to factory settings.  You can also check, if you have a cable box, to see if you can lower the cable volume, although a 100 output from the TV is still probably going to lead to some distortion.  And, of course, call Samsung at the number on your user's manual. BTW, I have a Samsung Plasma, and it is absolutely wonderful, never had any problems, never seen a better picture. [[User:Medeis|μηδείς]] ([[User talk:Medeis|talk]]) 17:54, 21 April 2014 (UTC)
+
+:*Indeed, I had the EXACT same problem.  My big-screen TV behaved as if it was getting the "volume up" signal from the remote, constantly.  I solved the problem by creating a FrankenTelevison.  I happened to have another small, portable TV with a bad display, but decent audio, so I sent the audio output from my cable box there and the video output continued to go to the big-screen TV.  I then had a working setup, with the only inconvenience being that I had to use the portable TV's remote to change the volume.  
+
+:*That portable TV later died completely, at which point I sent the audio to a set of $30 standalone speakers (unfortunately they lacked a remote, so I had to turn the volume dial directly on the speakers).  Headphones/earbuds might work, too.  Also note that even with no audio coming in, I still got an annoying hum coming from the big-screen TV on max volume, which I solved by opening it up and cutting the speaker wires.  That shut it up for good.  (Be careful when working on a TV, as even after it's unplugged the capacitor can hold a charge, at least in that old [[cathode ray tube|CRT]] model.)  (If there's a prize for [[jury rig]]ging, I'm definitely in the running.)
+
+:*Another option,if you are getting your TV channels from antennas instead of a cable box, is just to use two TV's independently, one crappy TV for audio and your current TV for video.  You would then have to change both channels separately to get the audio to match the video, and still might want to cut the speaker wires on the loud TV (I suggest you put electrical tape on the ends).  Inconvenient, but it's an option. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 23:28, 21 April 2014 (UTC) 
+
+:Questions
+:#Are you using the original TV remote or a universal? Do you also have a cable box/receiver remote that controls the TV volume?
+:#Are any of the remotes RF or are they all IR remotes (if they are IR they'll have that little "eye" on the front that needs to be pointed in the direction of the TV)? Do you have any other RF remotes in the house, like a car remote starter, rf-based alarm system, etc.?
+:#When you reset it and turn it back on, does the volume start lower than 100 and go up or does it always start at 100?
+:#Are the buttons on the tv set responsive (channel/source/maybe even volume)?
+:I'm having trouble picturing the different on-screen elements and volume levels, but it sure sounds like it thinks its getting a steady supply of the "volume up" signal. Makes me wonder if there's a broken remote somewhere or a broken button on the set. If that were the case it would also account for why the volume bar doesn't go away. --&mdash; <tt>[[User:Rhododendrites|<span style="font-size:90%;letter-spacing:1px;text-shadow:0px -1px 0px Indigo;">Rhododendrites</span>]] <sup style="font-size:80%;">[[User_talk:Rhododendrites|talk]]</sup></tt> |&nbsp; 19:05, 21 April 2014 (UTC)
+
+I have a universal remote now but the tv had the problem way before i had the universal remote, cable box can turn down only it's own volume but not the Tv's, i have other rf and ir equipments but i doubt they are causing it as the volume is way over 100 from the start up, it does not go up it starts from 100+ and every button on the remote works.[http://i57.tinypic.com/35bgw2g.png click here for visual]  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/113.199.241.206|113.199.241.206]] ([[User talk:113.199.241.206|talk]]) 12:29, 22 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:Again that sounds just like my problem.  I believe the receiving unit mistakenly thought it was getting a "volume up" signal, even though the remote wasn't sending one.  I suppose the proper fix would be to replace that component.
+
+:As far as implementing my workaround goes, how is the cable box connected to the TV ?  Do you have separate video and audio cables (or the ability to use separate cables, if not currently doing so) ?  If so, do you have another device (standalone speakers, radio, another TV, etc.) you can plug the audio into ?  It looks like the volume bar will always be on the bottom of your screen, but I assume you can live with that. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 15:08, 22 April 2014 (UTC)
+
+:It could be the volume up button on the TV. If it's jammed, then it's just a simple mechanical fix. If it seems to click fine, then there may still be an issue with the contacts in the switch itself, or something conductive got in the case and is causing a short near the switch on the circuit board. [[User:Katie Ryan A|<span style="border-bottom:solid #88F">K</span><span style="border-bottom:solid #d5f">ati</span><span style="border-bottom:solid #faa">e R</span>]] ([[User_talk:Katie Ryan A|talk]]) 15:24, 22 April 2014 (UTC)
+
+I don't know how i can describe my problem clearly, no buttons are stuck, volume works just fine but there's another little volume bar next to the volume bar, the original vol bar goes away like in normal TVs but the tiny guy stays there, it grows longer as i turn down the volume to 100, then stops growing when i turn down the volume from 100.So it's like this i open my tv, it's too loud, i try turning the volume down, i notice the volume is way over 100 (like 200 or something) the second bar appears, it grows as i turn down volume, stops growing after it reaches 100.I have a speaker as part of this media player but the bar still appears even after it is disconnected.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/113.199.230.212|113.199.230.212]] ([[User talk:113.199.230.212|talk]]) 17:20, 22 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+Ok i noticed something when i use the timer to turn on tv during a particular time with set volume, this bar never appears and everything works fine no loud volume nothing, but this method is too much work just to watch a tv.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/113.199.230.212|113.199.230.212]] ([[User talk:113.199.230.212|talk]]) 17:33, 22 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:If it's new enough, check the user manual to see if there is a firmware update procedure. If your TV has a USB port you can usually download the latest firmware from the manufacturer and install it from a flash drive. Obviously it may not fix the problem, but it's a good place to start when you're having bizarre issues like that. [[User:Katie Ryan A|<span style="border-bottom:solid #88F">K</span><span style="border-bottom:solid #d5f">ati</span><span style="border-bottom:solid #faa">e R</span>]] ([[User_talk:Katie Ryan A|talk]]) 18:45, 22 April 2014 (UTC)
+
+:Your diagram was helpful. If I understand your descriptions, the right "bar" stops its leftward growth when the volume number is under 100. Maybe your TV isn't properly erasing the right-most pixels of three-digit volume numbers. To remove the right "bar", try bringing up a full screen menu, then exiting it. This might overwrite the left-behind graphics and then properly erase them.
+:However, there's still the problem of your TV starting on a loud volume over 100 when you turn it on. When did the problem start? What is the TV supposed to do normally? (Does your TV normally max out at volume 100? Does it normally remember the last volume you used?)
+:What is the exact model number of your TV? If you search online for the model number, you may be able to find official information about the problem from a Samsung website, or else find out if other people are having the same problem and have any ideas how to solve it. --[[User:Bavi H|Bavi H]] ([[User talk:Bavi H|talk]]) 02:05, 23 April 2014 (UTC)
+
+:It sounds to me like you have two volume controls, one on the TV itself and one coming from some other device, like the cable box.  I'm guessing the TV has a feature of auto-leveling the volume, so that it turns the volume up if it detects a low volume coming in.  Unfortunately, it seems to think the proper setting is quite loud, so compensates to bring it up to that level.  I'd look through the manual to see if there's a way to disable that auto-leveling volume. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 19:43, 23 April 2014 (UTC)

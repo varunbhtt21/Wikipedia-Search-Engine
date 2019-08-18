@@ -1,0 +1,40 @@
+Title : Template:Journalism roles
+Text : {{Navbox
+|name = Journalism roles
+|title = Journalism roles
+|listclass = hlist
+
+|group1 = [[Editing]]
+|list1 = 
+* [[Editing|Editor]]
+* [[Copy editing|Copy editor]]
+* [[Contributing editor]]
+* [[Assignment editor]]
+* [[Public editor]]
+* [[Duty editor]]
+* [[Political editor]]
+* [[Managing editor]]
+* [[Editor-at-large]]
+* [[Editor-in-chief]]
+* [[Editorial board]]
+* [[Commissioning editor]]
+
+|group2 = Staff
+|list2 = 
+* [[Journalist|Journalists (reporters)]]
+* [[Columnist]]
+* [[Blog]]ger
+* [[Meteorologist]]
+* [[News presenter]]
+* [[Pundit|Pundit{{\}}commentator]]
+* [[Fixer (journalism)|Fixer]]
+* [[Stringer (journalism)|Stringer]]
+* [[Correspondent]]
+* [[Fact checker]]
+* [[Food critic]]
+* [[Gossip columnist]]
+* [[News analyst]]
+* [[Staff writer]]
+* [[Photojournalism|Photographer]]
+
+}}

@@ -1,0 +1,77 @@
+Title : Monopoli railway station
+Text : {{Infobox station
+| name             = Monopoli
+| native_name      = 
+| native_name_lang = it
+| image            = Stazione di Monopoli.jpg
+| image_caption    = 
+| alt              = 
+| address          = Monopoli
+| borough          = [[Monopoli]], [[Province of Bari|Bari]], [[Apulia]]
+| country          = Italy
+| map_type         = Italy Apulia#Italy
+| map_caption      = Location in Apulia##Location in Italy
+| coordinates      = {{coord|40|57|09|N|17|17|31|E|type:railwaystation_region:IT-LE_source:itwiki|display=inline,title}}
+| elevation        = 
+| line             = [[Adriatic Railway|Ancona–Lecce]] ([[Trenitalia]])
+| train_operators  = [[Trenitalia]]
+| connections      = 
+| distance         = 
+| structure        = 
+| platform         = 4
+| levels           = 
+| tracks           = 
+| opened           = {{Start date and age|1865|||df=y}}
+| closed           = 
+| rebuilt          = 
+| architect        = 
+| electrified      = 
+| code             = 
+| iata             = 
+| owned            = 
+| operator         = [[Rete Ferroviaria Italiana]]
+| classification   = [[Railway stations in Italy#Classification|Bronze]]
+| passengers       = 
+| pass_year        = 
+| pass_percent     = 
+| pass_system      = 
+}}
+
+'''Monopoli''' ({{lang-it|Stazione di Monopoli}}) is a railway station in the [[Italy|Italian]] town of [[Monopoli]], in the [[Province of Bari]], [[Apulia]]. The station lies on the [[Adriatic Railway|Adriatic Railway (Ancona–Lecce)]]. The train services are operated by [[Trenitalia]].
+
+==Train services==
+The station is served by the following service(s):
+
+*Intercity services Bologna - Rimini - Ancona - Pescara - Foggia - Bari - Brindisi - Lecce
+*Night train (''Intercity Night'') Rome - Foggia - Bari - Brindisi - Lecce
+*Night train (''Intercity Night'') Milan - Parma - Bologna - Ancona - Pescara - Foggia - Bari - Brindisi - Lecce
+*Night train (''Intercity Night'') Turin - Alessandria - Bologna - Ancona - Pescara - Foggia - Bari - Brindisi - Lecce
+*Regional services (''Treno regionale'') Bari - Monopoli - Brindisi - Lecce
+
+{{s-rail-start}}
+{{s-rail|title=Trenitalia}}
+{{s-line|system=IT-Intercity|line=|type=Bologna Centrale|type2=Lecce|previous=Bari Centrale|next=Fasano}}
+{{s-line|system=IT-ICN|line=|type=Roma Termini|type2=Lecce|previous=Bari Centrale|next=Fasano}}
+{{s-line|system=IT-ICN|line=|type=Milano Centrale|type2=Lecce|previous=Bari Centrale|next=Fasano}}
+{{s-line|system=IT-ICN|line=|type=Torino Porta Nuova|type2=Lecce|previous=Bari Centrale|next=Fasano}}
+{{s-line|system=IT-Treno regionale|line=|type=Bari Centrale|type2=Lecce|previous=Polignano a Mare|next=Fasano}}
+{{s-end}}
+
+==See also==
+*[[Railway stations in Italy]]
+*[[List of railway stations in Apulia]]
+*[[Rail transport in Italy]]
+*[[History of rail transport in Italy]]
+
+==External links==
+{{commons category|Monopoli train station}}
+
+''This article is based upon a translation of the [[:it:Stazione di Monopoli|Italian language version]] as at May 2014.''
+
+[[Category:Railway stations in Apulia]]
+[[Category:Monopoli|Railway station]]
+[[Category:Railway stations opened in 1865]]
+[[Category:Buildings and structures in the Province of Bari]]
+
+
+{{Italy-railstation-stub}}

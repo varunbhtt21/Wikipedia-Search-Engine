@@ -1,0 +1,36 @@
+Title : Wikipedia:WikiProject Spam/Local/hurlinghamentclinic.com
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|hurlinghamentclinic.com]]
+== Links ==
+* {{LinkSummary|hurlinghamentclinic.com}}
+:* hurlinghamentclinic.com resolves to [//192.185.173.16 192.185.173.16]
+:*: {{LinkSummary|192.185.173.16}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Muriukimk}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12762120|lang=en|wikidomain=w|namespace=|pagename=Dr. Macharia Muchiri|username=Muriukimk|link=hurlinghamentclinic.com/our-specialists/|sortdomain=com.hurlinghamentclinic.|domain=hurlinghamentclinic.com|origdiff=http://en.wikipedia.org/w/index.php?oldid=606600917&rcid=652537704|resolved=X|isIP=0|date=2014-05-01|time=09:27:45|wiki=en.wikipedia.org|revid=606600917|oldid=0|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=6|top=0|deleted=1|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=hurlinghamentclinic.com/our-specialists/|domain=hurlinghamentclinic.com|U=6|L=6|UL=6|WUL=0}}{{User:COIBot/OtherLinks|link=hurlinghamentclinic.com/our-specialists/|domain=hurlinghamentclinic.com|U=6|L=6|UL=6|WUL=0}}}}
+{{User:COIBot/EditSummary|id=12762229|lang=en|wikidomain=w|namespace=|pagename=Hurlingham ENT Clinic|username=Muriukimk|link=hurlinghamentclinic.com/our-specialists/|sortdomain=com.hurlinghamentclinic.|domain=hurlinghamentclinic.com|origdiff=http://en.wikipedia.org/w/index.php?diff=606601612&oldid=606601503|resolved=X|isIP=0|date=2014-05-01|time=09:35:58|wiki=en.wikipedia.org|revid=606601612|oldid=606601503|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=6|top=0|deleted=1|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=hurlinghamentclinic.com/contact-us/|domain=hurlinghamentclinic.com|U=6|L=6|UL=6|WUL=0}}{{User:COIBot/OtherLinks|link=hurlinghamentclinic.com/contact-us/|domain=hurlinghamentclinic.com|U=6|L=6|UL=6|WUL=0}}{{User:COIBot/OtherLinks|link=hurlinghamentclinic.com/our-specialists/|domain=hurlinghamentclinic.com|U=6|L=6|UL=6|WUL=0}}{{User:COIBot/OtherLinks|link=hurlinghamentclinic.com/our-specialists/|domain=hurlinghamentclinic.com|U=6|L=6|UL=6|WUL=0}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 2 additions out of 2 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/hurlinghamentclinic.com]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bhurlinghamentclinic\.com\b&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/hurlinghamentclinic.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/hurlinghamentclinic.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. <!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). <!-- noleft -->No links left in here mentioned edits.  Marked stale.  --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 12:23, 1 May 2014 (UTC)

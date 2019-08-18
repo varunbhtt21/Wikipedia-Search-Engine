@@ -1,0 +1,62 @@
+Title : Revaprazan
+Text : {{Infobox drug
+| drug_name = 
+| IUPAC_name        =  ''N''-(4-Fluorophenyl)-4,5-dimethyl-6-(1-methyl-3,4-dihydro-2(1''H'')-isoquinolinyl)-2-pyrimidinamine
+| image             = Revaprazan.svg
+| alt               = 
+| caption           =
+
+<!-- Clinical data -->
+| tradename         = Revanex<ref>{{cite web | url = https://www.drugs.com/international/revaprazan.html | title = Revaprazan | publisher = drugs.com}}</ref>
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US      = <!-- A / B            / C / D / X -->
+| pregnancy_category= 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status      = 
+| routes_of_administration =
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| elimination_half-life = 
+| excretion         =
+
+<!-- Identifiers -->
+| CAS_number        = 199463-33-7
+| ATCvet            = 
+| ATC_prefix        = None
+| ATC_suffix        = 
+| PubChem = 204104
+| ChemSpiderID = 176801
+| DrugBank          = 
+| synonyms = YH1885
+
+<!-- Chemical data -->
+| C=22 | H=23 | F=1 | N=4
+| molecular_weight  = 362.44 g/mol
+| smiles = c1cc(F)ccc1Nc2nc(C)c(C)c(n2)N3CCc4ccccc4C3C
+| StdInChI = 1S/C22H23FN4/c1-14-15(2)24-22(25-19-10-8-18(23)9-11-19)26-21(14)27-13-12-17-6-4-5-7-20(17)16(27)3/h4-11,16H,12-13H2,1-3H3,(H,24,25,26)
+| StdInChIKey = LECZXZOBEZITCL-UHFFFAOYSA-N
+}}
+
+'''Revaprazan''' (trade name '''Revanex''') is a drug that reduces [[gastric acid]] secretion which is used for the treatment of [[gastritis]].<ref>{{cite journal | journal = J Gastroenterol Hepatol | date = Oct 2010 | volume = 25 | issue = 10 | pages = 1618–1625 | doi= 10.1111/j.1440-1746.2010.06408.x | title = Clinical trial: inhibitory effect of revaprazan on gastric acid secretion in healthy male subjects |vauthors=Kim HK, Park SH, Cheung DY, Cho YS, Kim JI, Kim SS, Chae HS, Kim JK, Chung IS | pmid= 20880169}}</ref> It acts as an acid pump antagonist<ref>{{cite journal | title = Pharmacokinetic and pharmacodynamic evaluation of a novel proton pump inhibitor, YH1885, in healthy volunteers |vauthors=Yu KS, Bae KS, Shon JH, Cho JY, Yi SY, Chung JY, Lim HS, Jang IJ, Shin SG, Song KS, Moon BS | journal = J Clin Pharmacol | date = Jan 2004 | volume = 44 | issue = 1 | pages = 73–82 | pmid=14681344 | doi=10.1177/0091270003261321}}</ref> ([[Proton-pump inhibitor#Potassium-competitive acid blockers|potassium-competitive acid blocker]]). Revaprazan is approved for use in South Korea,<ref>{{Cite web | url = http://business.highbeam.com/436989/article-1G1-151758768/revaprazan-yuhan-registered-south-korea | archive-url = https://web.archive.org/web/20140429190723/http://business.highbeam.com/436989/article-1G1-151758768/revaprazan-yuhan-registered-south-korea | dead-url = yes | archive-date = April 29, 2014 | title = Revaprazan Yuhan registered, South Korea (gastritis) | publisher = R & D Focus Drug News | date = September 25, 2006}}</ref> but is not approved in Europe or the United States.
+
+==References==
+{{reflist}}
+
+{{Proton-Pump Inhibitors}}
+
+[[Category:Proton pump inhibitors]]
+[[Category:Anilines]]
+[[Category:Organofluorides]]
+[[Category:Aminopyrimidines]]
+[[Category:Tetrahydroisoquinolines]]
+
+
+{{Gastrointestinal-drug-stub}}

@@ -1,0 +1,38 @@
+Title : Wikipedia:WikiProject Spam/Local/barcode.ae
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|barcode.ae]]
+== Links ==
+* {{LinkSummary|barcode.ae}}
+:* barcode.ae resolves to [//192.254.185.253 192.254.185.253]
+:*: {{LinkSummary|192.254.185.253}}
+:* {{GoogleAnalyticsSummary|37498035}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Barcodeuae}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12066723|lang=en|wikidomain=w|namespace=User|pagename=Barcodeuae|username=Barcodeuae|link=www.barcode.ae/index.html|sortdomain=ae.barcode.|domain=barcode.ae|origdiff=http://en.wikipedia.org/w/index.php?oldid=605861820&rcid=651381616|resolved=X|isIP=0|date=2014-04-26|time=06:47:14|wiki=en.wikipedia.org|revid=605861820|oldid=0|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=8|top=0|deleted=1|there=0|checked=1|coiflag=1|coiname=Barcodeuae|coilanguage=en|coipage=User:Barcodeuae|coiurl=barcode.ae|coifullurl=www.barcode.ae/index.html|coidiff=http://en.wikipedia.org/?oldid=605861820|coithetime=1398504099|coireason=(overlap) Username overlaps with domain: 'barcodeuae'-'barcode.ae' = 90% (90/100)|otherlinks={{User:COIBot/OtherLinks|link=www.barcode.ae/index.html|domain=barcode.ae|U=8|L=8|UL=8|WUL=0}}}}
+{{User:COIBot/EditSummary|id=12066767|lang=en|wikidomain=w|namespace=User|pagename=Barcodeuae|username=Barcodeuae|link=www.barcode.ae/about.html|sortdomain=ae.barcode.|domain=barcode.ae|origdiff=http://en.wikipedia.org/w/index.php?diff=605862525&oldid=605862064|resolved=X|isIP=0|date=2014-04-26|time=06:55:56|wiki=en.wikipedia.org|revid=605862525|oldid=0|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=8|top=0|deleted=1|there=0|checked=1|coiflag=1|coiname=Barcodeuae|coilanguage=en|coipage=User:Barcodeuae|coiurl=barcode.ae|coifullurl=www.barcode.ae/about.html|coidiff=http://en.wikipedia.org/?diff=605862525|coithetime=1398503723|coireason=(overlap) Username overlaps with domain: 'barcodeuae'-'barcode.ae' = 90% (90/100)|otherlinks={{User:COIBot/OtherLinks|link=www.barcode.ae|domain=barcode.ae|U=8|L=8|UL=8|WUL=0|analytics=37498035}}{{User:COIBot/OtherLinks|link=www.barcode.ae/pos-system.html|domain=barcode.ae|U=8|L=8|UL=8|WUL=0}}{{User:COIBot/OtherLinks|link=www.barcode.ae/barcode-scanner.html|domain=barcode.ae|U=8|L=8|UL=8|WUL=0}}{{User:COIBot/OtherLinks|link=www.barcode.ae/mobile-printer.html|domain=barcode.ae|U=8|L=8|UL=8|WUL=0}}{{User:COIBot/OtherLinks|link=www.barcode.ae/receipt-or-barcode-printers.html|domain=barcode.ae|U=8|L=8|UL=8|WUL=0}}{{User:COIBot/OtherLinks|link=www.barcode.ae/pos-system.html|domain=barcode.ae|U=8|L=8|UL=8|WUL=0}}{{User:COIBot/OtherLinks|link=www.barcode.ae/about.html|domain=barcode.ae|U=8|L=8|UL=8|WUL=0}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 2 additions out of 2 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/barcode.ae]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bbarcode\.ae\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/barcode.ae]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/barcode.ae|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 09:07, 26 April 2014 (UTC)
+<!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). <!-- noleft -->No links left in here mentioned edits.  Marked stale. . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 20:34, 14 May 2014 (UTC)

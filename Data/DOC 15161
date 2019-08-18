@@ -1,0 +1,26 @@
+Title : TBC1D24
+Text : {{Infobox_gene}}
+'''TBC1 domain family, member 24''' is a [[protein]] that in humans is encoded by the TBC1D24 [[gene]].<ref name="entrez">
+{{cite web | title = Entrez Gene: TBC1 domain family, member 24 | url = https://www.ncbi.nlm.nih.gov/gene/57465 }}</ref>
+
+== Function ==
+
+This gene encodes a protein with a conserved domain, referred to as the TBC domain, characteristic of proteins which interact with [[GTPase]]s. TBC domain proteins may serve as GTPase-activating proteins for a particular group of GTPases, the [[Rab (G-protein)|Rab]] (Ras-related proteins in brain) small GTPases which are involved in the regulation of [[membrane trafficking]]. Mutations in this gene are associated with [[Infantile myoclonic encephalopathy|familial infantile myoclonic epilepsy]]. [[Alternative splicing]] results in multiple transcript variants.
+
+Mutations in TBC1D24 cause {{SWL|type=mutation_results_in|target=Hereditary hearing loss|label=Hereditary hearing loss}}.<ref>{{cite journal | vauthors = Azaiez H, Booth KT, Bu F, Huygen P, Shibata SB, Shearer AE, Kolbe D, Meyer N, Black-Ziegelbein EA, Smith RJ | title = TBC1D24 mutation causes autosomal-dominant nonsyndromic hearing loss | journal = Human Mutation | volume = 35 | issue = 7 | pages = 819–23 | date = July 2014 | pmid = 24729539 | doi = 10.1002/humu.22557 | pmc = 4267685 }}</ref>
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+{{refbegin | 2}}
+* {{cite journal | vauthors = Hirosawa M, Nagase T, Ishikawa K, Kikuno R, Nomura N, Ohara O | title = Characterization of cDNA clones selected by the GeneMark analysis from size-fractionated cDNA libraries from human brain | journal = DNA Research | volume = 6 | issue = 5 | pages = 329–36 | date = October 1999 | pmid = 10574461 | doi = 10.1093/dnares/6.5.329 }}
+* {{cite journal | vauthors = Fukuda M | title = TBC proteins: GAPs for mammalian small GTPase Rab? | journal = Bioscience Reports | volume = 31 | issue = 3 | pages = 159–68 | date = June 2011 | pmid = 21250943 | doi = 10.1042/BSR20100112 }}
+* {{cite journal | vauthors = Corbett MA, Bahlo M, Jolly L, Afawi Z, Gardner AE, Oliver KL, Tan S, Coffey A, Mulley JC, Dibbens LM, Simri W, Shalata A, Kivity S, Jackson GD, Berkovic SF, Gecz J | title = A focal epilepsy and intellectual disability syndrome is due to a mutation in TBC1D24 | journal = American Journal of Human Genetics | volume = 87 | issue = 3 | pages = 371–5 | date = September 2010 | pmid = 20797691 | pmc = 2933342 | doi = 10.1016/j.ajhg.2010.08.001 }}
+* {{cite journal | vauthors = Ishibashi K, Kanno E, Itoh T, Fukuda M | title = Identification and characterization of a novel Tre-2/Bub2/Cdc16 (TBC) protein that possesses Rab3A-GAP activity | journal = Genes to Cells | volume = 14 | issue = 1 | pages = 41–52 | date = January 2009 | pmid = 19077034 | pmc =  | doi = 10.1111/j.1365-2443.2008.01251.x }}
+* {{cite journal | vauthors = Falace A, Filipello F, La Padula V, Vanni N, Madia F, De Pietri Tonelli D, de Falco FA, Striano P, Dagna Bricarelli F, Minetti C, Benfenati F, Fassio A, Zara F | title = TBC1D24, an ARF6-interacting protein, is mutated in familial infantile myoclonic epilepsy | journal = American Journal of Human Genetics | volume = 87 | issue = 3 | pages = 365–70 | date = September 2010 | pmid = 20727515 | pmc = 2933335 | doi = 10.1016/j.ajhg.2010.07.020 }}
+{{refend}}
+
+{{NLM content}}
+
+{{gene-16-stub}}

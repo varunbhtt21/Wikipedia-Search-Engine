@@ -1,0 +1,417 @@
+Title : List of power stations in Singapore
+Text : {| class="wikitable sortable"
+! width="21%" | Name
+! width="6%" | Installed Capacity (MW)
+! width="6%" | Licensed Capacity (MW)<ref>[https://www.ema.gov.sg/Licensees_Electricity_Generation_Company.aspx Energy Market Authority - Generation Company]</ref>
+! width="10%" | Commissioned
+! width="17%" | Owner
+! width="10%" | Type
+! width="10%" | Refs
+|-
+| [[Senoko Power Station]]
+| 3300
+| 3300
+| 1983-2012
+| Senoko Energy Pte Ltd
+| Oil, [[Natural Gas|NG]]
+| <ref>[http://www.senokoenergy.com/media-resources Senoko Energy Media Resources]</ref>
+|-
+| [[Tuas Power Station]]
+| 2476
+| 2475.9
+| 1999-2014
+| [[Tuas Power Ltd]]
+| Oil, NG
+| <ref>[http://www.chng.com.cn/eng/n75871/n75965/n1112740/index.html China Huaneng Group - Tuas Power Ltd]</ref>
+|-
+| [[TP Utilities]]
+| 166
+| 166
+| 2013-2017
+| TP Utilities Pte Ltd
+| NG, [[cogeneration|cogen]], [[desalination plant|desalination]]
+| <ref>{{cite web | url=http://www.eco-business.com/news/hyflux-awarded-438m-seawater-desalination-plant-co/ | title=Hyflux awarded $43.8m seawater desalination plant contract| publisher=Eco-Business | date= 8 March 2010| accessdate=10 November 2016}}</ref>
+|-
+| [[Jurong Power Station]]
+| 180
+| 180
+| 1986
+| [[PowerSeraya|YTL PowerSeraya Pte Ltd]]
+| Diesel
+|  <ref name="seraya" />
+|-
+| [[Pulau Seraya Power Station]]
+| 2920
+| 2920
+| 1987-2010
+| YTL PowerSeraya Pte Ltd
+| Oil, NG, cogen
+| <ref name="seraya">[http://ytlpowerseraya.com.sg/services/utilities/ YTL PowerSeraya - Utilities]</ref>
+|-
+| [[Pulau Sakra Power Station]]
+| 815
+| 785
+| 2001
+| SembCorp Cogen Pte Ltd
+| NG, cogen 
+| <ref>{{cite web | url=http://www.powerengineeringint.com/articles/2001/11/sempcorp-opens-ge-powered-815-mw-cogeneration-plant.html | title=SempCorp opens GE powered 815 MW cogeneration plant| publisher=Power Engineering International | date= November 2001 | accessdate=10 November 2016}}</ref>
+|-
+| [[SembCorp Cogen @ Banyan]]
+| 400
+| 403.8
+| 2014
+| SembCorp Cogen Pte Ltd
+| NG, cogen
+| <ref>{{cite web | url=http://www.sembcorp.com/en/media/media-releases/utilities/2014/october/sembcorp-opens-a-second-cogeneration-plant-on-jurong-island-and-a-new-technology-innovation-centre/ | title=Sembcorp Opens a Second Cogeneration Plant on Jurong Island and a New Technology & Innovation Centre| publisher=SembCorp | date=31 October 2014 | accessdate=10 November 2016}}</ref>
+|-
+| [[Keppel Merlimau Cogen Power Station]]
+| 1300
+| 1340
+| 2007-2013
+| [[Keppel_Corporation|Keppel Merlimau Cogen Pte Ltd]]
+| NG, cogen
+| <ref name="Keppel">{{cite web | url=http://www.alstom.com/press-centre/2011/4/alstom-starts-phase-2-of-kmc-800-mw-gas-fired-power-plant-in-singapore/ | title=Alstom starts Phase 2 of KMC’s 800 MW gas-fired power plant in Singapore | publisher=Alstom| date=26 April 2011 | accessdate=10 November 2016}}</ref>
+|-
+| [[PacificLight Power]]
+| 800
+| 800
+| 2014
+|  [[PacificLight|PacificLight Power Pte Ltd]]
+| [[Liquefied Natural Gas|LNG]]
+| <ref name="PacificLight">{{cite web | url=https://www.pacificlight.com.sg/media-centre/newsroom/articles/2014/06/02/pacificlight-power-launches-s$1.2-billion-power-plant | title=PacificLight Power launches S$1.2 billion power plant | publisher=PacificLight  | work=Gallery | date=3 June 2014 | accessdate=10 November 2016}}</ref>
+|-
+| [[Tuaspring Plant]]
+| 411
+| 395.6
+| 2016
+| Tuaspring Plant Pte Ltd
+| LNG, desalination
+| <ref name="tuaspring">{{cite web | url=http://www.water-technology.net/projects/tuaspring-desalination-and-integrated-power-plant/ | title=Tuaspring Desalination and Integrated Power Plant, Singapore | publisher=water-technology.net| date=2015 | accessdate=10 November 2016}}</ref>
+|-
+| [[Senoko Incineration Plant]]
+| 55
+| 55
+| 1993
+|Senoko Waste-To-Energy Pte Ltd
+| [[Waste-to-Energy]]
+| <ref name="nea">{{cite web | url=http://www.nea.gov.sg/energy-waste/waste-management/refuse-disposal-facility | title=Refuse Disposal Facility | publisher=National Environment Agency| date=2016 | accessdate=10 November 2016}}</ref>
+|-
+| [[Tuas Incineration Plant]]
+| 47.8
+| 47.8
+| 1987
+|  [[National Environment Agency]]
+| Waste-to-Energy
+| <ref name="nea" />
+|-
+| [[Tuas South Incineration Plant]]
+| 132
+| 132
+| 2000
+| National Environment Agency
+| Waste-to-Energy
+| <ref name="nea" />
+|-
+| [[Keppel Seghers Tuas Waste-to-Energy Plant]]
+| 22
+| 22
+| 2009
+| Keppel Seghers Tuas Waste-to-Energy Plant Pte Ltd
+| Waste-to-Energy
+| <ref name="nea" />
+|}
+
+<mapframe text="Location of power stations in Singapore, [[File:Red pog.svg|15px]] Oil, [[File:Yellow pog.svg|15px]]Gas, [[File:Green pog.svg|15px]]Waste" width="350" height="200" zoom="10" latitude="1.3507" longitude="103.8156">
+[
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [103.79910,  1.46469] },
+    "properties": {
+      "title": "[[Senoko Power Station]]",
+      "description": "[[File:Senoko_Power_Station.JPG|200px]]",
+      "marker-symbol": "industrial",
+      "marker-size": "small",
+      "marker-color": "#ff0000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [103.6418,  1.2889] },
+    "properties": {
+      "title": "[[Tuas Power Station]]",
+      "marker-symbol": "industrial",
+      "marker-size": "small",
+      "marker-color": "#ff0000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [103.7276,  1.2791] },
+    "properties": {
+      "title": "[[Pulau Seraya Power Station]]",
+      "marker-symbol": "industrial",
+      "marker-size": "small",
+      "marker-color": "#ff0000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [103.72384,  1.28361] },
+    "properties": {
+      "title": "[[PacificLight Power]]",
+      "marker-symbol": "industrial",
+      "marker-size": "small",
+      "marker-color": "#ffff00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [103.669222,  1.258722] },
+    "properties": {
+      "title": "[[Sembcorp Cogen @ Banyan]]",
+      "marker-symbol": "industrial",
+      "marker-size": "small",
+      "marker-color": "#ffff00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [103.702824,  1.255542] },
+    "properties": {
+      "title": "[[Pulau Sakra Power Station]]",
+      "marker-symbol": "industrial",
+      "marker-size": "small",
+      "marker-color": "#ffff00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [103.710642,1.311327] },
+    "properties": {
+      "title": "[[Jurong Power Station]]",
+      "marker-symbol": "industrial",
+      "marker-size": "small",
+      "marker-color": "#ffff00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [103.67492,1.28197] },
+    "properties": {
+      "title": "[[Keppel Merlimau Cogen Power Station]]",
+      "marker-symbol": "industrial",
+      "marker-size": "small",
+      "marker-color": "#ffff00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [103.62098,1.2977] },
+    "properties": {
+      "title": "[[Keppel Seghers Tuas Waste-to-Energy Plant]]",
+      "marker-symbol": "industrial",
+      "marker-size": "small",
+      "marker-color": "#00ff00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [103.79573,1.46222] },
+    "properties": {
+      "title": "[[Senoko Incineration Plant]]",
+      "marker-symbol": "industrial",
+      "marker-size": "small",
+      "marker-color": "#00ff00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [103.63522,1.32521] },
+    "properties": {
+      "title": "[[Tuas Incineration Plant]]",
+      "marker-symbol": "industrial",
+      "marker-size": "small",
+      "marker-color": "#00ff00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [103.62051,1.29619] },
+    "properties": {
+      "title": "[[Tuas South Incineration Plant]]",
+      "marker-symbol": "industrial",
+      "marker-size": "small",
+      "marker-color": "#00ff00"
+    }
+  }
+]
+</mapframe>
+
+==List By Fuel==
+===Oil-fired Thermal===
+{| class="wikitable sortable"
+! width="21%" | Name
+! width="6%" | Capacity (MW)
+! width="10%" | Commissioned
+! width="20%" | Location
+! width="17%" | Owner
+! width="10%" | Type
+! width="10%" | Refs
+|-
+| [[Senoko Power Station]]
+| 500
+| 1983
+| 
+| [[Senoko Energy Pte Ltd]]
+| Oil
+| 
+|-
+| [[Tuas Power Station]]
+| 600
+| 1999
+| 
+| Tuas Power Ltd
+| Oil
+| 
+|-
+| [[Pulau Seraya Power Station]]
+| 1500
+| 1987-1992
+| 
+| PowerSeraya|YTL PowerSeraya Pte Ltd
+| Oil
+|
+|}
+
+===Gas===
+
+{| class="wikitable sortable"
+! width="21%" | Name
+! width="6%" | Capacity (MW)
+! width="10%" | Commissioned
+! width="20%" | Location
+! width="17%" | Owner
+! width="10%" | Type
+! width="10%" | Refs
+|-
+| [[PacificLight Power]]
+| 800
+| 2014
+| 
+|  PacificLight Power Pte Ltd
+| LNG
+| <ref name="PacificLight">{{cite web | url=https://www.pacificlight.com.sg/media-centre/newsroom/articles/2014/06/02/pacificlight-power-launches-s$1.2-billion-power-plant | title=PacificLight Power launches S$1.2 billion power plant | publisher=PacificLight  | work=Gallery | date=3 June 2014 | accessdate=10 November 2016}}</ref>
+|-
+| [[SembCorp Cogen @ Banyan]]
+| 400
+| 2014
+| 
+|  [[SembCorp Cogen Pte Ltd]]
+| NG, cogen
+| <ref>{{cite web | url=http://www.sembcorp.com/en/media/media-releases/utilities/2014/october/sembcorp-opens-a-second-cogeneration-plant-on-jurong-island-and-a-new-technology-innovation-centre/ | title=Sembcorp Opens a Second Cogeneration Plant on Jurong Island and a New Technology & Innovation Centre| publisher=SembCorp | date=31 October 2014 | accessdate=10 November 2016}}</ref>
+|-
+| [[Pulau Sakra Power Station]]
+| 815
+| 2001
+| 
+| SembCorp Cogen Pte Ltd
+| NG, cogen 
+| <ref>{{cite web | url=http://www.powerengineeringint.com/articles/2001/11/sempcorp-opens-ge-powered-815-mw-cogeneration-plant.html | title=SempCorp opens GE powered 815 MW cogeneration plant| publisher=Power Engineering International | date= November 2001 | accessdate=10 November 2016}}</ref>
+|-
+| [[Senoko Power Station]]
+| 2800
+| 1996-2012
+| 
+| Senoko Energy Pte Ltd
+| NG
+| 
+|-
+| [[Tuas Power Plant]]
+| 1875.9
+| 2001-2014
+| 
+| [[Tuas Power Generation Pte Ltd]]
+| NG
+| 
+|-
+| [[Jurong Power Station]]
+| 210
+| 1986
+| 
+| YTL PowerSeraya Pte Ltd
+| NG
+| 
+|-
+| [[Pulau Seraya Power Station]]
+| 1540
+| 2002-2010
+| 
+| [[YTL PowerSeraya Pte Ltd]]
+| NG
+| 
+|-
+| [[Keppel Merlimau Cogen Power Station]]
+| 1340
+| 2007-2013
+| 
+| [[Keppel Merlimau Cogen Pte Ltd]]
+| NG, cogen
+| 
+|}
+
+===Waste to energy===
+{| class="wikitable sortable"
+! width="21%" | Name
+! width="6%" | Capacity (MW)
+! width="10%" | Commissioned
+! width="20%" | Location
+! width="17%" | Owner
+! width="10%" | Type
+! width="10%" | Refs
+|-
+| [[Keppel Seghers Tuas Waste-to-Energy Plant]]
+| 22
+| 2009
+| 
+| [[Keppel Seghers Tuas Waste-to-Energy Plant Pte Ltd]]
+| 
+| <ref>{{cite web | url=http://globalenergyobservatory.org/form.php?pid=3828 | title=Keppel Seghers Tuas WTE Plant | publisher=Global Energy Observatory | accessdate=24 April 2014}}</ref>
+|-
+| [[Senoko Incineration Plant]]
+| 55
+| 1993
+| 
+| Senoko Waste-To-Energy Pte Ltd
+| 
+| <ref>{{cite web | url=http://globalenergyobservatory.org/form.php?pid=42427 | title=Senoko WTE Incineration Plant | publisher=Global Energy Observatory | accessdate=24 April 2014}}</ref>
+|-
+| [[Tuas Incineration Plant]]
+| 47.8
+| 1987
+| 
+| National Environment Agency
+| 
+| 
+|-
+| [[Tuas South Incineration Plant]]
+| 132
+| 2000
+| 
+| [[National Environment Agency]]
+| 
+| 
+|-
+|}
+
+==See also==
+{{Portal|Energy|Singapore}}
+*[[Energy in Singapore]]
+*[[Electricity sector in Singapore]]
+*[[List of largest power stations in the world]]
+
+==References==
+{{reflist}}
+
+{{GeoGroupTemplate}}
+{{Power stations}}
+[[Category:Lists of power stations by country|Singapore]]

@@ -1,0 +1,19 @@
+Title : Template:User H–SC
+Text : {{Userbox 
+| border-c = #000000 
+| border-s = 1 
+| id-c = #ADAFAA 
+| id-s = 14
+| id-fc = #8C2633 
+| info-c = #8C2633 
+| info-s = 8 
+| info-fc = #ADAFAA 
+| id-op = font-family: Garamond;
+| id = H-SC 
+| info = <font face="Garamond" size="2">This user attends or attended '''[[Hampden–Sydney College|<span style="color: #ADAFAA">Hampden–Sydney College</span>]]'''.</font>
+| info-op  = text-align:center;
+| float = left 
+| usercategory  = Wikipedians by alma mater: Hampden–Sydney College 
+}}<noinclude>
+[[Category:School user templates|Hampden–Sydney College]]
+</noinclude>

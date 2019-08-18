@@ -1,0 +1,16 @@
+Title : Serum Metabolome Database
+Text : The '''Serum Metabolome database''' is a free web database about small molecule [[metabolites]] found in human [[serum (blood)|serum]] and their concentration values. The database includes chemical data, clinical data and molecular/biochemistry data from literature and experiment. This database also references many other databases, such as [[KEGG]], [[PubChem]], [[MetaCyc]], [[ChEBI]], [[Protein Data Bank|PDB]], [[Swiss-Prot]], [[GenBank]], and Human Metabolome Database ([[HMDB]]).
+[[File:UoA bioloab Serummetabolome.png|thumb|Serum metabolome database website home page]]
+The Serum Metabolome database is maintained by David Wishart, Departments of Computing Science & Biological Sciences, [[University of Alberta]].
+
+The Serum Metabolome database protocol is available via its website.<ref>Psychogios N, Hau DD, Peng J, Guo AC, Mandal R, Bouatra S, Sinelnikov I, Krishnamurthy R, Eisner R, Gautam B, Young N, Xia J, Knox C, Dong E, Huang P, Hollander Z, Pedersen TL, Smith SR, Bamforth F, Greiner R, McManus B, Newman JW, Goodfriend T, Wishart DS. [https://www.ncbi.nlm.nih.gov/pubmed/21359215 The human serum metabolome]. PLoS One. 2011 Feb 16;6(2):e16957.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+[http://www.serummetabolome.ca/ Official website]
+
+[[Category:Chemical databases]]
+[[Category:Biological databases]]
+[[Category:Metabolomic databases]]

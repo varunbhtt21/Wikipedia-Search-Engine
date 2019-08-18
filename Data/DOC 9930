@@ -1,0 +1,7 @@
+Title : Template:Country data Nairobi
+Text : {{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Nairobi
+| flag alias = Flag of Nairobi.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

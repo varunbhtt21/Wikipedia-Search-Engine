@@ -1,0 +1,33 @@
+Title : Martelella
+Text : {{Taxobox
+| color = lightgrey
+| name = Martelella
+| regnum = [[Bacterium|Bacteria]]
+| phylum = [[Proteobacteria]]
+| classis = [[Alpha Proteobacteria]]
+| ordo = [[Rhizobiales]]
+| familia = [[Aurantimonadaceae]]
+| genus = '''Martelella'''
+| genus_authority = Rivas et al. 2005<ref name=Martelella>{{cite journal|last1=Parte|first1=A.C.|title=Martelella|journal=www.bacterio.net|url=http://www.bacterio.net/martelella.html}}</ref>
+| type_species = ''Martelella mediterranea''<ref name=Martelella/>
+| subdivision_ranks = [[Species]]
+| subdivision = 
+''[[Martelella endophytica|M. endophytica]]''<ref name=Martelella/><br>
+''[[Martelella limonii|M. limonii]]''<ref name=Martelella/><br>
+''[[Martelella mangrovi|M. mangrovi]]''<ref name=Martelella/><br>
+''[[Martelella mediterranea|M. mediterranea]]''<ref name=Martelella/><br>
+''[[Martelella radicis|M. radicis]]''<ref name=Martelella/><br>
+''[[Martelella suaedae|M. suaedae]]''<ref name=Martelella/>
+}}
+
+'''''Martelella''''' is a genus of [[Gram-negative]], [[oxidase]]- and [[catalase]]-positive, strictly [[Aerobic organism|aerobic]], non-[[spore]]-forming [[bacteria]] from the family of [[Aurantimonadaceae]].<ref>[https://www.uniprot.org/taxonomy/293088 UniProt]</ref><ref>{{Cite journal | doi = 10.1099/ijs.0.63438-0| title = ''Martelella mediterranea'' gen. nov., sp. nov., a novel  -proteobacterium isolated from a subterranean saline lake| journal = International Journal of Systematic and Evolutionary Microbiology| volume = 55| issue = 2| pages = 955| year = 2005| last1 = Rivas | first1 = R.| pmid=15774691}}</ref>
+
+==References==
+{{Reflist}}
+{{Taxonbar|from=Q16985183}}
+
+[[Category:Rhizobiales]]
+[[Category:Bacteria genera]]
+
+
+{{Alphaproteobacteria-stub}}

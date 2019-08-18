@@ -1,0 +1,83 @@
+Title : Template:JTG Daugherty Racing
+Text : {{Navbox
+| name      = JTG Daugherty Racing
+| title     = [[JTG Daugherty Racing]]
+| listclass = hlist
+| state     = {{{state|autocollapse}}}
+
+| above = Headquarters: '''[[Harrisburg, North Carolina|Harrisburg]], [[North Carolina]]'''
+
+| group1 = Personnel
+| list1  = 
+* Jodi Geschickter
+* Tad Geschickter
+* [[Brad Daugherty (basketball)|Brad Daugherty]]
+
+| group2 = [[NASCAR Cup Series|Monster Energy NASCAR Cup Series]]
+| list2  =
+  {{Navbox|child
+  | group1 = Drivers
+  | list1  = 
+* '''(37)''' [[Chris Buescher]]
+* '''(47)''' [[Ryan Preece]]
+
+  | group2 = Crew chiefs
+  | list2  = 
+* '''(37)''' [[Trent Owens]]
+* '''(47)''' Tristan Smith
+}}
+
+| group3 = Notable former drivers
+| list3 = 
+  {{Navbox|child
+  | group1 = Cup Series
+  | list1  = 
+* [[A. J. Allmendinger]]
+* [[Marcos Ambrose]]
+* [[Bobby Labonte]]
+* [[Jon Wood]]
+* [[Ken Schrader]]
+
+  | group2 = [[NASCAR Xfinity Series|Nationwide Series]]
+  | list2  =
+* [[Marcos Ambrose]]
+* [[Rich Bickle]]
+* [[Kelly Bires]]
+* [[Stacy Compton]]
+* [[Mike Dillon (racing driver)|Mike Dillon]]
+* [[Jeff Fuller (racing driver)|Jeff Fuller]]
+* [[Mark Green (racing driver)|Mark Green]]
+* [[Ron Hornaday Jr.]]
+* [[Jimmie Johnson]]
+* [[Andy Lally]]
+* [[Kevin Lepage]]
+* [[Michael McDowell (racing driver)|Michael McDowell]]
+* [[Phil Parsons]]
+* [[Larry Pearson]]
+* [[Robert Pressley]]
+* [[Jeff Purvis]]
+* [[Tony Raines]]
+* [[Jon Wood]]
+
+  | group3  = [[NASCAR Gander Outdoors Truck Series|Camping World Truck Series]]
+  | list3   =
+* [[Marcos Ambrose]]
+* [[Joey Clanton]]
+* [[Stacy Compton]]
+* [[Bobby East]]
+}}
+
+| group4 = [[List of members of the NASCAR Hall of Fame|NASCAR Hall of Fame]]
+| list4  =
+* [[Ron Hornaday Jr.]]
+* [[Bobby Labonte]]
+
+| group5 = Partnerships and affiliations
+| list5  =
+* [[Hendrick Motorsports]]
+
+| below = ''Formerly known as ST Motorsports and JTG Racing''
+}}<noinclude>
+{{collapsible option}}
+[[Category:NASCAR templates]]
+</noinclude>

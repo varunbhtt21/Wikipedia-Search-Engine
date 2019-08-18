@@ -1,0 +1,34 @@
+Title : Wikipedia:WikiProject Spam/Local/maxwellstreetbynathanielburkins.weebly.com
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|maxwellstreetbynathanielburkins.weebly.com]]
+== Links ==
+* {{LinkSummary|maxwellstreetbynathanielburkins.weebly.com}}
+:* maxwellstreetbynathanielburkins.weebly.com resolves to [//199.34.228.54 199.34.228.54]
+:*: {{LinkSummary|199.34.228.54}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link would be caught by rule \bweebly\.com\b on the [[en:User:COIBot#Monitor list|monitor list]] ([[en:User:COIBot#Monitor list|Automonitor]]: reported to [[:en:User:XLinkBot/RevertList]] ([http://en.wikipedia.org/w/index.php?diff=661812692&oldid=661812589 diff] - )).
+:* Link is revertlisted by \bweebly\.com\b on [//en.wikipedia.org/wiki/User:XLinkBot/RevertList en.wikipedia.org]
+== Users ==
+* {{UserSummary|Nathanealb}}
+
+== Selected additions ==
+No additions recorded.
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bmaxwellstreetbynathanielburkins\.weebly\.com\b# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/maxwellstreetbynathanielburkins.weebly.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/maxwellstreetbynathanielburkins.weebly.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported.. <!-- redirectsite -->This site appears to be a redirect site. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 01:30, 30 April 2014 (UTC)
+<!-- auto-closed --><!-- noleft -->No links left in here mentioned edits.  Marked stale. . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 16:41, 10 December 2015 (UTC)

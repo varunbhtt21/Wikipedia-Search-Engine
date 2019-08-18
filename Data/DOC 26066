@@ -1,0 +1,28 @@
+Title : Template:Infobox sports series/doc
+Text : {{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+== Usage ==
+{{Parameter names example|_template=|title|image|image_size|image_alt|caption|type|format|dates|date|locations|location|teams|clubs|result|officials|officials_type}}
+<pre style="overflow:auto">
+{{Infobox sports series
+| title      = 
+| image      = 
+| image_size = <!-- default is frameless -->
+| image_alt  = 
+| caption    = 
+| type       = 
+| format     = 
+| dates      = <!-- or | date = -->
+| locations  = <!-- or | location = -->
+| teams      = <!-- or | clubs = -->
+| result     = 
+| officials_type = <!-- default is Officials -->
+| officials  = 
+}}
+</pre>
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go here and interwikis go in Wikidata. -->
+[[Category:Sports infobox templates|Sports Series]]
+}}</includeonly>

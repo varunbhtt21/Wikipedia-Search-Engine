@@ -1,0 +1,17 @@
+Title : Wikipedia:Wikipedia Signpost/Templates/Story-preload/FC/intro
+Text : {{imbox
+| type      = featured
+| text      = <center>'''Thank you for helping write the Featured Content section of the ''Signpost!'''''</center>
+A few quick suggestions before you start:
+* Widescreen viewing is common now. Try to get it to work in fullscreen on a 1440px wide monitor without pushing the bottom image down. Selecting side images that aren't too tall compared to their width helps with this. If you balance it well between FA, FL, and FP, it will degrade gracefully to lower resolutions. 
+* If you have a few really good tall images, consider replacing the footer image with a gallery of narrow images. Try something like:
+:::&lt;gallery mode=packed heights=400px&gt;
+:::File:Tall image.jpg<nowiki>|</nowiki>Caption 1
+:::File:Another tall image.jpg<nowiki>|</nowiki>Caption 2
+:::&lt;/gallery&gt;
+
+* Try to put FA images next to FAs, and so on. If there aren't enough, just say something in the caption like "...is now a featured picture" so that people aren't trying to figure out, say, how a cartoon of a cat relates to the featured articles on Socrates, Joe DiMaggio, and Sierra Leone.
+* Check [[WP:GO]] for a list of featured content, but note that the week of content you want may be archived already in the list at the bottom. If it ''isn't'' there yet, you might need to wait a bit before starting this week's report, or at least put a warning on the page like "'''List incomplete: Check [[WP:GO]] before taking this live!'''", so that content isn't missed out by accident.
+* Sample formats are given for each type of content. The rough placements of images are given, but this can vary: In particular, the Featured Article section tends to be quite long, but, if it isn't, you may need to cut one of the images suggested to be next to it.
+* Try for high image quality throughout.
+}}

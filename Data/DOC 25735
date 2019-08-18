@@ -1,0 +1,16 @@
+Title : Template:ITF profile
+Text : {{#if: {{{1<includeonly>|</includeonly>}}} {{{number|}}} {{{id|}}} {{#property:P599}}
+
+| [https://www.itftennis.com/procircuit/players/player/profile.aspx?playerid={{#if: {{{1|{{{number|{{{id<includeonly>|</includeonly>}}}}}}}}}
+  | {{{1|{{{number|{{{id}}}}}}}}}
+  | {{First word|{{#property:P599}}|sep=,}}
+  }} {{#if: {{{2|{{{name<includeonly>|</includeonly>}}}}}}
+  | {{{2|{{{name}}}}}}
+  | {{PAGENAMEBASE}}
+  }}] at the [[International Tennis Federation]]<includeonly>{{EditAtWikidata|pid=P599|{{{1|{{{number|{{{id|}}}}}}}}}}}</includeonly>{{WikidataCheck|property=P599|value={{{1|{{{number|{{{id|}}}}}}}}}|category=ITF template with ID|namespaces=0|nocatsame=1}}
+
+| <span class="error">&#123;&#123;[[Template:ITF profile|ITF profile]]&#125;&#125; template missing ID and not present in Wikidata.</span>{{Main other|[[Category:ITF template missing ID and not in Wikidata]]}}
+
+}}<noinclude>
+{{Documentation}}<!-- Please add categories to the /doc subpage & add interwikis to Wikidata. -->
+</noinclude>

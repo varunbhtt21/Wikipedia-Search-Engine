@@ -1,0 +1,13 @@
+Title : Template:Palissy
+Text : [https://www.pop.culture.gouv.fr/notice/palissy/{{{1|PA00110281}}} {{{2|Palissy}}}]
+<noinclude>
+{{Documentation|content=
+[[Base Palissy]] is a French database of notable and historic objects. Each object has a reference number in the format PA00110281. This template is designed to provide a link to the on-line page describing the object with a title that will appear on the wikipage. 
+:<nowiki>{{Palissy|{{{1}}}|{{{2}}}}}</nowiki>
+::{{{1}}}- reference- defaults to a random site PM00110281
+::{{{2}}}- title- or comment, defaults to the word Palissy
+}}
+
+[[Category:Arts and culture templates]]
+[[Category:Specific-source templates]]
+</noinclude>

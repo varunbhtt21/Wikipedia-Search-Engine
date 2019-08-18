@@ -1,0 +1,14 @@
+Title : Template:Userbox/EDM music fan
+Text : {{userbox
+| border-c      = #ff6699
+| id            = [[File:Spinnin' Records logo.svg|65px|frameless]]
+| id-a          = left
+| id-c          = #ff6699
+| info          = This user enjoys '''[[Electronic dance music|<span style="color:#00ffff;">EDM music</span>]]'''
+| info-c        = #800080
+| info-fc       = #ff6699
+| nocat         = {{{nocat|}}}
+}}
+<noinclude><br><br><br>
+*The [[Revealed Recordings|Revealed Records]] version of this userbox can be viewed [[Template:Userbox/EDM music fan revealed|here]].
+*You can copy and paste the full code with a different file name to customize.</noinclude>

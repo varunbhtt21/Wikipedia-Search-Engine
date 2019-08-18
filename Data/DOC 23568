@@ -1,0 +1,16 @@
+Title : Template:BWAA Awards
+Text : {{Navbox
+|name = BWAA Awards
+|title     = [[Boxing Writers Association of America|Boxing Writers Association of America Awards]]
+|state     = {{{state|autocollapse}}}
+|listclass = hlist
+|list1     = 
+* [[Al Buck Award|Al Buck Award (Manager of the Year)]] 
+* [[Harry Markson Award|Ali–Frazier Award (Fight of the Year)]]
+* [[Futch–Condon Award|Futch–Condon Award (Trainer of the Year)]]
+* [[Sugar Ray Robinson Award|Sugar Ray Robinson Award (Fighter of the Year)]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Boxing navigational boxes]]
+[[Category:Sports awards navigational boxes]]
+</noinclude>

@@ -1,0 +1,45 @@
+Title : Template:Database Population Arricau-Bordes
+Text : <includeonly>{{#switch: {{{1|}}}
+ | max = 250
+ | source-chart = Sources: database Ldh/EHESS/Cassini and Insee
+ | source1 = http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=1361
+ | source2 = http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2010&typgeo=COM&codgeo=64052
+ | source3 = 
+ | source4 = 
+ | 1 = 1793/250
+ | 2 = 1800/180
+ | 3 = 1806/-
+ | 4 = 1821/263
+ | 5 = 1831/213
+ | 6 = 1836/301
+ | 7 = 1841/290
+ | 8 = 1846/269
+ | 9 = 1851/249
+ | 10 = 1856/231
+ | 11 = 1861/215
+ | 12 = 1866/326
+ | 13 = 1872/336
+ | 14 = 1876/326
+ | 15 = 1881/344
+ | 16 = 1886/338
+ | 17 = 1891/312
+ | 18 = 1896/280
+ | 19 = 1901/267
+ | 20 = 1906/226
+ | 21 = 1911/228
+ | 22 = 1921/192
+ | 23 = 1926/178
+ | 24 = 1931/178
+ | 25 = 1936/172
+ | 26 = 1946/150
+ | 27 = 1954/118
+ | 28 = 1962/139
+ | 29 = 1968/124
+ | 30 = 1975/126
+ | 31 = 1982/105
+ | 32 = 1990/102
+ | 33 = 1999/105
+ | 34 = 2006/106
+ | 35 = 2010/103
+|2010/9999
+}}</includeonly><noinclude>{{documentation}}</noinclude>

@@ -1,0 +1,476 @@
+Title : Template:Cita news
+Text : <noinclude><!--cita_news
+-===========================================
+- Cita_news: Translate Spanish/Italian cite
+-===========================================
+--                        (see NOTES below)
+--></noinclude>{{SAFESUBST:<noinclude/>#if:{{{{{subst|subst:}}}ns:0}}
+| <!--
+================================ Live format
+-->{{ {{
+  #ifeq:{{{isbn|xx}}} |xx
+  | cite news | cite book}}
+| url={{{url|}}}{{{URL|}}}
+| urltrad={{{urltrad|}}}
+| deadurl={{{deadurl|{{{enlaceroto|{{{urlmorto|}}}|}}}|}}}
+| title={{{title|{{{título|{{{titolo|<!--
+    --><noinclude>El Título</noinclude><includeonly><!--
+    -->[missing title]</includeonly>}}}|}}}|}}}
+| trans-title={{{trans-title|{{{trans_title|{{{trad_titulo|{{{titolotradotto|}}}}}}|}}}}}}
+| author={{{author|}}}{{{autor|}}}{{{autore|}}}{{{name|}}}
+| author1={{{author1|}}}{{{autor1|}}}{{{autore1|}}}{{{name1|}}}
+| author2={{{author2|}}}{{{autor2|}}}{{{autore2|}}}{{{name2|}}}
+| last={{{last|{{{last1|{{{apellido|{{{apellidos|{{{apellido1|{{{apellidos1|{{{último|{{{cognome|{{{cognome1<!--
+  -->|}}}|}}}|}}}|}}}|}}}|}}}|}}}|}}}|}}}
+| first={{{first|{{{first1|{{{nombre|{{{nombre1|{{{nome|{{{primero|{{{primero1|{{{name1<!--
+  -->|}}}|}}}|}}}|}}}|}}}|}}}|}}}|}}}
+| authorlink={{{authorlink|{{{enlaceautor|{{{wkautore|}}}|}}}|}}}
+| coauthors={{{coauthors|{{{coautores|{{{coautori|}}}|}}}|}}}
+| others={{{others|{{{other|{{{altri|}}}|}}}|}}}
+| subscription={{{subscription|{{{suscripción<!--
+  -->|{{{richiestasottoscrizione|}}}|}}}|}}}
+| format={{{format|{{{formato|}}}|}}}
+| type={{{type|{{{tipo|}}}|}}}
+| work={{{work|{{{obra|{{{Work|{{{opera|}}}|}}}|}}}|}}}
+| journal={{{journal|{{{publicación|{{{giornale|}}}|}}}|}}}
+| editor={{{editor|{{{editors|}}}|}}}
+| publisher={{{publisher|{{{editorial|{{{editore|}}}|}}}|}}}
+| agency={{{agency|}}}{{{agencie|}}}{{{agencia|}}}
+| location={{{location|{{{place|{{{ubicación|{{{città|}}}|}}}|}}}|}}}
+| chapter={{{chapter|{{{contribution|{{{capitolo|{{{contributo<!--
+  -->|}}}|}}}|}}}|}}}
+| chapterurl={{{chapterurl|{{{urlcapitolo|{{{urlcontributo<!--
+  -->|{{{url_capitolo|}}}|}}}|}}}|}}}
+| edition={{{edition|{{{edition|{{{edizione|}}}|}}}|}}}
+| volume={{{volume|{{{vol|{{{volume|}}}|}}}|}}}
+| issue={{{issue|{{{numero|{{{numero|}}}|}}}|}}}
+| series={{{series|{{{seria|{{{serie|}}}|}}}|}}}
+| page={{{page|{{{página|{{{pagina|}}}|}}}|}}}
+| pages={{{pages|{{{páginas|{{{pagine|}}}|}}}|}}}
+| date={{#if: {{{date|{{{fecha|{{{data|}}}|}}}|}}}|{{#invoke:month translator|month_xlate|{{{date|{{{fecha|{{{data|}}}|}}}|}}}}}}}
+| origyear={{{origyear|{{{añooriginal|{{{annooriginale|}}}|}}}|}}}{{{orig-year|}}}
+| year={{#if:{{{mes|}}}{{{mese|}}}
+  |<noinclude>(omit year)</noinclude>
+  |{{{year|{{{año|{{{anno|}}}|}}}|}}}
+  }}
+| accessdate={{#if: {{{accessdate|{{{fechaacceso|{{{accesso|{{{dataaccesso|}}}|}}}|}}}|}}}|{{#invoke:month translator|month_xlate|{{{accessdate|{{{fechaacceso|{{{accesso|{{{dataaccesso|}}}|}}}|}}}|}}}}}
+  |{{
+    #if: {{{añoacceso|}}}{{{annoaccesso|}}}
+    | &#32;{{{añoacceso|}}}{{{annoaccesso|}}} }}
+  | {{#if: {{{añoacceso|}}}{{{annoaccesso|}}}
+    | {{{añoacceso|}}}{{{annoaccesso|}}} }}
+  }}<!--endif accessdate/fechaacceso-->
+| language={{
+  #switch: {{{language|{{{idioma|{{{lingua|{{{Language}}}|}}}|}}}|}}}
+  | inglés = en
+  | español = es
+  | italiano = it
+  | #default = {{{language|}}}{{{idioma|}}}{{{lingua|}}}{{{Language|}}}
+  }}<!--end switch-->
+| doi={{{doi|}}}{{{DOI|}}} {{{etiquetadoi|{{{doilabel|}}}|}}}
+| id={{{id|{{{ID|}}}|}}}
+| ref={{{ref|{{{cid|}}}|}}}
+| archiveurl={{{archiveurl|{{{archive url|{{{urlarchivo|{{{urlarchivio|<!--
+    -->}}}|}}}|}}}|}}}
+| archivedate={{#if:{{{archivedate|{{{fechaarchivo|{{{dataarchivio|{{{dataarchivio|}}}|}}}|}}}|}}}|{{#invoke:month translator|month_xlate|{{{archivedate|{{{fechaarchivo|{{{dataarchivio|{{{dataarchivio|}}}|}}}|}}}|}}}}}}}
+  | quote={{{quote|{{{cita|{{{citazione|}}}|}}}|}}}
+  | postscript={{{postscript|}}}{{{puntofinale|}}}{{{abstract|}}}
+<!----------------------- More parameters-->
+  | last2={{{last2|{{{apellido2|{{{apellidos2|{{{ultimo2|{{{cognome2|}}}|}}}|}}}|}}}|}}}
+  | first2={{{first2|{{{nombre2|{{{primero2|{{{nome2|}}}|}}}|}}}|}}}
+  | authorlink2={{{authorlink2|{{{enlaceautor2|{{{wkautore2|<!--
+    -->}}}|}}}|}}}
+  | last3={{{last3|{{{apellido3|{{{apellidos3|{{{ultimo3|{{{cognome3|}}}|}}}|}}}|}}}|}}}
+  | first3={{{first3|{{{nombre3|{{{primero3|{{{nome3|}}}|}}}|}}}|}}}
+  | author3={{{author3|}}}{{{autor3|}}}{{{autore3|}}}
+  | authorlink3={{{authorlink3|{{{enlaceautor3|{{{wkautore3|<!--
+    -->}}}|}}}|}}}
+  | last4={{{last4|{{{apellido4|{{{apellidos4|{{{ultimo4|{{{cognome4|}}}|}}}|}}}|}}}|}}}
+  | first4={{{first4|{{{nombre4|{{{primero4|{{{nome4|}}}|}}}|}}}|}}}
+  | author4={{{author4|}}}{{{autor4|}}}{{{autore4|}}}
+  | authorlink4={{{authorlink4|{{{enlaceautor4|{{{wkautore4|<!--
+    -->}}}|}}}|}}}
+  | issn={{{issn|{{{ISSN|}}}|}}}
+  | isbn={{{isbn|{{{ISBN|}}}|}}}
+  | editor-last={{{editor-last|{{{editor1-last|}}}|}}}
+  | editor-first={{{editor-first|{{{editor1-first|}}}|}}}
+  | website={{{sitioweb|{{{sito|{{{website|}}}|}}}|}}}
+  | magazine={{{magazine|{{{periodico|{{{pubblicazione|}}}|}}}|}}}{{{rivista|}}}
+  }}<!--end {cite_news} or {cite book}
+=============================== Subst format
+--         (see NOTE N4 below)
+-->
+| {{cite news {{SAFESUBST:<noinclude/>#if:{{{title|{{{titulo|{{{título|{{{titolo|}}}|}}}|}}}|}}}{{{Title|}}}
+  |{{SAFESUBST:<noinclude/>!}}title={{{title|{{{titulo|{{{título|{{{titolo|}}}|}}}|}}}|}}}{{{Title|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{trans_title|{{{trad_titulo|{{{titolotradotto|}}}}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}trans-title={{{trans_title|{{{trad_titulo|{{{titolotradotto|}}}}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{url|}}}{{{URL|}}}
+  |{{SAFESUBST:<noinclude/>!}}url={{{url|}}}{{{URL|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{chapter|{{{capitolo|{{{contribution|{{{contributo|}}}|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}chapter={{{chapter|{{{capitolo|{{{contribution|{{{contributo|}}}|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{chapterurl|{{{urlcapitolo|{{{urlcontributo|{{{url_capitolo|}}}|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}chapterurl={{{chapterurl|{{{urlcapitolo|{{{urlcontributo|{{{url_capitolo|}}}|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{last|}}}{{{last1|}}}{{{apellido|}}}{{{apellidos|}}}{{{apellido1|}}}{{{apellidos1|}}}{{{último|}}}{{{cognome|}}}{{{cognome1|}}}
+  |{{SAFESUBST:<noinclude/>!}}last={{{last|}}}{{{last1|}}}{{{apellido|}}}{{{apellidos|}}}{{{apellido1|}}}{{{apellidos1|}}}{{{último|}}}{{{cognome|}}}{{{cognome1|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{first|}}}{{{first1|}}}{{{nombre|}}}{{{nombre1|}}}{{{nome|}}}{{{primero|}}}{{{primero1|}}}{{{name1|}}}
+  |{{SAFESUBST:<noinclude/>!}}first={{{first|}}}{{{first1|}}}{{{nombre|}}}{{{nombre1|}}}{{{nome|}}}{{{primero|}}}{{{primero1|}}}{{{name1|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{last2|{{{apellido2|{{{apellidos2|{{{último2|{{{cognome2|}}}|}}}|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}last2={{{last2|{{{apellido2|{{{apellidos2|{{{último2|{{{cognome2|}}}|}}}|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{first2|{{{nombre2|{{{nome2|{{{primero2|{{{name2|}}}|}}}|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}first2={{{first2|{{{nombre2|{{{nome2|{{{primero2|{{{name2|}}}|}}}|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{last3|{{{apellido3|{{{apellidos3|{{{último3|{{{cognome3|}}}|}}}|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}last3={{{last3|{{{apellido3|{{{apellidos3|{{{último3|{{{cognome3|}}}|}}}|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{first3|{{{nombre3|{{{nome3|{{{primero3|{{{name3|}}}|}}}|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}first3={{{first3|{{{nombre3|{{{nome3|{{{primero3|{{{name3|}}}|}}}|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{last4|{{{apellido4|{{{apellidos4|{{{último4|{{{cognome4|}}}|}}}|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}last4={{{last4|}}}{{{apellido4|}}}{{{apellidos4|}}}{{{último4|}}}{{{cognome4|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{first4|{{{nombre4|{{{nome4|{{{primero4|{{{name4|}}}|}}}|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}first4={{{first4|}}}{{{nombre4|}}}{{{nome4|}}}{{{primero4|}}}{{{name4|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{author|{{{autor|{{{autore|{{{name|}}}|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}author={{{author|{{{autor|{{{autore|{{{name|}}}|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{authorlink|{{{enlaceautor|{{{wkautore|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}authorlink={{{authorlink|{{{enlaceautor|{{{wkautore|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{author2|{{{autor2|{{{autore2|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}author2={{{author2|{{{autor2|{{{autore2|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{authorlink2|{{{enlaceautor2|{{{wkautore2|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}authorlink2={{{authorlink2|{{{enlaceautor2|{{{wkautore2|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{author3|}}}{{{autor3|}}}{{{autore3|}}}
+  |{{SAFESUBST:<noinclude/>!}}author3={{{author3|}}}{{{autor3|}}}{{{autore3|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{authorlink3|}}}{{{enlaceautor3|}}}{{{wkautore3|}}}
+  |{{SAFESUBST:<noinclude/>!}}authorlink3={{{authorlink3|}}}{{{enlaceautor3|}}}{{{wkautore3|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{author4|}}}{{{autor4|}}}{{{autore4|}}}
+  |{{SAFESUBST:<noinclude/>!}}author4={{{author4|}}}{{{autor4|}}}{{{autore4|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{authorlink4|}}}{{{enlaceautor4|}}}{{{wkautore4|}}}
+  |{{SAFESUBST:<noinclude/>!}}authorlink4={{{authorlink4|}}}{{{enlaceautor4|}}}{{{wkautore4|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{coauthors|{{{coautores|{{{coautori|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}coauthors={{{coauthors|{{{coautores|{{{coautori|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{work|{{{obra|{{{opera|{{{Work|}}}|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}work={{{work|{{{obra|{{{opera|{{{Work|}}}|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{journal|{{{publicación|{{{giornale|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}journal={{{journal|{{{publicación|{{{giornale|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{publisher|{{{editorial|{{{curatore|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}publisher={{{publisher|{{{editorial|{{{curatore|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{location|{{{place|{{{ubicación|{{{città|}}}|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}location={{{location|{{{place|{{{ubicación|{{{città|}}}|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{agency|}}}{{{agencie|}}}{{{agencia|}}}
+  | {{SAFESUBST:<noinclude/>!}}agency={{{agency|}}}{{{agencie|}}}{{{agencia|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{sito|{{{sitioweb|{{{website|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}website={{{sito|{{{sitioweb|{{{website|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{magazine|{{{periodico|{{{pubblicazione|}}}|}}}|}}}{{{rivista|}}}
+  |{{SAFESUBST:<noinclude/>!}}magazine={{{magazine|{{{periodico|{{{pubblicazione|}}}|}}}|}}}{{{rivista|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{edition|}}}{{{edizione|}}}{{{ed|}}}
+  |{{SAFESUBST:<noinclude/>!}}edition={{{edition|}}}{{{edizione|}}}{{{ed|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{volume|}}}{{{vol|}}}
+  |{{SAFESUBST:<noinclude/>!}}volume={{{volume|}}}{{{vol|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{issue|}}}{{{number|}}}{{{numero|}}}
+  |{{SAFESUBST:<noinclude/>!}}issue={{{issue|}}}{{{number|}}}{{{numero|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{series|}}}{{{seria|}}}{{{serie|}}}
+  |{{SAFESUBST:<noinclude/>!}}series={{{series|}}}{{{seria|}}}{{{serie|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{page|{{{página|{{{pagina|}}}|}}}|}}}{{{p|}}}
+  |{{SAFESUBST:<noinclude/>!}}page={{{page|{{{página|{{{pagina|}}}|}}}|}}}{{{p|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{pages|{{{páginas|{{{pagine|}}}|}}}|}}}{{{pp|}}}
+  |{{SAFESUBST:<noinclude/>!}}pages={{{pages|{{{páginas|{{{pagine|}}}|}}}|}}}{{{pp|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{language|}}}{{{idioma|}}}{{{lingua|}}}
+  |{{SAFESUBST:<noinclude/>!}}language={{SAFESUBST:<noinclude/>#switch: {{{language|}}}{{{idioma|}}}{{{lingua|}}}
+    | inglés = en
+    | español = es
+    | italiano = it
+    |#default = {{{language|}}}{{{idioma|}}}{{{lingua|}}}
+    }}
+}}{{SAFESUBST:<noinclude/>#if:{{{format|{{{formato|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}format={{{format|{{{formato|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{archive_url|}}}{{{archiveurl|}}}{{{urlarchivo|}}}{{{urlarchivio|}}}
+  |{{SAFESUBST:<noinclude/>!}}archiveurl={{{archive_url|}}}{{{archiveurl|}}}{{{urlarchivo|}}}{{{urlarchivio|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{archivedate|}}}{{{dataarchivio|}}}{{{fechaarchivo|}}}
+  |{{SAFESUBST:<noinclude/>!}}archivedate={{safesubst:<noinclude/>#invoke:month translator|month_xlate|{{{archivedate|{{{fechaarchivo|{{{dataarchivio|{{{dataarchivio|}}}|}}}|}}}|}}}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{deadurl|{{{enlaceroto|{{{urlmorto|}}}|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}deadurl={{{deadurl|{{{enlaceroto|{{{urlmorto|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{data|}}}{{{fecha|}}}{{{date|}}}
+ |{{SAFESUBST:<noinclude/>!}}date={{safesubst:<noinclude/>#invoke:month translator|month_xlate|{{{date|{{{fecha|{{{data|}}}|}}}|}}}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{year|{{{año|{{{anno|}}}|}}}|}}}
+ |{{SAFESUBST:<noinclude/>!}}year={{{year|{{{año|{{{anno|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{origyear|{{{añooriginal|{{{annooriginale|{{{orig-year|}}}|}}}|}}}|}}}
+ |{{SAFESUBST:<noinclude/>!}}origyear={{{origyear|{{{añooriginal|{{{annooriginale|{{{orig-year|}}}|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{accessdate|}}}{{{fechaacceso|}}}{{{accesso|}}}{{{dataaccesso|}}}
+ |{{SAFESUBST:<noinclude/>!}}accessdate={{safesubst:<noinclude/>#invoke:month translator|month_xlate|{{{accessdate|{{{fechaacceso|{{{accesso|{{{dataaccesso|}}}|}}}|}}}|}}}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{subscription|{{{suscripción|{{{richiestasottoscrizione|}}}|}}}|}}}
+ |{{SAFESUBST:<noinclude/>!}}subscription={{{subscription|{{{suscripción|{{{richiestasottoscrizione|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{others|{{{other|{{{altri|}}}|}}}|}}}
+ |{{SAFESUBST:<noinclude/>!}}others={{{others|{{{other|{{{altri|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{editor|{{{editors|{{{curatore|{{{curatori|}}}|}}}|}}}|}}}
+ |{{SAFESUBST:<noinclude/>!}}editor={{{editor|{{{editors|{{{curatore|{{{curatori|}}}|}}}|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{editor-last|{{{editor1-last|}}}|}}}
+ |{{SAFESUBST:<noinclude/>!}}editor-last={{{editor-last|{{{editor1-last|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{editor-first|{{{editor1-first|}}}|}}}
+ |{{SAFESUBST:<noinclude/>!}}editor-first={{{editor-first|{{{editor1-first|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{isbn|{{{ISBN|}}}|}}}
+ |{{SAFESUBST:<noinclude/>!}}isbn={{{isbn|{{{ISBN|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{issn|{{{ISSN|}}}|}}}
+ |{{SAFESUBST:<noinclude/>!}}issn={{{issn|{{{ISSN|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{doi|{{{DOI|}}}|}}} {{{etiquetadoi|{{{doilabel|}}}|}}}
+ |{{SAFESUBST:<noinclude/>!}}doi={{{doi|{{{DOI|}}}|}}} {{{etiquetadoi|{{{doilabel|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{pmid|{{{PMID|}}}|}}}
+ |{{SAFESUBST:<noinclude/>!}}pmid={{{pmid|{{{PMID|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{oclc|{{{OCLC|}}}|}}}
+ |{{SAFESUBST:<noinclude/>!}}oclc={{{oclc|{{{OCLC|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{id|{{{ID|}}}|}}}
+ |{{SAFESUBST:<noinclude/>!}}id={{{id|{{{ID|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{quote|}}}{{{cita|{{{citazione|}}}|}}}
+  |{{SAFESUBST:<noinclude/>!}}quote={{{quote|}}}{{{cita|{{{citazione|}}}|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{postscript|{{{puntofinale|}}}|}}}{{{abstract|}}}
+  |{{SAFESUBST:<noinclude/>!}}postscript={{{postscript|{{{puntofinale|}}}|}}}{{{abstract|}}}
+}}{{SAFESUBST:<noinclude/>#if:{{{cid|}}}{{{ref|}}}
+ |{{SAFESUBST:<noinclude/>!}}ref={{{cid|{{{ref|}}}|}}}
+}}<noinclude><!--endif {ref}
+--></noinclude>}}<noinclude><!--end {cite_news}--></noinclude>
+}}<noinclude><!--endif not subst
+--------------------------------------------
+--NOTES:
+--
+-- Note A1: This template formats a wp:CS1
+--      cite from any mix of Spanish/Italian --      or English parameter names with date
+--      month names translated into English.
+--      See: [:it:Template:Cita_news], or
+--      [:es:Plantilla:Cita_news].
+--
+-- Note D2: Any dates are translated from
+--      Spanish or Italian format by using
+--      rapid Module:String function 
+--      "replace()" as 12x nested +12 deep
+--      for the 12 month names. It is very
+--      common for {cita_web} cites to use
+--      Spanish months, and so the date
+--      translation is worth the overhead.
+--      Also, blank dates skip translation
+--      (as faster).  Any English months in
+--      dates will pass unfiltered.
+--
+-- Note L3: The main Lua script is named
+--      "Module:Citation/CS1" plus others
+--      (Module:Citation/CS1/Configuration,
+--      etc.), but this template uses 
+--      {cite_news} to access Lua.
+--
+-- Note N4: The subst'ed markup {cite_news}
+--      contains no spaces between the
+--      parameters, and "<nowiki/>" tags
+--      are not used because they would be
+--      stored in the [[COinS]] metadata
+--      generated by {cite_news}.
+--
+--------------------------------------------
+-24Apr2014 Created for Spanish/Italian cite.
+-24Apr2014 Put HISTORY to log major changes.
+-24Apr2014 Put NOTES on template operation.
+-24Apr2014 Translated Spanish/Italian dates/months to English.
+-24Apr2014 Filters language/idioma "español" or "italiano".
+-25Apr2014 Italian "pubblicazione=" (work=) & "anno=" (year).
+-25Apr2014 Italian "id=" (id=) & reset "cid=" as "ref="
+-10Jun2014 Expanded for [[wp:subst]] to put {cite_news} markup.
+-10Jun2014 Added "primero=" & "último=" for last/first.
+-10Jun2014 Added "other/others=" & "altri=" for other contributors.
+-10Jun2014 Added "publicación=" & "giornale=" as "journal=".
+-10Jun2014 Added "edizione=" & "ed=" as "edition=".
+-10Jun2014 Added "curatore=" & "curatori=" as "editors=".
+-10Jun2014 Added "etiquetadoi=" & "doilabel=" with "doi=".
+-10Jun2014 Added "richiestasottoscrizione=" as subscription.
+-22Jan2016 Fixed translate "fecha="/"fechaacceso" for partial date.
+-22Jan2016 Added "last3=" with cognome3 or último3.
+-22Jan2016 Added "first3=" with nom3 or primero3.
+-22Jan2016 Added "authorlink3" with wkautore3 or enlaceautor3.
+-03Oct2016 Added "apellidos2" at "apellido2" & "apellidos3" etc.
+-26Mar2017 For subst, translate date/months.
+-26Mar2017 Fix "cid=" as "ref=" (not "id").
+-26Mar2017 Add Spanish sitioweb as website.
+-09Apr2017 Add nombre1/primero1 as first1.
+-09Apr2017 Add apellido1/apellidos1 as last1
+-09Apr2017 Add agencie/agencia as agency.
+-23Apr2017 Translate "fechaarchivo=" date.
+-23Apr2017 Translate "dataarchivio=" date.
+-05May2017 Add Italian "p=" for "page=".
+-05May2017 Add Italian "pp=" for "pages=".
+-05May2017 Put month {mes} as "date=...+yr"
+-05May2017 Put month {mese} as "date=...+yr"
+-05May2017 If month {mes}/{mese} year=blank
+-05May2017 Added lccn, LCCN, oclc, OCLC.
+-05May2017 Added pmc, PMC, pmid, PMID.
+-05May2017 Added Italian sbn/SBN as "id=..."
+-06May2017 Added Ital. "rivista" as magazine
+-06May2017 Listed LCCN, OCLC, PMC, PMID.
+-06May2017 Listed rivista, curatore/curatori
+-07May2017 Add author3, autor3, autore3.
+-07May2017 Add author4, autor4, autore4.
+-07May2017 Add *link4 enlaceautor4/wkautore4
+-07May2017 Add last4, apellido4, cognome4...
+-07May2017 Add first4, nombre4, nome4...
+-07May2017 Added "abstract=" as "postscript"
+-07May2017 Cut "editore=" at "agency=" alias
+-07May2017 Listed: rivista, abstract.
+-07Jul2017 When "isbn=" use {cite book}.
+-->
+{{documentation|content=
+
+{{Cs1 wrapper|base=Cite news}}
+<!-- {{Subst only|auto=yes}} -->
+
+The '''[[Template:Cita_news]]''' handles Spanish-language (or Italian) parameters for {{tl|cite news}}, as in the [[Italian Wikipedia]] template [[:it:Template:Cita_news]], with Italian "titolo=" for title. As of June 2013, {cite_news} would issue a red-error message for each unrecognized Spanish parameter as "{{color|#CC0000|Unknown parameter <code>&#124;xx{{{=|}}}</code> ignored...}}" and so {cita_news} here simply switches any Spanish/Italian parameter into the English equivalent,
+and translates any date/month names into English,
+until those cites can be hand-translated into English where needed.
+
+Due to translation of dates/months, the runtime speed of the template is about 20-25 per second, and usage should be limited to about 150 {cita_news} per page, depending on performance needs.
+
+The template can be [[wp:subst]]'ed in the form <nowiki>{{subst:cita_news|...}}</nowiki> to generate the equivalent markup as "<nowiki>{{cite&nbsp;news|...}}</nowiki>" but not inside [[wp:reftag]]s &lt;ref>...&lt;/ref> which must be removed before subst'ing and then restored during another edit to a page.
+
+== List of parameter names ==
+The major parameter keywords are listed below.
+:{{{!}} class=wikitable cellspacing=2 <!--
+        --> style="text-align:center; text-size:100%"
+! colspan=3 {{!}} {{ns|9}} List of parameters
+{{!}}-
+! Italian !! Spanish !! English
+{{!}}-
+{{!}} titolo {{!!}} título {{!!}} title
+{{!}}-
+{{!}} autore<br>autore2<br>autore3<br>autore4 {{!!}} autor<br>autor2<br>autor3<br>autor4 {{!!}} author<br>author2<br>author3<br>author4
+{{!}}-
+{{!}} wkautore <br>wkautore2 <br>wkautore3 <br>wkautore4 {{!!}} enlaceautor <br>enlaceautor2 <br>enlaceautor3 <br>enlaceautor4 {{!!}} authorlink <br>authorlink2 <br>authorlink3 <br>authorlink4
+{{!}}-
+{{!}} cognome<br>cognome2<br>cognome3 {{!!}} apellidos&nbsp;/ apellido <br>apellidos1&nbsp;/ apellido1<br>apellidos2&nbsp;/ apellido2<br>apellidos3&nbsp;/ apellido3 {{!!}} last<br>last1<br>last2<br>last3
+{{!}}-
+{{!}} nome {{!!}} nombre / primero {{!!}} first
+{{!}}-
+{{!}} nome1<br>nome2<br>nome3 {{!!}} nombre1 / primero1<br>nombre2 / primero2<br>nombre3/ primero3 {{!!}} first1<br>first2<br>first3
+{{!}}-
+{{!}} coautori {{!!}} coautores {{!!}} coauthors
+{{!}}-
+{{!}} opera {{!!}} obra {{!!}} work
+{{!}}-
+{{!}} sito  {{!!}} sitioweb {{!!}} website
+{{!}}-
+{{!}} giornale {{!!}} publicación {{!!}} journal
+{{!}}-
+{{!}} rivista<br>pubblicazione {{!!}} periodico {{!!}} magazine
+{{!}}-
+{{!}} --- {{!!}} agencia {{!!}} agency
+{{!}}-
+{{!}} editore {{!!}} editorial {{!!}} publisher
+{{!}}-
+{{!}} città {{!!}} ubicación {{!!}} location
+{{!}}-
+{{!}} editori<br>curatore<br>curatori {{!!}} --- {{!!}} editors
+{{!}}-
+{{!}} data {{!!}} fecha {{!!}} date
+{{!}}-
+{{!}} accesso / dataaccesso {{!!}} fechaacceso {{!!}} accessdate
+{{!}}-
+{{!}} anno {{!!}} año {{!!}} year
+{{!}}-
+{{!}} mese {{!!}} mes {{!!}} month
+{{!}}-
+{{!}} formato {{!!}} formato {{!!}} format
+{{!}}-
+{{!}} tipo {{!!}} --- {{!!}} type
+{{!}}-
+{{!}} volume / vol {{!!}} volume {{!!}} volume
+{{!}}-
+{{!}} serie {{!!}} seria {{!!}} series
+{{!}}-
+{{!}} edizione / ed {{!!}} --- {{!!}} edition
+{{!}}-
+{{!}} numero {{!!}} numero {{!!}} issue
+{{!}}-
+{{!}} lingua {{!!}} idioma {{!!}} language
+{{!}}-
+{{!}} id {{!!}} id {{!!}} id
+{{!}}-
+{{!}} cid {{!!}} --- {{!!}} ref
+{{!}}-
+{{!}} pagina / p {{!!}} página {{!!}} page
+{{!}}-
+{{!}} pagine / pp {{!!}} páginas {{!!}} pages
+{{!}}-
+{{!}}richiestasottoscrizione{{!!}} suscripción {{!!}} subscription {{ns}}
+{{!}}-
+{{!}} url {{!!}} url {{!!}} url
+{{!}}-
+{{!}} urlarchivio {{!!}} urlarchivo {{!!}} archiveurl
+{{!}}-
+{{!}} dataarchivio {{!!}} fechaarchivo {{!!}} archivedate
+{{!}}-
+{{!}} urlmorto {{!!}} enlaceroto {{!!}} deadurl
+{{!}}-
+{{!}} doi {{!!}} doi {{!!}} doi
+{{!}}-
+{{!}} --- {{!!}} etiquetadoi /<br>doilabel {{!!}} ---
+{{!}}-
+{{!}} LCCN {{!!}} lccn {{!!}} LCCN
+{{!}}-
+{{!}} OCLC {{!!}} oclc {{!!}} OCLC
+{{!}}-
+{{!}} PMC {{!!}} pmc {{!!}} PMC
+{{!}}-
+{{!}} PMID {{!!}} pmid {{!!}} PMID
+{{!}}-
+{{!}} citazione {{!!}} cita {{!!}} quote
+{{!}}-
+{{!}} abstract {{!!}} puntofinale {{!!}} postscript
+{{!}}}
+The various Italian parameters are listed on the [[Italian Wikipedia]] in [[Lua script]] [[:it:Modulo:Citazione/Configurazione]] from June 2013.
+
+== Examples ==
+Below are some examples using {cita_news}.
+
+:* <nowiki>{{cita news |autore=Gianni Doe |titolo= Notizia italiano |url=http://x.com |sitioweb= x.com |data=7 maggio 2012 |lingua= italiano}}</nowiki><!--
+   --><br>&rarr; {{cita news |autore= Gianni Doe |titolo= Notizia italiano |url= http://x.com |sitioweb= x.com |data=7 maggio 2012 |lingua= italiano}}
+
+:* <nowiki>{{cita news |url= http://www.radiomusik.it/16613/resistance-is-futile-in-anteprima-audio-il-nuovo-singolo-dei-laibach/ |editore=radiomusik.it |data=9 gennaio 2014}}</nowiki><!--
+   --><br>&rarr; {{cita news |url= http://www.radiomusik.it/16613/resistance-is-futile-in-anteprima-audio-il-nuovo-singolo-dei-laibach/ |editore=radiomusik.it |data=9 gennaio 2014}}<!--
+   --> (example from "[[Laibach&nbsp;(band)]]")
+:* <nowiki>{{cita news |url= http://www.sanremonews.it/2013/02/17/leggi-notizia/argomenti/festival-di-sanremo/articolo/sanremo-2013-la-classifica-finale-la-giuria-di-qualita-era-per-elio-malika-e-gualazzi.html#.USqNklf-lyJ |titolo= Sanremo 2013: la classifica finale, la giuria di qualità era per Elio, Malika e Gualazzi |editorial= sanremonews.it |name= Stefano Michero |date=17 February 2013}}</nowiki><!--
+   --><br>&rarr; {{cita news |url= http://www.sanremonews.it/2013/02/17/leggi-notizia/argomenti/festival-di-sanremo/articolo/sanremo-2013-la-classifica-finale-la-giuria-di-qualita-era-per-elio-malika-e-gualazzi.html#.USqNklf-lyJ|title=Sanremo 2013: la classifica finale, la giuria di qualità era per Elio, Malika e Gualazzi |editorial= sanremonews.it |name= Stefano Michero |date=17 February 2013}}
+
+== List of month names ==
+Below is a table of month names. Note how Spanish dates use the form "7 de <month> de 2014" with words "''de''" (of) around the month name.
+:{{{!}} class=wikitable cellspacing=2 <!--
+        --> style="text-align:center; text-size:82%"
+! colspan=3 {{!}} List of month names
+{{!}}-
+! Italian !! Spanish !! English
+{{!}}-
+{{!}} gennaio {{!!}} enero {{!!}} January
+{{!}}-
+{{!}} febbraio {{!!}} febrero {{!!}} February
+{{!}}-
+{{!}} marzo   {{!!}} marzo {{!!}} March
+{{!}}-
+{{!}} aprile  {{!!}} abril {{!!}} April
+{{!}}-
+{{!}} maggio  {{!!}} mayo {{!!}} May
+{{!}}-
+{{!}} giugno  {{!!}} junio {{!!}} June
+{{!}}-
+{{!}} luglio  {{!!}} julio {{!!}} July
+{{!}}-
+{{!}} agosto  {{!!}} agosto {{!!}} August
+{{!}}-
+{{!}} settembre &nbsp; {{!!}} septiembre &nbsp;{{!!}} September
+{{!}}-
+{{!}} ottobre {{!!}} octubre {{!!}} October
+{{!}}-
+{{!}} novembre {{!!}} noviembre {{!!}} November
+{{!}}-
+{{!}} dicembre {{!!}} diciembre {{!!}} December
+{{!}}-
+{{!}}}
+
+== Performance considerations ==
+The Template:Cita_news runs 40-50 per second, but users should translate to {{tl|cite news}}, as time permits. The translations of {cita_news} would typically require expertise in Italian (or Spanish), plus knowledge of the [[Italian Wikipedia]] [[:it:Template:Cita_news]] or the [[Spanish Wikipedia]] ''plantilla'', plus knowledge of parameters of the enwiki [[Template:Cite_news]]. The parameter list, above, can be used to assist translation of parameter names.
+
+Care should be taken to correctly hand-translate cite data into English; otherwise, the auto-translation of parameters is likely to be more accurate, as well as instantaneous (and without causing [[wp:edit_conflict]]s while the user is writing the article).
+
+== See also ==
+* [[Template:Cite web]] – the equivalent template of {{tl|cita web}}
+{{Non-English citation templates}}
+}}
+
+</noinclude>

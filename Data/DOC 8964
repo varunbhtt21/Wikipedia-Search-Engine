@@ -1,0 +1,15 @@
+Title : Template:Welcome-delete/doc
+Text : {{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+{{Friendly standard installation}}
+{{Subst only|auto=yes}}
+
+== Usage ==
+Used to warn new editors that they have blanked a page or removed content without stating a reason and/or gaining consensus.
+Using <nowiki>{{welcome-delete|Like this one}}</nowiki> references a specific article <nowiki>(You can put any article name after the | )</nowiki>
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go here and interwikis go in Wikidata. -->
+[[Category:Welcome templates]]
+[[Category:User warning templates]]
+}}</includeonly>

@@ -1,0 +1,45 @@
+Title : Template:Database Population Arromanches-les-Bains
+Text : <includeonly>{{#switch: {{{1|}}}
+ | max = 250
+ | source-chart = Sources: database Ldh/EHESS/Cassini and Insee
+ | source1 = http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=1368
+ | source2 = http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2010&typgeo=COM&codgeo=14021
+ | source3 = 
+ | source4 = 
+ | 1 = 1793/430
+ | 2 = 1800/363
+ | 3 = 1806/450
+ | 4 = 1821/493
+ | 5 = 1831/520
+ | 6 = 1836/534
+ | 7 = 1841/528
+ | 8 = 1846/500
+ | 9 = 1851/490
+ | 10 = 1856/502
+ | 11 = 1861/505
+ | 12 = 1866/533
+ | 13 = 1872/532
+ | 14 = 1876/544
+ | 15 = 1881/481
+ | 16 = 1886/480
+ | 17 = 1891/455
+ | 18 = 1896/444
+ | 19 = 1901/444
+ | 20 = 1906/380
+ | 21 = 1911/335
+ | 22 = 1921/273
+ | 23 = 1926/282
+ | 24 = 1931/288
+ | 25 = 1936/262
+ | 26 = 1946/282
+ | 27 = 1954/287
+ | 28 = 1962/298
+ | 29 = 1968/339
+ | 30 = 1975/355
+ | 31 = 1982/395
+ | 32 = 1990/409
+ | 33 = 1999/552
+ | 34 = 2006/-
+ | 35 = 2010/587
+|2010/9999
+}}</includeonly><noinclude>{{documentation}}</noinclude>

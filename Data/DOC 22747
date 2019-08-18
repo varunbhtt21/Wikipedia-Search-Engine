@@ -1,0 +1,21 @@
+Title : Template:Ichijinsha
+Text : {{Navbox
+| name = Ichijinsha
+| title = [[Ichijinsha]] magazines
+| state = {{{state|autocollapse}}}
+| listclass = hlist
+
+| group1 = Active
+| list1  =
+* ''[[Comic Rex]]''
+* ''[[Comic Yuri Hime]]''
+* ''[[Manga 4-Koma Palette]]''
+* ''[[Monthly Comic Zero Sum]]''
+| group2 = Defunct
+| list2  =
+* ''[[Comic Yuri Hime S]]''
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Anime and manga navigational boxes]]
+</noinclude>

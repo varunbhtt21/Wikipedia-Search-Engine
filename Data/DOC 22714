@@ -1,0 +1,540 @@
+Title : Template:Shogi diagram/doc
+Text : {{documentation subpage}}
+{{#switch:{{BASEPAGENAME}}
+ |Shogi diagram={{lua|Module:Shogi diagram}}
+}}
+
+==Usage==
+This is a template that can be used to create simple diagrams of [[shogi]] positions. 
+
+==Syntax==
+An example of the starting position for shogi can be found at [[Template:Shogi_diagram#Even_game_between_players_of_same_rank|Even game between players of same rank]] .
+<pre>
+{{shogi diagram 
+| <1>
+| <2>
+| <3>
+| <4> | <5> | <6> | <7> | <8> | <9> | <10> | <11> | <12>
+| <13> | <14> | <15> | <16> | <17> | <18> | <19> | <20> | <21>
+| <22> | <23> | <24> | <25> | <26> | <27> | <28> | <29> | <30>
+| <31> | <32> | <33> | <34> | <35> | <36> | <37> | <38> | <39>
+| <40> | <41> | <42> | <43> | <44> | <45> | <46> | <47> | <48>
+| <49> | <50> | <51> | <52> | <53> | <54> | <55> | <56> | <57>
+| <58> | <59> | <60> | <61> | <62> | <63> | <64> | <65> | <66>
+| <67> | <68> | <69> | <70> | <71> | <72> | <73> | <74> | <75>
+| <76> | <77> | <78> | <79> | <80> | <81> | <82> | <83> | <84>
+| <85>
+| <86>
+}}
+</pre>
+
+===Parameters===
+
+* <1>: "floatright" or "tright" and "floatleft" or "tleft" sets the [[WP:PIC#Horizontal placement|horizontal placement]] of the diagram in the article space: "tright" means diagram will be floated to the right allowing any text to flow to the left, and "tleft" means diagram will be floated to the left allowing any text to flow to the right. No entry for this parameter means that the diagram will simply be displayed in the default position on the left.
+* <2>: Explanation added to top of diagram. For example, a player's name, the name of an opening, etc. (optional)
+* <3>: This is the parameter for the pieces in hand for the White player (''gote'').
+* <4> to <84>: Each number represents a square on the board, from square 3 (9th file, ath rank: "9a") in the upper left of the board to square 83 (1st file, ith rank: "1i") in the lower right of the board. Codes for "piece types" (see below) can be entered to display pieces on the board. No entry of a code means no piece will be displayed on that particular square.
+* <85>: This is the parameter for the pieces in hand for the Black player (''gote'').
+* <86>: Explanation added to bottom of diagram; For example, a player's name, etc. (optional)
+
+=="Piece type" entry==
+Squares with no entry made for [[Shogi#Game equipment|"piece type"]] will be displayed as an "empty square".
+
+A "piece type" is designated by a combination of two to four letters like '''XXYZ'''.
+
+;The '''XX''' part represents a one or two letter combination which indicates the piece type.
+
+:The piece type codes are as follows: 
+
+:*[[Image:shogi_ks22.svg|25px]]/[[Image:shogi_aks22.svg|25px]] '''k''' - {{nihongo3|玉将|gyokushō}} or {{nihongo3|王将|Ōshō}} ('''k'''ing)
+:*[[Image:shogi_rs22.svg|25px]] '''r''' - {{nihongo3|飛車|hisha}} ('''r'''ook)
+:*[[Image:shogi_bs22.svg|25px]] '''b''' - {{nihongo3|角行|kakugyō}} ('''b'''ishop)
+:*[[Image:shogi_gs22.svg|25px]] '''g''' - {{nihongo3|金将|kinshō}} ('''g'''old)
+:*[[Image:shogi_ss22.svg|25px]] '''s''' - {{nihongo3|銀将|ginshō}} ('''s'''ilver)
+:*[[Image:shogi_ns22.svg|25px]] '''n''' - {{nihongo3|桂馬|keima}} (k'''n'''ight)
+:*[[Image:shogi_ls22.svg|25px]] '''l''' - {{nihongo3|香車|kyōsha}} ('''l'''ance)
+:*[[Image:shogi_ps22.svg|25px]] '''p''' - {{nihongo3|歩兵|fuhyō}} ('''p'''awn)
+:*[[Image:shogi_ds22.svg|25px]] '''d''' - {{nihongo3|龍王|ryūō}} ('''d'''ragon or promoted rook)
+::*[[Image:shogi_dxs22.svg|25px]]'''dx''' - {{nihongo3|竜王|ryūō}} (simplified character for promoted rook)
+:*[[Image:shogi_hs22.svg|25px]] '''h''' - {{nihongo3|龍馬|ryūma}} ('''h'''orse or promoted bishop)
+:*[[Image:shogi_pss22.svg|25px]] '''ps''' - {{nihongo3|成銀|narigin}} ('''p'''romoted '''s'''ilver)
+:*[[Image:shogi_pns22.svg|25px]] '''pn''' - {{nihongo3|成桂|narikei}} ('''p'''romoted k'''n'''ight)
+::*[[Image:shogi_pnxs22.svg|25px]] '''pnx''' - (variant character for promoted knight)
+:*[[Image:shogi_pls22.svg|25px]] '''pl''' - {{nihongo3|成香|narikyō}} ('''p'''romoted '''l'''ance)
+::*[[Image:shogi_plxs22.svg|25px]] '''plx''' - (variant character for promoted lance)
+:*[[Image:shogi_ts22.svg|25px]] '''t''' - {{nihongo2|と金|tokin}} ('''t'''okin or promoted pawn)
+::*[[Image:shogi_txs22.svg|25px]] '''tx''' - (variant character for promoted pawn)
+
+: [[Sho shogi]] codes: 
+
+:*[[Image:shogi_es22.svg|25px]] '''e''' - {{nihongo2|酔象|suizō}} ('''e'''lephant)
+:*[[Image:shogi_as22.svg|25px]] '''t''' - {{nihongo2|太子|taishi}} (crown prince or promoted elephant)
+
+: Please note that all of the above combinations are case sensitive, so lower case letters must be used.
+
+: All things considered equal, the "king" of the player who is "sente" (i.e., the player who moves first) is indicated by {{nihongo2|玉}} and the "king" of the player who is "gote" (i.e., the player moves second) is indicated  by {{nihongo2|王}}. In even games between players of different ranks, the "king" of the higher ranked player is {{nihongo2|王}}, and the "king" of the lower ranked player is {{nihongo2|玉}}. In handicap shogi, even though the {{nihongo|player giving the handicap|上手|uwate}} moves first, their "king" is {{nihongo2|王}} and the "king" of the {{nihongo|player receiving the handicap|下手|shitate}} is {{nihongo2|玉}}. In problems, the "king" of the attacking (or mating) side is {{nihongo2|玉}} and the "king" of the defending side is {{nihongo2|王}}. To indicate {{nihongo2|玉}} for "gote" (e.g., the lower ranked player in an even game is "gote") or {{nihongo2|王}} for "sente", insert '''ak''' instead of '''k''' into the template.
+
+===Sente or gote===
+The '''Y''' indicates ''sente'' (black) or ''gote'' (white). For "sente" add the letter '''s''', and for "gote" add the letter '''g''' to the end of the character string. Sente's pieces will be displayed at the bottom of the board facing up and gote's pieces will be displayed at the top of the board facing down. So a "pawn" for "sente" is indicated as '''ps''', while a "rook" for "gote" is indicated as '''rg'''.
+
+:* [[Image:shogi_ps22.svg|25px]] - '''ps'''
+:* [[Image:shogi_pg22.svg|25px]] - '''pg'''
+
+===Last move played===
+The '''Z''' indicates the last move played. To indicate a piece that has just been moved, add the letter '''l''' (for '''l'''ast) to the end of the character string. For example, the show indicate that the last piece moved was a "rook" by "gote", use '''rgl'''.
+
+:* [[Image:shogi_rg22.svg|25px]] - '''rg'''
+:* [[Image:shogi_rgl22.svg|25px]] - '''rgl'''
+
+===Pieces-in-hand===
+Pieces-in-hand are entered directly into parameters <3> and <85>. The following characters (and templates) can be used: {{nihongo2|歩}} for "pawn", {{nihongo2|香}} for "lance", {{nihongo2|桂}} for "knight", {{nihongo2|銀}} for "silver", {{nihongo2|金}} for "gold", {{nihongo2|角}} for "bishop", and {{nihongo2|飛}} for "rook". 
+
+To indicate that a player is holding more than one of the same type of piece in hand, one may use '''piece type + (number)''' if repeating multiple instances of the piece is unwieldy. For example, having 7 pawns in hand can be indicated as '''{{nihongo2|歩}} (7)'''.
+
+===Exhaustive piece exemplification===
+
+ps [[Image:shogi_ps22.svg]]
+pg [[Image:shogi_pg22.svg]]
+psl [[Image:shogi_psl22.svg]]
+pgl [[Image:shogi_pgl22.svg]]
+ts [[Image:shogi_ts22.svg]]
+tg [[Image:shogi_tg22.svg]]
+tsl [[Image:shogi_tsl22.svg]]
+tgl [[Image:shogi_tgl22.svg]]
+txs [[Image:shogi_txs22.svg]]
+txg [[Image:shogi_txg22.svg]]
+txsl [[Image:shogi_txsl22.svg]]
+txgl [[Image:shogi_txgl22.svg]]
+
+ls [[Image:shogi_ls22.svg]]
+lg [[Image:shogi_lg22.svg]]
+lsl [[Image:shogi_lsl22.svg]]
+lgl [[Image:shogi_lgl22.svg]]
+pls [[Image:shogi_pls22.svg]]
+plg [[Image:shogi_plg22.svg]]
+plsl [[Image:shogi_plsl22.svg]]
+plgl [[Image:shogi_plgl22.svg]]
+plxs [[Image:shogi_plxs22.svg]]
+plxg [[Image:shogi_plxg22.svg]]
+plxsl [[Image:shogi_plxsl22.svg]]
+plxgl [[Image:shogi_plxgl22.svg]]
+ns [[Image:shogi_ns22.svg]]
+ng [[Image:shogi_ng22.svg]]
+nsl [[Image:shogi_nsl22.svg]]
+ngl [[Image:shogi_ngl22.svg]]
+pns [[Image:shogi_pns22.svg]]
+png [[Image:shogi_png22.svg]]
+pnsl [[Image:shogi_pnsl22.svg]]
+pngl [[Image:shogi_pngl22.svg]]
+pnxs [[Image:shogi_pnxs22.svg]]
+pnxg [[Image:shogi_pnxg22.svg]]
+pnxsl [[Image:shogi_pnxsl22.svg]]
+pnxgl [[Image:shogi_pnxgl22.svg]]
+ss [[Image:shogi_ss22.svg]]
+sg [[Image:shogi_sg22.svg]]
+ssl [[Image:shogi_ssl22.svg]]
+sgl [[Image:shogi_sgl22.svg]]
+pss [[Image:shogi_pss22.svg]]
+psg [[Image:shogi_psg22.svg]]
+pssl [[Image:shogi_pssl22.svg]]
+psgl [[Image:shogi_psgl22.svg]]
+
+gs [[Image:shogi_gs22.svg]]
+gg [[Image:shogi_gg22.svg]]
+gsl [[Image:shogi_gsl22.svg]]
+ggl [[Image:shogi_ggl22.svg]]
+
+bs [[Image:shogi_bs22.svg]]
+bg [[Image:shogi_bg22.svg]]
+bsl [[Image:shogi_bsl22.svg]]
+bgl [[Image:shogi_bgl22.svg]]
+hs [[Image:shogi_hs22.svg]]
+hg [[Image:shogi_hg22.svg]]
+hsl [[Image:shogi_hsl22.svg]]
+hgl [[Image:shogi_hgl22.svg]]
+
+rs [[Image:shogi_rs22.svg]]
+rg [[Image:shogi_rg22.svg]]
+rsl [[Image:shogi_rsl22.svg]]
+rgl [[Image:shogi_rgl22.svg]]
+ds [[Image:shogi_ds22.svg]]
+dg [[Image:shogi_dg22.svg]]
+dsl [[Image:shogi_dsl22.svg]]
+dgl [[Image:shogi_dgl22.svg]]
+dxs [[Image:shogi_dxs22.svg]]
+dxg [[Image:shogi_dxg22.svg]]
+dxsl [[Image:shogi_dxsl22.svg]]
+dxgl [[Image:shogi_dxgl22.svg]]
+
+ks [[Image:shogi_ks22.svg]]
+kg [[Image:shogi_kg22.svg]]
+ksl [[Image:shogi_ksl22.svg]]
+kgl [[Image:shogi_kgl22.svg]]
+aks [[Image:shogi_aks22.svg]]
+akg [[Image:shogi_akg22.svg]]
+aksl [[Image:shogi_aksl22.svg]]
+akgl [[Image:shogi_akgl22.svg]]
+
+es [[Image:shogi_es22.svg]]
+eg [[Image:shogi_eg22.svg]]
+esl [[Image:shogi_esl22.svg]]
+egl [[Image:shogi_egl22.svg]]
+as [[Image:shogi_as22.svg]]
+ag [[Image:shogi_ag22.svg]]
+asl [[Image:shogi_asl22.svg]]
+agl [[Image:shogi_agl22.svg]]
+
+==Other diagram files==
+These files can be used to create diagrams for explaining certain positions or indicating piece movement.
+<!--Hiding this because it still needs some tweaking:*[[File:Shogi bck44.png|22px]] '''bck''' - black square for dividing diagrams (''bck'' is for 'black')-->
+<!--Hiding this because it still needs some tweaking:*[[File:Shogi ha44.png|22px]] '''ha''' - divide diagram into sections (''ha'' is for 'half')-->
+:*[[File:Shogi rah22.svg|22px]] ‎ '''rah''' - indicate start position for a move one square to the right (''rah'' is for 'right arrow half')
+:*[[File:Shogi rat22.svg|22px]] '''rat''' - indicate movement from left to right (''rat'' is for 'right arrow tip')
+:*[[File:Shogi ras22.svg|22px]] '''ras''' - indicate start position from right to left (''ras'' is for 'right arrow start')
+:*[[File:Shogi lra22.svg|22px]] '''lra''' - indicate movement from right to left or left to right (''lra'' is for 'left right arrow')
+:*[[File:Shogi lah22.svg|22px]]  '''lah''' - indicate start position for a move one square to the left (''lah'' is for 'left arrow half')
+:*[[File:Shogi lat22.svg|22px]] '''lat''' - indicate movement from right to left (''lat'' is for 'left arrow tip')
+:*[[File:Shogi las22.svg|22px]] '''las''' - indicate start positiong for movement from left to right (''las'' is for 'left arrow start')
+:*[[File:Shogi uah22.svg|22px]] '''uah''' - indicate start position for a move one square upward (''kadl'' is for 'up arrow half')
+:*[[File:Shogi uat22.svg|22px]] '''uat''' - indicate movement from bottom to top (''uat'' is for 'upward arrow tip')
+:*[[File:Shogi uas22.svg|22px]] '''uas''' - indicate start position for movement from bottom to top (''uas'' is for 'up arrow start')
+:*[[File:Shogi uda22.svg|22px]] '''uda''' - indicate movement from bottom to top or top to bottom (''uda'' is for 'up down arrow')
+:*[[File:Shogi dah22.svg|22px]] '''dah''' - indicate start position for a move one square downward (''dah'' is for 'down arrow half')
+:*[[File:Shogi das22.svg|22px]] '''das''' - indicate start position for movement from top to bottom (''das'' is for 'down arrow start')
+:*[[File:Shogi dat22.svg|22px]] '''dat''' - indicate movement from top to bottom (''dat'' is for 'downward arrow tip')
+:*[[File:Shogi durh22.svg|22px]] '''durh''' - indicate start position for a move one square diagonally upward to the right (''durh'' is for 'diagonal up right half')
+:*[[File:Shogi dau22.svg|22px]] '''dau''' - indicate movement diagonally upward to the right (''dau'' is for 'diagonal arrow upward')
+:*[[File:Shogi daus44.png‎|22px]] '''daus''' - indicate start position for movement diagonally upward to right (''daus'' is for 'diagonal arrow upward start')
+:*[[File:Shogi da44.png‎|22px]] '''da''' - indicate movement diagonally left to right (''da'' is for 'diagonal arrow')
+:*[[File:Shogi ddlh22.svg|22px]] '''ddlh''' - indicate start position for a move one square diagonally downward to the left (''ddlh'' is for 'diagonal down left half')
+:*[[File:Shogi dad22.svg|22px]] '''dad''' - indicate movement diagonally downward to the left (''dad'' is for 'diagonal arrow downward')
+:*[[File:Shogi dads44.png‎|22px]] '''dads''' - indicate start position for movement diagonally downward to left (''dads'' is for 'diagonal arrow downward start')
+:*[[File:Shogi dulh22.svg|22px]] '''dulh''' - indicate start position for a move one square diagonally upward to the left (''dulh'' is for 'diagonal up left half')
+:*[[File:Shogi daau44.png‎|22px]] '''daau''' - indicate movement diagonally upward to left (''daau'' is for 'diagonal arrow averse upward')
+:*[[File:Shogi daaus44.png‎|22px]] '''daaus''' - indicate start position for movement diagonally upward to left (''daaus'' is for 'diagonal arrow averse upward start')
+:*[[File:Shogi daa44.png‎|22px]] '''daa''' - indicate movement diagonally right to left (''daa'' is for 'diagonal arrow averse')
+:*[[File:Shogi ddrh22.svg|22px]] '''ddrh''' - indicate start position for a move one square diagonally downward to the right (''ddrh'' is for 'diagonal down right half')
+:*[[File:Shogi daad44.png‎|22px]] '''daad''' - indicate movement diagonally downward to right (''daad'' is for 'diagonal arrow averse downward')
+:*[[File:Shogi daads44.png‎|22px]] '''daads''' - indicate start position for movement diagonally downward to right (''daads'' is for 'diagonal arrow averse downward start')
+:*[[File:Shogi kar22.svg|22px]] '''kar''' - indicate movement of knight upward to the right (''kar'' is for 'knight arrow right')
+:*[[File:Shogi kal22.svg|22px]] '''kal''' - indicate movement of knight upward to the left (''kal'' is for 'knight arrow left')
+:*[[File:Shogi kadr22.svg|22px]] '''kadr''' - indicate movement of knight downward to the right (''kadr'' is for 'knight arrow down right')
+:*[[File:Shogi kadl22.svg|22px]] '''kadl''' - indicate movement of knight downward to the left (''kadl'' is for 'knight arrow down left')
+:*[[File:Shogi ddl22.svg|22px]] '''ddl''' - indicate movement of silver downward to the left (''ddl'' is for 'diagonal down left')
+:*[[File:Shogi ddr22.svg|22px]] '''ddr''' - indicate movement of silver downward to the right (''ddr'' is for 'diagonal down right')
+:*[[File:Shogi dul22.svg|22px]] '''dul''' - indicate movement of silver downward to the left (''dul'' is for 'daigonal up left')
+:*[[File:Shogi dur22.svg|22px]] '''dur''' - indicate movement of silver downward to the right (''dur'' is for 'diagonal up right')
+:*[[Image:shogi_yy22.svg|22px]] '''yy''' - highlighted yellow square (''yy'' is for 'yellow')
+:*[[File:Shogi gr22.svg|22px]] '''gr''' -  highlighted gray square (''gr'' is for 'gray')
+
+==Examples==
+The following are examples of the types of diagrams which can be created.
+
+===Even game between players of same rank===
+Diagrams for such positions typically show "sente" at the bottom of the board, and "gote" at the top. Relevant information such as player names, tournament names, etc. may be entered into parameters <2> and <84> if desired.   
+
+{{Shogi diagram|tright
+|<small>Gote<br/>Pieces-in-hand: ''none''</small>
+|-
+|lg|ng|sg|gg|kg|gg|sg|ng|lg
+|  |rg|  |  |  |  |  |bg|  
+|pg|pg|pg|pg|pg|pg|pg|pg|pg
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|ps|ps|ps|ps|ps|ps|ps|ps|ps
+|  |bs|  |  |  |  |  |rs|  
+|ls|ns|ss|gs|ks|gs|ss|ns|ls
+|-
+|<small>Sente<br/>Pieces-in-hand: ''none''</small>}}
+
+<pre style="margin-right:280px;">
+{{Shogi diagram|tright
+|<small>Gote<br/>Pieces-in-hand: ''none''</small>
+|-
+|lg|ng|sg|gg|kg|gg|sg|ng|lg
+|  |rg|  |  |  |  |  |bg|  
+|pg|pg|pg|pg|pg|pg|pg|pg|pg
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|ps|ps|ps|ps|ps|ps|ps|ps|ps
+|  |bs|  |  |  |  |  |rs|  
+|ls|ns|ss|gs|ks|gs|ss|ns|ls
+|-
+|<small>Sente<br/>Pieces-in-hand: ''none''</small>}}
+</pre>
+<br/>
+<br/>
+<br/>
+
+===Even game, sente and gote reversed===
+{{Shogi diagram|tright
+|<small>Sente<br/>Pieces-in-hand: none</small>
+|-
+|lg|ng|sg|gg|akg|gg|sg|ng|lg
+|  |rg|  |  |  |  |  |bg|  
+|pg|pg|pg|pg|pg|pg|pg|pg|pg
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|ps|ps|ps|ps|ps|ps|ps|ps|ps
+|  |bs|  |  |  |  |  |rs|  
+|ls|ns|ss|gs|aks|gs|ss|ns|ls
+|-
+|<small>Gote<br/>Pieces-in-hand: none</small>}}
+<br/>
+<br/>
+<pre style="margin-right:280px;">
+{{Shogi diagram|tright
+|<small>Sente<br/>Pieces-in-hand: none</small>
+|-
+|lg|ng|sg|gg|akg|gg|sg|ng|lg
+|  |rg|  |  |  |  |  |bg|  
+|pg|pg|pg|pg|pg|pg|pg|pg|pg
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|ps|ps|ps|ps|ps|ps|ps|ps|ps
+|  |bs|  |  |  |  |  |rs|  
+|ls|ns|ss|gs|aks|gs|ss|ns|ls
+|-
+|<small>Gote<br/>Pieces-in-hand: none</small>}}
+</pre>
+<br/>
+<br/>
+
+===Even game, gote lower ranked player===
+{{Shogi diagram|tright
+|<small>Gote<br/>Pieces-in-hand: none</small>
+|-
+|lg|ng|sg|gg|akg|gg|sg|ng|lg
+|  |rg|  |  |  |  |  |bg|  
+|pg|pg|pg|pg|pg|pg|pg|pg|pg
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|ps|ps|ps|ps|ps|ps|ps|ps|ps
+|  |bs|  |  |  |  |  |rs|  
+|ls|ns|ss|gs|aks|gs|ss|ns|ls
+|-
+|<small>Sente<br/>Pieces-in-hand: none</small>}}
+<br/>
+<br/>
+<pre style="margin-right:280px;">
+{{Shogi diagram|tright
+|<small>Gote<br/>Pieces-in-hand: none</small>
+|-
+|lg|ng|sg|gg|akg|gg|sg|ng|lg
+|  |rg|  |  |  |  |  |bg|  
+|pg|pg|pg|pg|pg|pg|pg|pg|pg
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|ps|ps|ps|ps|ps|ps|ps|ps|ps
+|  |bs|  |  |  |  |  |rs|  
+|ls|ns|ss|gs|aks|gs|ss|ns|ls
+|-
+|<small>Sente<br/>Pieces-in-hand: none</small>}}
+</pre>
+<br/>
+<br/>
+
+===Handicap game (rook handicap)===
+{{Shogi diagram|tright
+|<small>Uwate<br/>Pieces-in-hand: none</small>
+|-
+|lg|ng|sg|gg|kg|gg|sg|ng|lg
+|  |  |  |  |  |  |  |bg|  
+|pg|pg|pg|pg|pg|pg|pg|pg|pg
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|ps|ps|ps|ps|ps|ps|ps|ps|ps
+|  |bs|  |  |  |  |  |rs|  
+|ls|ns|ss|gs|ks|gs|ss|ns|ls
+|-
+|<small>Shitate<br/>Pieces-in-hand: none</small>}}
+<br/>
+<br/>
+<pre style="margin-right:280px;">
+{{Shogi diagram|tright
+|<small>Uwate<br/>Pieces-in-hand: none</small>
+|-
+|lg|ng|sg|gg|kg|gg|sg|ng|lg
+|  |  |  |  |  |  |  |bg|  
+|pg|pg|pg|pg|pg|pg|pg|pg|pg
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|ps|ps|ps|ps|ps|ps|ps|ps|ps
+|  |bs|  |  |  |  |  |rs|  
+|ls|ns|ss|gs|ks|gs|ss|ns|ls
+|-
+|<small>Shitate<br/>Pieces-in-hand: none</small>}}
+</pre>
+<br/>
+<br/>
+
+===Last move played (e.g., Position after ....)===
+The diagram for the position after the moves 1. P-26, 2. P-84, 3. P-25, 4. P-85, 5. G-78, 6. G-32, 7. P-24, 8. Px24, 9. Rx24 is created as follows:
+{{Shogi diagram|tright
+|Position after 9. Rx24<br/><small>Gote<br/>Pieces-in-hand:</small> {{nihongo2|歩}}
+|-
+|lg|ng|sg|gg|kg|  |sg|ng|lg
+|  |rg|  |  |  |  |gg|bg|  
+|pg|  |pg|pg|pg|pg|pg|  |pg
+|  |  |  |  |  |  |  |rsl|  
+|  |pg|  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|ps|ps|ps|ps|ps|ps|ps|  |ps
+|  |bs|gs|  |  |  |  |  |  
+|ls|ns|ss|  |ks|gs|ss|ns|ls
+|-
+|<small>Sente<br/>Pieces-in-hand:</small> {{nihongo2|歩}}}}
+<br/>
+<br/>
+<pre style="margin-right:280px;">
+{{Shogi diagram|tright
+|Position after 9. Rx24<br/><small>Gote<br/>Pieces-in-hand:</small> {{nihongo2|歩}}
+|-
+|lg|ng|sg|gg|kg|  |sg|ng|lg
+|  |rg|  |  |  |  |gg|bg|  
+|pg|  |pg|pg|pg|pg|pg|  |pg
+|  |  |  |  |  |  |  |rsl|  
+|  |pg|  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|ps|ps|ps|ps|ps|ps|ps|  |ps
+|  |bs|gs|  |  |  |  |  |  
+|ls|ns|ss|  |ks|gs|ss|ns|ls
+|-
+|<small>Sente<br/>Pieces-in-hand:</small>{{nihongo2|歩}}}}
+</pre>
+<br/>
+<br/>
+
+===Tsumeshogi problems===
+Example of how this diagram can be used for [[Tsumeshogi|"tsumeshogi"]] problems
+{{Shogi diagram|tright
+|Sente to mate in three<br/><small>Gote<br/>Pieces-in-hand: all the rest</small>
+|-
+|  |  |  |sg|kg|sg|  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |ts|  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|hs|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|-
+|<small>Sente<br/>Pieces-in-hand:</small> {{nihongo2|銀}}}}
+<br/>
+<br/>
+<pre style="margin-right:280px;">
+{{Shogi diagram|tright
+|Sente to mate in three<br/><small>Gote<br/>Pieces-in-hand: all the rest</small>
+|-
+|  |  |  |sg|kg|sg|  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |ts|  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|hs|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|-
+|<small>Sente<br/>Pieces-in-hand:</small> {{nihongo2|銀}}}}
+</pre>
+<br/>
+<br/>
+
+===Highligting squares and indicating piece movement===
+Examples of how specific square can be highlighted and piece movement indicated.
+{{Shogi diagram|tright
+|Highlighting squares<br/><small>Gote</small>
+|-
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |yy|  |gr|  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|-
+|<small>Sente</small>}}
+<br/>
+<br/>
+<pre style="margin-right:280px;">
+{{Shogi diagram|tright
+|Indicting piece movement<br/><small>Gote</small>
+|-
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |yy|  |gr|  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|-
+|<small>Sente</small>}}
+</pre>
+<br/>
+<br/>
+{{Shogi diagram|tright
+|Indciating piece movement<br/><small>Gote</small>
+|-
+|lat |lra  |las |ras |lra|rat |    |  |  
+|    |     |kal |    |   |    |kar |  |  
+|    |     |uas |    |   |    |uas |  |  
+|daau|     |    |    |   |    |    |  |uat  
+|    |daaus|    |    |dau|    |    |  |uda  
+|    |     |    |da  |   |    |    |  |uas 
+|    |daads|daus|    |   |das |das |  |das 
+|    |dads |daa |    |   |kadl|kadr|  |uda  
+|dad |     |     |daad|   |    |    |  |dat  
+|-
+|<small>Sente</small>}}
+<br/>
+<br/>
+<pre style="margin-right:280px;">
+{{Shogi diagram|tright
+|Highlighting squares<br/><small>Gote</small>
+|-
+|lat |lra  |las |ras |lra|rat |    |  |  
+|    |     |kal |    |   |    |kar |  |  
+|    |     |uda |    |   |    |uda |  |  
+|daau|     |    |    |   |    |    |  |uat  
+|    |daaus|    |    |dau|    |    |  |uda 
+|    |     |    |da  |   |    |    |  |uas  
+|    |daads|daus|    |   |das |das |  |das
+|    |dads |daa |    |   |kadl|kadr|  |uda 
+|dad |     |     |daad|   |    |    |  |dat 
+|-
+|<small>Sente</small>}}
+</pre>
+<br/>
+<br/>
+
+==Alternate versions==
+This diagram uses an [[Arabic numeral]] to designate each file, and a lowercase [[English alphabet|alphabetic character]] to designate each rank. 
+
+This template can be easily edited to use Arabic numerals or [[Japanese numerals#Basic numbering in Japanese|kanji numerals]] to designate ranks by simply replacing the number text.
+
+To create a diagram with no rank or file designations, simply delete rows of number and letter. 
+
+Regardless of how the ranks are designated, care should be taken to use a form of [[Shogi#Notation|notation]] consistent with the diagram to avoid confusion.
+
+==See also==
+* [[:ja:template:shogi diagram|Japanese Wikipedia shogi diagram template]]
+* [[Template:Shogi diagram dual num]]
+
+<includeonly>{{#ifeq:{{PAGENAME}}|{{BASEPAGENAME}}|
+[[Category:Shogi templates]]
+[[Category:Chess diagram templates|Shogi diagram]]
+}}</includeonly>

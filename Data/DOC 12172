@@ -1,0 +1,38 @@
+Title : Template:2004 Summer Olympics Nigeria women's basketball team roster
+Text : <noinclude>
+The purpose of this template is to collect source text used in several articles in one place, in order to minimize maintenance and storage space. This is the [[Nigeria women's national basketball team|Nigerian roster]] in the [[Basketball at the 2004 Summer Olympics – Women's tournament|women's basketball tournament]] of the [[2004 Summer Olympics]].  The template is typically used in two articles: the article covering [[Nigeria at the 2004 Summer Olympics]], and the article covering the [[Basketball at the 2004 Summer Olympics – Women's team squads|rosters of all participating teams]] of the tournament.
+
+</noinclude>The following is the Nigeria roster in the women's basketball tournament of the 2004 Summer Olympics.<ref>{{cite web|title=Women's Basketball Team Roster – Nigeria (NGR)|url=http://library.la84.org/6oic/OfficialReports/2004/Results/Basketball.pdf|format=[[PDF]]|page=11|work=[[2004 Athens]]|publisher=[[LA84 Foundation]]|date=9 April 2014}}</ref>
+
+{{FIBA roster header|team=Nigeria women's national basketball team – 2004 Summer Olympics
+|template name=2004 Summer Olympics Nigeria women's basketball team roster
+| color1 = #fefefe| bg1 = #008751| color2 = #008751| bg2 = #fefefe}}
+<!-- list of players -->
+{{FIBA player|df=y| num = 4 | nat= USA | first = Umoh | last = Itoro | link = Itoro Umoh-Coleman | pos = G | m = 1.83 | year = 1977 | month = 2 | date = 21 | compyear = 2004 | compmonth = 8 | compdate = 13 | clublink = [[Clemson Tigers|Clemson University]] }}
+{{FIBA player|df=y| num = 5 | nat= POR | first = Joanne | last = Aluka | pos = F | m = 1.81 | year = 1979 | month = 4 | date = 26 | compyear = 2004 | compmonth = 8 | compdate = 13 | clublink = [[Grupo Desportivo da Gafanha da Nazaré|GD Gafanha da Nazaré]] }}
+{{FIBA player|df=y| num = 6 | nat= SUI | first = Mobolaji | last = Akiode | pos = G | m = 1.78 | year = 1982 | month = 5 | date = 12 | compyear = 2004 | compmonth = 8 | compdate = 13 | clublink = [[Pully Basket (women's basketball)|Pully Basket]] }}
+{{FIBA player|df=y| num = 7 | nat= GRE | first = Juliana | last = Negedu | pos = G | m = 1.85 | year = 1979 | month = 7 | date = 31 | compyear = 2004 | compmonth = 8 | compdate = 13 | clublink = [[Aris Thivas (women's basketball)|Aris Thivas]] }}
+{{FIBA player|df=y| num = 8 | nat= USA | first = Ugo | last = Oha | pos = C/F | m = 1.93 | year = 1982 | month = 7 | date = 18 | compyear = 2004 | compmonth = 8 | compdate = 13 | clublink = [[George Washington Colonials|George Washington University]] }}
+{{FIBA player|df=y| num = 9 | nat= NGR | first = Aisha | last = Mohammed | pos = F | m = 1.93 | year = 1985 | month = 10 | date = 21 | compyear = 2004 | compmonth = 8 | compdate = 13 | clublink = [[First Bank BC (women's basketball)|First Bank]] }}
+{{FIBA player|df=y| num = 10 | nat= NGR | first = Nguveren | last = Iyorhe | pos = F/G | m = 1.87 | year = 1981 | month = 6 | date = 9 | compyear = 2004 | compmonth = 8 | compdate = 13 | clublink = [[First Bank BC (women's basketball)|First Bank]] }}
+{{FIBA player|df=y| num = 11 | nat= USA | first = Mfon | last = Udoka | pos = F | m = 1.88 | year = 1976 | month = 6 | date = 16 | compyear = 2004 | compmonth = 8 | compdate = 13 | club = Houston Comets }}
+{{FIBA player|df=y| num = 12 | nat= USA | first = Rashidat | last = Sadiq | pos = F | m = 1.88 | year = 1981 | month = 1 | date = 3 | compyear = 2004 | compmonth = 8 | compdate = 13 | clublink = [[Connecticut Huskies women's basketball|University of Connecticut]] }}
+{{FIBA player|df=y| num = 13 | nat= TUR | first = Mactabene | last = Amachree | pos = G | m = 1.90 | year = 1978 | month = 1 | date = 30 | compyear = 2004 | compmonth = 8 | compdate = 13 | clublink = [[İstanbul Üniversitesi Spor Kulübü|Istanbul University]] }}
+{{FIBA player|df=y| num = 14 | nat= NGR | first = Taiwo | last = Rafiu | pos = C | m = 1.82 | year = 1972 | month = 6 | date = 18 | compyear = 2004 | compmonth = 8 | compdate = 13 | clublink = [[Kookmni Bank CB|Kookmni Bank]] }}
+{{FIBA player|df=y| num = 15 | nat= USA | first = Linda | last = Ogugua | pos = C | m = 1.98 | year = 1978 | month = 4 | date = 12 | compyear = 2004 | compmonth = 8 | compdate = 13 | clublink = [[Biola University#Athletics|Biola University]] }}
+<!-- end list of players -->
+{{FIBA roster footer
+| head_coach = 
+*{{player||NGR|[[Sam Vincent]]}}
+| asst_coach = 
+*{{player||NGR|[[Scott Nnaji]]}}
+| otherlegend = 
+*'''(C)''' Team captain
+*'''nat''' field describes country <br/>of last club <br/>before the tournament
+*'''Age''' as of August 13, 2004
+}}<noinclude>
+==References==
+{{reflist}}
+{{2004 Summer Olympics basketball convenience template navbox}}
+[[Category:2004 Summer Olympics basketball team roster templates|Women Nigeria]]
+</noinclude>

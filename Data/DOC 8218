@@ -1,0 +1,10 @@
+Title : Template:UserVP/doc
+Text : {{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+== Usage ==
+*Example: {{tlx|UserVP|Example User}}
+{{User_information_templates}}
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+[[Category:Username internal link templates|UserVP]]
+}}</includeonly>

@@ -1,0 +1,10 @@
+Title : Template:User cornet-1
+Text : {{user instrument|
+| instrument-code = crnt
+| instrument-cat-code = cornet
+| ist = cornet player
+| level = 1
+| nocat = {{{nocat|}}}
+}}<noinclude>
+[[Category:Musical instrument user templates|Cornet-1]]
+</noinclude>

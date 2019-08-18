@@ -1,0 +1,112 @@
+Title : Wikipedia:Reference desk/Archives/Mathematics/2014 April 23
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Mathematics|Mathematics desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Mathematics/2014 April 22|April 22]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Mathematics/March 2014|Mar]] | [[Wikipedia:Reference desk/Archives/Mathematics/April 2014|April]] | [[Wikipedia:Reference desk/Archives/Mathematics/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Mathematics/2014 April 24|[[Wikipedia:Reference desk/Archives/Mathematics/2014 April 24|April 24]]|[[Wikipedia:Reference desk/Mathematics|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Mathematics Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Mathematics/2014 May 3|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= April 23 =
+
+== fitting a circle to grid points ==
+
+I have a project that involves fitting circle arcs to selected points on an integer grid.  I'm using [http://www.dtcenter.org/met/users/docs/write_ups/circle_fit.pdf R.Bullock's algo].  Besides approximating "black" gridpoints, I need to avoid "white" gridpoints, so I got this idea: wherever the circle comes too near a "white" point, I add a sample point one grid-unit away along the diameter; thus, I thought, the next version of the circle should be nudged in the right direction.  Similarly, if it's too far from a "black" point, add another copy of that point to the list of samples, effectively increasing that point's weight.
+
+But it doesn't converge.  Do you happen to know of a comparable algo that does? —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 09:14, 23 April 2014 (UTC)
+
+:You want to minimize the ''weighted'' square sum of distances to the points where black points have positive weights and white points have negative weights. Right? [[User:Bo Jacoby|Bo Jacoby]] ([[User talk:Bo Jacoby|talk]]) 09:41, 23 April 2014 (UTC).
+
+:: Close but not exactly: the measure of success is the maximum of { distance between a black point and the arc } ∪ { 1 minus distance between a white point and the arc }, using the ∞-norm rather than the 2-norm. —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 05:49, 24 April 2014 (UTC)
+
+:A circular arc will fit exactly through 3 points.  The more constraints you add above 3, the worse the fit is likely to be.  You might want to consider a higher degree arc, or a [[spline]], composed of multiple arcs, which will allow the curve to fit more constraints closely, or even exactly.  This will allow the curve to have [[inflection point]]s, however. 
+
+:If you want to stick with a singular circular arc, perhaps ignoring the white points initially, then offsetting the arc either inside or outside, until an acceptable distance from the white points is found, would be the way to go.  This lowers the number of constraints initially, so convergence is more likely.  [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 14:14, 23 April 2014 (UTC)
+
+:: Later in the process I'll generate piecewise spirals <math>z(t) = z_0 + \textstyle\int_0^t e^{i f(s)}\, ds</math> where <math>f</math> is a real-valued polynomial (lines, circles and [[Euler spiral]]s are special cases of degree 0, 1, 2; for [[Smooth function#Smoothness of curves and surfaces|''G''² continuity]] I use degree 4).  The point of the circle fit is to determine position, tangent angle and curvature at an initial population of points where the pieces will join (which are not grid points, and will be replaced in iterative relaxation).
+:: Stu's suggestion is what I've been doing, but I have in mind that it ought to be possible to do better by pushing and pulling on ''parts'' of the circle, thus possibly changing the center. —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 05:49, 24 April 2014 (UTC)
+
+: Overnight I thought: rather than add a sample point where the arc ideally belongs (with respect to one gridpoint), put it where it halves the error.  Haven't tried that yet.
+::: That idea works beautifully for some cases and disastrously for others. —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 09:09, 28 April 2014 (UTC)
+: Another possibility is to fit two circles to the midpoints between black and white neighbors, and output the circle that [[Inversive geometry#Circle inversion|inverts]] each to the other.  —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 05:49, 24 April 2014 (UTC)
+
+::Just to reiterate, adding more and more constraints to try to get what you want rarely works.  Perhaps you need to abandon creating circular arcs entirely and go right to fitting the final spirals to your constraints.  Have you tried that ?   How many black and white points would the final spiral have ? 
+
+::Alternatively, if sticking with your current process, have you tried variable offsets, where the circular arc is offset more at one end than at the other (possibly in the opposite direction) ?  [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 05:18, 25 April 2014 (UTC)
+
+::: At one stage I tried fitting a single spiral to the whole path; results were ugly for a couple of reasons.  Later I did [http://bendwavy.org/wp/?p=2926 this].  My current thinking is to start with a circle for each sequence of three dots, use the middles of these circle-arcs as initial estimates of the curvature and tangent angle ("nodes") near each black gridpoint, fit spiral arcs between adjacent nodes, and iteratively relax the resulting composite curve.  The number of dots in the final path is immaterial; the composite spiral will have as many segments as it needs – initially breaking at (its nearest approach to) each black dot, ultimately only where the tangent angle is a multiple of &pi;/4.
+::: Since a small set of cases will cover most three-dot circles, I'll now try optimizing each one by hand (or with a special small program).  Thanks for helping me "think aloud". —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 16:45, 25 April 2014 (UTC)
+
+::::I believe most computer font systems use cubic [[Bézier spline]]s. [[User:Dmcq|Dmcq]] ([[User talk:Dmcq|talk]]) 17:50, 25 April 2014 (UTC)
+
+::::: That's what my final final output will have to be – but splines that approximate the curves that minimize variation in curvature, <math>\textstyle\int (\kappa'(s))^2\,ds</math>.  The search space for that optimum is less 'natural' with polynomial splines themselves. —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 18:09, 25 April 2014 (UTC)
+
+:I looked up your project by following your link, and have a suggestion: 
+
+:1) Start by connecting adjacent points with line segments.  So, with your S example:
+
+     *-*-*
+    /     \
+   *       *
+    \
+     *
+      \ 
+       *
+        \
+         *
+          \
+   *       *
+    \     /
+     *-*-*
+
+:2) Where there is no angle change at a point, leave those segments alone.
+
+:3) Where there is an angle change, run a 3rd degree polynomial arc from the point before to the point after, maintaining the position and angle at both ends.  Do not use the point in the center as a constraint.  So, that gives you 2 position constraints and 2 tangent constraints, for a total of 4 constraints.  Thus, a 3rd degree polynomial arc should fit exactly.  
+
+:: Yes, if ''y'' is a function of ''x'' or vice versa.  It's more customary to treat ''x'' and ''y'' as independent functions of a parameter ''t'', so a cubic spline has 8 constants in all.  The tangent constraint is equivalent to a ratio between the two derivatives <math>dx/dt</math> and <math>dy/dt</math>, leaving a degree of freedom – the magnitude of those derivatives – at each end.  [[TrueType]] fits position-and-tangent constraints with parabolas, 6 constants. —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 01:32, 26 April 2014 (UTC)
+
+:4) Here's just the top half of the S shown, and arcs would be drawn from A-to-C, C-to-E and D-to-F.  Between D and E a blend would need to be done between the two curves, starting at the C-to-E arc at point D and moving to the D-to-F arc at point E.  Alternatively, a single arc could be drawn from C-to-F, not using points D and E at all. 
+
+
+     D-C-B
+    /     \
+   E       A
+    \
+     F
+      \ 
+       G
+
+:: It appears to me that your spline will always follow the inside of an angle (unless there's an inflexion).  To smooth an octagon, say, I'd want the curve to cut within the corners but out of the middle of each side. —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 01:32, 26 April 2014 (UTC)
+  
+:I see a couple potential problems though.  One is that connecting adjacent points isn't so easy, where lines cross each other.  Another is that, in some cases, like this low res W, you really would want line segments, not arcs:
+
+  *   *   *
+   \ / \ /
+    *   *
+
+:Perhaps the higher angle at those points can tell us they should remain line segments.  So, curves should only be fit when there's a slight angle, not a high angle or no angle.
+
+:: Where strokes cross, I'll allow neutral points.  Where they meet at a corner, I separate them by hand; if I extend the code to more general purposes, it can look for curvature spikes. —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 01:32, 26 April 2014 (UTC)
+
+:Note that I make no attempt to maintain curvature continuity, or to avoid any "white points", as I believe that would over-constrain the resulting spline and make it "lumpy". [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 18:23, 25 April 2014 (UTC)
+
+:: I suspect you're thinking in terms of exact constraints such as "the curve must pass through these points".  Those would indeed make lumps, and have never been part of this project.  My constraints are softer: "the curve must pass within &frac12; grid-unit of these points and not within &frac12; grid-unit of those points".  That's considerable room to play in, so I don't yet feel a need to abandon my project's defining features. —[[User:Tamfang|Tamfang]] ([[User talk:Tamfang|talk]]) 01:32, 26 April 2014 (UTC)
+
+:::My suggestions wouldn't have the curve fall exactly on every point, either, as that would again over-constrain the problem.  However, I did have the goal of fitting the curve as close as possible to the points, while keeping the curve smooth. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 13:01, 27 April 2014 (UTC)
+
+== Propositional Logic proof ==
+
+How do you show that, if a system <math>S \vdash \neg A \rightarrow \left( C \wedge \neg C \right)</math>, then <math>S \vdash A</math>? So far, I've got to <math>S \vdash A \vee \left( C \wedge \neg C \right)</math> by [[:Material implication (rule of inference)|material implication]], but how do I get rid of the second disjunct? '''[[User:It Is Me Here|<span style="color:#060">It Is Me Here</span>]]''' <sup>'''[[User_talk:It Is Me Here|<span style="color:#C60">t</span>]] / [[Special:Contribs/It Is Me Here|<span style="color:#C60">c</span>]]'''</sup> 13:03, 23 April 2014 (UTC)
+:Going off the deduction rules on our [[propositional logic]] page -- start with the Law of Non-Contradiction to get <math>\neg (C \wedge \neg C)</math>, the apply Modus Tollens to get <math>\neg\neg A</math>, then apply Double-Negation Elimination.  I note that Double-Negation Elimination isn't listed there, but it follows from Excluded Middle plus Disjunctive Syllogism.--[[Special:Contributions/80.109.80.78|80.109.80.78]] ([[User talk:80.109.80.78|talk]]) 23:24, 23 April 2014 (UTC)
+::{{thank you}}! '''[[User:It Is Me Here|<span style="color:#060">It Is Me Here</span>]]''' <sup>'''[[User_talk:It Is Me Here|<span style="color:#C60">t</span>]] / [[Special:Contribs/It Is Me Here|<span style="color:#C60">c</span>]]'''</sup> 09:16, 24 April 2014 (UTC)

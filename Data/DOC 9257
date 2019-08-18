@@ -1,0 +1,76 @@
+Title : Rinteln station
+Text : {{Infobox station
+| name                = Rinteln
+| native_name         = 
+| native_name_lang    = de
+| symbol =  | symbol2 = 
+| symbol_location     = de
+| type                = Connecting station
+| image               = 
+| alt                 = 
+| caption             = 
+| other_name          = 
+| address             = 
+| borough             = [[Rinteln]], [[Lower Saxony]]
+| country             = Germany
+| coordinates         = {{coord|52.198993|N|9.077812|E|region:DE-NI_type:railwaystation|format=dms|display=inline,title}}
+| line                = {{Plainlist|1=
+* [[Elze–Löhne railway]] <small>({{Kursbuchlink|Region=300-399|Nummer=372}})</small>
+* [[Rinteln–Stadthagen railway]] ''(Heritage railway)''
+* ''[[Exter Valley Railway]]'' ''(closed)''
+ }}
+| platforms           = 2
+| tracks              = 
+| connections         = 
+| code                = {{Deutsche Bahn station codes|code=2766 <ref name =categories/>|ds100=HRIN <ref name=Eisenbahnatlas >{{cite book|title=Eisenbahnatlas Deutschland (German railway atlas) | edition=2009/2010 |publisher= Schweers + Wall | year= 2009 |isbn= 978-3-89494-139-0}}</ref>|ibnr=|category=6 <ref name =categories >{{DBCatsURL}}</ref>}}
+| architect           = 
+| architectural_style = 
+| opened              = 1875<ref name=KRAssoc>{{cite web | url =http://s126287286.websitehome.co.uk/KRAMinutesto1994.pdf | title =Rinteln - A Short History | publisher =Kendal-Rinteln Association | access-date =2016-03-06 }}</ref>
+| closed              =
+| passengers          = 500 <small>(2010)</small>
+| pass_year           = 
+| website             =
+}}
+'''Rinteln station''' is located on the [[Elze–Löhne railway]] in the town of [[Rinteln]] in the district of [[Schaumburg]] in the German state of [[Lower Saxony]]. The town lies on the [[Weser]] and is important for tourism. It is classified by [[Deutsche Bahn]] as a [[German railway station categories|category 6 station]].<ref name =categories/>
+
+It also served by heritage railway operations on the [[Rinteln–Stadthagen railway]]. 
+
+==History==
+The station was opened in 1875.<ref name=KRAssoc/>
+		
+== Location and operations==
+
+Rinteln station is located north of town centre on the [[Elze–Löhne railway|Weser Railway]] from [[Bünde station|Bünde]] and [[Löhne station|Löhne]] via [[Bad Oeynhausen Süd station|Bad Oeynhausen Süd]] and Rinteln to [[Hildesheim Hauptbahnhof|Hildesheim]] and [[Bodenburg]]. The line is operated by [[NordWestBahn]]. Trains run hourly on week days and every two hours on weekends.
+
+{| class="wikitable" 
+|- class="hintergrundfarbe5"
+! Train class
+! Route
+! Frequency
+|-
+| {{Bahnlinie|RB||ERB 77}}
+| '''Weser-Bahn'''<br>([[Bünde station|Bünde (Westf)]] –) [[Löhne (Westfalen) station|Löhne (Westf)]] – '''Rinteln''' – [[Hamelin station|Hamelin]] – Elze – [[Nordstemmen station|Nordstemmen]] – [[Hildesheim Hauptbahnhof|Hildesheim]]
+| Hourly
+|}
+
+{{s-rail-start|noclear=y}}
+{{s-rail|title=NordWestBahn}}
+{{S-line|system=RB-NRW|line=77|previous=Vlotho|next=Hessisch Oldendorf}}
+{{end}}
+
+== Conditions ==
+
+Since the carrying out of some restoration measures, the station has only two platform tracks next to an island platform, as well as a through track (next to the former home platform), which is used by the heritage trains. The much neglected and vacant building, which was built in 1978, was renovated in 2009. The island platform itself is accessed via an underpass built in 1910.<ref>{{cite news |url=http://www.landes-zeitung.de/portal/lokales/lz-heute/rinteln_Bahnhof-wird-vermessen-%26ndash%3B-und-weiterverkauft-_arid,210226.html |title=Bahnhof wird vermessen – und weiterverkauft?| newspaper=Landes-Zeitung |language=German}} </ref> Public transport tickets and tickets for selected long-distance services are available from vending machines on the platform.
+
+Necessary renovation work was carried out on the platform as part of the economic stimulus package from August to October 2009.
+
+At the station forecourt there is a bus station, a Park & Ride facility and the platform (Rinteln Nord) of the Rinteln–Stadthagen railway, which is operated by ''Dampfeisenbahn-Weserbergland e. V.'' (“steam railway of the Weser Uplands”, DEW) as a heritage railway. Until 1969, there was a direct connection through the town centre via the Exter Valley Railway (''Extertalbahn'') to [[Barntrup]].
+
+As part of the economic stimulus programs, the station has been renovated by [[DB Station&Service]] and modernised in many places. The focus of activities is on improving passenger information via a new dynamic display. Work was also carried out to improve the appearance of the station, to renovate wind and weather protection, to place new waste containers and to renew directional signs. Damaged areas on the platforms have been repaired and the pedestrian underpass and the entrance to the platform have been upgraded. The station building was sold for €47,000 in an auction in the autumn of 2013.<ref> {{cite journal|journal=Bahn-Report |title=Aktueller Betrieb mit Hintergrund |issue= 6 |year=2013 |page= 8 |language=German}} </ref>
+
+==Notes==
+
+{{Reflist}}
+
+[[Category:Railway stations in Lower Saxony]]
+[[Category:Railway stations opened in 1875]]

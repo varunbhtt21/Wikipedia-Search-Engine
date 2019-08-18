@@ -1,0 +1,246 @@
+Title : Line 1 (Wuxi Metro)
+Text : {{refimprove|date=July 2016}}
+{{Infobox rail line
+| name        =
+| logo        = {{huge|{{rint|wuxi|1}}}}
+| logo_width  = 
+| color       = {{WuxiM color|1}}
+| image       = Wuxi Metro Line 1 train.jpg
+| image_width = 300px
+| image_alt   =
+| caption     = A train of Wuxi Metro Line 1
+| type        = [[Rapid transit]]
+| system      = [[Wuxi Metro]]
+| status      = Operational
+| locale      = [[Wuxi]], [[Jiangsu]], [[People's Republic of China|China]]
+| start       = {{WuxiM stations|Yanqiao}}
+| end         = {{WuxiM stations|Changguangxi}}
+| stations    = 24
+| routes      = 1
+| daily_ridership   = 130,000 (May 2016 Avg.) 
+| open        = {{start date and age|2014|07|01|mf=yes}}<ref name=wuxi>{{cite web| title=无锡地铁7月1日开通 全长29.42公里| url=http://www.jssfxw.com/new.php?id=1923&type=5| website=jssfxw.com| accessdate=2 July 2014| language=Chinese}}</ref>
+| close       = 
+| owner       = [[Wuxi]] Government
+| operator    = [[Wuxi Metro|Wuxi Metro Corporation]]
+| character   = Underground
+| depot       = 
+| stock       = 
+| linelength  = {{convert|29.42|km|mi|2|abbr=on}}<ref name=wuxi />
+| tracklength = 
+| tracks     = 2
+| gauge       = {{track gauge|sg}}
+| electrification          = 
+| speed       = 
+| elevation   = 
+| website     =
+| map         = 
+| map_state   = collapsed
+}}
+[[File:Broadcasting for Wuxi Metro Line 1.ogg|thumb|Broadcasting for Wuxi Metro Line 1]]
+'''Line 1''' of the [[Wuxi Metro]] ({{zh|s=无锡地铁一号线|p=Wúxī Dìtiě Yī Hào Xiàn}}) a [[rapid transit]] line running from north to south [[Wuxi]], China. It was opened on 1 July 2014. This line is 29.42&nbsp;km long with 24 stations.<ref>{{cite web| url=http://news.wuxi.soufun.com/2011-02-12/4497606.htm| title=无锡地铁1、2号线 2014年将先后投入运营| date=12 February 2011| accessdate=4 May 2014| language=Chinese}}</ref>
+
+==Opening timeline==
+{| class="wikitable" cellpadding="3" style="border-collapse: collapse; text-align: right;"
+!Segment!!Commencement!!Length!!Station(s)!!Name
+|-
+|style="text-align: left;"| Yanqiao — Changguangxi
+| 1 July 2014
+| {{convert|29.42|km|mi|2|abbr=on}}
+| 24
+|style="text-align: left;"| Phase 1
+|}
+
+==Stations (north to south)==
+{| class="wikitable"
+! colspan="2" | Station name
+! rowspan="2" | Connections
+! colspan="2" rowspan="2" | Distance<br>{{small|km}}
+! rowspan="2" | Location
+|-
+! {{small|English}}
+! {{small|Chinese}}
+|- style = "background:#{{WuxiM color|1}}; height: 2pt"
+| colspan = "6" |
+|-
+|{{WuxiM stations|Yanqiao}}
+|{{large|{{lang|zh-cn|堰桥}}}}
+|
+|0.00
+|0.00
+|rowspan="5"|[[Huishan District|Huishan]]
+|-
+|{{WuxiM stations|Xibei Canal}}
+|{{large|{{lang|zh-cn|锡北运河}}}}
+|
+|1.48
+|1.48
+|-
+|{{WuxiM stations|Xizhang}}
+|{{large|{{lang|zh-cn|西漳}}}}
+|
+|2.31
+|3.79
+|-
+|{{WuxiM stations|Tianyi}}
+|{{large|{{lang|zh-cn|天一}}}}
+|
+|0.89
+|4.68
+|-
+|{{WuxiM stations|Liutan}}
+|{{large|{{lang|zh-cn|刘潭}}}}
+|{{rint|wuxi|4|na}}
+|1.24
+|5.92
+|-
+|{{WuxiM stations|Zhuangqian}}
+|{{large|{{lang|zh-cn|庄前}}}}
+|
+|1.86
+|7.78
+|rowspan="6"|[[Liangxi District|Liangxi]]
+|-
+|{{WuxiM stations|Minfeng}}
+|{{large|{{lang|zh-cn|民丰}}}}
+|
+|1.01
+|8.79
+|-
+|{{WuxiM stations|Wuxi}}
+|{{large|{{lang|zh-cn|无锡火车站}}}}
+|{{rint|wuxi|3|na}} {{rint|cn|rail|link=Wuxi railway station}} [[Wuxi railway station|WXH]]
+|1.52
+|10.31
+|-
+|{{WuxiM stations|Shenglimen}}
+|{{large|{{lang|zh-cn|胜利门}}}}
+|
+|1.01
+|11.32
+|-
+|{{WuxiM stations|Sanyang Plaza}}
+|{{large|{{lang|zh-cn|三阳广场}}}}
+|{{rint|wuxi|2}}
+|0.67
+|11.99
+|-
+|{{WuxiM stations|Nanchan Temple}}
+|{{large|{{lang|zh-cn|南禅寺}}}}
+|
+|1.11
+|13.10
+|-
+|{{WuxiM stations|Tanduqiao}}
+|{{large|{{lang|zh-cn|谈渡桥}}}}
+|
+|0.75
+|13.85
+|rowspan="16"|[[Binhu District|Binhu]]
+|-
+|{{WuxiM stations|Taihu Square}}
+|{{large|{{lang|zh-cn|太湖广场}}}}
+|
+|0.81
+|14.66
+|-
+|{{WuxiM stations|Qingmingqiao}}
+|{{large|{{lang|zh-cn|清名桥}}}}
+|
+|0.86
+|15.52
+|-
+|{{WuxiM stations|People's Hospital}}
+|{{large|{{lang|zh-cn|人民医院}}}}
+|
+|1.12
+|16.64
+|-
+|{{WuxiM stations|Huaqingdaqiao}}
+|{{large|{{lang|zh-cn|华清大桥}}}}
+|
+|1.19
+|17.83
+|-
+|{{WuxiM stations|Yangming}}
+|{{large|{{lang|zh-cn|扬名}}}}
+|
+|1.64
+|19.47
+|-
+|{{WuxiM stations|Nanhujiayuan}}
+|{{large|{{lang|zh-cn|南湖家园}}}}
+|
+|1.30
+|20.77
+|-
+|{{WuxiM stations|Tangtieqiao}}
+|{{large|{{lang|zh-cn|塘铁桥}}}}
+|
+|1.02
+|21.79
+|-
+|{{WuxiM stations|Jinkui Park}}
+|{{large|{{lang|zh-cn|金匮公园}}}}
+|
+|1.21
+|23.00
+|-
+|{{WuxiM stations|Civic Center}}
+|{{large|{{lang|zh-cn|市民中心}}}}
+|
+|1.44
+|24.44
+|-
+|{{WuxiM stations|Cultural Palace}}
+|{{large|{{lang|zh-cn|文化宫}}}}
+|{{rint|wuxi|4|na}}
+|1.37
+|25.81
+|-
+|{{WuxiM stations|Jiangnan University}}
+|{{large|{{lang|zh-cn|江南大学}}}}
+|
+|1.68
+|27.49
+|-
+|{{WuxiM stations|Changguangxi}}
+|{{large|{{lang|zh-cn|长广溪}}}}
+|
+|1.18
+|28.67
+|-bgcolor="lightgrey"
+|{{WuxiM stations|Xuelang}}
+|{{large|{{lang|zh-cn|雪浪}}}}
+|
+|
+|
+|-bgcolor="lightgrey"
+|{{WuxiM stations|Gedaiqiao}}
+|{{large|{{lang|zh-cn|葛埭桥}}}}
+|
+|
+|
+|-bgcolor="lightgrey"
+|{{WuxiM stations|Nanfangquan}}
+|{{large|{{lang|zh-cn|南方泉}}}}
+|
+|
+|
+|- style = "background:#{{WuxiM color|1}}; height: 2pt"
+| colspan = "6" |
+|}
+[[File:Line 1, Wuxi Metro.png|center|thumb|1000px|Map of Line 1]]
+
+==References==
+{{Reflist}}
+
+{{commons category|Line 1, Wuxi Metro}}
+{{Wuxi Metro|line1=yes}}
+
+{{DEFAULTSORT:Wuxi Metro, Line 1}}
+[[Category:Wuxi Metro|1]]
+[[Category:2014 establishments in China]]
+[[Category:Railway lines opened in 2014]]
+
+{{PRChina-rail-transport-stub}}
+{{metro-stub}}

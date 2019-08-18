@@ -1,0 +1,76 @@
+Title : Template:Troféu Imprensa for Best Actor
+Text : {{Navbox 
+| name       = Troféu Imprensa for Best Actor
+| title      = [[Troféu Imprensa]] for Best Actor
+| bodyclass  = hlist
+| basestyle  = background: {{Emmy Awards/color}};
+| belowstyle = background: transparent; border-top: 1px solid {{Emmy Awards/color}};
+| state      = {{{state|autocollapse}}}
+
+| group1     = 1961–1977
+| list1      = 
+*[[Lima Duarte]] (1961)
+*[[Leonardo Villar]] (1962)
+*Percy Aires (1963)
+*[[Lima Duarte]] (1964)
+*Armando Bógus (1965)
+*Sérgio Cardoso (1966)
+*[[Francisco Cuoco]] (1967)
+*[[Francisco Cuoco]] (1968)
+*[[Stênio Garcia]] (1969)
+*[[Juca de Oliveira]] (1970)
+*[[Jardel Filho]] (1971)
+*[[Francisco Cuoco]] (1972)
+*[[Francisco Cuoco]] (1973)
+*Paulo Gracindo (1974)
+*Milton Moraes (1975)
+*Paulo Gracindo (1976)
+*[[Lima Duarte]]/Paulo Gracindo (1977)
+
+| group2 = 1981–2000
+| list2  = 
+*[[Jardel Filho]] (1981)
+*[[Tony Ramos]] (1982)
+*Luis Gustavo (1983)
+*[[Paulo Autran]] (1984)
+*[[Ney Latorraca]] (1985)
+*[[Lima Duarte]] (1986)
+*[[Tarcísio Meira]] (1987)
+*[[Paulo Autran]] (1988)
+*[[Tony Ramos]] (1989)
+*[[José Mayer]]/[[Lima Duarte]] (1990)
+*Cláudio Marzo (1991)
+*[[Antônio Fagundes]] (1992)
+*[[Lima Duarte]] (1993)
+*[[Antônio Fagundes]] (1994)
+*[[Tarcísio Meira]] (1995)
+*Osmar Prado (1996)
+*[[Raul Cortez]] (1997)
+*[[Ary Fontoura]] (1998)
+*[[Tony Ramos]] (1999)
+*[[Raul Cortez]] (2000)
+
+| group3 = 2001–present
+| list3  = 
+*[[Tony Ramos]] (2001)
+*[[Tony Ramos]] (2002)
+*[[Tarcísio Meira]] (2003)
+*[[Dan Stulbach]] (2004)
+*[[José Wilker]] (2005)
+*[[Marcos Caruso]] (2007)
+*[[Wagner Moura]] (2008)
+*[[Cauã Reymond]] / [[Murilo Benício]] (2009)
+*[[Tony Ramos]] (2010)
+*[[Tony Ramos]] (2011)
+*[[Gabriel Braga Nunes]] (2012)
+*[[Murilo Benício]] (2013)
+*[[Mateus Solano]] (2014)
+*[[Alexandre Nero]] (2015)
+*[[Guilherme Winter]] (2016)
+*[[Sérgio Guizé]] (2017)
+*[[Marco Pigossi]] (2018)
+*[[Chay Suede]] (2019)
+
+}}<noinclude>
+{{collapsible option}}
+</noinclude>

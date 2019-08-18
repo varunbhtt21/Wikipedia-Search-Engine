@@ -1,0 +1,32 @@
+Title : Template:DYKpages sidebar
+Text : {{Sidebar
+| name = DYKpages sidebar
+| class = plainlist
+| width = {{{width|21.0em<!--should match Template:DYKbox-->}}}
+| headingstyle = font-size:110%;padding-bottom:0.2em;border-bottom:1px solid #aaa;
+| contentstyle = font-size:105%;padding:0.3em 0.3em 0.6em;line-height:1.5em;
+
+| heading1style = padding-top:0.5em;
+| heading1 = "[[Wikipedia:Did you know|Did you know]]" (DYK) tools
+| content1 =
+*'''[[Template talk:Did you know#How to list a new nomination|How to post a new nomination]]'''
+*[[Wikipedia:Did you know#Eligibility criteria|DYK eligibility criteria]]
+*[[:Template talk:Did you know#Current nominations|DYK nominations]]
+
+| heading2 = Project pages
+| content2 =
+*[[WP:Did you know|WikiProject "Did you know"]]
+
+| heading3 = Related pages
+| content3 =
+*[[Wikipedia:Good articles|Good article]]
+*[[Wikipedia:Good topics|Good topics]]
+*[[Wikipedia:Version 1.0 Editorial Team|Wikipedia Version 1.0]]
+*[[Wikipedia:Featured articles|Featured articles]]&nbsp;([[Wikipedia:Former featured articles|former]])
+*[[Wikipedia:Vital articles|Vital articles]]
+
+}}<noinclude>
+__NOTOC__
+{{DEFAULTSORT:Pages}}
+{{Documentation|Template:DYKpages/doc}}
+</noinclude>

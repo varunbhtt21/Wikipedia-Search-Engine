@@ -1,0 +1,51 @@
+Title : Roridomyces subglobosus
+Text : {{Taxobox
+| image =
+| image_width = 234px
+| image_caption =
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Basidiomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Mycenaceae]]
+| genus = ''[[Roridomyces]]''
+| species = '''''R. subglobosus'''''
+| binomial = ''Roridomyces subglobosus''
+| binomial_authority = ([[Miles Joseph Berkeley|Berk.]] & [[Moses Ashley Curtis|M.A.Curtis]]) Rexer (1994)<ref name="Rexer 1994"/>
+| synonyms_ref = <ref name="urlMycoBank: Roridomyces subglobosus"/>
+| synonyms = *''Marasmius subglobosus'' <small>Berk. & M.A.Curtis (1869)</small><br>
+*''Chamaeceras subglobosus'' <small>(Berk. & M.A.Curtis) [[Otto Kuntze|Kuntze]] (1898)</small>
+*''Mycena subglobosa'' <small>(Berk. & M.A.Curtis) Pegler (1987)</small>
+}}
+
+'''''Roridomyces subglobosus''''' is a [[species]] of [[fungus]] in the genus ''[[Roridomyces]]'', family [[Mycenaceae]].
+
+==Taxonomy==
+The species was first described as ''Marasmius subglobosus'' by [[Miles Joseph Berkeley]] and [[Moses Ashley Curtis]] in 1869.<ref name="Berkeley 1869"/> German mycologist [[Otto Kuntze]] transferred it to the genus ''Chamaeceras'' in 1898,<ref name="Kuntze 1898"/> and Daniel Pegler proposed the combination ''Mycena subglobosus'' in a 1987 publication.<ref name="Pegler 1987"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Berkeley 1869">{{cite journal |title=Fungi Cubenses (Hymenomycetes) |journal=Journal of the Linnean Society, Botany |year=1869 |author=Berkeley MJ, Curtis MA. |volume=10 |page=295}}</ref>
+
+<ref name="Kuntze 1898">{{cite book |title=Revisio generum plantarum |year=1898 |volume=3 |author=Kuntze O. |page=457 |language=Latin}}</ref>
+
+<ref name="Pegler 1987">{{cite journal |title=A revision of the Agaricales of Cuba 1. Species described by Berkeley & Curtis |journal=Kew Bulletin |volume=42 |issue=3 |year=1987 |author=Pegler DN. |pages=501–85 |jstor=4110064 |doi=10.2307/4110064}} {{subscription}}</ref>
+
+<ref name="Rexer 1994">{{cite thesis |degree=Ph.D. |title=Die Gattung ''Mycena'' s.l., Studien zu Ihrer Anatomie, Morphologie und Systematik |author=Rexer K-H. |publisher=Eberhard-Karls-Universität Tübingen |location=Tübingen, Germany|year=1994 |page=304 |language=German}}</ref>
+
+<ref name="urlMycoBank: Roridomyces subglobosus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=483238 |title=''Roridomyces subglobosus'' (Berk. & M.A. Curtis) Rexer 1994 |publisher=International Mycological Association |work=MycoBank |accessdate=2010-12-15}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|483238}}
+
+{{Taxonbar|from=Q10656826}}
+
+[[Category:Mycenaceae]]
+[[Category:Fungi described in 1869]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+
+
+{{Agaricales-stub}}

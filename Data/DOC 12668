@@ -1,0 +1,26 @@
+Title : Wikipedia:Huggle/Our philosophy
+Text : This page describes what huggle is, what it is not and what it should be, from developer point of view.
+
+== What huggle is not meant to be ==
+* Tool that makes it possible for you to get insane amount of edits in a short time
+* Tool you can bother others with
+* Tool which makes you feel like you are more awesome than others
+* Tool which can be used to revert useful contributions
+* Tool which you can use to smack others with
+
+== What huggle is meant to be ==
+* Tool that is meant to quickly deal with vandalism
+* Tool that makes wikipedia a better place
+* Something that makes it possible for wikipedia to stay reasonably open (anyone can edit), but clean of vandalism
+* Tool you can huggle others with
+* Tool which you can welcome newbies with
+* Super fast, but precise enough so that users make minimal number of mistakes
+
+Wikipedia, the online encyclopedia, is growing every day, the bigger it is, more hard it is to keep it clean of vandals and reliable enough. One of the potential solutions to all vandalism, would be to restrict anonymous users from editing, and later when even registered users start being a problem, just pick few "elected" editors and restrict wikipedia from editing, so that only few selected can edit it. <ref>This actually already happens, the first step was that anonymous users were blocked from being able to create new articles, more restrictions may come</ref> That may be one of its potential futures and yes, that would probably sort out the problems we have now. But it is not a future we prefer. We want to keep wikipedia as open as possible with minimal instances of vandalized pages. For this reason we created huggle, the super-fast diff browser which makes it possible to review all edits that are done to wikipedia in extremely short time. Latest version of huggle makes it even possible to distribute the edits between multiple "vandal fighters".
+
+Huggle is now written in C++ as an external application that users need to download to their computer in order to use it. That is currently the only way to keep it as fast as it is, because as program running on user PC it only needs to transfer very little traffic between wikimedia servers and user PC (it basically downloads just content of diffs, no extra data like html, css etc).
+
+== Explanations ==
+{{reflist}}
+
+[[Category:Huggle]]

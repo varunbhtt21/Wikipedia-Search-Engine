@@ -1,0 +1,19 @@
+Title : Template:2014 Ivy League baseball standings
+Text : {{CBSB Standings Start|2014 Ivy League baseball standings|Ivy League}}
+{{CBSB Standings Entry |division-name=Lou Gehrig}}
+{{CBSB Standings Entry| {{cbsb link|year=2014|team=Columbia Lions|title=Columbia}} |div-champ=y|tourney=y|ncaa-invited=y|15|5|27|17}}
+{{CBSB Standings Entry| {{cbsb link|year=2014|team=Penn Quakers|title=Penn}} |div-champ=y|15|5|24|17}}
+{{CBSB Standings Entry| {{cbsb link|year=2014|team=Cornell Big Red|title=Cornell}} |9|11|18|21}}
+{{CBSB Standings Entry| {{cbsb link|year=2014|team=Princeton Tigers|title=Princeton}} |8|12|14|26}}
+{{CBSB Standings Entry |division-name=Red Rolfe}}
+{{CBSB Standings Entry| {{cbsb link|year=2014|team=Dartmouth Big Green|title=Dartmouth}} |div-champ=y|11|9|18|21}}
+{{CBSB Standings Entry| {{cbsb link|year=2014|team=Yale Bulldogs|title=Yale}} |div-champ=y|11|9|19|22}}
+{{CBSB Standings Entry| {{cbsb link|year=2014|team=Brown Bears|title=Brown}} |6|14|13|24}}
+{{CBSB Standings Entry| {{cbsb link|year=2014|team=Harvard Crimson|title=Harvard}} |4|14|11|28}}
+{{CBSB Standings End|date=May 10, 2014<ref>{{cite web |url=http://www.ivyleaguesports.com/sports/bsb/2013-14/standings|title=2014 Baseball Standings |publisher=IvyLeagueSports.com|accessdate=May 10, 2014}}</ref> |tourney=[[2014 Ivy League Baseball Championship Series|Championship Series]]|poll=[[2014 NCAA Division I baseball rankings#Collegiate Baseball|Collegiate Baseball]]|div-champ=y|ncaa-invited=y|ncaa-tourney-link=[[2014 NCAA Division I Baseball Tournament|NCAA Tournament]]}}
+<noinclude>
+{{Template reference list}}
+[[Category:Ivy League baseball standings templates]]
+[[Category:2014 NCAA Division I baseball standings templates|Ivy League]]
+[[Category:2014 Ivy League baseball season|standings]]
+</noinclude>

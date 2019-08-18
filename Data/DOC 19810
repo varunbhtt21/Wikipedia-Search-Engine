@@ -1,0 +1,35 @@
+Title : Horizontal translation
+Text : {{Multiple issues|{{more footnotes|date=June 2014}}{{technical|date=June 2014}}}}
+
+In [[function graphing]], a '''horizontal [[translation (geometry)|translation]]''' is a [[transformation (function)|transformation]] which results in a graph that is equivalent to shifting the base graph left or right in the direction of the ''x''-axis. A graph is translated ''k'' units horizontally by moving each point on the graph ''k'' units horizontally.
+
+For the [[base function]] ''f''(''x'') and a [[constant (mathematics)|constant]] ''k'', the function given by ''g''(''x'')&nbsp;=&nbsp;''f''(''x''&nbsp;&minus;&nbsp;''k''), can be sketched ''f''(''x'') shifted ''k'' units horizontally.
+
+If function transformation was talked about in terms of geometric transformations it may be clearer why functions translate horizontally the way they do. When addressing translations on the [[Cartesian plane]] it is natural to introduce translations in this type of notation:
+
+<math>(x,y)\rightarrow(x+a,y+b)</math>
+
+or
+
+<math>T(x,y) = (x+a,y+b)</math>
+
+where <math>a</math> and <math>b</math> are horizontal and vertical changes respectively..
+
+==Example==
+
+Taking the [[parabola]] ''y''&nbsp;=&nbsp;''x''<sup>2</sup> ,  a horizontal translation 5 units to the right would be represented by ''T''((''x'',''y'')) = (''x'' + 5, ''y''). Now we must connect this transformation notation to an algebraic notation.  Consider the point (''a''.''b'') on the original parabola that moves to point (''c'',''d'') on the translated parabola. According to our translation, ''c'' = ''a'' + 5  and ''d'' = ''b''. The point on the original parabola was ''b'' = ''a''<sup>2</sup>. Our new point can be described by relating ''d'' and ''c'' in the same equation. ''b'' = ''d'' and ''a'' = ''c'' &nbsp;&minus;&nbsp;5.
+So ''d'' = ''b'' = ''a''<sup>2</sup> = (''c'' &minus; 5)<sup>2</sup> Since this is true for all the points on our new parabola the new equation is ''y'' = (''x'' &minus; 5)<sup>2</sup>.
+
+==See also==
+* [[Vertical translation]]
+
+==References==
+{{Reflist}}
+*Zazkis, R., Liljedahl, P., & Gadowsky, K. Conceptions of function translation: obstacles, intuitions, and rerouting. Journal of Mathematical Behavior, 22, 437-450. Retrieved April 29, 2014, from www.elsevier.com/locate/jmathb
+*[http://www.biology.arizona.edu/biomath/tutorials/transformations/horizontaltranslations.html Transformations of Graphs: Horizontal Translations]. (2006, January 1). BioMath: Transformation of Graphs. Retrieved April 29, 2014
+
+[[Category:Functions and mappings]]
+[[Category:Transformation (function)]]
+
+
+{{maths-stub}}

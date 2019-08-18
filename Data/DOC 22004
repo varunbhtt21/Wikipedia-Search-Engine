@@ -1,0 +1,46 @@
+Title : Wikipedia:WikiProject Spam/Local/gcaa.ge
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|gcaa.ge]]
+== Links ==
+* {{LinkSummary|gcaa.ge}}
+:* gcaa.ge resolves to [//213.131.32.170 213.131.32.170]
+:*: {{LinkSummary|213.131.32.170}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+* {{LinkSummary|http}}
+:* http resolves to [//X X]
+:*: {{LinkSummary|X}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{IPSummary|176.73.73.68}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12794451|lang=en|wikidomain=w|namespace=|pagename=Tbilisi International Airport|username=176.73.73.68|link=Http://www.gcaa.ge/geo/tbilisiout.php&amp;action=edit&amp;redlink=1|sortdomain=ge.gcaa.|domain=http|origdiff=http://en.wikipedia.org/w/index.php?diff=606640739&oldid=606460746|resolved=X|isIP=1|date=2014-05-01|time=15:50:42|wiki=en.wikipedia.org|revid=606640739|oldid=606460746|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=6|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=Http://www.gcaa.ge/geo/tbilisiout.php|domain=http|U=6|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.gcaa.ge/geo/tbilisiout.php|domain=http|U=6|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.gcaa.ge/geo/tbilisiout.php&amp;action=edit&amp;redlink=1|domain=http|U=6|L=0|UL=X|WUL=X}}}}
+{{User:COIBot/EditSummary|id=12794613|lang=en|wikidomain=w|namespace=|pagename=David the Builder Kutaisi International Airport|username=176.73.73.68|link=Http://www.gcaa.ge/geo/kutaisi.php&amp;action=edit&amp;redlink=1|sortdomain=ge.gcaa.|domain=http|origdiff=http://en.wikipedia.org/w/index.php?diff=606641116&oldid=605949231|resolved=X|isIP=1|date=2014-05-01|time=15:53:51|wiki=en.wikipedia.org|revid=606641116|oldid=605949231|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=6|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=Http://www.gcaa.ge/geo/kutaisi.php|domain=http|U=6|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.gcaa.ge/geo/kutaisi.php|domain=http|U=6|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.gcaa.ge/geo/kutaisi.php&amp;action=edit&amp;redlink=1|domain=http|U=6|L=0|UL=X|WUL=X}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 2 additions out of 7 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/gcaa.ge]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bgcaa\.ge\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/gcaa.ge]]<nowiki>]]</nowiki>
+ \bhttp\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/http]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|open}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/gcaa.ge|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 20:51, 1 May 2014 (UTC)

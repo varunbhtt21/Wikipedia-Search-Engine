@@ -1,0 +1,27 @@
+Title : Wikipedia:Templates for discussion/Log/2014 May 4
+Text : <noinclude><div class="boilerplate vfd" style="background-color: #F3F9FF; margin: 0 auto; padding: 0 1px 0 0; border: 1px solid #AAAAAA; font-size:10px">
+{| width = "100%"
+|-
+! width="50%" align="left"  | <font color="gray">&lt;</font> [[Wikipedia:Templates for discussion/Log/2014 May 3|May 3]]
+! width="50%" align="right" | [[Wikipedia:Templates for discussion/Log/2014 May 5|May 5]] <font color="gray">&gt;</font>
+|}</div></noinclude>
+===May 4===
+[[Category:Non-talk pages that are automatically signed|{{PAGENAME}}]]
+
+<!-- Add new listings at the top of the list with the following formats for deletion and merging respectively:
+
+{{subst:Tfd2|TemplateName|text=Why you think the template should be deleted. ~~~~}}
+{{subst:Tfm2|TemplateName|OtherTemplate|text=Why you think the template should be merged. ~~~~}}
+
+-->
+==== [[Template:Pquote]] ====
+<div class="boilerplate vfd tfd-closed" style="background-color: #e3f9df; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the template below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the template's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this section.''
+
+The result of the discussion was '''rewrite'''&nbsp;[[User:Plastikspork|Plastikspork]] [[User talk:Plastikspork|<sub style="font-size: 60%">―Œ</sub><sup style="margin-left:-3ex">(talk)</sup>]] 04:22, 12 May 2014 (UTC)<!-- Tfd top -->
+:{{Tfd links|Pquote|type=merge}}
+:{{Tfd links|Quote box|type=merge}}
+'''Propose merging''' [[Template:Pquote]] with [[Template:Quote box]].<br />
+Aren't both templates designed to create a quote box on the right of the page? The [[Template:Pquote/doc|documentation of "Template:Pquote"]] doesn't make it clear what are the differences in purpose. [[User:Helder.wiki|Helder.wiki]] 13:33, 4 May 2014 (UTC)
+* '''rewrite''' pquote to use quote box if a redirect won't work. [[User:Frietjes|Frietjes]] ([[User talk:Frietjes|talk]]) 23:33, 6 May 2014 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the template's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this section.''</div>

@@ -1,0 +1,40 @@
+Title : Template:Attached KML/Manhattan Avenue (Brooklyn)
+Text : <?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Manhattan Avenue</name>
+	<Style id="line-62AF44-4">
+		<LineStyle>
+			<color>ff44af62</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-DB4436-4">
+		<LineStyle>
+			<color>ff3644db</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Manhattan Avenues</name>
+		<Placemark>
+			<name>Manhattan Avenue (Brooklyn)</name>
+			<styleUrl>#line-DB4436-4</styleUrl>
+			<LineString>
+				<coordinates>
+					-73.95526170730591,40.73873814141607,0 -73.95549774169922,40.73792521975707,0 -73.95425319671631,40.73015318726155,0 -73.94989728927612,40.72213631147552,0 -73.94691467285156,40.71946922595716,0 -73.9440393447876,40.70193535771048,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Manhattan Avenue (Manhattan)</name>
+			<styleUrl>#line-62AF44-4</styleUrl>
+			<LineString>
+				<coordinates>
+					-73.96431684494019,40.79482198725456,0 -73.95309448242188,40.81009017275893,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

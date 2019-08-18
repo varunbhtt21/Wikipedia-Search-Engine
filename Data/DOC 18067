@@ -1,0 +1,16 @@
+Title : Template:Colombia seasons
+Text : {{Navbox
+|name        = Colombia seasons
+|title       = {{ct|COL}} seasons
+|state       = {{{state|autocollapse}}}
+|listclass = hlist
+
+| list1 =
+* [[2012 Colombia-Coldeportes season|2012]]
+* [[2013 Colombia season|2013]]
+* [[2014 Colombia season|2014]]
+* [[2015 Colombia season|2015]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Cycling team seasons]]
+</noinclude>

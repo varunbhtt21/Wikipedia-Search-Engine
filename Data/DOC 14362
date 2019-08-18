@@ -1,0 +1,62 @@
+Title : Template:Brave-class patrol boat
+Text : {{Navbox
+|name    = Brave-class patrol boat
+|state   = {{{state|expanded}}}
+|title   = {{sclass2-|Brave|fast patrol boat|1}}s
+|listclass = hlist
+
+|group1={{navy|United Kingdom|size=30x15px}}
+|list1   = 
+* {{HMS|Brave Borderer|P1011|2}}
+* {{HMS|Brave Swordsman|P1012|2}}
+
+|list2 = {{Navbox|child
+|title = Export vessels
+|state      = {{#ifeq:{{{1|}}}|original|uncollapsed|collapsed}}
+
+|group1=Private venture
+|list1   =
+* ''[[Ferocity (patrol boat)|Ferocity]]''
+
+|group2={{navy|Denmark|size=30x15px}}<br><small>{{sclass-|Søløven|fast patrol boat|0}}</small>
+|list2   = 
+* {{ship|HDMS|Søløven|P510|2}}
+* {{ship|HDMS|Søridderen|P511|2}}
+* {{ship|HDMS|Søbjornen|P512|2}}
+* {{ship|HDMS|Søhesten|P513|2}}
+* {{ship|HDMS|Søhunden|P514|2}}
+* {{ship|HDMS|Søulven|P515|2}}
+
+|group3={{navy|Germany|size=30x15px}}<br><small>Vosper class</small>
+|list3   = 
+* {{ship|German patrol boat|Pfeil|P6193|2}}
+* {{ship|German patrol boat|Strahl|P6194|2}}
+
+|group4={{navy|Greece|size=30x15px}}<br><small>Vosper class</small>
+|list4   = 
+* {{ship|Greek patrol boat|Aiolos|P19|2}} <small>(ex-''Pfiel'')</small>
+* {{ship|Greek patrol boat|Astrapi|P20|2}} <small>(ex-''Strahl'')</small>
+
+|group5={{navy|Libya|size=30x15px}}<br><small>{{sclass-|Susa|fast patrol boat|0}}</small>
+|list5   = 
+* {{ship|Libyan patrol boat|Susa|P512|2}}
+* {{ship|Libyan patrol boat|Sirte|P513|2}}
+* {{ship|Libyan patrol boat|Sebha|P514|2}} <small>(ex-''Sokna'')</small>
+
+|group6={{navy|Malaysia|size=30x15px}}<br><small>{{sclass-|Perkasa|fast patrol boat|0}}</small>
+|list6   = 
+* {{ship|KD|Perkasa|P150|2}}
+* {{ship|KD|Handalan|P151|2}}
+* {{ship|KD|Gempita|P152|2}}
+* {{ship|KD|Pendekar|P153|2}}
+
+|group7={{navy|Brunei|size=30x15px}}
+|list7   = 
+* {{ship|KDB|Pahlawan||2}}
+
+}}
+|below   = [[List of patrol vessels of the Royal Navy]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:United Kingdom military ship templates]]
+</noinclude>

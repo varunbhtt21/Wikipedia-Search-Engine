@@ -1,0 +1,21 @@
+Title : WRF-SFIRE
+Text : '''WRF-SFIRE''' is a coupled [[Atmospheric model|atmosphere]]-[[Wildfire modeling|wildfire]] model, which combines the [[Weather Research and Forecasting Model]] (WRF) with a fire-spread model, implemented by the [[level-set method]]. A version from 2010 was released based on the WRF 3.2 as '''WRF-Fire'''.
+
+==References==
+* Coen, J., M. Cameron, J. Michalakes,  E. Patton, P. Riggan, and K. Yedinak,  2013: ''WRF-Fire: Coupled Weather-Wildland Fire Modeling with the Weather Research and Forecasting Model''. J. Appl. Meteorol. Climatol. 52, 16-38, {{doi|10.1175/JAMC-D-12-023.1}}.
+* Jan Mandel, Jonathan D. Beezley, Janice L. Coen, Minjeong Kim, ''Data Assimilation for Wildland Fires: Ensemble Kalman filters in coupled atmosphere-surface models'', [https://dx.doi.org/10.1109/MCS.2009.932224 IEEE Control Systems Magazine 29, Issue 3, June 2009, 47-65]. Preprint at {{arxiv|0712.3965}}, December 2007.
+* Jan Mandel, Jonathan D. Beezley, and Adam K. Kochanski, [http://www.geosci-model-dev.net/4/591/2011/gmd-4-591-2011.html ''Coupled atmosphere-wildland fire modeling with WRF 3.3 and SFIRE 2011''], [http://www.geoscientific-model-development.net Geoscientific Model Development (GMD)] 4, 591-610, 2011. {{doi|10.5194/gmd-4-591-2011}}
+
+==External links==
+* [http://www.openwfm.org/wiki/Users_guide Users guide]
+
+{{Atmospheric, Oceanographic and Climate Models}}
+
+[[Category:Wildfires]]
+[[Category:Computational physics]]
+[[Category:Firefighting]]
+[[Category:Mathematical modeling]]
+[[Category:Numerical climate and weather models]]
+
+
+{{disaster-stub}}

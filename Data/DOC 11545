@@ -1,0 +1,52 @@
+Title : Template:1993–94 ECAC Hockey standings (men)
+Text : {|class=wikitable style="text-align:center; font-size:95%;" width=75% 
+! colspan="15" style="background-color: #FFE6BD;" | {{navbar-header|'''[[1993–94 NCAA Division I men's ice hockey season|1993–94]] [[ECAC Hockey|ECAC Hockey standings]]'''|1993–94 ECAC Hockey standings (men)}}
+|-
+! rowspan="2" width="15%"| 
+! colspan="7" | Conference
+! rowspan="2" width="5%" |
+! colspan="6" | Overall
+|-
+! width="5%" | GP
+! width="5%" | W
+! width="5%" | L
+! width="5%" | T
+! width="5%" | PTS
+! width="5%" | GF
+! width="5%" | GA
+! width="5%" | GP
+! width="5%" | W
+! width="5%" | L
+! width="5%" | T
+! width="5%" | GF
+! width="5%" | GA
+|- style="text-align:center;{{#switch:{{{team}}}|HAR|HAR=background-color:#CCFFCC}}"
+| [[Harvard Crimson men's ice hockey|Harvard]]†* || 22 || 16 || 2 || 4 || '''36''' || 107 || 60 ||  || 33 || 24 || 5 || 4 || 155 || 89
+|- style="text-align:center;{{#switch:{{{team}}}|CLK|CLK=background-color:#CCFFCC}}"
+| [[Clarkson Golden Knights men's ice hockey|Clarkson]] || 22 || 13 || 5 || 4 || '''30''' || 92 || 67 ||  || 34 || 20 || 9 || 5 || 147 || 114
+|- style="text-align:center;{{#switch:{{{team}}}|RPI|RPI=background-color:#CCFFCC}}"
+| [[RPI Engineers men's ice hockey|Rensselaer]] || 22 || 12 || 6 || 4 || '''28''' || 99 || 75 ||  || 36 || 21 || 11 || 4 || 171 || 115
+|- style="text-align:center;{{#switch:{{{team}}}|BRN|BRN=background-color:#CCFFCC}}"
+| [[Brown Bears men's ice hockey|Brown]] || 22 || 12 || 7 || 3 || '''27''' || 91 || 73 ||  || 32 || 15 || 13 || 4 || 116 || 117
+|- style="text-align:center;{{#switch:{{{team}}}|VER|VER=background-color:#CCFFCC}}"
+| [[Vermont Catamounts men's ice hockey|Vermont]] || 22 || 10 || 6 || 6 || '''26''' || 86 || 75 ||  || 33 || 15 || 12 || 6 || 127 || 113
+|- style="text-align:center;{{#switch:{{{team}}}|UNN|UNN=background-color:#CCFFCC}}"
+| [[Union Dutchmen men's ice hockey|Union]] || 22 || 10 || 9 || 3 || '''23''' || 83 || 89 ||  || 30 || 15 || 11 || 4 || 117 || 118
+|- style="text-align:center;{{#switch:{{{team}}}|CGT|CGT=background-color:#CCFFCC}}"
+| [[Colgate Red Raiders men's ice hockey|Colgate]] || 22 || 10 || 10 || 2 || '''22''' || 97 || 90 ||  || 33 || 14 || 17 || 2 || 144 || 137
+|- style="text-align:center;{{#switch:{{{team}}}|COR|COR=background-color:#CCFFCC}}"
+| [[Cornell Big Red men's ice hockey|Cornell]] || 22 || 7 || 10 || 5 || '''19''' || 73 || 89 ||  || 30 || 8 || 17 || 5 || 97 || 126
+|- style="text-align:center;{{#switch:{{{team}}}|PRI|PRI=background-color:#CCFFCC}}"
+| [[Princeton Tigers men's ice hockey|Princeton]] || 22 || 7 || 12 || 3 || '''17''' || 63 || 80 ||  || 28 || 10 || 15 || 3 || 88 || 101
+|- style="text-align:center;{{#switch:{{{team}}}|SLU|SLU=background-color:#CCFFCC}}"
+| [[St. Lawrence Saints men's ice hockey|St. Lawrence]] || 22 || 8 || 14 || 0 || '''16''' || 74 || 95 ||  || 31 || 10 || 21 || 0 || 99 || 134
+|- style="text-align:center;{{#switch:{{{team}}}|YALE|YALE=background-color:#CCFFCC}}"
+| [[Yale Bulldogs men's ice hockey|Yale]] || 22 || 5 || 16 || 1 || '''11''' || 58 || 102 ||  || 27 || 5 || 21 || 1 || 73 || 133
+|- style="text-align:center;{{#switch:{{{team}}}|DAR|DAR=background-color:#CCFFCC}}"
+| [[Dartmouth Big Green men's ice hockey|Dartmouth]] || 22 || 4 || 17 || 1 || '''9''' || 80 || 111 ||  || 27 || 5 || 21 || 1 || 94 || 137
+|-
+| colspan=15 style="text-align:center;" |[[1994 ECAC Hockey Men's Ice Hockey Tournament|Championship]]: Harvard<br>† <small>indicates conference regular season champion</small><br>* <small>indicates conference tournament champion</small>
+|}<noinclude>
+{{Documentation}}
+[[Category:ECAC Hockey standings templates]]
+</noinclude>

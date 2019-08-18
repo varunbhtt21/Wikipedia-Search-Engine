@@ -1,0 +1,53 @@
+Title : Template:Infobox Rugby football league challenge cup
+Text : <includeonly>{{Infobox
+| bodyclass = vevent
+| bodystyle = width: 26em;
+
+| title =  {{{title|{{PAGENAMEBASE}}}}}
+
+| headerstyle = border-top: 1px solid #aaa; padding-top: 3px;
+
+| image = {{#invoke:InfoboxImage|InfoboxImage|image={{{logo|}}}|size={{{pixels|200px}}}|alt={{{alt|{{PAGENAMEBASE}}}}}}}
+| caption = {{{caption|}}}
+
+| label1 = Structure
+| data1 = {{{structure|}}}
+| label2 = Duration
+| data2 = {{{duration|}}}
+| label3 = Number of teams
+| data3 = {{{no_of_teams|}}}
+| label4 = Highest attendance
+| data4 = {{{highest_attendance|}}}
+| label5 = Lowest attendance
+| data5 = {{{lowest_attendance|}}}
+| label6 = Average attendance
+| data6 = {{{avg_attendance|}}}
+| label7 = Aggregate attendance
+| data7 = {{{attendance|}}}
+| label8 =Broadcast partners
+| data8 = {{{TV|}}}
+| label9 = {{{season_champ_name|Champions}}}
+| data9 = {{{season_champs|}}}
+| label10 = Runners-up
+| data10 =  {{{second_place|}}}
+| label11 = Biggest home win
+| data11 = {{{biggest_home_win|}}}
+| label12 = Biggest away win
+| data12 = {{{biggest_away_win|}}}
+
+| label13 = {{#if:{{{MVP_link|}}}| [[{{{MVP_link}}}|Lance Todd Trophy]] | Lance Todd Trophy }}
+| data13 = {{{MVP|}}}
+| label14 = {{#if:{{{top_scorer_link|}}}| [[{{{top_scorer_link}}}|Top point-scorer(s)]] | Top point-scorer(s) }}
+| data14 = {{{top_scorer|}}}
+| label15 = {{#if:{{{top try scorer_link|}}}| [[{{{top try scorer_link}}}|Top try-scorer(s)]] | Top try-scorer(s) }}
+| data15 = {{{top try scorer|}}}
+
+| below        =
+*{{#if:{{{prevseason_year|}}}| {{Auto link|{{{prevseason_link}}}|←&nbsp;{{{prevseason_year}}}|&nbsp;}}}}
+*'''[[Challenge Cup#Challenge Cup Finals|Seasons]]'''
+* {{#if:{{{nextseason_year|}}}| {{Auto link|{{{nextseason_link}}}|{{{nextseason_year}}}&nbsp;→}}|&nbsp;}}
+| belowclass   = hlist noprint nowrap
+| belowstyle   = border-top: 1px solid #aaa; padding-top: 3px;
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

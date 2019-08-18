@@ -1,0 +1,10 @@
+Title : Template:Editnotices/Page/2014 in film
+Text : {{editnotice
+| header = Attention editors!
+| headerstyle = font-size: 150%;
+| text = Please view the [[WP:FILMYEAR|updated manual of style]] for years in film articles. Please raise any questions about this at the [[Wikipedia talk:Manual of Style/Film|talkpage]].
+| textstyle = font-size: 120%;
+| image = File:Nuvola apps important.svg
+| imagesize = 50px
+| expiry = indefinite
+}}

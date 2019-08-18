@@ -1,0 +1,10 @@
+Title : Template:User flugelhorn-4
+Text : {{user instrument|
+| instrument-code = fghrn
+| instrument-cat-code = flugelhorn
+| ist = flugelhorn player
+| level = 4
+| nocat = {{{nocat|}}}
+}}<noinclude>
+[[Category:Musical instrument user templates|Flugelhorn-4]]
+</noinclude>

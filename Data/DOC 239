@@ -1,0 +1,111 @@
+Title : Wikipedia:Templates for discussion/Log/2014 April 24
+Text : <noinclude><div class="boilerplate vfd" style="background-color: #F3F9FF; margin: 0 auto; padding: 0 1px 0 0; border: 1px solid #AAAAAA; font-size:10px">
+{| width = "100%"
+|-
+! width="50%" align="left"  | <font color="gray">&lt;</font> [[Wikipedia:Templates for discussion/Log/2014 April 23|April 23]]
+! width="50%" align="right" | [[Wikipedia:Templates for discussion/Log/2014 April 25|April 25]] <font color="gray">&gt;</font>
+|}</div></noinclude>
+===April 24===
+[[Category:Non-talk pages that are automatically signed|{{PAGENAME}}]]
+
+<!-- Add new listings at the top of the list with the following formats for deletion and merging respectively:
+
+{{subst:Tfd2|TemplateName|text=Why you think the template should be deleted. ~~~~}}
+{{subst:Tfm2|TemplateName|OtherTemplate|text=Why you think the template should be merged. ~~~~}}
+
+-->
+==== [[Template:Jennifer Nettles]] ====
+<div class="boilerplate vfd tfd-closed" style="background-color: #e3f9df; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the template below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the template's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this section.''
+
+The result of the discussion was '''Merge'''. No opposes to do so after the first relisting. Lack of participation seems to mean no objections, in this case.<!-- Tfd top --> <small>([[Wikipedia:NACD#Non-administrators_closing_discussions|non-admin closure]])</small> [[User:Steel1943|<span style="color: #2F4F4F;">'''''Steel1943'''''</span>]] ([[User talk:Steel1943|talk]]) 04:59, 25 April 2014 (UTC)
+:{{Tfd links|Jennifer Nettles|type=merge}}
+:{{Tfd links|Sugarland|type=merge}}
+'''Propose merging''' [[Template:Jennifer Nettles]] with [[Template:Sugarland]].<br />
+Nettles has too few solo works at the moment to warrant her own template. The only three solo works with their own pages are "That Girl", its title track, and "Who Says You Can't Go Home". The rest of the links are all duplicates of the Sugarland template, thus creating massive overlap. The Sugarland template should be sufficient at the moment. <span style="color:green">'''Ten Pound Hammer'''</span> • <sup>([[User talk:TenPoundHammer|What did I screw up now?]])</sup> 03:48, 5 March 2014 (UTC)
+<hr style="width:55%;" />
+:<span style="color:#FF4F00;">'''[[WP:RELIST|Relisted]] to generate a more thorough discussion so a clearer consensus may be reached.'''</span><br />
+:<small>Please add new comments below this notice. Thanks, <span style="color:green">'''Ten Pound Hammer'''</span> • <sup>([[User talk:TenPoundHammer|What did I screw up now?]])</sup> 08:09, 26 March 2014 (UTC)</small><!-- from Template:Relist -->
+<hr style="width:55%;" />
+''' Merge ''' - Merge per TenPoundHammer. --[[User:Jax 0677|Jax 0677]] ([[User talk:Jax 0677|talk]]) 04:11, 17 April 2014 (UTC)
+<hr style="width:55%;" />
+:<span style="color:#FF4F00;">'''[[WP:RELIST|Relisted]] to generate a more thorough discussion so a clearer consensus may be reached.'''</span><br />
+:<small>Please add new comments below this notice. Thanks, <span style="color:green">'''Ten Pound Hammer'''</span> • <sup>([[User talk:TenPoundHammer|What did I screw up now?]])</sup> 19:31, 24 April 2014 (UTC)</small><!-- from Template:Relist -->
+<hr style="width:55%;" />
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the template's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this section.''</div>
+
+==== [[Template:Rellink]] ====
+<div class="boilerplate vfd tfd-closed" style="background-color: #e3f9df; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the template below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the template's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this section.''
+
+The result of the discussion was '''merge'''&nbsp;[[User:Plastikspork|Plastikspork]] [[User talk:Plastikspork|<sub style="font-size: 60%">―Œ</sub><sup style="margin-left:-3ex">(talk)</sup>]] 02:16, 3 May 2014 (UTC)<!-- Tfd top -->
+:{{Tfd links|Rellink|type=merge}}
+:{{Tfd links|Hatnote|type=merge}}
+'''Propose merging''' [[Template:Rellink]] with [[Template:Hatnote]].<br />
+These two templates are essentially the same with the exception of another syntax qualifier that can be added to {{Tl|Hatnote}} from {{Tl|Rellink}} without having to manually update any values in the 800,000 combined transclusions of these templates. Also, for further notes about this, please see a related discussion at [[Template talk:Hatnote#Conversion to Lua]]. [[User:Steel1943|<span style="color: #2F4F4F;">'''''Steel1943'''''</span>]] ([[User talk:Steel1943|talk]]) 18:33, 24 April 2014 (UTC)
+:'''Merge''' – These two templates have virtually the same functionality. If one of the templates is merged into the other, the hatnotes will still be functional. [[User:Epicgenius|Epicgenius]] ([[User talk:Epicgenius|talk]]) 18:43, 24 April 2014 (UTC)
+:'''Merge'''. I would get rid of {{tl|Rellink}} and corresponding "rellink" class in [[MediaWiki:Common.css]]. — [[user:czarkoff|Dmitrij D. Czarkoff]] ([[user talk:czarkoff|talk]]•[[Special:Contributions/czarkoff|track]]) 19:11, 24 April 2014 (UTC)
+::I would drop the "dablink" class for being worse named, see below in my !vote. -[[User:DePiep|DePiep]] ([[User talk:DePiep|talk]]) 13:15, 25 April 2014 (UTC).
+:::...And I would replace both classes with a "hatnote" class ... see below. [[User:Steel1943|<span style="color: #2F4F4F;">'''''Steel1943'''''</span>]] ([[User talk:Steel1943|talk]]) 17:53, 25 April 2014 (UTC)
+*'''Merge''' templates and Commons.css classes. Similarity of function is one of the best reasons for merger. What else can I say? Best regards, [[User:Codename Lisa|Codename Lisa]] ([[User talk:Codename Lisa|talk]]) 01:39, 25 April 2014 (UTC)
+*'''Merge to "hatnote"''' per nom -- [[Special:Contributions/65.94.171.206|65.94.171.206]] ([[User talk:65.94.171.206|talk]]) 04:52, 25 April 2014 (UTC)
+*'''Merge'''. Merging seems logical to me, and would be just as easy to do in my proposed Lua version as it would in the current wikitext version. I've also left a note at [[MediaWiki talk:Common.css#TfD about Template:Rellink|MediaWiki talk:Common.css]] letting editors there know about this discussion. — '''''[[User:Mr. Stradivarius|<span style="color: #194D00; font-family: Palatino, Times, serif">Mr. Stradivarius</span>]]''''' <sup>[[User talk:Mr. Stradivarius|♪ talk ♪]]</sup> 06:49, 25 April 2014 (UTC)
+*'''Merge'''. What is the extent of use for of the extraclasses parameter? If negligable, it can be removed alltogether. <span style="font-family:'Trebuchet MS'"> — [[User:Edokter|<span style="color:#008"><i>E</i>dokter</span>]] ([[User talk:Edokter|<span style="color:#080">talk</span>]]) — </span> 10:08, 25 April 2014 (UTC)
+*:Things like [[Template:See also]] use it to add the classes "boilerplate seealso". I don't see either of those defined in [[MediaWiki:Common.css]] though, so maybe they aren't important? — '''''[[User:Mr. Stradivarius|<span style="color: #194D00; font-family: Palatino, Times, serif">Mr. Stradivarius</span>]]''''' <sup>[[User talk:Mr. Stradivarius|♪ talk ♪]]</sup> 10:14, 25 April 2014 (UTC)
+*::Such classes may be used in skins or in custom CSS files. At least I see value in custom CSS file with contents like this:<source lang=css>.seealso .new {background-color: #FAA;}</source>Anyway, classes don't really add to performance, and traffic delta is probably neglictible, provided that much more inefficient things are allowed. — [[user:czarkoff|Dmitrij D. Czarkoff]] ([[user talk:czarkoff|talk]]•[[Special:Contributions/czarkoff|track]]) 10:41, 25 April 2014 (UTC)`
+*:::If I understand this well, that <code>class="seealso"</code> then should be added by the template/module systematically, not by the article editor. -[[User:DePiep|DePiep]] ([[User talk:DePiep|talk]]) 13:13, 25 April 2014 (UTC)
+*::::Apparently this is the case with the example [[User:Mr. Stradivarius|Mr. Stradivarius]] draws ({{tl|See also}}. — [[user:czarkoff|Dmitrij D. Czarkoff]] ([[user talk:czarkoff|talk]]•[[Special:Contributions/czarkoff|track]]) 18:44, 25 April 2014 (UTC)
+::::::OK. I'm learning. Now we can continue checking the usefulness of those two extraclasses. -[[User:DePiep|DePiep]] ([[User talk:DePiep|talk]]) 20:59, 25 April 2014 (UTC)
+::::::The <code>extraclass=</code> is also present in {{tl|detail}}. -[[User:DePiep|DePiep]] ([[User talk:DePiep|talk]]) 21:40, 25 April 2014 (UTC)
+*'''Comment''' can this be done quickly, or the template note be taken off every single page that this appears on? While it's obviously important to get templates right, it's unsightly and distracting for readers to have those notices put up everywhere - a bit like roadworks that block off a street for weeks without much being done. There are probably better ways to alert editors. Cheers, '''<font color="red">[[User:Wikidea|Wik]]</font><font color="gold">[[User:Wikidea|idea]]</font>''' 10:40, 25 April 2014 (UTC)
+**The note is already hidden. If you still see it, purge the article. <span style="font-family:'Trebuchet MS'"> — [[User:Edokter|<span style="color:#008"><i>E</i>dokter</span>]] ([[User talk:Edokter|<span style="color:#080">talk</span>]]) — </span> 10:44, 25 April 2014 (UTC)
+**Thanks, much appreciated! '''<font color="red">[[User:Wikidea|Wik]]</font><font color="gold">[[User:Wikidea|idea]]</font>''' 13:05, 25 April 2014 (UTC)
+*'''Merge. Keep name {{tl|hatnote}}, and keep using class name <code>class=rellink</code>'''. Because <code>class=dablink</code> still uses old disambiguation background, which is too limited by now. {{tl|Hatnote}} allows any text, not just dab-related. This applies to more hatnote templates, for example, {{tl|main}} has nothing to do with WP:DAB. -[[User:DePiep|DePiep]] ([[User talk:DePiep|talk]]) 13:09, 25 April 2014 (UTC)
+*:{{Ping|DePiep}} I believe that a more accurate option world be to replace both the "dablink" and "rellink" classes with a "hatnote" class, considering that not all hatnotes have to do with disambiguation (or whatever "rellink" is short for), but all hatnotes are ... hatnotes. [[User:Steel1943|<span style="color: #2F4F4F;">'''''Steel1943'''''</span>]] ([[User talk:Steel1943|talk]]) 17:53, 25 April 2014 (UTC)
+*::FWIW it might be comming from "[[link relation]]". — [[user:czarkoff|Dmitrij D. Czarkoff]] ([[user talk:czarkoff|talk]]•[[Special:Contributions/czarkoff|track]]) 18:48, 25 April 2014 (UTC)
+:::{{ping|Steel1943}} yes, <code>class="hatnote"</code> is even better. Don't know if class renaming is doable, and whether a TfD can cover that. A "phase one out" choice is within reach. -[[User:DePiep|DePiep]] ([[User talk:DePiep|talk]]) 20:36, 25 April 2014 (UTC)
+::::{{Ping|DePiep}} I would I believe that the class renaming option is completely doable, given that it looks like the only two templates that directly use the "dablink" or "rellink" classes in their syntax are {{Tl|Hatnote}} and {{Tl|Rellink}}. (Someone please correct me if I'm wrong.) But, just in case, it may be safer to just phase out one, and leave the other, as you stated, since yeah, we shouldn't unknowingly be breaking Wikipedia. [[User:Steel1943|<span style="color: #2F4F4F;">'''''Steel1943'''''</span>]] ([[User talk:Steel1943|talk]]) 20:49, 25 April 2014 (UTC)
+:::::Added bolds to my !vote. Intention unchanged. -[[User:DePiep|DePiep]] ([[User talk:DePiep|talk]]) 03:32, 26 April 2014 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the template's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this section.''</div>
+
+==== [[Template:The Beatles]] ====
+<div class="boilerplate vfd tfd-closed" style="background-color: #e3f9df; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the template below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the template's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this section.''
+
+The result of the discussion was '''history merge'''&nbsp;[[User:Plastikspork|Plastikspork]] [[User talk:Plastikspork|<sub style="font-size: 60%">―Œ</sub><sup style="margin-left:-3ex">(talk)</sup>]] 03:06, 3 May 2014 (UTC)<!-- Tfd top -->
+:{{Tfd links|The Beatles}}
+this navbox wrapper is no longer used in article space after a massive cleanup effort by {{U|NSH002}}. per the discussion there, this is really only needed in one article, [[The Beatles]], and more targeted navboxes should and are used in the-Beatles-related articles.  I, personally, would like to see the pre-August 2011 history of this template merged into [[Template:The Beatles main]], and either (a) redirect it to {{tld|The Beatles main}} or (b) move {{tld|The Beatles main}} to this title.  I have nominated it here for further discussion. [[User:Frietjes|Frietjes]] ([[User talk:Frietjes|talk]]) 15:56, 24 April 2014 (UTC)
+* There are three options here (see the discussion on the talk page):
+*# simply delete this template (advantage: prevents people adding it to any article only remotely connected with the Beatles)
+*# redirect to {{tld|The Beatles main}} - the easiest option (a history merge would not be necessary)
+*# merge the pre-August 2011 edit history of this template with that of {{tld|The Beatles main}}, which would then become {{tld|The Beatles}}
+
+: For the reasons stated on the talk page, I prefer #3 - overall, the neatest result in the end.
+: --[[User:NSH002|NSH002]] ([[User talk:NSH002|talk]]) 17:40, 24 April 2014 (UTC)
+::IMO №''3'' makes most sense. Another benefit: {{tl|The Beatles}} is more intuitive then {{tl|The Beatles main}}. Some documentation for the template family could probably be useful. — [[user:czarkoff|Dmitrij D. Czarkoff]] ([[user talk:czarkoff|talk]]•[[Special:Contributions/czarkoff|track]]) 19:02, 24 April 2014 (UTC)
+*'''Merge edit histories''' per DDC. -- [[Special:Contributions/65.94.171.206|65.94.171.206]] ([[User talk:65.94.171.206|talk]]) 04:53, 25 April 2014 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the template's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this section.''</div>
+
+==== [[Template:Multiple stable software releases]] ====
+<div class="boilerplate vfd tfd-closed" style="background-color: #e3f9df; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the template below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the template's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this section.''
+
+The result of the discussion was '''no consensus'''&nbsp;[[User:Plastikspork|Plastikspork]] [[User talk:Plastikspork|<sub style="font-size: 60%">―Œ</sub><sup style="margin-left:-3ex">(talk)</sup>]] 12:55, 3 May 2014 (UTC)<!-- Tfd top -->
+:{{Tfd links|Multiple stable software releases}}
+This seems to be intended as a module for {{tl|Infobox web browser}}, transcluded in two articles (including once inside a table), and called somewhat awkwardly by the main template. From the code, it does nothing more than mapping <code>label1</code> to parameter <code>1</code>, <code>data1</code> to parameter <code>2</code>, etc. If a software's version numbers are genuinely so unusual to require such a byzantine solution, it might be better to omit them from the infobox, and explain them in the main body of the article. [[User:Underlying lk|eh bien mon prince]] ([[User talk:Underlying lk|talk]]) 02:07, 24 April 2014 (UTC)
+*'''Keep''' (''!vote by author''): I made this template to replace [[template:latest stable software release/Opera Mini|templates like this]] with a single unified display, as {{tl|LSR}} subtemplates tend to break. The simplistic approach, noted by nominator, is currently employed simply because the template is in its infancy – it was created on April 18, and still requires [[template talk:LSR#Edit link|edit to protected template]] in order to be usable. (The latter is the reason it is not really used anywhere.) Both {{tl|LSR}} and this template mainly exist to maintain version information across multiple articles, and this purpose will be defeated with proposed solution to explain versioning in plain text in the body of the article. I would also note, that the problem this template is supposed to address isn't uncommon, so it has some potential. — [[user:czarkoff|Dmitrij D. Czarkoff]] ([[user talk:czarkoff|talk]]•[[Special:Contributions/czarkoff|track]]) 09:03, 24 April 2014 (UTC)
+*'''Keep'''. Yes this template is still at infancy and that's why I didn't replicate the change from {{tl|Infobox web browser}} to {{tl|Infobox software}}. But let's not commit infanticide. The first thing we need to do is to add a section header to {{tlp|Infobox web browser}} and fix the overflow problem in doc page. The rest, we will figure out. Meanwhile, detaching version numbering from the infobox does not have consensus; in fact, there is a backlash against it. Best regards, [[User:Codename Lisa|Codename Lisa]] ([[User talk:Codename Lisa|talk]]) 01:55, 25 April 2014 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the template's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this section.''</div>
+
+==== [[Template:Infobox European Nations Cup]] ====
+<div class="boilerplate vfd tfd-closed" style="background-color: #e3f9df; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;">
+:''The following discussion is an archived debate of the proposed deletion of the template below. <span style="color:red">'''Please do not modify it.'''</span>  Subsequent comments should be made on the appropriate discussion page (such as the template's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this section.''
+
+The result of the discussion was '''merge''' with [[Template:Infobox rugby tournament]].&nbsp;[[User:Plastikspork|Plastikspork]] [[User talk:Plastikspork|<sub style="font-size: 60%">―Œ</sub><sup style="margin-left:-3ex">(talk)</sup>]] 23:31, 4 May 2014 (UTC)<!-- Tfd top -->
+:{{Tfd links|Infobox European Nations Cup}}
+Redundant to <s>[[Template:Infobox international football competition]]</s> [[Template:Infobox rugby tournament]]. [[User:Underlying lk|eh bien mon prince]] ([[User talk:Underlying lk|talk]]) 01:56, 24 April 2014 (UTC)
+*'''Strong and obvious keep''' one is rugby union, one is association football.  The sports and parameters are therefore different and hence one is not redundant as a result of the existence of the other. [[User:The Rambling Man|The Rambling Man]] ([[User talk:The Rambling Man|talk]]) 10:15, 24 April 2014 (UTC)
+**My mistake, but we do have a rugby union template like this: [[Template:Infobox rugby tournament]].--[[User:Underlying lk|eh bien mon prince]] ([[User talk:Underlying lk|talk]]) 11:17, 24 April 2014 (UTC)
+*'''Delete''' as redundant. <span class="vcard"><span class="fn">[[User:Pigsonthewing|Andy Mabbett]]</span> (<span class="nickname">Pigsonthewing</span>); [[User talk:Pigsonthewing|Talk to Andy]]; [[Special:Contributions/Pigsonthewing|Andy's edits]]</span> 13:43, 30 April 2014 (UTC)
+*'''merge''' with [[Template:Infobox rugby tournament]]. [[User:Frietjes|Frietjes]] ([[User talk:Frietjes|talk]]) 16:01, 3 May 2014 (UTC)
+:''The above discussion is preserved as an archive of the debate.  <span style="color:red">'''Please do not modify it.'''</span> Subsequent comments should be made on the appropriate discussion page (such as the template's [[Help:Using talk pages|talk page]] or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this section.''</div>

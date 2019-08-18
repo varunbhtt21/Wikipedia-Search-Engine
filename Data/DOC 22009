@@ -1,0 +1,10 @@
+Title : Template:Editnotices/Page/List of musicians from Seattle
+Text : {{editnotice
+| header = Attention editors!
+| headerstyle = font-size: 150%;
+| text = Every entry in this list must have [[WP:WTAF|an article written]] and [[WP:RS|reliable sources]] to support inclusion, else it will be removed.
+| textstyle = font-size: 120%;
+| image = File:Nuvola apps important.svg
+| imagesize = 50px
+| expiry = indefinite
+}}

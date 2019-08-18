@@ -1,0 +1,85 @@
+Title : Squalo-class submarine
+Text : {|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= Squalo_class_submarine.jpg
+|Ship caption= Italian ''Squalo''-class submarine (''Squalo'')
+}}
+{{Infobox ship class overview
+|Name=''Squalo'' class
+|Builders=[[Cantieri Riuniti dell'Adriatico|CRDA]]
+|Operators={{navy|Kingdom of Italy}}
+|Class before={{Sclass-|Bandiera|submarine|4}}
+|Class after={{Sclass-|Glauco|submarine|4}}
+|Cost=
+|Built range=1928–1930
+|In service range=
+|In commission range=1930–1943
+|Total ships completed=4
+|Total ships lost=3
+|Total ships scrapped=1
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Submarine]]
+|Ship displacement=*{{convert|920|t|LT|0}} surfaced
+*{{convert|1125|t|LT|0}} submerged
+|Ship length={{convert|69.8|m|ftin|abbr=on}}
+|Ship beam={{convert|7.21|m|ftin|abbr=on}}
+|Ship draft={{convert|5.19|m|ftin|abbr=on}}
+|Ship power=*{{convert|3000|bhp|lk=in|abbr=on}} (diesels)
+*{{convert|1300|hp|abbr=on}} (electric motors)
+|Ship propulsion=*[[Diesel-electric]]
+*2 × [[diesel engine]]s
+*2 × [[electric motor]]s
+|Ship speed=*{{convert|15.1|kn|lk=in}} surfaced
+*{{convert|8|kn}} submerged
+|Ship range=*{{convert|5650|nmi|abbr=on|lk=in}} at {{convert|8|kn}} surfaced
+*{{convert|100|nmi|abbr=on}} at {{convert|3|kn}} submerged
+|Ship endurance=
+|Ship test depth={{convert|80|m|ft|abbr=on}}
+|Ship complement=58
+|Ship armament=*8 × {{convert|533|mm|in|0|abbr=on}} [[torpedo tube]]s (4 bow, 4 stern)
+*1 × [[Cannon 102/35 Model 1914|{{convert|102|mm|in|abbr=on}}]] [[deck gun]]
+*2 × single [[Breda Model 1931 Machine Gun|{{convert|13.2|mm|in|abbr=on}}]] [[anti-aircraft gun]]s
+|Ship notes=
+}}
+|}
+
+The '''''Squalo''-class submarines''' were a group of four [[submarine]]s built for the [[Royal Italian Navy]] (''Regia Marina'') during the 1930s. They were built at the [[Cantieri Riuniti dell'Adriatico]] (CRDA) shipyard at [[Monfalcone]], and designed by Curio Bernardis.<ref>{{cite web | url=http://www.regiamarina.net/ship_info.asp?class=Squalo&nid=157&lid=1 | title=Early Bernardis: Squalo class | work=regiamarina.net | accessdate=24 April 2014}}</ref>
+
+==Design and description==
+The ''Squalo''-class submarines were essentially repeats of the preceding {{sclass-|Bandiera|submarine|4}}. They shared that design's problems with [[Ship stability|stability]] and [[seakeeping]] and required the same modifications to rectify the problems. They [[Displacement (ship)|displaced]] {{convert|920|t|LT|sp=us}} surfaced and {{convert|1125|t|LT|sp=us}} submerged. The submarines were {{convert|69.8|m|ftin|sp=us}} long, had a [[beam (nautical)|beam]] of {{convert|7.21|m|ftin|sp=us}} and a [[draft (hull)|draft]] of {{convert|5.19|m|ftin|sp=us}}.<ref name=c5>Chesneau, p. 308</ref>
+
+For surface running, the boats were powered by two {{convert|1500|bhp|lk=in|0|adj=on}} [[diesel engine]]s, each driving one [[propeller shaft]]. When submerged each propeller was driven by a {{convert|650|hp|0|adj=on}} [[electric motor]]. They could reach {{convert|15.1|kn|lk=in}} on the surface and {{convert|8|kn}} underwater. On the surface, the ''Squalo'' class had a range of {{convert|5650|nmi|lk=in}} at {{convert|8|kn}}, submerged, they had a range of {{convert|100|nmi|abbr=on}} at {{convert|3|kn}}.<ref name=b4>Bagnasco, p. 144</ref>
+
+The boats were armed with eight internal {{convert|53.3|cm|in|1|abbr=on|sp=us}} [[torpedo tube]]s, four each in the bow and stern. They carried a total of a dozen [[torpedo]]es. They were also armed with one [[Cannon 102/35 Model 1914|{{Convert|102|mm|in|abbr=on}}/35]] [[deck gun]] for combat on the surface. The light anti-aircraft armament consisted of one or two [[Breda Model 1931 Machine Gun|{{convert|13.2|mm|in|abbr=on}}]] machine guns.<ref name=c5/>
+
+==Ships==
+* {{Ship|Italian submarine|Delfino|1930|2}} ({{Lang-en|Dolphin}}), sank after a collision off [[Taranto]], 23 March 1943.
+* {{Ship|Italian submarine|Narvalo|1930|2}} ({{Lang-en|Narwhal}}), sunk by the British destroyers {{HMS|Pakenham|G06|2}} and {{HMS|Hursley|L84|2}}, and RAF aircraft, in the Mediterranean Sea at {{Coord|34|08|N|16|04|E}}, 14 January 1943.<ref name="sublosses">{{cite web | url=http://www.history.navy.mil/library/online/sublosses/sublosses_italian.htm | title=Italian Submarine Casualties in World War Two | publisher=US Naval Historical Center | date=15 January 2008 | accessdate=24 April 2014}}</ref>
+* {{Ship|Italian submarine|Squalo|1930|2}} ({{Lang-en|Shark}}), withdrawn from service, 9 September 1943.
+* {{Ship|Italian submarine|Tricheco|1930|2}} ({{Lang-en|Walrus}}), sunk by the British submarine {{HMS|Upholder|P37|2}} off [[Brindisi]] in the Adriatic Sea at {{coord|40|45|N|17|56|E}}, 18 March 1942.<ref name="sublosses"/>
+
+==See also==
+* [[Italian submarines of World War II]]
+
+== Notes== 
+{{reflist|30em}}
+
+==References==
+*{{cite book|last=Bagnasco |first=Erminio |title=Submarines of World War Two |year=1977 |publisher=Naval Institute Press |location=Annapolis, Maryland |isbn=0-87021-962-6}} 
+*{{cite book|title=Conway's All the World's Fighting Ships 1922–1946|editor1-last=Chesneau|editor1-first=Roger|publisher=Conway Maritime Press|location=Greenwich, UK|year=1980|isbn=0-85177-146-7}}
+*{{cite book|last=Rohwer|first=Jürgen|title=Chronology of the War at Sea 1939-1945: The Naval History of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2005|edition=Third Revised|isbn=1-59114-119-2|authorlink=Jürgen Rohwer}}
+
+== External links ==
+*[http://www.sommergibili.com/delfino.htm Sommergibile "DELFINO" (2°)]
+{{Cantieri Riuniti dell'Adriatico}}
+{{WWIIItalianShips}}
+
+[[Category:Submarine classes]]
+[[Category:World War II submarines of Italy| Sqalo]]
+[[Category:Ships built by Cantieri Riuniti dell'Adriatico]]
+[[Category:Submarines of the Regia Marina]]
+[[Category:Squalo-class submarines| ]]
+[[Category:1920s ships]]

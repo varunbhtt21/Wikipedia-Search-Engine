@@ -1,0 +1,56 @@
+Title : Template:Nelson, New Zealand
+Text : {{Navbox
+|name  = Nelson, New Zealand
+|title = Suburbs of [[Nelson, New Zealand]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|liststyle = background:transparent;
+|group1 = Nelson North
+|list1 = 
+* [[Glenduan]]
+* [[Wakapuaka]]
+* [[Todds Valley]]
+* [[Marybank, New Zealand|Marybank]]
+* [[Atawhai]]
+* [[Dodson Valley]]
+* [[Brooklands, Nelson|Brooklands]]
+
+|group2 = Nelson Central
+|list2 = 
+* [[Nelson Central]]
+* [[Port Nelson, New Zealand|Port Nelson]]
+* [[Beachville]]
+* [[The Wood, New Zealand|The Wood]]
+* [[Hanby Park]]
+* [[Maitai, New Zealand|Maitai]]
+* [[Nelson East]]
+* [[Nelson South]]
+* [[Toi Toi]] (Victory Village)
+* [[Bishopdale, Nelson|Bishopdale]]
+* [[The Brook, Nelson|The Brook]]
+* [[Washington Valley, New Zealand|Washington Valley]]
+* [[Stepneyville]]
+* [[Britannia Heights, New Zealand|Britannia Heights]]
+
+|group3 = Tahunanui-Port Hills
+|list3 = 
+* [[Tahunanui]]
+* [[Enner Glynn]]
+* [[Moana, Nelson|Moana]]
+* [[Tasman Heights]]
+* [[Annesbrook]]
+* [[Wakatu]]
+
+|group4 = Stoke
+|list4 = 
+* [[Stoke, New Zealand|Stoke]]
+* [[Greenmeadows Park]]
+* [[Nayland, New Zealand|Nayland]]
+* [[Monaco, New Zealand|Monaco]]
+* [[Maitlands]]
+* [[Saxton, New Zealand|Saxton]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:New Zealand city templates]]
+</noinclude>

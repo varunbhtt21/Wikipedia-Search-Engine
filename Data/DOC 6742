@@ -1,0 +1,16 @@
+Title : Template:Iht header
+Text : {{{!}}class="wikitable" style="text-align: center;font-size:{{{fs|100}}}%"
+{{!}}+{{#if:{{{title|}}}|{{{title}}}}}
+{{#if:{{{group|}}}|!Group<br />|}}
+!width={{#if:{{{teamwidth|}}}|{{{teamwidth}}}|165}}{{!}}{{#ifeq:{{{template|}}}|yes|{{navbar-header|Team|Template:<includeonly>{{{name|}}}</includeonly>}}|Team}}
+!width={{#if:{{{colwidth|}}}|{{{colwidth}}}|36}}{{!}}{{abbr|GP|Games played}}<br />
+!width={{#if:{{{colwidth|}}}|{{{colwidth}}}|36}}{{!}}{{abbr|W|Wins (3p)}}<br />
+!width={{#if:{{{colwidth|}}}|{{{colwidth}}}|36}}{{!}}{{abbr|OTW|Overtime/Shootout wins (2p)}}<br />
+!width={{#if:{{{colwidth|}}}|{{{colwidth}}}|36}}{{!}}{{abbr|OTL|Overtime/Shootout losses (1p)}}<br />
+!width={{#if:{{{colwidth|}}}|{{{colwidth}}}|36}}{{!}}{{abbr|L|Losses (0p)}}<br />
+!width={{#if:{{{colwidth|}}}|{{{colwidth}}}|36}}{{!}}{{abbr|GF|Goals for}}<br />
+!width={{#if:{{{colwidth|}}}|{{{colwidth}}}|36}}{{!}}{{abbr|GA|Goals against}}<br />
+!width={{#if:{{{colwidth|}}}|{{{colwidth}}}|36}}{{!}}{{abbr|GD|Goal difference}}<br />
+!width={{#if:{{{colwidth|}}}|{{{colwidth}}}|36}}{{!}}{{abbr|Pts|Points}}<noinclude>
+|}
+{{Documentation}}</noinclude>

@@ -1,0 +1,27 @@
+Title : Template:FC Spartak Trnava matches
+Text : {{Navbox
+|basestyle = background:red;color:black;border:1px solid red
+|title = [[FC Spartak Trnava|<span style="color: black">FC Spartak Trnava</span>]] matches
+|bodyclass = hlist
+|name = FC Spartak Trnava matches
+|group1 = [[Czechoslovak Cup|<span style="color: black">Czechoslovak Cup</span>]] Finals
+|list1 =
+* [[1967 Czechoslovak Cup Final|1967]]
+* [[1971 Czechoslovak Cup Final|1971]]
+* [[1975 Czechoslovak Cup Final|1975]]
+* [[1986 Czechoslovak Cup Final|1986]]
+* [[1991 Czechoslovak Cup Final|1991]]
+|group2 = [[Slovak Cup|<span style="color: black">Slovak Cup</span>]] Finals
+|list2 =
+* [[1996 Slovak Cup Final|1996]]
+* [[1998 Slovak Cup Final|1998]]
+* [[2006 Slovak Cup Final|2006]]
+* [[2008 Slovak Cup Final|2008]]
+* [[2010 Slovak Cup Final|2010]]
+|group3 = [[Slovak Super Cup|<span style="color: black">Slovak Super Cups</span>]]
+|list3 =
+* [[1998 Slovak Super Cup|1998]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Association football matches navigational boxes by teams:Slovakia|Spartak Trnava]]
+</noinclude>

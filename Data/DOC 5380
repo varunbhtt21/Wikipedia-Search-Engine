@@ -1,0 +1,67 @@
+Title : Wikipedia:Royal Society journals
+Text : {{TWL Header
+| title = Royal Society UK
+| image = File:1665 phil trans vol i title.png
+| lcp_number = 20
+| coordinator =
+| status = active <!-- Options are 'active', 'wait', or 'closed'-->
+| blurb = The '''[[Royal Society]]''', is the United Kingdom's [[National Academy]] for science. RS Publishing provides a prestigious range of scientific journals. Please note that much of the content of these journals is already freely available online; the details varying slightly between the journals{{snds}}see the Royal Society Publishing [http://royalsocietypublishing.org/journals web pages].
+
+Access to Royal Society's journals into three groups for the purposes of this offer:
+
+'''I ) Biological sciences''', to include:
+
+* ''[[Philosophical Transactions of the Royal Society B|Philosophical Transactions B]]'' – each issue is devoted to a specific, topical area of the biological sciences
+* ''[[Proceedings of the Royal Society|Proceedings B]]'' is the Royal Society's flagship biological research journal, dedicated to the fast publication and worldwide dissemination of high-quality research
+* ''[[Biology Letters]]'' publishes short, highly-innovative, cutting-edge research articles and opinion pieces accessible to scientists from across the biological sciences
+* (''[[Open Biology]]'' is all full open access so not covered in this offer)
+* ''[[Interface Focus]]'' publishes themed issues covering cross-disciplinary research at the interface between the physical and life sciences.
+* ''[[Journal of the Royal Society Interface]]'' publishes cross-disciplinary research at the interface between the physical and life sciences
+* ''[[Notes and Records]]'' - an international journal which publishes original research in the history of science, technology and medicine up to and including the 21st century
+** [http://rspb.royalsocietypublishing.org/cgi/collection/ Subject Collections]
+
+'''II ) Physical sciences''', to include:
+
+* ''[[Philosophical Transactions of the Royal Society A|Philosophical Transactions A]]'' - each issue is devoted to a specific, topical area of the physical sciences.
+* ''[[Proceedings of the Royal Society|Proceedings A]]'' publishes research articles across the mathematical, physical and engineering sciences
+* ''Interface Focus'', ''Journal of the Royal Society Interface'', ''Notes and Records'' – see descriptions above
+** [http://rspa.royalsocietypublishing.org/cgi/collection/ Subject Collections]
+
+'''III ) History of science''', to include:
+
+* ''Notes and Records'' - an international journal which publishes original research in the history of science, technology and medicine up to and including the 21st century
+* ''[[Biographical Memoirs of Fellows of the Royal Society]]'' - an annual journal with extended obituaries and full bibliographies of Fellows.
+** [http://rsnr.royalsocietypublishing.org/cgi/collection Subject Collections]
+
+For 2012 and 2011 impact factors, see [http://royalsocietypublishing.org/impact-factors here], and to see lists of content since 2008 collected by field, see the "Subject Collections" links above.
+| requirements = 
+| old_reqs = 
+| expectations = 
+'''Approved editors will'''
+
+* Use their Royal Society account during their free access period
+* Always provide original citation information, in addition to linking a Royal Society article
+* Not use bare links to Royal Society pages
+* Note (subscription required) in the citation, where appropriate (but note that much is free to access anyway)
+* Review [[WP:V]], [[WP:SAYWHEREYOUGOTIT]], and [[WP:PAYWALL]], and be aware that much of the content of the journals is [[primary research]], which may not always be the most suitable source for a Wikipedia article.
+* Respect the copyrights of the Royal Society, following sections 1, 3, 6, 8, & 9 of the Royal Society’s [http://royalsocietypublishing.org/website-terms Terms and Conditions] and [[Wikipedia:Copyrights|Wikipedia’s copyright policy]].
+* Agree to the Wikipedia Library’s privacy policy (allowing following for metrics) as follows:
+** Give a confirmed email address. Editors understand and agree that their name and email address may be shared with representatives of the Wikimedia Foundation, Wikipedia Library, and the Royal Society. While representatives of the Wikipedia Library are volunteers (not employees or contractors of the Wikimedia Foundation or the Royal Society), they have signed confidentiality agreements with the Wikimedia Foundation with regards to the personal information they may handle for the Wikipedia Library.
+* Complete a short survey at the end of their access period.
+
+'''Approved editors will not'''
+
+* Share their account logins or passwords with others
+* Mass scrape, mass download, or distribute content
+* Systematically make printed or electronic copies of multiple extracts of restricted content available for any purpose
+* Datamine metadata, such as to use for auto-created stub articles, without the consent of the Royal Society, see [http://royalsocietypublishing.org/text-and-data-mining their page]
+* Use the access provided for any commercial purpose| 500words = 
+| example_citation = {{cite journal | author=R. McNeill Alexander| author2= | journal=Dinomyte | year=2006 | volume=1 | issue=1 | title=Dinosaur Biomechanics | doi=10.1098/rspb.2006.3532 |doi-access=free}}
+| example_citation_nowiki = <nowiki><ref>{{cite journal | author=R. McNeill Alexander| author2= | journal=Dinomyte | year=2006 | volume=1 | issue=1 | title=Dinosaur Biomechanics | doi=10.1098/rspb.2006.3532 |doi-access=free}}</ref></nowiki>
+}}
+
+<!-- Edit above this line -->
+{{TWLJ}}
+[[Category:Wikipedia RSUK access]]
+[[Category:WikiProject Royal Society|Journals]]
+[[Category:Wikipedians who have access to RSUK]]

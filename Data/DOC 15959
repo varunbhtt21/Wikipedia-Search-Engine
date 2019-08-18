@@ -1,0 +1,28 @@
+Title : Template:Constituencies in the Falkland Islands
+Text : {{Navbox
+| name       = Constituencies in the Falkland Islands
+| title      = [[:Category:Constituencies in the Falkland Islands|Constituencies]] in the [[Falkland Islands]]
+| listclass  = hlist
+| state      = {{{state|}}}
+
+| above      =
+| image      = [[File:Coat of arms of the Falkland Islands.svg|50px|Coat of arms of the Falkland Islands]]
+
+| group1     = [[:Category:Constituencies in the Falkland Islands|Current constituencies]]
+| list1      = 
+*[[Camp (constituency)|Camp]]
+*[[Stanley (constituency)|Stanley]]
+
+| group2     = [[:Category:Historic constituencies in the Falkland Islands|Historic constituencies]]
+| list2      =
+*[[East Falkland (constituency)|East Falkland]] (1949–1985)
+*[[West Falkland (constituency)|West Falkland]] (1949-1985)
+*[[East Stanley (constituency)|East Stanley]] (1977-1985)
+*[[West Stanley (constituency)|West Stanley]] (1977-1985)
+
+| below      =
+}}<noinclude>
+<br/>{{collapsible option}}
+[[Category:Constituencies in the Falkland Islands|*]]
+[[Category:South America country subdivision templates|Falkland]]
+</noinclude>

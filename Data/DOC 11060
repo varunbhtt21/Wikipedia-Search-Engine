@@ -1,0 +1,47 @@
+Title : Hesperelaea
+Text : {{Speciesbox
+|image = 
+|image_caption = 
+|status = EX
+|display_parents = 3
+|genus = Hesperelaea
+|parent_authority = [[Asa Gray|A.Gray]]
+|species = palmeri
+|authority = [[Asa Gray|A.Gray]]
+}}
+
+'''''Hesperelaea''''' is a plant genus with only one species, probably now [[extinct]]. '''''Hesperelaea palmeri''''' was found only on [[Guadalupe Island]], a small island in the [[Pacific Ocean]], part of the [[Mexico|Mexican]] state of [[Baja California]], about {{convert|400|km|mi|abbr=on}} southwest of [[Ensenada, Baja California|Ensenada]]. The last collection of the plant on the island was in 1875, so the species and the genus must now be presumed extinct.<ref name="WCSP"/> An intensive search for the plant in 2000 was unsuccessful.<ref name="Redman2000"/>
+
+At the time of the collection of the type material in 1875, ''Hesperelaea palmeri'' was found only in a single canyon on the east side of the island. It was a shrub with broadly lanceolate leaves up to 5&nbsp;cm long. Flowers were pale yellow, the petals over 10&nbsp;mm long. The species was unusual in the family in having fully distinct petals.<ref name="Gray1876"/><ref name="Shreve1964"/>
+
+Phylogenetic analyses based on DNA from the [[nuclear genome]] as well as [[mitochondrial DNA|mitochondrial]] and [[chloroplast DNA]] suggest that ''H. palmeri'' is closely related to the genera ''[[Forestiera]]'' and ''[[Priogymnanthus]]'' in tribe [[Oleeae]], and perhaps the [[sister group|sister lineage]] of ''Forestiera''.<ref name="Zedane2016"/><ref name="VandePaer2016"/> A [[molecular clock]] analysis estimated its divergence from its closest relatives in the [[Early Miocene]], likely pre-dating the age of Guadalupe Island. This suggests that ''H. palmeri'' is a [[paleoendemic]] that was once more widespread and then retreated to Guadalupe Island following environmental change.<ref name="Zedane2016"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="WCSP">{{cite web |last1=Govaerts |first1=R. |year=2017 |title=''Hesperelaea palmeri'' A.Gray, Proc. Amer. Acad. Arts 11: 83 (1876) |publisher=Royal Botanic Gardens, Kew |url=http://apps.kew.org/wcsp/namedetail.do?name_id=370564 |accessdate=2017-08-06}}</ref>
+
+<ref name="Redman2000">{{cite book |editor-last1=Santos del Prado |editor-first1=K. |editor-last2=Peters |editor-first2=E. |author-last1=Rebman |author-first1=J.P. |author-last2=Oberbauer |author-first2=T.A. |author-last3=Léon de la Luz |author-first3=J.L. |year=2005 |title=Isla Guadalupe: restauración y conservación |chapter=La flora de Isla Guadalupe y sus islotes adyacentes |pages=67–81 |language=Spanish |publisher=Instituto Nacional de Ecología |location=México |isbn=968-817-725-3 |url=http://www.inecc.gob.mx/descargas/publicaciones/477.pdf |archiveurl= |archivedate=}}</ref>
+
+<ref name="Gray1876">{{cite book |last1=Gray |first1=A. |year=1876 |title=Miscellaneous Botanical Contributions |series=Proceedings of the American Academy of Arts and Sciences |volume=11 |pages=83 |url=https://www.biodiversitylibrary.org/page/8862039}}</ref>
+
+<ref name="Shreve1964">{{cite book |last1=Shreve |first1=F. |last2=Wiggins |first2=I.R. |year=1964 |title=Vegetation and Flora of the Sonoran Desert |volume=2 |publisher=Stanford University Press |location=Stanford}}</ref>
+
+<ref name="Zedane2016">{{cite journal |last1=Zedane |first1=L. |last2=Hong-Wa |first2=C. |last3=Murienne |first3=J. |last4=Jeziorski |first4=C. |last5=Baldwin |first5=B.G. |last6=Besnard |first6=G. |title=Museomics illuminate the history of an extinct, paleoendemic plant lineage (''Hesperelaea'', Oleaceae) known from an 1875 collection from Guadalupe Island, Mexico |journal=Biological Journal of the Linnean Society |volume=117 |issue=1 |year=2016 |pages=44–57 |issn=0024-4066 |doi=10.1111/bij.12509}} {{open access}}</ref>
+
+<ref name="VandePaer2016">{{cite journal|last1=Van de Paer |first1=C. |last2=Hong-Wa |first2=C. |last3=Jeziorski |first3=C. |last4=Besnard |first4=G. |title=Mitogenomics of ''Hesperelaea'', an extinct genus of Oleaceae |journal=Gene |volume=594 |issue=2 |year=2016 |pages=197–202 |issn=0378-1119 |doi=10.1016/j.gene.2016.09.007|pmid=27601255 }}</ref>
+
+}}
+
+==External links==
+Photographs of [[isotype (biology)|isotype]] herbarium specimens at [[Missouri Botanical Garden]]:
+*[http://www.tropicos.org/ImageFullView.aspx?imageid=21956 Herbarium sheet MO-992469]
+*[http://www.tropicos.org/ImageFullView.aspx?imageid=21957 Herbarium sheet MO-992470]
+
+{{Taxonbar|from=Q5197330}}
+
+[[Category:Oleeae]]
+[[Category:Monotypic Oleaceae genera]]
+[[Category:Flora of Baja California]]
+[[Category:Flora of Mexican Pacific Islands]]
+[[Category:Extinct plants]]

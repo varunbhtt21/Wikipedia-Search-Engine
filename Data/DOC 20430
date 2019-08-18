@@ -1,0 +1,45 @@
+Title : Template:Database Population Artigues, Ariège
+Text : <includeonly>{{#switch: {{{1|}}}
+ | max = 250
+ | source-chart = Sources: database Ldh/EHESS/Cassini and Insee
+ | source1 = http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=1440
+ | source2 = http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2010&typgeo=COM&codgeo=09020
+ | source3 = 
+ | source4 = 
+ | 1 = 1793/234
+ | 2 = 1800/127
+ | 3 = 1806/277
+ | 4 = 1821/287
+ | 5 = 1831/307
+ | 6 = 1836/313
+ | 7 = 1841/337
+ | 8 = 1846/319
+ | 9 = 1851/352
+ | 10 = 1856/320
+ | 11 = 1861/350
+ | 12 = 1866/351
+ | 13 = 1872/376
+ | 14 = 1876/358
+ | 15 = 1881/322
+ | 16 = 1886/324
+ | 17 = 1891/306
+ | 18 = 1896/260
+ | 19 = 1901/218
+ | 20 = 1906/208
+ | 21 = 1911/184
+ | 22 = 1921/159
+ | 23 = 1926/139
+ | 24 = 1931/125
+ | 25 = 1936/105
+ | 26 = 1946/102
+ | 27 = 1954/101
+ | 28 = 1962/67
+ | 29 = 1968/60
+ | 30 = 1975/50
+ | 31 = 1982/29
+ | 32 = 1990/21
+ | 33 = 1999/38
+ | 34 = 2006/63
+ | 35 = 2010/50
+|2010/9999
+}}</includeonly><noinclude>{{documentation}}</noinclude>

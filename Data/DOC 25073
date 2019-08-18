@@ -1,0 +1,168 @@
+Title : Wikipedia:Help desk/Archives/2014 April 29
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Help desk|Help desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Help desk/Archives/2014 April 28|April 28]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Help desk/Archives/March 2014|Mar]] | [[Wikipedia:Help desk/Archives/April 2014|April]] | [[Wikipedia:Help desk/Archives/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Help desk/Archives/2014 April 30|[[Wikipedia:Help desk/Archives/2014 April 30|April 30]]|[[Wikipedia:Help desk|Current help desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Help Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Help desk/Archives/2014 April 30|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Help desk|current Help Desk]] pages.
+|}
+
+
+__TOC__</noinclude>
+= April 29 =
+
+== disambiguation question ==
+
+Hi,
+I want to disambiguate between two topics, no disambiguation page needed, so I want to place notices that this article is about "THIS" for that, see "THAT" on both pages. I tried the redirect tag, but that only points to a disambiguation page. Thanks, I don't do this so often anymore. [[User:Sephiroth storm|Sephiroth storm]] ([[User talk:Sephiroth storm|talk]]) 04:29, 29 April 2014 (UTC)
+
+:There are several [[wp:Hatnotes]] that may be able to do something like this, but I think you want template {{tlx|About}}, eg:
+
+:<nowiki>{{About|USE1|USE2|PAGE2}}</nowiki> displays 
+
+:''This page is about USE1. For USE2, see PAGE2.''
+:--[[user:220 of Borg|'''220''']] [[Special:Contributions/220 of Borg|''<small>of</small>'']] <sup>[[User talk:220 of Borg|''Borg'']]</sup> 06:00, 29 April 2014 (UTC)
+::That did it, thank you. [[User:Sephiroth storm|Sephiroth storm]] ([[User talk:Sephiroth storm|talk]]) 04:15, 30 April 2014 (UTC)
+
+== Review my article ==
+
+Hi Team,
+Please review my article. Since I have updated the article, please review and let me know your feedback.
+Hope for your positive and fastest response.
+Thanks  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Mdnaseemk|Mdnaseemk]] ([[User talk:Mdnaseemk|talk]] • [[Special:Contributions/Mdnaseemk|contribs]]) 05:41, 29 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:Convenience link: [[Wikipedia talk:Articles for creation/Syed Ishtiyaque Alam Shahbazi]].  That's all, <span style="font-family:monospace;">[[User:Dismas|Dismas]]</span>|[[User talk:Dismas|<sup>(talk)</sup>]] 08:07, 29 April 2014 (UTC)
+
+:{{ec}} The comments there suggest there are [[wp: notability| notability]] and [[wp:reliable sources|referencing]] issues that need to be fixed. --[[user:220 of Borg|'''220''']] [[Special:Contributions/220 of Borg|''<small>of</small>'']] <sup>[[User talk:220 of Borg|''Borg'']]</sup> 08:14, 29 April 2014 (UTC)
+
+== Need assistance with Wikipedia article editing ==
+{{lwt|Articles for creation/Bifrost Technologies}}
+
+Hi,
+
+I am trying to create an Article in Wikipedia and have a small doubt in it. I need to create a section where the heading is in one color and the section is in another. Unfortunately, I am not able to see the colors stretch to the complete width of the page and rather gets restricted to the space until which the content are available. 
+
+I am using the following code. 
+
+<nowiki>
+{| class=infobox
+|colspan=2 align=left style="background:#61C4CF"|'''Heading'''
+|-
+|style="background:#C6EDF2"|
+
+Content 
+
+|}
+</nowiki>
+
+I am not sure which attribute to use for the function as |style="background:#61C4CF" "width:100%"| is not working. Please advice.
+
+Thanks & Regards,
+Dinesh Velu  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Dinesh.pec14|Dinesh.pec14]] ([[User talk:Dinesh.pec14|talk]] • [[Special:Contributions/Dinesh.pec14|contribs]]) 07:52, 29 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:If you are talking about the article linked above, frankly, I would forget about playing with the colors and concentrate on establishing notability.  If you don't do that it will continue to get rejected and will never be accepted.  Eventually the page will be deleted altogether.
+:Anyway, I don't really understand what you are trying to achieve with that code, but
+<pre>
+===<span style="color:blue;">heading</span>===
+<div style="color:red;background:yellow;">Coloured content</div>
+Only part of a line with <span style="color:red;background:yellow;">coloured content</span>.
+</pre>
+:Results in this;
+===<span style="color:blue;">heading</span>===
+<div style="color:red;background:yellow;">Coloured content</div>
+Only part of a line with <span style="color:red;background:yellow;">coloured content</span>.
+:Hope that helps. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 09:21, 29 April 2014 (UTC)
+
+::The article's only "reference" is to the company's own web site – and it gives a 404. That is about as non-notable as you can get. [[User:Maproom|Maproom]] ([[User talk:Maproom|talk]]) 09:47, 29 April 2014 (UTC)
+
+== template creation error ==
+
+I created a Dave Grusin dicography template however I titled it David Grusin. {{Dave Grusin}}
+Now, when I try to edit it, Wikipedia is looking to create a new template called "David Grusin", and I cannot edit the original template. 
+Can the template be deleted so I can start over, or, can you change the title to read dave grusin so I can edit it?
+[[User:BobCC|BobCC]] ([[User talk:BobCC|talk]]) 11:31, 29 April 2014 (UTC)
+:{{ping|BobCC}} I changed the title parameter in the template to "Dave Grusin" to match the template's actual title, but left the name parameter as "David Grusin" (to preserve the link to our article on the man). Is that what you want? [[User:Deor|Deor]] ([[User talk:Deor|talk]]) 11:54, 29 April 2014 (UTC)
+::Oops, I just noticed that the title of the bio article is actually [[Dave Grusin]] as well, so I changed the title parameter in the template to "<nowiki>[[Dave Grusin]] discography</nowiki>". Is that OK? [[User:Deor|Deor]] ([[User talk:Deor|talk]]) 12:12, 29 April 2014 (UTC)
+
+== Copying text from a CC-by-A-licensed journal ==
+
+Hi, please see [[Alain Chabaud]]. In the reference section it is mentioned that this is an abridged version of an article published in an OA and CC-by licensed journal. Is this the correct way of attributing text? I can't really recall having seen something like this before. Any advice is appreciated. Thanks. --[[User:Randykitty|Randykitty]] ([[User talk:Randykitty|talk]]) 14:06, 29 April 2014 (UTC)
+
+:The article in question is the subject's obituary. This explains why the article is so promotional, with words like "visionary", "brilliance", and "prestigious". It also lacks all other references. Someone needs to rewrite the article in an acceptable style; doing so will remove the problem of a possible copyvio of the obituary. [[User:Maproom|Maproom]] ([[User talk:Maproom|talk]]) 15:32, 29 April 2014 (UTC)
+::{{ping|Randykitty}} {{tl|OA-attribution}} can be used for those cases. /~[[User:HueSatLum|hue]][[User talk:HueSatLum#top|sat]][[Special:Contributions/HueSatLum|lum]]/ 22:43, 29 April 2014 (UTC)
+:::Excellent, thanks! --[[User:Randykitty|Randykitty]] ([[User talk:Randykitty|talk]]) 11:10, 30 April 2014 (UTC)
+
+== Expert/Experienced editors on genetics studies ==
+
+I need their opinions for a specific article. Where I can submit my request? --[[User:Zyma|Zyma]] ([[User talk:Zyma|talk]]) 14:35, 29 April 2014 (UTC)
+* [[Wikipedia talk:WikiProject Genetics]]. --[[User:Randykitty|Randykitty]] ([[User talk:Randykitty|talk]]) 14:50, 29 April 2014 (UTC)
+
+== Questions about my account ==
+
+Hello,
+I have a few questions that my account was on hold for some reason that I was not told why, but I found that everything that I have updated was uploaded way later than the time that I have uploaded my files. I did contact someone before and I was told that my account was some revise and everything that I uploaded needed to be checked before it would be up from my account.Can you please help me to know why was my updates were uploaded on Tuesday early morning when I uploaded them on Sunday evening.
+Thank you,  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Pas3ad|Pas3ad]] ([[User talk:Pas3ad|talk]] • [[Special:Contributions/Pas3ad|contribs]]) 14:47, 29 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:The question you have just posted appears to be the only contribution you have ever made to en:Wikipedia. Do you think you made your "uploads" here to en:Wikipedia, or somewhere else? Perhaps to [[Wikimedia Commons]]? [[User:Maproom|Maproom]] ([[User talk:Maproom|talk]]) 15:41, 29 April 2014 (UTC)
+
+Hello,
+
+I am sorry I forgot to mention that it is on Wikiversity. These updates that are being done online are for school grades and my Professor when he checks he finds that it looks that i have submitted my files late on Wikiversity as I mentioned in the beginning that the problem is everything that I upload it takes some time to upload and that might be long as 3 days or more. I  hope you can help me because I losing my grades because of the delay upload. Also you please check if there is any hold against my account that is causing this problem .
+
+Thank,  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Pas3ad|Pas3ad]] ([[User talk:Pas3ad|talk]] • [[Special:Contributions/Pas3ad|contribs]]) 21:25, 30 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:This is the help desk for Wikipedia - Wikiversity is a separate project. You could try asking here [https://en.wikiversity.org/wiki/Wikiversity:Colloquium] [[User:AndyTheGrump|AndyTheGrump]] ([[User talk:AndyTheGrump|talk]]) 21:39, 30 April 2014 (UTC)
+
+:Your Wikiversity edits are shown at [[wikiversity:Special:Contributions/Pas3ad]]. The only file you have uploaded to Wikiversity is [[wikiversity:File:1545715 10203082836100580 1070278585 n.jpg]] on 20 February. On 14 April you uploaded files to Commons shown at [[commons:Special:Contributions/Pas3ad]]. This help desk is for Wikipedia. Wikiversity has a help page at [[wikiversity:Wikiversity:Colloquium]]. Please clarify which uploads you are talking about if you post there. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 21:50, 30 April 2014 (UTC)
+
+== Gerald R. Weeks ==
+
+Someone created a page for me under the heading above. I corrected it a couple of days ago and one of the reviewers changed it back to the original page. I do not understand how this system works. How do I contact the person who changed it. I have read the email and page and do not understand it. 
+Gerald R. Weeks [[User:Gerald weeks|Gerald weeks]] ([[User talk:Gerald weeks|talk]]) 15:56, 29 April 2014 (UTC)4/29/14
+
+: If you click on the "History" tab at the top of [[Gerald R. Weeks]] it will take you to [https://en.wikipedia.org/w/index.php?title=Gerald_R._Weeks&action=history the history of all the changes to the article]. You will see that your recent edits were subsequently reverted with the edit summary "''Unsourced and promotional language''".  It is the difficulty of an editor to write about themselves with a [[WP:neutral point of view|neutral point of view]] that gives rise to Wikipedia's guidance on [[WP:conflict of interest|conflict of interest]], to which your attention was drawn by a message on your user talk page.  If you wish to suggest changes to the article you can do so, remembering to include [[WP:REFB|references]] to published [[WP:reliable sources|reliable sources]] independent of the subject, on the article talk page.  If you wish to contact the specific editor who reverted your changes, you can do so through the editor's user talk page, accessible by clicking the word "talk" alongside the editor's user name in the article history.   [[User:David Biddulph|David Biddulph]] ([[User talk:David Biddulph|talk]] • [[Special:Contributions/David Biddulph|contribs]]) 16:21, 29 April 2014 (UTC)
+
+: The editor concerned did leave a message on your user talk page, and the signature on that message has a "talk" link to enable you to contact them. --[[User:David Biddulph|David Biddulph]] ([[User talk:David Biddulph|talk]]) 16:24, 29 April 2014 (UTC)
+
+== WP 1.0 web tool is down ==
+
+Clicking on the normal link or any of its sub links gives a 404 error: http://tools.wmflabs.org/enwp10/
+[[User:Brirush|Brirush]] ([[User talk:Brirush|talk]]) 16:23, 29 April 2014 (UTC)
+: {{ping|Brirush}} The maintainers are already aware of this issue, see [[Wikipedia talk:Version 1.0 Editorial Team/Index#WMF Labs server down?]]. <span style="text-shadow: 0.1em 0.1em 0.2em black">[[User:Zhaofeng Li|Zhaofeng Li]]</span> <small><nowiki>[</nowiki>[[User talk:Zhaofeng Li|talk...]] [[Special:Contributions/Zhaofeng Li|contribs...]]<nowiki>]</nowiki></small> 10:20, 30 April 2014 (UTC)
+
+== Kevin Murphy (offensive tackle) ==
+
+I have created the page Kevin Murphy (offensive tackle) but when i go to places where he is mentioned ( https://en.wikipedia.org/wiki/Minnesota_Vikings#Current_roster ) It says the page does not exsist.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:PacoDaKing14Sportz|PacoDaKing14Sportz]] ([[User talk:PacoDaKing14Sportz|talk]] • [[Special:Contributions/PacoDaKing14Sportz|contribs]]) 17:53, 29 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:It's due to caching. When you create a page it can take a long time before existing links on other pages automatically change from red to blue. You can force an update of a specific page by [[WP:PURGE|purging]] it, but there is no need for that here. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 17:59, 29 April 2014 (UTC)
+
+:{{ec}} It sometimes takes a little time for the Wikipedia database to catch up with new creations. So, for a little while after a new article is created, old "red-links" will stay red. You could do what is called "purging" each page individually, or give the maintenance a chance to catch up. It sort of "rights" itself eventually. See [[Wikipedia:Purge]] for how to do this. --[[User:Jayron32|<font style="color:#000099">Jayron</font>]]'''''[[User talk:Jayron32|<font style="color:#009900">32</font>]]''''' 18:00, 29 April 2014 (UTC)
+
+== Finalizing the article ==
+
+I am trying to figure out how to finalize the article I just created.  It is an autobiographical entry.  I saved it, but is it now automatically searchable?  If not, what do I need to do to make it live?  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:DoctorJackson|DoctorJackson]] ([[User talk:DoctorJackson|talk]] • [[Special:Contributions/DoctorJackson|contribs]]) 20:07, 29 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:The article is live, which is what I suppose you mean by finalized. The references are still a mess--the giant block of references at the bottom should be included into the article's body so that they appear neatly. The existing numbered references only appear to be titles, they're not formatted properly. Please read [[WP:REFB|Referencing for Beginners]], also, please read [[WP:COI]]. [[User:Cyphoidbomb|Cyphoidbomb]] ([[User talk:Cyphoidbomb|talk]]) 20:15, 29 April 2014 (UTC)
+
+Isn't the main problem here the fact that it "is an autobiographical entry"? If the subject is the author, the article should be up for deletion, shouldn't it? [[User:Melbourne3163|Melbourne3163]] ([[User talk:Melbourne3163|talk]]) 03:14, 30 April 2014 (UTC)
+*Not necessarily. Autobios are ''discouraged'', not forbidden. If the article is too promotional to be salvageable, it should be deleted as CSD#g11. If not, then it depends on notability what should be done. If the person is notable, the article may need cleanup to make it neutral and remove any POV. Only if the person is not notable should the article be taken to AFD. --[[User:Randykitty|Randykitty]] ([[User talk:Randykitty|talk]]) 11:17, 30 April 2014 (UTC)
+
+== References on Italian and English Wikipedias ==
+
+Hello, I would like to know the following:
+1) How I put a reference into a wikipedia page I edited ([[:it:Monumenti e luoghi d'interesse di Bari]]) if there is no reference section
+2) What should I write into the reference section of the english wikipedia page [[Lega Pro Prima Divisione]] if I added content that is into the italian wikipedia page [[:it:Lega Pro Prima Divisione]] ?
+Thank you.
+[[User:Tiffanytoms|Tiffanytoms]] ([[User talk:Tiffanytoms|talk]]) 22:33, 29 April 2014 (UTC)
+
+:{{to|Tiffanytoms}} (I've changed the URLs in your questions to [[H:L|wikilinks and interwiki links]]
+:# The code is essentially the same on the Italian Wikipedia as on the English Wikipedia: Put the code {{code|<nowiki><references /></nowiki>}} at the bottom of the page. [[:it:Aiuto:Note|''Aiuto:Note'' on the Italian Wikipedia]] says that you should put that into a new section titled "Note".
+:# If you are using material from the Italian article, you should cite the same sources that the Italian article uses. ([[WP:NONENG|Non-English sources are allowed on the English Wikipedia.]]) You should also note on the talk page of the English article that some of the material has been translated from another Wikipedia. (This can be done by putting code {{tlx|translated page|it|Lega Pro Prima Divisione}} near the top.)
+:[[User:Anon126|<span style="background-color: #000"><span style="color: #fff">Anon</span><span style="color: #0ff;">126</span></span>]] ([[User:Anon126/R|notify me of responses!]] / [[User talk:Anon126|talk]] / [[Special:Contributions/Anon126|contribs]]) 02:04, 30 April 2014 (UTC)

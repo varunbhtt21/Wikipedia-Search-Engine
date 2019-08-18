@@ -1,0 +1,34 @@
+Title : Wikipedia:Reference desk/Archives/Mathematics/2014 April 21
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Mathematics|Mathematics desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Mathematics/2014 April 20|April 20]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Mathematics/March 2014|Mar]] | [[Wikipedia:Reference desk/Archives/Mathematics/April 2014|April]] | [[Wikipedia:Reference desk/Archives/Mathematics/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Mathematics/2014 April 22|[[Wikipedia:Reference desk/Archives/Mathematics/2014 April 22|April 22]]|[[Wikipedia:Reference desk/Mathematics|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Mathematics Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Mathematics/2014 May 1|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= April 21 =
+
+== Inverse Richardson-Dushman equation ==
+
+Textbooks on thermionic emission give an equation for finding the saturation current (I) for a given temperature (T) :-
+::I = A . A<sub>o</sub> T<sup>2</sup> e<sup>-W/kT</sup>
+How do I invert this to find T when I is known? [[Special:Contributions/121.221.225.6|121.221.225.6]] ([[User talk:121.221.225.6|talk]]) 13:28, 21 April 2014 (UTC)
+:The [[Lambert W function]] can be used to give a closed form solution, but really your best bet is to plot the function and get the inverse from the plot. Or you could write a program that does a [[binary chop]] on an interval and looks at the values till you get as close as you like. [[User:Dmcq|Dmcq]] ([[User talk:Dmcq|talk]]) 17:27, 21 April 2014 (UTC)
+
+Letting a=W/k and b=I/(A<sub>o</sub>a<sup>2</sup>) and x=−a/T, the equation I = A<sub>o</sub> T<sup>2</sup> e<sup>-W/kT</sup> simplifies: 
+:0 = e<sup>x</sup> − bx<sup>2</sup>
+Expand the exponential:
+:0 = 1 + x + x<sup>2</sup>(1/2−b) + x<sup>3</sup>/6 + x<sup>4</sup>/24 +  ⋅ ⋅ ⋅
+When the series is truncated to a polynomial the resulting algebraic equation is solved by some numerical [[root-finding algorithm]]. [[User:Bo Jacoby|Bo Jacoby]] ([[User talk:Bo Jacoby|talk]]) 18:28, 21 April 2014 (UTC).

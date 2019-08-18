@@ -1,0 +1,16 @@
+Title : Template:Accounting-journal-stub
+Text : {{asbox
+| icon      = [[Image:Accountancy template.svg|30px|alt=Stub icon 1]] [[Image:Book Hexagonal Icon.svg|30px|alt=Stub icon 2]]
+| subject   = 
+| qualifier = about a [[academic journal|journal]] on [[accounting]]
+| category  = Business journal stubs
+| tempsort  = Accounting
+| category1 = Accounting stubs
+| tempsort1 = Journal
+| category2 = Economics journal stubs
+| tempsort2 = Journal
+| name      = Template:accounting-journal-stub
+| note      = [[Wikipedia:WikiProject Academic Journals/Writing guide|See tips for writing articles about academic journals]]. Further suggestions might be found on the article's [[Talk:{{PAGENAME}}|talk page]].
+}}<noinclude>
+[[Category:Academic journals stub templates]]
+</noinclude>

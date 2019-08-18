@@ -1,0 +1,23 @@
+Title : KIZ (gene)
+Text : {{Infobox_gene}}
+
+'''Kizuna centrosomal protein''' is a [[protein]] that in humans is encoded by the KIZ [[gene]].<ref name="entrez">{{cite web | title = Entrez Gene: Kizuna centrosomal protein | url =  https://www.ncbi.nlm.nih.gov/gene/55857 }}</ref>
+
+==Function==
+
+The protein encoded by this gene localizes to [[centrosome]]s, strengthening and stabilizing the pericentriolar region prior to [[spindle apparatus|spindle]] formation. The encoded protein usually remains with the mother centrosome after centrosomal duplication. Several transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Feb 2013].
+
+== Clinical significance ==
+
+Mutations in KIZ cause {{SWL|type=mutation_results_in|target=dystrophy|label=Rod-cone dystrophy (RCD)}}.<ref name="pmid24680887">{{cite journal |vauthors=El Shamieh S, Neuillé M, Terray A, Orhan E, Condroyer C, Démontant V, Michiels C, Antonio A, Boyard F, Lancelot ME, Letexier M, Saraiva JP, Léveillard T, Mohand-Saïd S, Goureau O, Sahel JA, Zeitz C, Audo I | title = Whole-Exome Sequencing Identifies KIZ as a Ciliary Gene Associated with Autosomal-Recessive Rod-Cone Dystrophy | journal = Am. J. Hum. Genet. | volume = 94 | issue = 4 | pages = 625–33 | year = 2014 | pmid = 24680887 | doi = 10.1016/j.ajhg.2014.03.005 | pmc=3980423}}</ref>
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+{{refbegin | 2}}
+*{{cite journal |vauthors=Oshimori N, Li X, Ohsugi M, Yamamoto T | title = Cep72 regulates the localization of key centrosomal proteins and proper bipolar spindle formation | journal = EMBO J. | volume = 28 | issue = 14 | pages = 2066–76 | year = 2009 | pmid = 19536135 | pmc = 2718283 | doi = 10.1038/emboj.2009.161 }}
+*{{cite journal |vauthors=Oshimori N, Ohsugi M, Yamamoto T | title = The Plk1 target Kizuna stabilizes mitotic centrosomes to ensure spindle bipolarity | journal = Nat. Cell Biol. | volume = 8 | issue = 10 | pages = 1095–101 | year = 2006 | pmid = 16980960 | doi = 10.1038/ncb1474 }}
+{{refend}}
+
+{{NLM content}}

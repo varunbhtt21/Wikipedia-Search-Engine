@@ -1,0 +1,28 @@
+Title : Template:Hotels in Philadelphia
+Text : {{Navbox
+| name  = Hotels in Philadelphia
+| title = Hotels in [[Philadelphia]]
+| state = {{{state|autocollapse}}}
+| listclass = hlist 
+
+| group1= 5-star hotels
+| list1 = 
+* [[The Bellevue-Stratford Hotel|The Bellevue Hotel]]
+* [[Four Seasons Hotels and Resorts|Four Seasons Philadelphia]]
+* [[Hotel Monaco|Hotel Monaco Philadelphia]]
+* [[Hotel Palomar|Hotel Palomar Philadelphia]]
+* [[Loews Philadelphia Hotel]]
+* [[Omni Hotels & Resorts|Omni Hotel Independence Park]]
+* Rittenhouse 1715
+* Rittenhouse Hotel
+* [[Ritz-Carlton Philadelphia]]
+* [[Sofitel|Sofitel Philadelphia Hotel]]
+* [[Liberty Place|The Westin Hotel Philadelphia]]
+
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Hotels in Philadelphia|τ]]
+[[Category:Philadelphia navigational boxes]]
+[[Category:Hotel templates|Philadelphia]]
+</noinclude>

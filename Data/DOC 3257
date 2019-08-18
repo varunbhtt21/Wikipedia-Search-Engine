@@ -1,0 +1,926 @@
+Title : Wikipedia:Contributor copyright investigations/Norden1990
+Text : {{NOINDEX|visible=yes}}
+{{divbox|fawn|Contributor copyright investigation|
+This [[WP:CCI|CCI]] cleanup subpage has been opened because concerns of multiple point infringement have been substantiated and further steps are necessary to address the serious risk of [[Wikipedia:Copyright violation|copyright violation]] from the listed contributor. Listings are not intended to imply a presumption of bad faith on the part of any contributor, as copyright laws vary widely around the world and many contributors who violate [[WP:C|Wikipedia's copyrights policy]] do so inadvertently through not understanding it or the United States' laws that govern it.
+
+'''If you are here because of a note on an article's talk page explaining removal of text''', please do not restore any removed text without first ensuring that the text does not duplicate, closely paraphrase or plagiarize from a previously published source. You are welcome to use sourced facts that may have been removed to create new content in your own words or to incorporate brief quotations of copyrighted material in accordance with [[WP:NFC|the non-free content policy and guideline]].}}
+
+==Instructions==
+'''All contributors with no history of copyright problems are welcome to contribute to clean up.''' Contributors who are the subject of a contributor copyright investigation are among contributors with a history of copyright problems and so are not welcome to directly evaluate their own or others' copyright violations in CCIs. They are welcome to assist with rewriting any problems identified.
+
+''If contributors have been shown to have a history of extensive copyright violation, it may be assumed without further evidence that all of their major contributions are copyright violations, and they may be removed indiscriminately in accordance with [[Wikipedia:Copyright violations]].'' Contributors who are the subject of a contributor copyright investigation are among contributors who have been shown to have a history of extensive copyright violation and so all of the below listed contributions may be removed indiscriminately. However, to avoid collateral damage, efforts should be made when possible to verify infringement before removal. 
+
+When every section is completed, please alter the listing for this CCI at [[Wikipedia:CCI#Open_investigations]] to include the tag "completed=yes". This will alert a clerk that the listing needs to be archived.
+*<code><nowiki>{{CCI-open|Contributor name|Day Month Year|completed=yes}}</nowiki></code>
+
+===Text===
+* Examine the article or the diffs linked below. 
+* If the contributor has added creative content, either evaluate it carefully for copyright concerns or remove it.
+:*Evaluating for copyright concerns may include checking the listed sources, spot-checking using google, google books and other search engines and looking for major differences in writing style. The background may give some indication of the kinds of copyright concerns that have been previously detected. For older text, mirrors of Wikipedia content may make determining which came first difficult. It may be helpful to look for significant changes to the text after it was entered. Searching for the earlier form of text can help eliminate later mirrors. If you cannot determine which came first, text should be removed presumptively, since there is an established history of copying with the editor in question.
+:*If you remove text presumptively, place  <code>{{tlsp|CCI|name&#61;Contributor name}}</code> on the article's talk page.
+:*If you specifically locate infringement and remove it (or revert to a previous clean version), place  <code>{{tls|cclean}}</code> on the article's talk page. The url parameter may be optionally used to indicate source.
+:*If there is insufficient creative content on the page for it to survive the removal of the text or it is impossible to extricate from subsequent improvements, replace it with <code>{{tls|copyvio}}</code>, linking to the investigation subpage in the url parameter. List the article as instructed at the copyright problems board, but you do not need to notify the contributor. Your note on the CCI investigation page serves that purpose.
+:*To tag an article created by the contributor for presumptive deletion, place <code><nowiki>{{subst:copyvio|url=see talk}}</nowiki></code> on the article's face and <code>{{tlsp|CCId|name&#61;Contributor name}}</code> on the article's talk page. List the article as instructed at the copyright problems board, but you do not need to notify the contributor.
+* After examining an article: 
+:*replace the diffs after the colon on the listing with indication of whether problem was found (add {{tl|y}}) or not (add {{tl|n}}). If the article is blanked and may be deleted, please indicate as much after the {{tl|y}}.
+:*Follow with your username and the time to indicate to others that the article has been evaluated and appropriately addressed. This is automatically generated by four tildes (<nowiki>~~~~</nowiki>)
+*If a section is complete, consider collapsing it by placing {{tl|collapse top}} and {{tl|collapse bottom}} beneath the section header and after the final listing.
+
+==Background==
+<div class="boilerplate metadata" style="background:#dee; border:1px solid #00c; margin:0.5em; padding:0.5em;; padding: 0.1em;">
+&nbsp;<font size="3">'''Norden1990'''</font>
+*{{User5|Norden1990}}
+*Check requested by [[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]])
+*I found copyvios made in over a dozen edits to five articles so far: [[Hungarian parliamentary election, 2014]], [[Unity (Hungary)]], [[Marcell Zsiga]], [[Béla Turi-Kovács]], and [[Szilárd Németh (politician)]].  For the first three, substantial amounts of text were copied from the sources cited, either verbatim or with only very minor modifications.  For the last two, the biographies provided are fairly faithful translations (i.e., derivative works) of the non-free Hungarian sources.  (They're sourced to biographies on the Hungarian parliament website, but as far as I can tell the only governmental works not covered by copyright in Hungary are legal promulgations such as legislation and court rulings, and in any case it looks like these biographies are contributed by the MPs themselves.)  See [[Wikipedia:Copyright problems/2014 April 13]] for further details on these five cases.<br /> I suspect there are many other cases in which non-free Hungarian sources have been translated, so if the CCI is accepted, it will be useful to get editors fluent in both English and Hungarian to investigate.  (I'll do the best I can but my own time is very limited these days.) [[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 18:00, 13 April 2014 (UTC)
+**Update: It looks like copyvio problems go at least as far back as 2009. [https://en.wikipedia.org/w/index.php?title=User_talk%3ANorden1990&diff=314987915&oldid=312276800] :( —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 20:59, 13 April 2014 (UTC)
+**I came across another case, [[Hungarian Socialist Party]], and reported it at [[Wikipedia:Copyright problems/2014 April 22]]. —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 12:14, 22 April 2014 (UTC)
+***Will accept tomorrow -- the editor tried to rewrite the copyvio but created a close paraphrase. I'm leaning towards blocking as well. [[User:MER-C|MER-C]] 13:13, 23 April 2014 (UTC)
+****IMO the user should have been blocked months ago for their horrific personal attacks, though that's got nothing to do with the copyvios.  Anyway, I assume that [https://en.wikipedia.org/w/index.php?title=Hungarian_parliamentary_election%2C_2014&diff=604033491&oldid=604033040 this] is the botched rewrite you're referring to.  I can't help but wonder if the [[Special:Contributions/178.164.220.20|anonymous]] rewrite at [[Talk:Hungarian Socialist Party/Temp]] is also their work—it's similarly problematic.  (Compare, for example, with the non-free source [http://www.politics.hu/20111022/gyurcsany-announces-departure-from-socialists-formation-of-new-western-civic-center-left-party/].) —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 15:23, 24 April 2014 (UTC)
+**Also of note: [[User:Anna Frodesiak|Anna Frodesiak]] found and removed another copyvio at [[János Hargitai]]. —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 15:23, 24 April 2014 (UTC)
+</div>
+
+==Contribution survey==
+*{{user5|Norden1990}}
+
+Subpage: [[Wikipedia:Contributor copyright investigations/Norden1990 2]].
+
+This report covers contributions to 1521 articles from timestamp 2006-08-01 12:00:16 UTC to timestamp 2014-04-13 17:14:28 UTC.
+
+== Articles 1 through 20 ==
+
+* '''N''' [[:Chief Justice of Hungary]]: (2 edits, 2 major, +32934) '''{{dif|548750500|(+32934)}}'''
+* '''N''' [[:Stephan Burián von Rajecz]]: {{y}} already removed [[User:MER-C|MER-C]] 04:05, 25 April 2014 (UTC)
+* [[:List of Prime Ministers of Hungary]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 18:14, 26 April 2014 (UTC)
+* [[:Austria-Hungary]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 18:06, 26 April 2014 (UTC)
+* '''N''' [[:Matthew II Csák]]: (1 edits, 1 major, +15137) '''{{dif|583851655|(+15137)}}'''
+* [[:Budin Eyalet]]: (1 edits, 1 major, +13923) '''{{dif|447663263|(+13923)}}'''
+* '''N''' [[:Minister of Justice (Hungary)]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 11:11, 29 April 2014 (UTC)
+* '''N''' [[:Minister of Finance of Hungary]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 08:49, 29 April 2014 (UTC)
+* [[:List of members of the National Assembly of Hungary (1990–94)]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 11:59, 25 April 2014 (UTC)
+* '''N''' [[:Minister of Agriculture (Hungary)]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 08:29, 29 April 2014 (UTC)
+* '''N''' [[:Minister of Education (Hungary)]]: {{y}} non-free images already removed —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 08:29, 29 April 2014 (UTC)
+* '''N''' [[:Mátyás Eörsi]]: {{y}} blanked to cover the non-free sources and added {{tl|translated page}} template to cover the free sources —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 11:57, 25 April 2014 (UTC)
+* '''N''' [[:Ministry of Defence (Hungary)]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 18:18, 26 April 2014 (UTC)
+* '''N''' [[:Samu Hazai]]: {{y}} removed; requested revdel —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 10:29, 25 April 2014 (UTC)
+* '''N''' [[:Gyula Kornis]]: (1 edits, 1 major, +6857) '''{{dif|478860663|(+6857)}}'''
+* '''N''' [[:Ferenc Szalay]]: {{y}} removed; requested revdel —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 10:34, 25 April 2014 (UTC)
+* '''N''' [[:Szilárd Németh (politician)]]: {{y}} blanked —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 07:25, 25 April 2014 (UTC)
+* '''N''' [[:Béla Kovács (politician, 1908)]]: (1 edits, 1 major, +6489) '''{{dif|427605481|(+6489)}}'''
+* '''N''' [[:Gusztáv Gratz]]: {{y}} unattributed translation of free text; {{tl|translated page}} template added —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 11:40, 25 April 2014 (UTC)
+* '''N''' [[:Béla Turi-Kovács]]: {{y}} already revdelled by [[User:Moonriddengirl]] —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 07:22, 25 April 2014 (UTC)
+
+== Articles 21 through 40 ==
+
+* '''N''' [[:Gábor Simon (politician, 1964)]]: {{y}} removed; requested revdel —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 08:37, 30 April 2014 (UTC)
+* '''N''' [[:Tímea Szabó]]: {{y}} blanked —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 08:51, 30 April 2014 (UTC)
+* '''N''' [[:List of Prime Ministers of Hungary (graphical)]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 10:54, 26 April 2014 (UTC)
+* '''N''' [[:Zsolt V. Németh]]: (1 edits, 1 major, +6009) '''{{dif|554653991|(+6009)}}'''
+* '''N''' [[:Dialogue for Hungary]]: {{y}} blanked —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 11:35, 29 April 2014 (UTC)
+* '''N''' [[:List of Prime Ministers of Hungary by tenure]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 11:38, 29 April 2014 (UTC)
+* '''N''' [[:Erika Szabó]]: {{y}} removed; requested revdel —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 10:44, 25 April 2014 (UTC)
+* '''N''' [[:Lajos Kósa]]: {{y}} removed; requested revdel —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 10:58, 25 April 2014 (UTC)
+* '''N''' [[:Unity (Hungary)]]: {{y}} removed by [[User:Moonriddengirl]] —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 11:36, 29 April 2014 (UTC)
+* '''N''' [[:Oszkár Molnár]]: (2 edits, 2 major, +5733) '''{{dif|460314799|(+5733)}}'''
+* '''N''' [[:Second Cabinet of Viktor Orbán]]: (4 edits, 4 major, +5684) '''{{dif|475948075|(+4342)}}{{dif|494760097|(+170)}}{{dif|543502258|(+2724)}}{{dif|599377303|(+5684)}}'''
+* '''N''' [[:József Ángyán]]: (5 edits, 5 major, +5682) '''{{dif|473403144|(+5682)}}<span style="background-color: yellow">{{dif|498817598|(+671)}}</span><span style="background-color: yellow">{{dif|498818636|(+1485)}}</span><span style="background-color: yellow">{{dif|529194711|(+958)}}</span>{{dif|560889416|(+356)}}'''
+* '''N''' [[:Szilveszter E. Vizi]]: (1 edits, 1 major, +5640) '''{{dif|382175500|(+5640)}}'''
+* '''N''' [[:Bernadett Szél]]: (3 edits, 3 major, +5502) '''{{dif|574392093|(+5502)}}<span style="background-color: yellow">{{dif|574450684|(+1138)}}</span><span style="background-color: yellow">{{dif|574709972|(+206)}}</span>'''
+* '''N''' [[:Lajos Návay]]: (1 edits, 1 major, +5449) '''{{dif|477509830|(+5449)}}'''
+* '''N''' [[:Endre Gyimesi]]: (2 edits, 2 major, +5422) '''{{dif|511688433|(+5422)}}{{dif|526852270|(+156)}}'''
+* '''N''' [[:Cabinet of Gordon Bajnai]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 08:39, 30 April 2014 (UTC)
+* '''N''' [[:Titusz Dugovics]]: {{y}} unattributed translation from German Wikipedia; added {{tl|translated page}} template —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 14:23, 30 April 2014 (UTC)
+* '''N''' [[:Mátyás Firtl]]: (1 edits, 1 major, +5159) '''{{dif|604003684|(+5159)}}'''
+* '''N''' [[:Ferenc Szombathelyi]]: (2 edits, 2 major, +5156) '''{{dif|452227670|(+5156)}}{{dif|456345980|(+270)}}'''
+
+== Articles 41 through 60 ==
+
+* '''N''' [[:Lajos Méhelÿ]]: (1 edits, 1 major, +5122) '''{{dif|463777506|(+5122)}}'''
+* '''N''' [[:Zoltán Lengyel]]: (2 edits, 2 major, +5116) '''{{dif|479309870|(+1559)}}<span style="background-color: yellow">{{dif|479328732|(+5116)}}</span>'''
+* '''N''' [[:János Halász (politician)]]: (2 edits, 2 major, +5074) '''{{dif|514005440|(+5074)}}{{dif|526852566|(+227)}}'''
+* '''N''' [[:György Apponyi]]: (1 edits, 1 major, +5047) '''{{dif|479973831|(+5047)}}'''
+* '''N''' [[:Erik Molnár]]: (3 edits, 3 major, +5041) '''{{dif|332507299|(+5041)}}{{dif|332512126|(+669)}}{{dif|369818138|(+342)}}'''
+* '''N''' [[:György Ipkovich]]: (1 edits, 1 major, +5023) '''{{dif|601895282|(+5023)}}'''
+* '''N''' [[:Nándor Gúr]]: (2 edits, 2 major, +5016) '''{{dif|595784859|(+5016)}}{{dif|595786027|(+495)}}'''
+* '''N''' [[:Miklós Istvánffy]]: (3 edits, 3 major, +5008) '''{{dif|515549361|(+5008)}}{{dif|515555227|(+2597)}}{{dif|515555754|(+329)}}'''
+* '''N''' [[:Minister of Croatian Affairs of Hungary]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 20:31, 30 April 2014 (UTC)
+* '''N''' [[:Tamás Básthy]]: (1 edits, 1 major, +4946) '''{{dif|602092857|(+4946)}}'''
+* '''N''' [[:Ferenc Feketehalmy-Czeydner]]: {{y}} unattributed translation from German Wikipedia; added {{tl|translated page}} template —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 14:38, 30 April 2014 (UTC)
+* '''N''' [[:Michael Szilágyi]]: (3 edits, 3 major, +4924) '''{{dif|495848100|(+4924)}}{{dif|533764239|(+247)}}{{dif|533765422|(+385)}}'''
+* '''N''' [[:Sándor Káli]]: {{y}} already removed; requested revdel —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 13:43, 26 April 2014 (UTC)
+* '''N''' [[:Ferenc Baja]]: (1 edits, 1 major, +4909) '''{{dif|595450898|(+4909)}}'''
+* '''N''' [[:István Tiba]]: (1 edits, 1 major, +4903) '''{{dif|596697755|(+4903)}}'''
+* '''N''' [[:Ferenc Koncz]]: (2 edits, 2 major, +4884) '''{{dif|526104346|(+4884)}}{{dif|526854586|(+156)}}'''
+* '''N''' [[:László L. Simon]]: (2 edits, 2 major, +4883) '''{{dif|529128746|(+4883)}}{{dif|529133447|(+356)}}'''
+* '''N''' [[:Zsuzsanna Szelényi]]: (2 edits, 2 major, +4875) '''{{dif|603676436|(+4875)}}{{dif|603676913|(+517)}}'''
+* '''N''' [[:Lajos Fodor]]: (2 edits, 2 major, +4857) '''{{dif|533074718|(+4857)}}{{dif|536453582|(+227)}}'''
+* [[:Viktor Orbán]]:  {{y}} blanked —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 15:19, 26 April 2014 (UTC)
+
+== Articles 61 through 80 ==
+
+* '''N''' [[:Ágoston Trefort]]: (4 edits, 4 major, +4799) '''{{dif|350183407|(+4681)}}{{dif|350185869|(+1397)}}{{dif|350287319|(+4799)}}{{dif|381327303|(+225)}}'''
+* '''N''' [[:János Imreffy]]: (3 edits, 3 major, +4776) '''{{dif|515878559|(+4776)}}{{dif|516160240|(+956)}}{{dif|516162796|(+911)}}'''
+* '''N''' [[:Flórián Farkas]]: (4 edits, 4 major, +4730) '''{{dif|511363329|(+4730)}}{{dif|511363955|(+283)}}{{dif|511364034|(+211)}}{{dif|526786691|(+156)}}'''
+* '''N''' [[:Károly Khuen-Héderváry]]: (10 edits, 10 major, +4717) '''{{dif|333043194|(+4717)}}{{dif|333044463|(+264)}}{{dif|453211449|(+3255)}}{{dif|465658296|(+1690)}}{{dif|465661997|(+577)}}{{dif|465664275|(+397)}}{{dif|465665329|(+161)}}{{dif|465666140|(+162)}}{{dif|466603840|(+542)}}{{dif|511931421|(+398)}}'''
+* '''N''' [[:Hungarian parliamentary election, 2014]]: {{y}} blanked [[User:MER-C|MER-C]] 04:08, 25 April 2014 (UTC)
+* '''N''' [[:József Ékes]]: (2 edits, 2 major, +4685) '''{{dif|503982647|(+4685)}}{{dif|526786583|(+227)}}'''
+* '''N''' [[:Kristóf Szatmáry]]: (1 edits, 1 major, +4682) '''{{dif|596094006|(+4682)}}'''
+* '''N''' [[:Imre Pichler]]: (1 edits, 1 major, +4667) '''{{dif|573973522|(+4667)}}'''
+* '''N''' [[:István Jósika]]: (1 edits, 1 major, +4652) '''{{dif|509004079|(+4652)}}'''
+* '''N''' [[:Gyula Kovács]]: (1 edits, 1 major, +4631) '''{{dif|600677520|(+4631)}}'''
+* '''N''' [[:Péter Zwack]]: {{y}} removed; requested revdel —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 15:08, 26 April 2014 (UTC)
+* '''N''' [[:Árpád Urbán]]: (1 edits, 1 major, +4600) '''{{dif|593954444|(+4600)}}'''
+* '''N''' [[:Rezső Nyers]]: (3 edits, 3 major, +4589) '''{{dif|339712851|(+4589)}}{{dif|527795721|(+185)}}{{dif|555639565|(+390)}}'''
+* '''N''' [[:Imre Szakács]]: (1 edits, 1 major, +4577) '''{{dif|595147456|(+4577)}}'''
+* '''N''' [[:Pál Esterházy (1587–1645)]]: (1 edits, 1 major, +4570) '''{{dif|514993245|(+4570)}}'''
+* '''N''' [[:Ferenc Ódor]]: {{y}} removed; requested revdel —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 14:32, 25 April 2014 (UTC)
+* '''N''' [[:Lajos Mile]]: (1 edits, 1 major, +4565) '''{{dif|532059233|(+4565)}}'''
+* '''N''' [[:Péter Polt]]: (1 edits, 1 major, +4563) '''{{dif|530530164|(+4563)}}'''
+* '''N''' [[:László Karakó]]: (1 edits, 1 major, +4545) '''{{dif|524675930|(+4545)}}'''
+* '''N''' [[:Miklós Simon]]: (1 edits, 1 major, +4544) '''{{dif|593962393|(+4544)}}'''
+
+== Articles 81 through 100 ==
+
+* [[:Ferenc Gyurcsány]]: {{y}} blanked —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 18:43, 26 April 2014 (UTC)
+* '''N''' [[:László Iván]]: (1 edits, 1 major, +4459) '''{{dif|524361291|(+4459)}}'''
+* '''N''' [[:Gabriella Selmeczi]]: (3 edits, 3 major, +4439) '''{{dif|593604750|(+4439)}}{{dif|593605286|(+242)}}{{dif|593606860|(+968)}}'''
+* '''N''' [[:Gergely Bárándy]]: (1 edits, 1 major, +4396) '''{{dif|595517801|(+4396)}}'''
+* '''N''' [[:Mária Wittner]]: (1 edits, 1 major, +4385) '''{{dif|595446359|(+4385)}}'''
+* '''N''' [[:István Varga (politician, 1953)]]: (1 edits, 1 major, +4378) '''{{dif|601716275|(+4378)}}'''
+* '''N''' [[:Ignác Darányi]]: (2 edits, 2 major, +4374) '''{{dif|392115922|(+4374)}}{{dif|392116785|(+193)}}'''
+* '''N''' [[:György Balla]]: (2 edits, 2 major, +4363) '''{{dif|486849816|(+4363)}}{{dif|526783383|(+285)}}'''
+* '''N''' [[:Sándor Lezsák]]: (3 edits, 3 major, +4353) '''{{dif|457517178|(+4353)}}{{dif|457517421|(+184)}}{{dif|526855220|(+355)}}'''
+* '''N''' [[:Gábor Cserna]]: (1 edits, 1 major, +4335) '''{{dif|489634664|(+4335)}}'''
+* '''N''' [[:Imre Pesti]]: (1 edits, 1 major, +4324) '''{{dif|571925440|(+4324)}}'''
+* '''N''' [[:Géza Szőcs]]: (3 edits, 3 major, +4321) '''{{dif|460955365|(+4321)}}{{dif|460979098|(+1395)}}{{dif|497407917|(+275)}}'''
+* '''N''' [[:Gábor Simon (politician, 1972)]]: (1 edits, 1 major, +4293) '''{{dif|594110164|(+4293)}}'''
+* '''N''' [[:Pousa, son of Sólyom]]: (1 edits, 1 major, +4293) '''{{dif|565496584|(+4293)}}'''
+* '''N''' [[:Tibor Pogácsás]]: {{y}} removed; requested revdel —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 14:23, 25 April 2014 (UTC)
+* '''N''' [[:Katalin Ertsey]]: (2 edits, 2 major, +4270) '''{{dif|531875191|(+4270)}}{{dif|552351306|(+302)}}'''
+* '''N''' [[:János Hargitai]]: {{y}} already removed by [[User:Anna Frodesiak]]; requested revdel —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 07:20, 25 April 2014 (UTC)
+* '''N''' [[:János Kóka]]: (4 edits, 4 major, +4265) '''{{dif|483453864|(+3103)}}{{dif|483702883|(+4265)}}{{dif|486663392|(+157)}}{{dif|553280646|(+176)}}'''
+* '''N''' [[:István Vitányi]]: (1 edits, 1 major, +4247) '''{{dif|596629311|(+4247)}}'''
+* '''N''' [[:Jenő Manninger]]: (1 edits, 1 major, +4239) '''{{dif|552340985|(+4239)}}'''
+
+== Articles 101 through 120 ==
+
+* '''N''' [[:László Szőgyény-Marich, Sr.]]: (1 edits, 1 major, +4214) '''{{dif|480308661|(+4214)}}'''
+* '''N''' [[:János Latorcai]]: (3 edits, 3 major, +4203) '''{{dif|457519937|(+4203)}}{{dif|526856629|(+355)}}<span style="background-color: yellow">{{dif|561184863|(+944)}}</span>'''
+* '''N''' [[:Károly Beregfy]]: (2 edits, 2 major, +4199) '''{{dif|323258691|(+4199)}}{{dif|456346622|(+245)}}'''
+* '''N''' [[:Mihály Balla]]: (2 edits, 2 major, +4155) '''{{dif|486878105|(+4155)}}{{dif|526783435|(+285)}}'''
+* '''N''' [[:Leader of the Opposition (Hungary)]]: (1 edits, 1 major, +4151) '''{{dif|552704285|(+4151)}}'''
+* '''N''' [[:Ferenc Tóth (politician)]]: (1 edits, 1 major, +4142) '''{{dif|596776496|(+4142)}}'''
+* '''N''' [[:Árpád Potápi]]: (1 edits, 1 major, +4142) '''{{dif|575010634|(+4142)}}'''
+* [[:Ferenc Gyulay]]: (1 edits, 1 major, +4131) '''{{dif|470127763|(+4131)}}'''
+* '''N''' [[:Dániel Esterházy (1585–1654)]]: (1 edits, 1 major, +4119) '''{{dif|514672700|(+4119)}}'''
+* '''N''' [[:List of Interior Ministers of Hungary]]: (4 edits, 4 major, +4115) '''{{dif|315106830|(+4115)}}{{dif|315138760|(+948)}}{{dif|320196890|(+314)}}{{dif|364853286|(+342)}}'''
+* '''N''' [[:Mihály Csáky (chancellor)]]: (6 edits, 6 major, +4103) '''{{dif|508923843|(+4103)}}{{dif|508932288|(+1353)}}{{dif|508936390|(+793)}}{{dif|508937564|(+278)}}{{dif|508942773|(+752)}}{{dif|508945226|(+1004)}}'''
+* '''N''' [[:Emil Nagy]]: (1 edits, 1 major, +4099) '''{{dif|382359598|(+4099)}}'''
+* '''N''' [[:Farkas Bethlen (1639–1679)]]: (1 edits, 1 major, +4081) '''{{dif|516678127|(+4081)}}'''
+* '''N''' [[:Gyula Justh]]: (2 edits, 2 major, +4068) '''{{dif|477440183|(+4068)}}{{dif|477440655|(+162)}}'''
+* '''N''' [[:Lajos Szűcs (politician)]]: (1 edits, 1 major, +4059) '''{{dif|596410735|(+4059)}}'''
+* '''N''' [[:Péter Harrach]]: (2 edits, 2 major, +4025) '''{{dif|460450330|(+4025)}}{{dif|526856401|(+284)}}'''
+* '''N''' [[:János Fónagy]]: (4 edits, 4 major, +4006) '''{{dif|511597369|(+2022)}}{{dif|511601798|(+4006)}}<span style="background-color: yellow">{{dif|511604859|(+1611)}}</span>{{dif|526851746|(+227)}}'''
+* '''N''' [[:Master of the doorkeepers]]: (19 edits, 19 major, +3993) '''{{dif|515623806|(+3993)}}{{dif|515628863|(+1703)}}{{dif|515629007|(+318)}}{{dif|515636722|(+1639)}}{{dif|515637688|(+170)}}{{dif|515639596|(+254)}}{{dif|515640895|(+405)}}{{dif|515643252|(+183)}}{{dif|515643592|(+197)}}{{dif|515645208|(+620)}}{{dif|515647110|(+552)}}{{dif|515660307|(+865)}}{{dif|515663730|(+1006)}}{{dif|515666069|(+649)}}{{dif|515696074|(+983)}}{{dif|515698062|(+867)}}{{dif|515703643|(+1553)}}{{dif|515706291|(+873)}}{{dif|516139265|(+186)}}'''
+* '''N''' [[:Imre Dimény]]: (1 edits, 1 major, +3980) '''{{dif|430923772|(+3980)}}'''
+* '''N''' [[:National Assembly of Soviets]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 10:14, 26 April 2014 (UTC)
+
+== Articles 121 through 140 ==
+
+* '''N''' [[:Zoltán Király]]: (2 edits, 2 major, +3969) '''{{dif|527794760|(+3969)}}{{dif|595137250|(+241)}}'''
+* '''N''' [[:Péter Révay]]: (1 edits, 1 major, +3963) '''{{dif|427755833|(+3963)}}'''
+* '''N''' [[:Zoltán Pokorni]]: (4 edits, 4 major, +3961) '''{{dif|367859590|(+3961)}}{{dif|525180670|(+164)}}{{dif|526855709|(+355)}}{{dif|552706156|(+181)}}'''
+* '''N''' [[:Márta Mátrai]]: (2 edits, 2 major, +3954) '''{{dif|552419209|(+3954)}}{{dif|552419992|(+190)}}'''
+* '''N''' [[:Gábor Tóth (politician)]]: (1 edits, 1 major, +3953) '''{{dif|597794963|(+3953)}}'''
+* '''N''' [[:Krisztina Nyáry]]: (2 edits, 2 major, +3947) '''{{dif|515127906|(+2161)}}{{dif|515135047|(+3947)}}'''
+* [[:List of Speakers of the House of Representatives of Hungary]]: (3 edits, 3 major, +3926) '''{{dif|518125749|(+3926)}}{{dif|518135136|(+1081)}}{{dif|518137216|(+481)}}'''
+* [[:Regent of Hungary]]: (3 edits, 3 major, +3893) '''{{dif|431340631|(+3807)}}{{dif|431343746|(+3893)}}{{dif|431344432|(+227)}}'''
+* [[:Gyula Károlyi]]: (5 edits, 5 major, +3884) '''{{dif|354853366|(+919)}}{{dif|354934250|(+794)}}{{dif|354938270|(+1918)}}{{dif|355040583|(+3884)}}{{dif|355042054|(+171)}}'''
+* '''N''' [[:Záh (genus)]]: (1 edits, 1 major, +3882) '''{{dif|535498219|(+3882)}}'''
+* '''N''' [[:Michael Kacsics]]: (1 edits, 1 major, +3870) '''{{dif|564650734|(+3870)}}'''
+* '''N''' [[:Endre Kukorelly]]: (2 edits, 2 major, +3864) '''{{dif|525616641|(+3864)}}{{dif|525616932|(+1413)}}'''
+* '''N''' [[:János Radványi]]: (1 edits, 1 major, +3852) '''{{dif|504976251|(+3852)}}'''
+* '''N''' [[:Stephen I Csák]]: (8 edits, 8 major, +3842) '''{{dif|585503722|(+3842)}}{{dif|586260145|(+558)}}{{dif|586261403|(+176)}}{{dif|586278090|(+374)}}{{dif|586413636|(+1360)}}{{dif|586416420|(+1120)}}{{dif|586418311|(+370)}}{{dif|586419364|(+552)}}'''
+* '''N''' [[:Attila Márton]]: (1 edits, 1 major, +3831) '''{{dif|552416226|(+3831)}}'''
+* [[:Pierre Daher]]: (1 edits, 1 major, +3792) '''{{dif|493261867|(+3792)}}'''
+* '''N''' [[:Attila Tilki]]: (1 edits, 1 major, +3784) '''{{dif|596774134|(+3784)}}'''
+* '''N''' [[:Tivadar Tulassay]]: (1 edits, 1 major, +3783) '''{{dif|485067339|(+3783)}}'''
+* '''N''' [[:Otto Győr]]: (3 edits, 3 major, +3772) '''{{dif|577821905|(+3772)}}{{dif|577827810|(+182)}}{{dif|577829101|(+227)}}'''
+* '''N''' [[:List of Chancellors of Transylvania]]: (5 edits, 5 major, +3762) '''{{dif|508779773|(+3762)}}{{dif|508815772|(+238)}}{{dif|508841866|(+2159)}}{{dif|509104576|(+318)}}{{dif|547791332|(+154)}}'''
+
+== Articles 141 through 160 ==
+
+* '''N''' [[:Zsolt Horváth (politician, 1964)]]: (2 edits, 2 major, +3749) '''{{dif|523534861|(+3749)}}{{dif|526853675|(+227)}}'''
+* '''N''' [[:László Pósán]]: (1 edits, 1 major, +3691) '''{{dif|574992403|(+3691)}}'''
+* '''N''' [[:Democratic Community of Welfare and Freedom]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 09:03, 30 April 2014 (UTC)
+* '''N''' [[:Ferenc Forgách, Archbishop of Esztergom]]: (1 edits, 1 major, +3660) '''{{dif|508760409|(+3660)}}'''
+* '''N''' [[:József Dancsó]]: (3 edits, 3 major, +3649) '''{{dif|493337460|(+3649)}}{{dif|526786014|(+227)}}{{dif|593731983|(+479)}}'''
+* [[:György Lázár]]: (1 edits, 1 major, +3641) '''{{dif|466193855|(+3641)}}'''
+* '''N''' [[:Bertalan Széchényi]]: (1 edits, 1 major, +3629) '''{{dif|481726745|(+3629)}}'''
+* '''N''' [[:Social Union (Hungary)]]: (1 edits, 1 major, +3619) '''{{dif|450965239|(+3619)}}'''
+* '''N''' [[:Kálmán Nagy]]: (1 edits, 1 major, +3610) '''{{dif|601885253|(+3610)}}'''
+* '''N''' [[:István Szabó de Nagyatád]]: (5 edits, 5 major, +3605) '''{{dif|397776954|(+3605)}}{{dif|397984780|(+1199)}}{{dif|398328669|(+855)}}{{dif|398333812|(+1457)}}{{dif|398335170|(+374)}}'''
+* '''N''' [[:Sándor Kozma]]: (1 edits, 1 major, +3578) '''{{dif|530228178|(+3578)}}'''
+* '''N''' [[:Demeter Naprágyi]]: (3 edits, 3 major, +3572) '''{{dif|509088302|(+3572)}}{{dif|509158304|(+2080)}}{{dif|509159241|(+158)}}'''
+* '''N''' [[:Smaragd of Transylvania]]: (1 edits, 1 major, +3569) '''{{dif|564580878|(+3569)}}'''
+* '''N''' [[:Miklós Vay]]: (1 edits, 1 major, +3523) '''{{dif|480593818|(+3523)}}'''
+* '''N''' [[:Péter Cseresnyés]]: (3 edits, 3 major, +3520) '''{{dif|489534546|(+3520)}}{{dif|489535247|(+216)}}{{dif|489536680|(+193)}}'''
+* '''N''' [[:Miklós Hanó]]: (1 edits, 1 major, +3504) '''{{dif|514013290|(+3504)}}'''
+* '''N''' [[:István Herman]]: (1 edits, 1 major, +3492) '''{{dif|517224025|(+3492)}}'''
+* '''N''' [[:Károly Kerkapoly]]: (1 edits, 1 major, +3492) '''{{dif|335983451|(+3492)}}'''
+* '''N''' [[:Gábor Török (political scientist)]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 09:05, 30 April 2014 (UTC)
+* '''N''' [[:Géza Gyimóthy]]: (1 edits, 1 major, +3476) '''{{dif|493204332|(+3476)}}'''
+
+== Articles 161 through 180 ==
+
+* '''N''' [[:Ladislaus, Count Esterházy]]: (3 edits, 3 major, +3474) '''{{dif|514406708|(+3474)}}{{dif|514406868|(+1530)}}{{dif|514407882|(+592)}}'''
+* '''N''' [[:Géza Jeszenszky]]: (3 edits, 3 major, +3456) '''{{dif|313376203|(+3456)}}{{dif|313410000|(+808)}}{{dif|454378321|(+1105)}}'''
+* '''N''' [[:Stephen, son of Tekesh]]: (1 edits, 1 major, +3450) '''{{dif|578162655|(+3450)}}'''
+* '''N''' [[:Rózsa Hoffmann]]: (6 edits, 6 major, +3449) '''{{dif|460774020|(+3449)}}<span style="background-color: yellow">{{dif|460960273|(+290)}}</span><span style="background-color: yellow">{{dif|460962455|(+646)}}</span><span style="background-color: yellow">{{dif|460962935|(+453)}}</span><span style="background-color: yellow">{{dif|556195435|(+460)}}</span>{{dif|556196306|(+452)}}'''
+* '''N''' [[:Károly Pánczél]]: (1 edits, 1 major, +3438) '''{{dif|555045688|(+3438)}}'''
+* '''N''' [[:István Pálffy]]: (2 edits, 2 major, +3436) '''{{dif|603801106|(+3436)}}{{dif|603801248|(+201)}}'''
+* '''N''' [[:György Czerván]]: (2 edits, 2 major, +3425) '''{{dif|493010023|(+3425)}}{{dif|526785780|(+227)}}'''
+* '''N''' [[:Ágnes Molnár]]: (1 edits, 1 major, +3424) '''{{dif|553423618|(+3424)}}'''
+* '''N''' [[:Albin Csáky]]: (2 edits, 2 major, +3423) '''{{dif|350298802|(+3423)}}{{dif|480758624|(+549)}}'''
+* '''N''' [[:Julius II Rátót]]: (2 edits, 2 major, +3421) '''{{dif|565630129|(+3421)}}{{dif|584920799|(+172)}}'''
+* '''N''' [[:Community for Social Justice People's Party]]: (1 edits, 1 major, +3418) '''{{dif|593597441|(+3418)}}'''
+* '''N''' [[:Ferenc Esterházy (1533–1604)]]: (3 edits, 3 major, +3416) '''{{dif|514229262|(+3416)}}{{dif|514231681|(+155)}}{{dif|514485547|(+485)}}'''
+* '''N''' [[:Bána (genus)]]: (1 edits, 1 major, +3409) '''{{dif|585203469|(+3409)}}'''
+* '''N''' [[:Zsuzsi Mary]]: (1 edits, 1 major, +3395) '''{{dif|467754713|(+3395)}}'''
+* '''N''' [[:Ipoch Bogátradvány]]: (1 edits, 1 major, +3387) '''{{dif|564714454|(+3387)}}'''
+* '''N''' [[:József Domokos]]: (1 edits, 1 major, +3387) '''{{dif|530484257|(+3387)}}'''
+* '''N''' [[:Zsolt Molnár]]: (1 edits, 1 major, +3380) '''{{dif|595594884|(+3380)}}'''
+* '''N''' [[:Mihály Babák]]: (2 edits, 2 major, +3375) '''{{dif|473406403|(+3375)}}{{dif|526783070|(+227)}}'''
+* '''N''' [[:Ferenc Bartha]]: (2 edits, 2 major, +3373) '''{{dif|491205937|(+3373)}}{{dif|491641443|(+493)}}'''
+* '''N''' [[:Gábor Ivády]]: (2 edits, 2 major, +3373) '''{{dif|472989353|(+3373)}}{{dif|593594707|(+242)}}'''
+
+== Articles 181 through 200 ==
+
+* '''N''' [[:Andor Lázár]]: (1 edits, 1 major, +3367) '''{{dif|382648042|(+3367)}}'''
+* [[:László Kovács (politician)]]: (7 edits, 7 major, +3353) '''{{dif|364927501|(+191)}}{{dif|525182765|(+210)}}{{dif|526857488|(+355)}}{{dif|552705965|(+169)}}{{dif|595789682|(+3353)}}{{dif|595790522|(+532)}}{{dif|595790862|(+485)}}'''
+* '''N''' [[:Farkas Esterházy]]: (2 edits, 2 major, +3353) '''{{dif|514621391|(+3353)}}{{dif|549380940|(+180)}}'''
+* '''N''' [[:Alpár Gyopáros]]: (1 edits, 1 major, +3350) '''{{dif|511708063|(+3350)}}'''
+* '''N''' [[:Julius I Kán]]: (7 edits, 7 major, +3349) '''{{dif|564095778|(+3349)}}{{dif|564215788|(+2015)}}{{dif|564216334|(+203)}}{{dif|564217305|(+277)}}{{dif|564374174|(+160)}}{{dif|564375666|(+772)}}{{dif|564378081|(+1099)}}'''
+* '''N''' [[:István Bethlen (born 1946)]]: (1 edits, 1 major, +3346) '''{{dif|535959822|(+3346)}}'''
+* '''N''' [[:Gábor Andreánszky (botanist)]]: (1 edits, 1 major, +3341) '''{{dif|468669624|(+3341)}}'''
+* '''N''' [[:Benedict, son of Korlát]]: (1 edits, 1 major, +3324) '''{{dif|564436101|(+3324)}}'''
+* '''N''' [[:Civil Movement]]: (1 edits, 1 major, +3323) '''{{dif|451025715|(+3323)}}'''
+* '''N''' [[:Baldwin I Rátót]]: (1 edits, 1 major, +3307) '''{{dif|566859203|(+3307)}}'''
+* '''N''' [[:László Varga (politician, 1979)]]: (2 edits, 2 major, +3303) '''{{dif|595604847|(+3303)}}{{dif|595605991|(+177)}}'''
+* '''N''' [[:Lajos Veress]]: (1 edits, 1 major, +3285) '''{{dif|452274436|(+3285)}}'''
+* '''N''' [[:Lajos Keresztes-Fischer]]: (1 edits, 1 major, +3285) '''{{dif|456003277|(+3285)}}'''
+* '''N''' [[:Gergely Karácsony]]: (2 edits, 2 major, +3281) '''{{dif|469419808|(+3281)}}<span style="background-color: yellow">{{dif|537144802|(+994)}}</span>'''
+* '''N''' [[:Denis Türje]]: (4 edits, 4 major, +3273) '''{{dif|566416612|(+3273)}}{{dif|568495761|(+624)}}{{dif|568499357|(+1878)}}{{dif|568501100|(+893)}}'''
+* '''N''' [[:List of members of the National Assembly of Hungary (2010–14)]]: (26 edits, 26 major, +3259) '''{{dif|486631403|(+2285)}}{{dif|486634627|(+264)}}{{dif|486659529|(+1299)}}{{dif|486678699|(+1656)}}{{dif|486683296|(+1308)}}{{dif|486689135|(+1363)}}{{dif|486792163|(+1817)}}{{dif|486807445|(+3259)}}{{dif|486811135|(+627)}}{{dif|486815627|(+1872)}}{{dif|486830780|(+2009)}}{{dif|487312804|(+2742)}}{{dif|493363241|(+1887)}}{{dif|498413702|(+185)}}{{dif|511295028|(+626)}}{{dif|511296536|(+933)}}{{dif|511298899|(+1413)}}{{dif|516703673|(+157)}}{{dif|538325201|(+160)}}{{dif|538327156|(+362)}}{{dif|542103785|(+264)}}{{dif|549318134|(+180)}}{{dif|565786201|(+327)}}{{dif|571303239|(+184)}}{{dif|593720717|(+171)}}{{dif|593731397|(+155)}}'''
+* '''N''' [[:Imre Sulyok]]: (2 edits, 2 major, +3256) '''{{dif|508851596|(+3256)}}{{dif|547796502|(+158)}}'''
+* '''N''' [[:Ferenc Nádasdy (cultural preservationist)]]: (1 edits, 1 major, +3253) '''{{dif|535740710|(+3253)}}'''
+* '''N''' [[:Kálmán Ghyczy]]: (2 edits, 2 major, +3237) '''{{dif|336776573|(+3237)}}{{dif|475929965|(+460)}}'''
+
+== Articles 201 through 220 ==
+
+* '''N''' [[:Dávid Dorosz]]: (2 edits, 2 major, +3231) '''{{dif|525208641|(+3231)}}<span style="background-color: yellow">{{dif|537320886|(+934)}}</span>'''
+* '''N''' [[:István Csurka]]: (5 edits, 5 major, +3222) '''{{dif|432575927|(+3222)}}{{dif|432576806|(+187)}}<span style="background-color: yellow">{{dif|474993689|(+1202)}}</span>{{dif|474993913|(+183)}}{{dif|474995431|(+470)}}'''
+* [[:Gyula Szapáry]]: (2 edits, 2 major, +3221) '''{{dif|390965430|(+594)}}{{dif|469534874|(+3221)}}'''
+* '''N''' [[:Gaszton Gaál]]: (1 edits, 1 major, +3204) '''{{dif|455528120|(+3204)}}'''
+* '''N''' [[:Károly Szász]]: (1 edits, 1 major, +3202) '''{{dif|477520345|(+3202)}}'''
+* '''N''' [[:Zoltán Rockenbauer]]: (2 edits, 2 major, +3200) '''{{dif|368497661|(+3200)}}{{dif|603806387|(+284)}}'''
+* '''N''' [[:Miklós Baranyai]]: (1 edits, 1 major, +3197) '''{{dif|527855422|(+3197)}}'''
+* '''N''' [[:Zsófia Illésházy]]: (1 edits, 1 major, +3195) '''{{dif|514317896|(+3195)}}'''
+* '''N''' [[:Ferenc Gömbös]]: (1 edits, 1 major, +3194) '''{{dif|525730918|(+3194)}}'''
+* '''N''' [[:Tibor Antalpéter]]: (2 edits, 2 major, +3179) '''{{dif|512910493|(+3179)}}{{dif|512911582|(+189)}}'''
+* '''N''' [[:Records of Prime Ministers of Hungary]]: (8 edits, 8 major, +3162) '''{{dif|448013688|(+3162)}}{{dif|448013979|(+171)}}{{dif|448014844|(+637)}}{{dif|448015156|(+212)}}{{dif|448016333|(+589)}}{{dif|448016753|(+419)}}{{dif|448016935|(+159)}}{{dif|448017655|(+613)}}'''
+* '''N''' [[:Béla Barabás]]: (1 edits, 1 major, +3160) '''{{dif|463589010|(+3160)}}'''
+* '''N''' [[:Apor Péc]]: (2 edits, 2 major, +3159) '''{{dif|578703639|(+3159)}}{{dif|579814073|(+2798)}}'''
+* '''N''' [[:András Gálszécsy]]: (1 edits, 1 major, +3156) '''{{dif|439229558|(+3156)}}'''
+* '''N''' [[:Bálint Lépes]]: (1 edits, 1 major, +3151) '''{{dif|509097455|(+3151)}}'''
+* '''N''' [[:Iván T. Berend]]: (1 edits, 1 major, +3130) '''{{dif|391728878|(+3130)}}'''
+* [[:Hungary–Slovakia relations]]: (1 edits, 1 major, +3130) '''<span style="background-color: yellow">{{dif|446883183|(+3130)}}</span>'''
+* '''N''' [[:Andrew, son of Serafin]]: (1 edits, 1 major, +3126) '''{{dif|568536632|(+3126)}}'''
+* '''N''' [[:János Zatykó]]: (1 edits, 1 major, +3125) '''{{dif|553470134|(+3125)}}'''
+* '''N''' [[:Mihály Mérey]]: (2 edits, 2 major, +3116) '''{{dif|515540148|(+3116)}}{{dif|515540660|(+225)}}'''
+
+== Articles 221 through 240 ==
+
+* '''N''' [[:Judit Rumy]]: (1 edits, 1 major, +3108) '''{{dif|514685669|(+3108)}}'''
+* '''N''' [[:Nicholas II Szécsi]]: (1 edits, 1 major, +3096) '''{{dif|534503725|(+3096)}}'''
+* '''N''' [[:Marcell Zsiga]]: {{y}} blanked and sent to [[WP:CP]] —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 07:24, 25 April 2014 (UTC)
+* '''N''' [[:Mihály Mikes]]: (2 edits, 2 major, +3087) '''{{dif|516487582|(+3087)}}{{dif|516490541|(+1003)}}'''
+* '''N''' [[:László Békesi]]: (2 edits, 2 major, +3085) '''{{dif|340703355|(+3085)}}{{dif|340713782|(+1152)}}'''
+* '''N''' [[:Albert Berzeviczy]]: (3 edits, 3 major, +3074) '''{{dif|350563640|(+3074)}}{{dif|381328055|(+257)}}{{dif|477460973|(+258)}}'''
+* '''N''' [[:Béla Jankovich]]: (1 edits, 1 major, +3068) '''{{dif|350785925|(+3068)}}'''
+* [[:Ivan Gašparovič]]: (1 edits, 1 major, +3067) '''<span style="background-color: yellow">{{dif|505750958|(+3067)}}</span>'''
+* '''N''' [[:List of members of the parliament of Hungary, 1990–1994)]]: (10 edits, 10 major, +3067) '''{{dif|528089897|(+3067)}}{{dif|528092168|(+848)}}{{dif|528139908|(+1437)}}{{dif|528143361|(+999)}}{{dif|528145547|(+866)}}{{dif|528184855|(+877)}}{{dif|528229985|(+635)}}{{dif|528230242|(+155)}}{{dif|529865834|(+239)}}{{dif|530908947|(+2049)}}'''
+* '''N''' [[:Gyula Tost]]: (1 edits, 1 major, +3067) '''{{dif|350575595|(+3067)}}'''
+* '''N''' [[:Lajos Csatay]]: (1 edits, 1 major, +3054) '''{{dif|323080736|(+3054)}}'''
+* '''N''' [[:Smaragd of Kalocsa]]: (1 edits, 1 major, +3050) '''{{dif|564681383|(+3050)}}'''
+* '''N''' [[:Erzsébet Czobor]]: (1 edits, 1 major, +3048) '''{{dif|515231114|(+3048)}}'''
+* '''N''' [[:Győző Istóczy]]: (3 edits, 3 major, +3040) '''{{dif|384476591|(+3040)}}{{dif|477378172|(+510)}}{{dif|477393666|(+1068)}}'''
+* [[:Arad County (former)]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 09:08, 30 April 2014 (UTC)
+* '''N''' [[:Sándor Hadházy]]: (2 edits, 2 major, +3035) '''{{dif|514002964|(+3035)}}{{dif|526852537|(+227)}}'''
+* '''N''' [[:Endre Hadik-Barkóczy]]: (2 edits, 2 major, +3027) '''{{dif|481403418|(+3027)}}{{dif|481408406|(+1103)}}'''
+* '''N''' [[:Zoltán Bíró]]: (1 edits, 1 major, +3024) '''{{dif|433048606|(+3024)}}'''
+* '''N''' [[:György Budaházy]]: (2 edits, 2 major, +3018) '''{{dif|470696705|(+3018)}}{{dif|471225463|(+310)}}'''
+* '''N''' [[:Gábor Esterházy (1673–1704)]]: (2 edits, 2 major, +3012) '''{{dif|549403437|(+3012)}}{{dif|549407719|(+180)}}'''
+
+== Articles 241 through 260 ==
+
+* '''N''' [[:István Sarlós]]: (1 edits, 1 major, +3007) '''{{dif|410551150|(+3007)}}'''
+* '''N''' [[:Sándor Kendi]]: (3 edits, 3 major, +3004) '''{{dif|510583609|(+3004)}}{{dif|510591932|(+1134)}}{{dif|510598843|(+1054)}}'''
+* '''N''' [[:Sándor Fazekas]]: (3 edits, 3 major, +3002) '''{{dif|434755633|(+1761)}}{{dif|526851597|(+156)}}<span style="background-color: yellow">{{dif|561184410|(+3002)}}</span>'''
+* '''N''' [[:Tamás Sáringer-Kenyeres]]: (1 edits, 1 major, +2998) '''{{dif|600798885|(+2998)}}'''
+* '''N''' [[:Simon Kacsics]]: (1 edits, 1 major, +2993) '''{{dif|566840799|(+2993)}}'''
+* [[:Krisztián Ungváry]]: (1 edits, 1 major, +2985) '''{{dif|359598571|(+2985)}}'''
+* '''N''' [[:György Csóti]]: (2 edits, 2 major, +2983) '''{{dif|492555289|(+2983)}}{{dif|526785659|(+156)}}'''
+* '''N''' [[:Emil Dessewffy]]: (1 edits, 1 major, +2982) '''{{dif|391038243|(+2982)}}'''
+* '''N''' [[:Minister of Public Works and Transport (Hungary)]]: (1 edits, 1 major, +2969) '''{{dif|454578129|(+2969)}}'''
+* '''N''' [[:László Hunyady de Kéthely]]: (1 edits, 1 major, +2963) '''{{dif|396609400|(+2963)}}'''
+* '''N''' [[:Nicholas Geregye]]: (2 edits, 2 major, +2962) '''{{dif|581986727|(+2962)}}{{dif|582060921|(+2102)}}'''
+* [[:Democratic Coalition (Hungary)]]: (6 edits, 6 major, +2960) '''<span style="background-color: yellow">{{dif|459455576|(+2960)}}</span>{{dif|459456119|(+787)}}<span style="background-color: yellow">{{dif|459456352|(+460)}}</span><span style="background-color: yellow">{{dif|489192262|(+772)}}</span><span style="background-color: yellow">{{dif|572659503|(+1261)}}</span><span style="background-color: yellow">{{dif|592061452|(+1356)}}</span>'''
+* '''N''' [[:András Simor]]: (3 edits, 3 major, +2958) '''{{dif|469577211|(+2958)}}{{dif|469588302|(+187)}}<span style="background-color: yellow">{{dif|541554004|(+344)}}</span>'''
+* '''N''' [[:András Tasnádi Nagy]]: (2 edits, 2 major, +2958) '''{{dif|382946305|(+2958)}}{{dif|478864267|(+267)}}'''
+* '''N''' [[:Nicholas I of Transylvania]]: (1 edits, 1 major, +2951) '''{{dif|563949643|(+2951)}}'''
+* '''N''' [[:Gábor Kubatov]]: (2 edits, 2 major, +2940) '''{{dif|531291245|(+2940)}}{{dif|531353061|(+465)}}'''
+* '''N''' [[:John Albeni (bishop)]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 20:37, 30 April 2014 (UTC)
+* '''N''' [[:Frigyes Korányi (politician)]]: (1 edits, 1 major, +2934) '''{{dif|338090202|(+2934)}}'''
+* '''N''' [[:Miklós Borz]]: (1 edits, 1 major, +2920) '''{{dif|528009592|(+2920)}}'''
+* '''N''' [[:Pál Hoffman]]: (1 edits, 1 major, +2914) '''{{dif|601680154|(+2914)}}'''
+
+== Articles 261 through 280 ==
+
+* '''N''' [[:Zoltán Lukács]]: (1 edits, 1 major, +2913) '''{{dif|595593349|(+2913)}}'''
+* '''N''' [[:György Szapáry]]: (3 edits, 3 major, +2912) '''{{dif|424664899|(+2912)}}{{dif|469505942|(+661)}}{{dif|512997521|(+422)}}'''
+* '''N''' [[:Gábor Andreánszky (politician)]]: (1 edits, 1 major, +2910) '''{{dif|477399201|(+2910)}}'''
+* '''N''' [[:Tibor Károlyi (politician)]]: (2 edits, 2 major, +2902) '''{{dif|480648257|(+1665)}}{{dif|480756803|(+2902)}}'''
+* '''N''' [[:Bálint Hóman]]: (3 edits, 3 major, +2895) '''{{dif|353795995|(+2528)}}{{dif|353989502|(+643)}}{{dif|355332049|(+2895)}}'''
+* '''N''' [[:Kálmán Kulcsár]]: (1 edits, 1 major, +2894) '''{{dif|386634462|(+2894)}}'''
+* '''N''' [[:Sándor Juhász Nagy]]: (2 edits, 2 major, +2893) '''{{dif|350889747|(+2893)}}{{dif|369814499|(+185)}}'''
+* '''N''' [[:László Szilágyi (politician)]]: (1 edits, 1 major, +2893) '''{{dif|574469379|(+2893)}}'''
+* '''N''' [[:Liüntika]]: (2 edits, 2 major, +2889) '''{{dif|444951962|(+2889)}}{{dif|445170837|(+314)}}'''
+* '''N''' [[:Uprising in West-Hungary]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 20:38, 30 April 2014 (UTC)
+* '''N''' [[:Mihály Kupa]]: (1 edits, 1 major, +2884) '''{{dif|347997078|(+2884)}}'''
+* '''N''' [[:Lajos Reményi-Schneller]]: (1 edits, 1 major, +2883) '''{{dif|338842278|(+2883)}}'''
+* '''N''' [[:Károly Bartha (Minister of Defence)]]: (1 edits, 1 major, +2879) '''{{dif|323001538|(+2879)}}'''
+* '''N''' [[:Imre Horváth]]: (2 edits, 2 major, +2876) '''{{dif|332572070|(+2876)}}{{dif|512992028|(+269)}}'''
+* '''N''' [[:Gábor Tamás Nagy]]: (2 edits, 2 major, +2872) '''{{dif|554376051|(+2387)}}{{dif|554378587|(+2872)}}'''
+* '''N''' [[:Ernye Ákos]]: (15 edits, 15 major, +2863) '''{{dif|579942963|(+2863)}}{{dif|579999325|(+270)}}{{dif|580020697|(+509)}}{{dif|580021213|(+271)}}{{dif|580025879|(+735)}}{{dif|580027071|(+539)}}{{dif|580028874|(+232)}}{{dif|580031376|(+280)}}{{dif|580032611|(+349)}}{{dif|580034155|(+1082)}}{{dif|580040694|(+1367)}}{{dif|580043741|(+869)}}{{dif|580044398|(+225)}}{{dif|580045246|(+350)}}{{dif|580046952|(+864)}}'''
+* '''N''' [[:Zsuzsanna Németh]]: (1 edits, 1 major, +2860) '''{{dif|467792531|(+2860)}}'''
+* '''N''' [[:Ferenc Forgách, Bishop of Várad]]: (3 edits, 3 major, +2837) '''{{dif|508762013|(+2837)}}{{dif|508763902|(+230)}}{{dif|508853278|(+232)}}'''
+* '''N''' [[:József Vass]]: (1 edits, 1 major, +2822) '''{{dif|353054463|(+2822)}}'''
+* '''N''' [[:László Vigh]]: (1 edits, 1 major, +2819) '''{{dif|570514772|(+2819)}}'''
+
+== Articles 281 through 300 ==
+
+* '''N''' [[:István Bebes]]: (2 edits, 2 major, +2812) '''{{dif|487244220|(+2812)}}{{dif|526784157|(+227)}}'''
+* '''N''' [[:János Kriesch]]: (2 edits, 2 major, +2806) '''{{dif|463812137|(+2806)}}{{dif|463812926|(+268)}}'''
+* '''N''' [[:Pál Kontur]]: (1 edits, 1 major, +2796) '''{{dif|529191814|(+2796)}}'''
+* '''N''' [[:Karl-Konstantin von Habsburg]]: (1 edits, 1 major, +2784) '''{{dif|498382139|(+2784)}}'''
+* '''N''' [[:János Mayer]]: (1 edits, 1 major, +2781) '''{{dif|409157237|(+2781)}}'''
+* '''N''' [[:Julius I Rátót]]: (2 edits, 2 major, +2776) '''{{dif|565609670|(+2776)}}{{dif|565621654|(+2189)}}'''
+* '''N''' [[:Ferenc Papcsák]]: (3 edits, 3 major, +2775) '''{{dif|555526096|(+2775)}}<span style="background-color: yellow">{{dif|555529967|(+1690)}}</span>{{dif|555530597|(+235)}}'''
+* '''N''' [[:József Hámori]]: (1 edits, 1 major, +2770) '''{{dif|368490243|(+2770)}}'''
+* '''N''' [[:Farkas Kovacsóczy]]: (4 edits, 4 major, +2769) '''{{dif|508955810|(+2769)}}{{dif|508958719|(+1087)}}{{dif|508961093|(+533)}}{{dif|510584328|(+263)}}'''
+* '''N''' [[:Lajos Tisza]]: (1 edits, 1 major, +2767) '''{{dif|328123242|(+2767)}}'''
+* '''N''' [[:István Antal]]: (3 edits, 3 major, +2761) '''{{dif|359445967|(+2761)}}{{dif|359517725|(+543)}}{{dif|369817724|(+187)}}'''
+* '''N''' [[:Andor Nagy]]: (2 edits, 2 major, +2759) '''{{dif|570286173|(+2755)}}{{dif|570288540|(+2759)}}'''
+* '''N''' [[:Osl (genus)]]: (3 edits, 3 major, +2750) '''{{dif|515840500|(+2750)}}{{dif|515841619|(+408)}}{{dif|515842333|(+406)}}'''
+* '''N''' [[:Zsigmond Perényi (1783–1849)]]: (1 edits, 1 major, +2750) '''{{dif|479967694|(+2750)}}'''
+* [[:Pál Schmitt]]: (5 edits, 5 major, +2748) '''{{dif|362166675|(+316)}}{{dif|362170392|(+688)}}{{dif|410352642|(+2748)}}{{dif|483516468|(+235)}}<span style="background-color: yellow">{{dif|555523600|(+615)}}</span>'''
+* '''N''' [[:John Székely de Szentgyörgy]]: (1 edits, 1 major, +2743) '''{{dif|550644862|(+2743)}}'''
+* '''N''' [[:Dominic I Rátót]]: (1 edits, 1 major, +2742) '''{{dif|567392991|(+2742)}}'''
+* '''N''' [[:János Bethlen]]: (2 edits, 2 major, +2738) '''{{dif|516624307|(+2389)}}{{dif|516634996|(+2738)}}'''
+* '''N''' [[:Mónika Lamperth]]: (2 edits, 2 major, +2730) '''{{dif|313228655|(+2730)}}{{dif|526857635|(+355)}}'''
+* '''N''' [[:István Horváth (politician, 1970)]]: (1 edits, 1 major, +2725) '''{{dif|518405764|(+2725)}}'''
+
+== Articles 301 through 320 ==
+
+* '''N''' [[:Jenő Lasztovicza]]: (1 edits, 1 major, +2724) '''{{dif|531532978|(+2724)}}'''
+* '''N''' [[:Tamás Katona]]: (2 edits, 2 major, +2722) '''{{dif|562768955|(+2722)}}{{dif|562769246|(+391)}}'''
+* '''N''' [[:Minister of Civilian Intelligence Services (Hungary)]]: (1 edits, 1 major, +2710) '''{{dif|438898631|(+2710)}}'''
+* '''N''' [[:Tamás Esterházy (1570–1616)]]: (1 edits, 1 major, +2701) '''{{dif|549915886|(+2701)}}'''
+* '''N''' [[:László Mandur]]: (4 edits, 4 major, +2683) '''{{dif|454551509|(+1382)}}{{dif|457541878|(+2683)}}{{dif|526857833|(+213)}}{{dif|582233418|(+166)}}'''
+* '''N''' [[:Rebeka Szabó]]: (2 edits, 2 major, +2682) '''{{dif|593799039|(+2682)}}{{dif|593799698|(+417)}}'''
+* '''N''' [[:Orsolya Dersffy]]: (1 edits, 1 major, +2675) '''{{dif|514633740|(+2675)}}'''
+* '''N''' [[:Sebestyén, Archbishop of Esztergom]]: (1 edits, 1 major, +2669) '''{{dif|495307215|(+2669)}}'''
+* [[:List of Speakers of the National Assembly of Hungary]]: (1 edits, 1 major, +2666) '''{{dif|600818278|(+2666)}}'''
+* [[:Banate of Macsó]]: (21 edits, 21 major, +2660) '''{{dif|565179244|(+2154)}}{{dif|565179425|(+234)}}{{dif|565181104|(+328)}}{{dif|565182543|(+278)}}{{dif|565187778|(+286)}}{{dif|565194339|(+629)}}{{dif|565197827|(+391)}}{{dif|565200167|(+175)}}{{dif|565201370|(+365)}}{{dif|565203284|(+742)}}{{dif|565203848|(+281)}}{{dif|565250231|(+395)}}{{dif|565250646|(+637)}}{{dif|565251981|(+1500)}}{{dif|565253278|(+1907)}}{{dif|565318335|(+1720)}}{{dif|565320107|(+2660)}}{{dif|565322050|(+1212)}}{{dif|565323334|(+383)}}{{dif|565327281|(+1548)}}{{dif|565339660|(+560)}}'''
+* '''N''' [[:István Kendi]]: (2 edits, 2 major, +2644) '''{{dif|510562356|(+1835)}}{{dif|510568184|(+2644)}}'''
+* '''N''' [[:Elemér Gorondy-Novák]]: (1 edits, 1 major, +2641) '''{{dif|452345576|(+2641)}}'''
+* [[:Kálmán Darányi]]: (6 edits, 6 major, +2628) '''{{dif|356488416|(+2104)}}{{dif|356602952|(+559)}}{{dif|357597753|(+770)}}{{dif|359155417|(+517)}}{{dif|359337897|(+2628)}}{{dif|478863874|(+268)}}'''
+* '''N''' [[:Ilona Edelsheim-Gyulai]]: (1 edits, 1 major, +2628) '''{{dif|495855161|(+2628)}}'''
+* '''N''' [[:Attila Mesterházy]]: (7 edits, 7 major, +2627) '''{{dif|328680541|(+709)}}<span style="background-color: yellow">{{dif|432508629|(+2627)}}</span>{{dif|432509071|(+192)}}{{dif|525181798|(+175)}}{{dif|526857922|(+156)}}{{dif|552706578|(+167)}}<span style="background-color: yellow">{{dif|589924217|(+757)}}</span>'''
+* '''N''' [[:Miklós Réthelyi]]: (1 edits, 1 major, +2626) '''{{dif|427598720|(+2626)}}'''
+* '''N''' [[:Tamás Bauer]]: (3 edits, 3 major, +2622) '''{{dif|470630100|(+2622)}}{{dif|470641128|(+2612)}}{{dif|470641239|(+387)}}'''
+* '''N''' [[:Máté Kocsis]]: (4 edits, 4 major, +2619) '''{{dif|525892985|(+1774)}}<span style="background-color: yellow">{{dif|525936935|(+2619)}}</span><span style="background-color: yellow">{{dif|525939207|(+1498)}}</span>{{dif|530611654|(+178)}}'''
+* '''N''' [[:Antal Bélafi]]: (1 edits, 1 major, +2618) '''{{dif|528082882|(+2618)}}'''
+* '''N''' [[:Bokros package]]: {{y}} unattributed translation of [[:de:Bokros-Paket]]; added {{tl|translated page}} template —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 10:29, 26 April 2014 (UTC)
+
+== Articles 321 through 340 ==
+
+* '''N''' [[:Derencsényi family]]: (2 edits, 2 major, +2616) '''{{dif|515456371|(+2616)}}{{dif|539901381|(+236)}}'''
+* '''N''' [[:Miklós Kozma]]: (1 edits, 1 major, +2616) '''{{dif|320219474|(+2616)}}'''
+* [[:Hungarian Workers' Party]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 10:37, 26 April 2014 (UTC)
+* [[:List of Hungarian monarchs]]: {{y}} unattributed translation from Hungarian Wikipedia; {{tl|translated page}} template added —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 17:18, 18 May 2014 (UTC)
+* [[:Álmos, Duke of Croatia]]: (14 edits, 14 major, +2612) '''{{dif|589674605|(+613)}}{{dif|589674877|(+551)}}{{dif|589675877|(+822)}}{{dif|589676549|(+797)}}{{dif|589678893|(+895)}}{{dif|589679438|(+715)}}{{dif|589679682|(+1085)}}{{dif|589681716|(+1097)}}{{dif|589682862|(+994)}}{{dif|589684701|(+947)}}{{dif|589685410|(+1429)}}{{dif|589685889|(+164)}}{{dif|589692351|(+204)}}{{dif|590067569|(+2612)}}'''
+* '''N''' [[:László Tasó]]: (2 edits, 2 major, +2606) '''{{dif|596688146|(+1699)}}{{dif|596689212|(+2606)}}'''
+* '''N''' [[:Manó Andrássy]]: (1 edits, 1 major, +2604) '''{{dif|468650738|(+2604)}}'''
+* '''N''' [[:Erzsébet Thurzó]]: (1 edits, 1 major, +2586) '''{{dif|549848336|(+2586)}}'''
+* '''N''' [[:Paul III Anton, Prince Esterházy]]: (3 edits, 3 major, +2585) '''{{dif|327486930|(+2585)}}{{dif|332554398|(+183)}}{{dif|514086675|(+446)}}'''
+* '''N''' [[:József Torgyán]]: (4 edits, 4 major, +2580) '''{{dif|432506840|(+2580)}}{{dif|432507778|(+1230)}}{{dif|552705131|(+153)}}{{dif|602353218|(+212)}}'''
+* '''N''' [[:Pál Sennyey]]: (2 edits, 2 major, +2579) '''{{dif|479976364|(+2579)}}{{dif|549346505|(+192)}}'''
+* '''N''' [[:Éva Viczay]]: (1 edits, 1 major, +2574) '''{{dif|515067538|(+2574)}}'''
+* '''N''' [[:Sándor Bodó]]: (1 edits, 1 major, +2569) '''{{dif|487338043|(+2569)}}'''
+* '''N''' [[:János Jacobinus]]: (2 edits, 2 major, +2569) '''{{dif|509278421|(+2569)}}{{dif|509285927|(+1280)}}'''
+* '''N''' [[:Miksa Hadik]]: (1 edits, 1 major, +2567) '''{{dif|481569049|(+2567)}}'''
+* '''N''' [[:Endre Spaller]]: (2 edits, 2 major, +2566) '''{{dif|593734617|(+2566)}}{{dif|593735226|(+277)}}'''
+* '''N''' [[:Tamás Péchy]]: (5 edits, 5 major, +2566) '''{{dif|476278915|(+2566)}}{{dif|476300652|(+940)}}{{dif|476302434|(+555)}}{{dif|476323257|(+1320)}}{{dif|476337576|(+180)}}'''
+* '''N''' [[:Tibor Kállay]]: (1 edits, 1 major, +2564) '''{{dif|338466027|(+2564)}}'''
+* '''N''' [[:Lawrence of Transylvania]]: (2 edits, 2 major, +2557) '''{{dif|568918660|(+2417)}}{{dif|568925541|(+2557)}}'''
+* '''N''' [[:Péter Ágh]]: (2 edits, 2 major, +2553) '''{{dif|473183457|(+2553)}}{{dif|544786233|(+192)}}'''
+
+== Articles 341 through 360 ==
+
+* '''N''' [[:Battle of Isaszeg (1849)]]: (1 edits, 1 major, +2550) '''{{dif|509240209|(+2550)}}'''
+* '''N''' [[:Klaudia Szemerey-Pataki]]: (1 edits, 1 major, +2550) '''{{dif|555517822|(+2550)}}'''
+* '''N''' [[:Dénes Pázmándy (1816–1856)]]: (3 edits, 3 major, +2549) '''{{dif|475745585|(+2549)}}{{dif|475746908|(+319)}}{{dif|475770389|(+635)}}'''
+* '''N''' [[:Nicholas II of Transylvania]]: (1 edits, 1 major, +2538) '''{{dif|563981317|(+2538)}}'''
+* '''N''' [[:János Gyöngyösi]]: (1 edits, 1 major, +2533) '''{{dif|331705136|(+2533)}}'''
+* [[:King of Hungary]]: (2 edits, 2 major, +2528) '''{{dif|591116808|(+2528)}}{{dif|591142299|(+1985)}}'''
+* '''N''' [[:Peter III Csák]]: (2 edits, 2 major, +2527) '''{{dif|585361718|(+2527)}}{{dif|585362981|(+507)}}'''
+* '''N''' [[:Iván Szabó]]: (2 edits, 2 major, +2515) '''{{dif|348002124|(+2515)}}{{dif|525185201|(+349)}}'''
+* '''N''' [[:János Zichy]]: (1 edits, 1 major, +2512) '''{{dif|350680949|(+2512)}}'''
+* '''N''' [[:Gergely Gulyás]]: (1 edits, 1 major, +2503) '''{{dif|472361360|(+2503)}}'''
+* '''N''' [[:Attila Kiss]]: (2 edits, 2 major, +2498) '''{{dif|525704735|(+2498)}}{{dif|526854429|(+156)}}'''
+* '''N''' [[:Ladislaus II Kán]]: (4 edits, 4 major, +2494) '''{{dif|581547128|(+2494)}}{{dif|581548858|(+554)}}{{dif|581940700|(+2105)}}{{dif|581941096|(+333)}}'''
+* '''N''' [[:Antal Rogán]]: (1 edits, 1 major, +2493) '''{{dif|591342419|(+2493)}}'''
+* '''N''' [[:Tibor Zsitvay]]: (3 edits, 3 major, +2488) '''{{dif|382556180|(+2488)}}{{dif|475618754|(+504)}}{{dif|477522577|(+226)}}'''
+* '''N''' [[:Benedek Eszterhas]]: (1 edits, 1 major, +2481) '''{{dif|514342268|(+2481)}}'''
+* '''N''' [[:Csák II Hahót]]: (1 edits, 1 major, +2481) '''{{dif|580506316|(+2481)}}'''
+* '''N''' [[:Gábor Esterházy (1580–1626)]]: (1 edits, 1 major, +2481) '''{{dif|514515856|(+2481)}}'''
+* '''N''' [[:István Balsai]]: (4 edits, 4 major, +2478) '''{{dif|386734967|(+2478)}}{{dif|454074125|(+562)}}{{dif|525185646|(+192)}}{{dif|526783852|(+483)}}'''
+* '''N''' [[:Ferenc Schmidt]]: (2 edits, 2 major, +2471) '''{{dif|468584699|(+2471)}}{{dif|526860488|(+156)}}'''
+* '''N''' [[:István Ujhelyi]]: (5 edits, 5 major, +2469) '''{{dif|365916470|(+1223)}}{{dif|526858121|(+178)}}{{dif|576922441|(+2469)}}{{dif|576922946|(+159)}}{{dif|576923418|(+513)}}'''
+
+== Articles 361 through 380 ==
+
+* '''N''' [[:Bálint Alsáni]]: (3 edits, 3 major, +2465) '''{{dif|533433091|(+2465)}}{{dif|533882981|(+153)}}{{dif|533906780|(+2395)}}'''
+* '''N''' [[:Ferenc Harrer]]: (1 edits, 1 major, +2464) '''{{dif|328482608|(+2464)}}'''
+* '''N''' [[:Zlaudus Kaplon]]: (2 edits, 2 major, +2460) '''{{dif|535777169|(+2460)}}{{dif|535778217|(+371)}}'''
+* '''N''' [[:Gábor Görgey]]: (1 edits, 1 major, +2459) '''{{dif|368691323|(+2459)}}'''
+* '''N''' [[:Péter Hoppál]]: (1 edits, 1 major, +2458) '''{{dif|517574719|(+2458)}}'''
+* '''N''' [[:Gábor Vágó]]: (2 edits, 2 major, +2457) '''{{dif|574468094|(+2457)}}<span style="background-color: yellow">{{dif|589783284|(+874)}}</span>'''
+* '''N''' [[:László Lukács (politician, 1963)]]: (1 edits, 1 major, +2438) '''{{dif|531713861|(+2438)}}'''
+* '''N''' [[:Zsigmond Forgách]]: (6 edits, 6 major, +2433) '''{{dif|508372728|(+2433)}}{{dif|508597881|(+1253)}}{{dif|508599999|(+1462)}}{{dif|508601555|(+885)}}{{dif|511199260|(+193)}}{{dif|540801312|(+264)}}'''
+* '''N''' [[:Imre Mikó]]: (3 edits, 3 major, +2428) '''{{dif|500976764|(+1899)}}{{dif|501017243|(+656)}}{{dif|501022196|(+2428)}}'''
+* '''N''' [[:Bence Stágel]]: (1 edits, 1 major, +2428) '''{{dif|593878088|(+2428)}}'''
+* '''N''' [[:János Horváth]]: (5 edits, 5 major, +2425) '''{{dif|519955527|(+2425)}}{{dif|520100608|(+771)}}{{dif|520103748|(+1826)}}{{dif|521222026|(+1959)}}{{dif|526853163|(+298)}}'''
+* '''N''' [[:Márton Lovászy]]: (2 edits, 2 major, +2418) '''{{dif|329641274|(+2418)}}{{dif|349705417|(+207)}}'''
+* '''N''' [[:Kázmér Batthyány]]: (2 edits, 2 major, +2413) '''{{dif|327497619|(+2413)}}{{dif|388468830|(+243)}}'''
+* '''N''' [[:Ervin Cseh]]: (1 edits, 1 major, +2413) '''{{dif|333546236|(+2413)}}'''
+* '''N''' [[:István Mikola]]: (1 edits, 1 major, +2413) '''{{dif|553414606|(+2413)}}'''
+* '''N''' [[:Matthew I Csák]]: (9 edits, 9 major, +2409) '''{{dif|584225663|(+2409)}}{{dif|584388788|(+1592)}}{{dif|584389212|(+194)}}{{dif|584406102|(+1467)}}{{dif|584408964|(+238)}}{{dif|584525519|(+622)}}{{dif|584527015|(+565)}}{{dif|584528533|(+412)}}{{dif|584529508|(+480)}}'''
+* '''N''' [[:Raphael of Transylvania]]: (1 edits, 1 major, +2407) '''{{dif|564788293|(+2407)}}'''
+* '''N''' [[:General Staff of the Armed Forces of the Republic of Hungary]]: (17 edits, 17 major, +2401) '''{{dif|454474991|(+2401)}}{{dif|455852820|(+407)}}{{dif|456008258|(+190)}}{{dif|456043192|(+475)}}{{dif|456043619|(+178)}}{{dif|456044295|(+416)}}{{dif|456044786|(+171)}}{{dif|456045562|(+213)}}{{dif|456047511|(+198)}}{{dif|456048500|(+677)}}{{dif|456049508|(+389)}}{{dif|456050482|(+264)}}{{dif|456054577|(+208)}}{{dif|456055115|(+370)}}{{dif|456059045|(+366)}}{{dif|456231526|(+228)}}{{dif|456232037|(+272)}}'''
+* '''N''' [[:Mihály Káthay]]: (3 edits, 3 major, +2397) '''{{dif|509969519|(+2397)}}{{dif|509974216|(+1014)}}{{dif|510101453|(+1243)}}'''
+* '''N''' [[:László Vincze (politician)]]: (1 edits, 1 major, +2397) '''{{dif|598903345|(+2397)}}'''
+
+== Articles 381 through 400 ==
+
+* '''N''' [[:Péter Mihalovics]]: (1 edits, 1 major, +2396) '''{{dif|553345252|(+2396)}}'''
+* '''N''' [[:Simon of Transylvania]]: (1 edits, 1 major, +2395) '''{{dif|564105656|(+2395)}}'''
+* '''N''' [[:Bagossy family]]: (1 edits, 1 major, +2390) '''{{dif|535858553|(+2390)}}'''
+* '''N''' [[:Leustachius Rátót]]: (1 edits, 1 major, +2386) '''{{dif|538950805|(+2386)}}'''
+* '''N''' [[:Gyula Budai]]: (1 edits, 1 major, +2380) '''{{dif|488421531|(+2380)}}'''
+* '''N''' [[:Ferenc Erdei]]: (3 edits, 3 major, +2378) '''{{dif|320383233|(+2378)}}{{dif|369818482|(+218)}}{{dif|391240176|(+371)}}'''
+* '''N''' [[:Katinka Andrássy]]: (1 edits, 1 major, +2373) '''{{dif|479965494|(+2373)}}'''
+* '''N''' [[:Róbert Répássy]]: (2 edits, 2 major, +2372) '''{{dif|593054516|(+2372)}}{{dif|593054712|(+167)}}'''
+* '''N''' [[:Koloman Bedeković]]: (2 edits, 2 major, +2371) '''{{dif|333065967|(+2371)}}{{dif|333066695|(+202)}}'''
+* '''N''' [[:Péter Ágoston]]: (1 edits, 1 major, +2370) '''{{dif|328490510|(+2370)}}'''
+* '''N''' [[:Barna Buza]]: (2 edits, 2 major, +2367) '''{{dif|381400895|(+2367)}}{{dif|390966628|(+164)}}'''
+* '''N''' [[:Gábor Kemény (politician, 1910–1946)]]: (1 edits, 1 major, +2361) '''{{dif|331663649|(+2361)}}'''
+* '''N''' [[:Gábor Klauzál]]: (1 edits, 1 major, +2357) '''{{dif|388468376|(+2357)}}'''
+* '''N''' [[:Csák I Hahót]]: (8 edits, 8 major, +2354) '''{{dif|580187824|(+2354)}}{{dif|580190356|(+522)}}{{dif|580191142|(+259)}}{{dif|580192768|(+487)}}{{dif|580194403|(+696)}}{{dif|580196411|(+584)}}{{dif|580197199|(+509)}}{{dif|580198203|(+271)}}'''
+* '''N''' [[:István Csáky]]: (2 edits, 2 major, +2354) '''{{dif|331267774|(+2354)}}{{dif|453230727|(+602)}}'''
+* '''N''' [[:Frigyes Puja]]: (1 edits, 1 major, +2347) '''{{dif|332859954|(+2347)}}'''
+* '''N''' [[:József Pálinkás]]: (2 edits, 2 major, +2346) '''{{dif|367864169|(+2346)}}{{dif|382176478|(+209)}}'''
+* '''N''' [[:Albert Kónya]]: (2 edits, 2 major, +2344) '''{{dif|366450571|(+2344)}}{{dif|366451768|(+366)}}'''
+* '''N''' [[:Richárd Hörcsik]]: (3 edits, 3 major, +2343) '''{{dif|523708623|(+2343)}}{{dif|524257730|(+1541)}}{{dif|526853826|(+298)}}'''
+* '''N''' [[:Vince Nagy]]: (1 edits, 1 major, +2340) '''{{dif|317881747|(+2340)}}'''
+
+== Articles 401 through 420 ==
+
+* '''N''' [[:István Esterházy (1616–1641)]]: (1 edits, 1 major, +2340) '''{{dif|514206861|(+2340)}}'''
+* '''N''' [[:Battle of the Fischa]]: (1 edits, 1 major, +2340) '''{{dif|559949498|(+2340)}}'''
+* '''N''' [[:Károly Unkelhäusser]]: (1 edits, 1 major, +2339) '''{{dif|333991224|(+2339)}}'''
+* '''N''' [[:Zoltán Tessely]]: (1 edits, 1 major, +2338) '''{{dif|570526328|(+2338)}}'''
+* '''N''' [[:Sándor Sztranyavszky]]: (2 edits, 2 major, +2335) '''{{dif|411584757|(+2335)}}{{dif|478339879|(+292)}}'''
+* '''N''' [[:National Constitution Party]]: (5 edits, 5 major, +2334) '''{{dif|599874378|(+1939)}}{{dif|599879661|(+1854)}}{{dif|599880614|(+446)}}{{dif|599883442|(+2334)}}{{dif|599884077|(+267)}}'''
+* '''N''' [[:Nicholas Neszmélyi]]: (2 edits, 2 major, +2332) '''{{dif|533706205|(+2332)}}{{dif|533858377|(+2187)}}'''
+* '''N''' [[:István Stumpf]]: (1 edits, 1 major, +2329) '''{{dif|454607700|(+2329)}}'''
+* '''N''' [[:Domonkos I, Archbishop of Esztergom]]: (1 edits, 1 major, +2328) '''{{dif|495174183|(+2328)}}'''
+* '''N''' [[:Tamás Esterházy (1625–1652)]]: (1 edits, 1 major, +2327) '''{{dif|549918730|(+2327)}}'''
+* '''N''' [[:János Vörös]]: (2 edits, 2 major, +2326) '''{{dif|324357565|(+2326)}}{{dif|456346459|(+487)}}'''
+* '''N''' [[:Gyula Moór]]: (1 edits, 1 major, +2326) '''{{dif|601690793|(+2326)}}'''
+* '''N''' [[:Julius II Kán]]: (1 edits, 1 major, +2325) '''{{dif|564099896|(+2325)}}'''
+* '''N''' [[:József Darvas]]: (2 edits, 2 major, +2324) '''{{dif|361978403|(+2324)}}{{dif|361979096|(+371)}}'''
+* '''N''' [[:Tamás Vargha]]: (1 edits, 1 major, +2322) '''{{dif|554799284|(+2322)}}'''
+* '''N''' [[:János Petki]]: (5 edits, 5 major, +2322) '''{{dif|510258538|(+2322)}}{{dif|510259759|(+585)}}{{dif|510262567|(+1015)}}{{dif|510492346|(+1401)}}{{dif|510507179|(+2038)}}'''
+* '''N''' [[:Aurél Dessewffy (1846–1928)]]: (1 edits, 1 major, +2320) '''{{dif|481013001|(+2320)}}'''
+* '''N''' [[:Béla Serényi]]: (1 edits, 1 major, +2317) '''{{dif|393876412|(+2317)}}'''
+* '''N''' [[:Mihály Imreffy]]: (1 edits, 1 major, +2315) '''{{dif|515882245|(+2315)}}'''
+* '''N''' [[:István György]]: (1 edits, 1 major, +2315) '''{{dif|513891530|(+2315)}}'''
+
+== Articles 421 through 440 ==
+
+* '''N''' [[:Emerik Josipović]]: (1 edits, 1 major, +2313) '''{{dif|333520462|(+2313)}}'''
+* '''N''' [[:László Örvendi]]: (1 edits, 1 major, +2305) '''{{dif|554610048|(+2305)}}'''
+* '''N''' [[:István Ries]]: (1 edits, 1 major, +2303) '''{{dif|384369098|(+2303)}}'''
+* '''N''' [[:Krisztina Dobos]]: (1 edits, 1 major, +2300) '''{{dif|586718588|(+2300)}}'''
+* '''N''' [[:Tivadar Pauler]]: (2 edits, 2 major, +2298) '''{{dif|349906953|(+2298)}}{{dif|369446114|(+345)}}'''
+* '''N''' [[:Judit Csabai (politician)]]: (4 edits, 4 major, +2296) '''{{dif|524717578|(+2296)}}{{dif|524718222|(+215)}}{{dif|524718902|(+203)}}{{dif|526786910|(+156)}}'''
+* '''N''' [[:Annamária Szalai]]: (3 edits, 3 major, +2291) '''{{dif|550076012|(+2291)}}<span style="background-color: yellow">{{dif|550076292|(+158)}}</span><span style="background-color: yellow">{{dif|550143721|(+280)}}</span>'''
+* '''N''' [[:Hungarian presidential election, 2005]]: {{y}} blanked —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 17:24, 18 May 2014 (UTC)
+* '''N''' [[:László Hajdu]]: (1 edits, 1 major, +2287) '''{{dif|531629223|(+2287)}}'''
+* '''N''' [[:Gejza Josipović]]: (1 edits, 1 major, +2286) '''{{dif|333672745|(+2286)}}'''
+* '''N''' [[:Etelka Szapáry]]: (1 edits, 1 major, +2284) '''{{dif|468974977|(+2284)}}'''
+* '''N''' [[:Ferenc Hirt]]: (1 edits, 1 major, +2280) '''{{dif|517570223|(+2280)}}'''
+* '''N''' [[:Mihály Varga]]: (7 edits, 7 major, +2280) '''{{dif|348177020|(+1599)}}{{dif|461280225|(+2280)}}{{dif|495655610|(+269)}}{{dif|526856295|(+369)}}<span style="background-color: yellow">{{dif|542129612|(+527)}}</span>{{dif|542131278|(+244)}}{{dif|574902027|(+203)}}'''
+* '''N''' [[:Tibor Benkő (military officer)]]: (2 edits, 2 major, +2279) '''{{dif|533039299|(+2279)}}{{dif|533047853|(+234)}}'''
+* '''N''' [[:Zsolt Németh (politician, 1963)]]: (1 edits, 1 major, +2278) '''{{dif|593133530|(+2278)}}'''
+* '''N''' [[:Imre Thurzó]]: (3 edits, 3 major, +2272) '''{{dif|515222041|(+2159)}}{{dif|515224663|(+587)}}{{dif|515226801|(+2272)}}'''
+* '''N''' [[:Zoltán Illés]]: (3 edits, 3 major, +2271) '''{{dif|524260400|(+2271)}}{{dif|526853892|(+156)}}<span style="background-color: yellow">{{dif|574451041|(+1129)}}</span>'''
+* '''N''' [[:Virág Kaufer]]: (1 edits, 1 major, +2269) '''{{dif|531944478|(+2269)}}'''
+* '''N''' [[:Győző Vinnai]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 14:19, 25 April 2014 (UTC)
+* '''N''' [[:Zsigmond Kunfi]]: (2 edits, 2 major, +2260) '''{{dif|334095555|(+2260)}}{{dif|349705729|(+201)}}'''
+
+== Articles 441 through 460 ==
+
+* '''N''' [[:Gyula Lengyel]]: (1 edits, 1 major, +2257) '''{{dif|337901670|(+2257)}}'''
+* '''N''' [[:Gergely Gaal]]: (1 edits, 1 major, +2257) '''{{dif|595060748|(+2257)}}'''
+* [[:Dénes Szécsi]]: (8 edits, 8 major, +2255) '''{{dif|533388486|(+209)}}{{dif|533389204|(+151)}}{{dif|533398585|(+2255)}}{{dif|533398871|(+329)}}{{dif|533400011|(+170)}}{{dif|533400455|(+205)}}{{dif|533400775|(+246)}}{{dif|533402617|(+1555)}}'''
+* '''N''' [[:Gábor Kemény (politician, 1830–1888)]]: (1 edits, 1 major, +2255) '''{{dif|391725971|(+2255)}}'''
+* '''N''' [[:John of Transylvania]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 10:39, 26 April 2014 (UTC)
+* [[:National Peasant Party (Hungary)]]: (3 edits, 3 major, +2252) '''{{dif|603452355|(+983)}}{{dif|603456288|(+1266)}}{{dif|603458646|(+2252)}}'''
+* '''N''' [[:Margit Teleki]]: (1 edits, 1 major, +2242) '''{{dif|511925638|(+2242)}}'''
+* '''N''' [[:István Jakab]]: (1 edits, 1 major, +2239) '''{{dif|433398056|(+2239)}}'''
+* '''N''' [[:László Almásy (politician)]]: (5 edits, 5 major, +2238) '''{{dif|478338170|(+2238)}}{{dif|478508195|(+704)}}{{dif|478802350|(+383)}}{{dif|478819489|(+184)}}{{dif|478858006|(+566)}}'''
+* '''N''' [[:János Ghyczy]]: (5 edits, 5 major, +2230) '''{{dif|510599608|(+2080)}}{{dif|510601395|(+2230)}}{{dif|510735845|(+218)}}{{dif|510738137|(+1066)}}{{dif|511286991|(+660)}}'''
+* '''N''' [[:Magdolna Lakatos-Sira]]: (1 edits, 1 major, +2229) '''{{dif|531436080|(+2229)}}'''
+* '''N''' [[:Sándor Korányi]]: (1 edits, 1 major, +2228) '''{{dif|467165677|(+2228)}}'''
+* '''N''' [[:Petar Pejačević]]: (1 edits, 1 major, +2228) '''{{dif|333228876|(+2228)}}'''
+* '''N''' [[:Unity Party (Hungary, 2009)]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 10:41, 26 April 2014 (UTC)
+* '''N''' [[:László Budinszky]]: (1 edits, 1 major, +2225) '''{{dif|382971664|(+2225)}}'''
+* '''N''' [[:Ádám Forgách]]: (1 edits, 1 major, +2220) '''{{dif|514894712|(+2220)}}'''
+* '''N''' [[:Zsolt Wintermantel]]: (1 edits, 1 major, +2219) '''{{dif|602254050|(+2219)}}'''
+* '''N''' [[:István Kovacsóczy]]: (2 edits, 2 major, +2219) '''{{dif|516242568|(+2219)}}{{dif|516244223|(+1057)}}'''
+* '''N''' [[:Béla Zsedényi]]: (1 edits, 1 major, +2217) '''{{dif|475612209|(+2217)}}'''
+* '''N''' [[:András Tállai]]: (1 edits, 1 major, +2212) '''{{dif|596478439|(+2212)}}'''
+
+== Articles 461 through 480 ==
+
+* '''N''' [[:Gábor Scheiring]]: (2 edits, 2 major, +2210) '''{{dif|532263343|(+2210)}}<span style="background-color: yellow">{{dif|537144997|(+992)}}</span>'''
+* [[:Tamás Deutsch (politician)]]: (6 edits, 6 major, +2210) '''{{dif|457650806|(+2210)}}{{dif|457652171|(+609)}}{{dif|458671875|(+596)}}{{dif|462404182|(+474)}}{{dif|502691973|(+288)}}{{dif|528183120|(+355)}}'''
+* '''N''' [[:Miklós Perczel]]: (1 edits, 1 major, +2207) '''{{dif|371862138|(+2207)}}'''
+* '''N''' [[:József Tóth (geographer)]]: (1 edits, 1 major, +2206) '''{{dif|537565289|(+2206)}}'''
+* '''N''' [[:Katinka Kendeffy]]: (1 edits, 1 major, +2204) '''{{dif|473525891|(+2204)}}'''
+* '''N''' [[:Tamás Meggyes]]: (1 edits, 1 major, +2200) '''{{dif|552436419|(+2200)}}'''
+* '''N''' [[:Ferenc Ivanics]]: (2 edits, 2 major, +2197) '''{{dif|524363611|(+2197)}}{{dif|526853999|(+227)}}'''
+* '''N''' [[:József Faddi]]: (1 edits, 1 major, +2196) '''{{dif|528004438|(+2196)}}'''
+* '''N''' [[:Béla Vörösmarty]]: (1 edits, 1 major, +2193) '''{{dif|545893554|(+2193)}}'''
+* '''N''' [[:Attila Molnár]]: (1 edits, 1 major, +2190) '''{{dif|553468548|(+2190)}}'''
+* '''N''' [[:Attila Ughy]]: (1 edits, 1 major, +2189) '''{{dif|597870895|(+2189)}}'''
+* '''N''' [[:Sándor Wekerle Jr.]]: (1 edits, 1 major, +2189) '''{{dif|338549671|(+2189)}}'''
+* '''N''' [[:András Bethlen]]: (1 edits, 1 major, +2184) '''{{dif|392021229|(+2184)}}'''
+* '''N''' [[:Imre Antal Kocsis]]: (1 edits, 1 major, +2182) '''{{dif|518407929|(+2182)}}'''
+* '''N''' [[:Baldwin II Rátót]]: (1 edits, 1 major, +2181) '''{{dif|567101869|(+2181)}}'''
+* '''N''' [[:Ferenc Keresztes-Fischer]]: (2 edits, 2 major, +2175) '''{{dif|320195985|(+2175)}}{{dif|455875377|(+249)}}'''
+* '''N''' [[:Frank Szécsi]]: (1 edits, 1 major, +2175) '''{{dif|534507681|(+2175)}}'''
+* '''N''' [[:David of Hungary]]: (1 edits, 1 major, +2175) '''{{dif|559719601|(+2175)}}'''
+* '''N''' [[:Zsolt Horváth (politician, 1969)]]: (1 edits, 1 major, +2174) '''{{dif|523666649|(+2174)}}'''
+* '''N''' [[:Károly Peyer]]: (2 edits, 2 major, +2174) '''{{dif|318219634|(+2174)}}{{dif|493178547|(+154)}}'''
+
+== Articles 481 through 500 ==
+
+* '''N''' [[:György Lukács (politician)]]: (1 edits, 1 major, +2168) '''{{dif|350571231|(+2168)}}'''
+* '''N''' [[:Péter Szilágyi (politician, 1981)]]: (2 edits, 2 major, +2167) '''{{dif|532447994|(+2167)}}<span style="background-color: yellow">{{dif|537321048|(+989)}}</span>'''
+* '''N''' [[:Gyula Ortutay]]: (2 edits, 2 major, +2165) '''{{dif|360981045|(+2165)}}{{dif|361981068|(+628)}}'''
+* '''N''' [[:Dániel Bánffy]]: (2 edits, 2 major, +2161) '''{{dif|411789020|(+2161)}}{{dif|477402799|(+214)}}'''
+* '''N''' [[:List of Ambassadors of Hungary to the United Kingdom]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 10:42, 26 April 2014 (UTC)
+* '''N''' [[:Tamás László]]: (1 edits, 1 major, +2157) '''{{dif|531627199|(+2157)}}'''
+* '''N''' [[:Ildikó Pelczné Gáll]]: (2 edits, 2 major, +2156) '''{{dif|457512789|(+2156)}}{{dif|457513365|(+489)}}'''
+* '''N''' [[:William of Koppenbach]]: (1 edits, 1 major, +2152) '''{{dif|533451647|(+2152)}}'''
+* '''N''' [[:Zoltán J. Gál]]: (1 edits, 1 major, +2151) '''{{dif|361173258|(+2151)}}'''
+* '''N''' [[:Bence Rétvári]]: (1 edits, 1 major, +2151) '''{{dif|593137694|(+2151)}}'''
+* '''N''' [[:Zsolt Láng]]: (1 edits, 1 major, +2145) '''{{dif|472984716|(+2145)}}'''
+* '''N''' [[:Károly Hieronymi]]: (1 edits, 1 major, +2144) '''{{dif|317813951|(+2144)}}'''
+* '''N''' [[:Károly Andrássy]]: (1 edits, 1 major, +2141) '''{{dif|468105505|(+2141)}}'''
+* '''N''' [[:Csaba Schmidt]]: (1 edits, 1 major, +2139) '''{{dif|593515836|(+2139)}}'''
+* '''N''' [[:József Gráf]]: (2 edits, 2 major, +2134) '''{{dif|434754553|(+2134)}}{{dif|596430223|(+212)}}'''
+* '''N''' [[:Gusztáv Hennyey]]: (1 edits, 1 major, +2134) '''{{dif|331655693|(+2134)}}'''
+* '''N''' [[:Sándor Bejczy]]: (1 edits, 1 major, +2133) '''{{dif|528005958|(+2133)}}'''
+* '''N''' [[:Sándor Imre]]: (1 edits, 1 major, +2129) '''{{dif|351079002|(+2129)}}'''
+* '''N''' [[:Mihály Lukács]]: (1 edits, 1 major, +2127) '''{{dif|518515287|(+2127)}}'''
+* '''N''' [[:István Marton (politician)]]: (2 edits, 2 major, +2126) '''{{dif|489536307|(+2126)}}{{dif|489536592|(+182)}}'''
+
+== Articles 501 through 520 ==
+
+* '''N''' [[:Ágoston Valentiny]]: (1 edits, 1 major, +2124) '''{{dif|383138652|(+2124)}}'''
+* '''N''' [[:Gábor Gellért Kis]]: (1 edits, 1 major, +2124) '''{{dif|555380831|(+2124)}}'''
+* '''N''' [[:Károly Herényi]]: (3 edits, 3 major, +2121) '''{{dif|450324983|(+2121)}}{{dif|525185816|(+176)}}{{dif|556197189|(+247)}}'''
+* '''N''' [[:Bálint Magyar]]: (3 edits, 3 major, +2121) '''{{dif|367610204|(+2121)}}{{dif|367774327|(+314)}}{{dif|527009172|(+355)}}'''
+* '''N''' [[:Sándor Csizmadia]]: (2 edits, 2 major, +2120) '''{{dif|396601627|(+2120)}}{{dif|396602972|(+510)}}'''
+* '''N''' [[:István Haller]]: (1 edits, 1 major, +2114) '''{{dif|353048883|(+2114)}}'''
+* '''N''' [[:2012 Afar region tourist attack]]: {{y}} reworded —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 10:47, 26 April 2014 (UTC)
+* '''N''' [[:Ödön Beniczky]]: (1 edits, 1 major, +2107) '''{{dif|319418286|(+2107)}}'''
+* '''N''' [[:György Nyisztor]]: (1 edits, 1 major, +2105) '''{{dif|396799186|(+2105)}}'''
+* '''N''' [[:Rátót (genus)]]: (3 edits, 3 major, +2102) '''{{dif|537090764|(+2102)}}{{dif|548490535|(+193)}}{{dif|565505781|(+153)}}'''
+* '''N''' [[:Mihály Viczay]]: (1 edits, 1 major, +2100) '''{{dif|466611290|(+2100)}}'''
+* '''N''' [[:Ferenc Kovács (politician, 1960)]]: (2 edits, 2 major, +2097) '''{{dif|524715847|(+2097)}}{{dif|524717900|(+193)}}'''
+* '''N''' [[:Márton Berzeviczy]]: (2 edits, 2 major, +2092) '''{{dif|547842678|(+2092)}}{{dif|547846289|(+536)}}'''
+* '''N''' [[:Gedeon Ráday (Minister of Defence)]]: (1 edits, 1 major, +2092) '''{{dif|320682133|(+2092)}}'''
+* '''N''' [[:Imre Oltványi]]: (1 edits, 1 major, +2091) '''{{dif|339020660|(+2091)}}'''
+* '''N''' [[:Gábor Vajna]]: (1 edits, 1 major, +2091) '''{{dif|320281108|(+2091)}}'''
+* '''N''' [[:János Kővári]]: (1 edits, 1 major, +2089) '''{{dif|531187521|(+2089)}}'''
+* '''N''' [[:Tihamér Fabinyi]]: (1 edits, 1 major, +2088) '''{{dif|338632489|(+2088)}}'''
+* '''N''' [[:András Cser-Palkovics]]: (1 edits, 1 major, +2088) '''{{dif|489654604|(+2088)}}'''
+* [[:Gyula Horn]]: (30 edits, 30 major, +2085) '''<span style="background-color: yellow">{{dif|435265173|(+1600)}}</span><span style="background-color: yellow">{{dif|435266002|(+567)}}</span>{{dif|435267189|(+257)}}<span style="background-color: yellow">{{dif|463562778|(+401)}}</span>{{dif|527008708|(+355)}}{{dif|552705803|(+182)}}{{dif|560912492|(+230)}}{{dif|560914738|(+1499)}}<span style="background-color: yellow">{{dif|560915098|(+236)}}</span>{{dif|560916352|(+221)}}{{dif|560917034|(+173)}}<span style="background-color: yellow">{{dif|560918254|(+262)}}</span><span style="background-color: yellow">{{dif|563585625|(+2085)}}</span>{{dif|563677243|(+173)}}{{dif|563678372|(+255)}}{{dif|563678800|(+251)}}{{dif|563679499|(+426)}}{{dif|563724788|(+729)}}{{dif|563725069|(+183)}}{{dif|563725303|(+188)}}{{dif|563725936|(+233)}}{{dif|563727603|(+266)}}{{dif|563727901|(+195)}}{{dif|563729143|(+357)}}{{dif|563729874|(+353)}}{{dif|563730639|(+720)}}{{dif|563731357|(+215)}}{{dif|563732351|(+394)}}{{dif|563733407|(+239)}}<span style="background-color: yellow">{{dif|563735410|(+635)}}</span>'''
+
+== Articles 521 through 540 ==
+
+* '''N''' [[:Tivadar Puskás (politician)]]: (1 edits, 1 major, +2080) '''{{dif|601893200|(+2080)}}'''
+* '''N''' [[:László Sombori]]: (1 edits, 1 major, +2080) '''{{dif|510599736|(+2080)}}'''
+* '''N''' [[:László Pintér (politician)]]: (1 edits, 1 major, +2080) '''{{dif|554665700|(+2080)}}'''
+* '''N''' [[:Sándor Keresztes]]: (2 edits, 2 major, +2079) '''{{dif|569837396|(+2079)}}{{dif|569837949|(+233)}}'''
+* '''N''' [[:Béla Sulyok]]: (1 edits, 1 major, +2075) '''{{dif|492335592|(+2075)}}'''
+* '''N''' [[:Balthasar Báthory]]: (3 edits, 3 major, +2073) '''{{dif|510270214|(+979)}}{{dif|510272189|(+2073)}}{{dif|510272759|(+801)}}'''
+* '''N''' [[:John Hunyadi, Ban of Severin]]: (1 edits, 1 major, +2072) '''{{dif|550530685|(+2072)}}'''
+* '''N''' [[:János Bencsik]]: (3 edits, 3 major, +2068) '''{{dif|487319619|(+2068)}}{{dif|526784259|(+227)}}{{dif|593515930|(+166)}}'''
+* '''N''' [[:Lajos Faluvégi]]: (1 edits, 1 major, +2068) '''{{dif|340306579|(+2068)}}'''
+* '''N''' [[:Zoltán Rónai]]: (1 edits, 1 major, +2061) '''{{dif|381581972|(+2061)}}'''
+* '''N''' [[:Vilmos Patay]]: (2 edits, 2 major, +2057) '''{{dif|554657918|(+2057)}}{{dif|554658644|(+205)}}'''
+* '''N''' [[:Lajos Walko]]: (1 edits, 1 major, +2055) '''{{dif|331114813|(+2055)}}'''
+* '''N''' [[:Elemér Gergátz]]: (1 edits, 1 major, +2055) '''{{dif|432193642|(+2055)}}'''
+* '''N''' [[:Károly Olt]]: (2 edits, 2 major, +2054) '''{{dif|339516079|(+2054)}}{{dif|422490118|(+161)}}'''
+* '''N''' [[:Jenő Rátz]]: (3 edits, 3 major, +2053) '''{{dif|322976746|(+2053)}}{{dif|456344868|(+266)}}{{dif|481728920|(+278)}}'''
+* '''N''' [[:Hungarian National Council]]: {{y}} unattributed copy of [[:de:Ungarischer Nationalrat]]; added {{tl|translated page}} template —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 17:32, 18 May 2014 (UTC)
+* '''N''' [[:Lóránt Hegedüs]]: (1 edits, 1 major, +2052) '''{{dif|338273825|(+2052)}}'''
+* '''N''' [[:Árpád Szabó]]: (1 edits, 1 major, +2043) '''{{dif|428234044|(+2043)}}'''
+* '''N''' [[:Szabolcs Czira]]: (2 edits, 2 major, +2042) '''{{dif|493011731|(+2042)}}{{dif|526785819|(+227)}}'''
+* '''N''' [[:István Kossa]]: (2 edits, 2 major, +2041) '''{{dif|339330440|(+2041)}}{{dif|339360228|(+1167)}}'''
+
+== Articles 541 through 560 ==
+
+* '''N''' [[:Tibor Viniczai]]: (1 edits, 1 major, +2041) '''{{dif|489671007|(+2041)}}'''
+* [[:Albert Szenczi Molnár]]: (4 edits, 4 major, +2038) '''{{dif|589222471|(+2038)}}{{dif|589223514|(+822)}}{{dif|589287408|(+271)}}{{dif|589288456|(+172)}}'''
+* '''N''' [[:Manó Széchényi]]: (1 edits, 1 major, +2037) '''{{dif|328197490|(+2037)}}'''
+* '''N''' [[:Jenő Gerbovits]]: (3 edits, 3 major, +2034) '''{{dif|446632859|(+2034)}}{{dif|446633309|(+184)}}<span style="background-color: yellow">{{dif|446633746|(+267)}}</span>'''
+* '''N''' [[:Ferenc Finkey]]: (1 edits, 1 major, +2031) '''{{dif|530376390|(+2031)}}'''
+* '''N''' [[:György Gyula Zagyva]]: (1 edits, 1 major, +2024) '''{{dif|438911279|(+2024)}}'''
+* '''N''' [[:Zoltán Szenes]]: (1 edits, 1 major, +2021) '''{{dif|533077335|(+2021)}}'''
+* '''N''' [[:Ferenc József Nagy]]: (1 edits, 1 major, +2021) '''{{dif|431665431|(+2021)}}'''
+* [[:National Assembly (Hungary)]]: {{y}} removed; requested revdel —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 21:43, 27 April 2014 (UTC)
+* '''N''' [[:Károly Csáky]]: (1 edits, 1 major, +2018) '''{{dif|322705828|(+2018)}}'''
+* '''N''' [[:Paul, son of Peter]]: (1 edits, 1 major, +2009) '''{{dif|564791008|(+2009)}}'''
+* '''N''' [[:Neuka]]: (1 edits, 1 major, +2005) '''{{dif|564789489|(+2005)}}'''
+* '''N''' [[:András Tibor Horváth]]: (1 edits, 1 major, +2000) '''{{dif|595525466|(+2000)}}'''
+* '''N''' [[:Péter Bárándy]]: (1 edits, 1 major, +2000) '''{{dif|387108060|(+2000)}}'''
+* '''N''' [[:Balázs Győrffy (politician)]]: (1 edits, 1 major, +1998) '''{{dif|513519061|(+1998)}}'''
+* '''N''' [[:Balázs Hidvéghi]]: (3 edits, 3 major, +1995) '''{{dif|570055125|(+1995)}}{{dif|593877646|(+281)}}{{dif|593877957|(+532)}}'''
+* '''N''' [[:Ottó Karvalics]]: (1 edits, 1 major, +1993) '''{{dif|601683010|(+1993)}}'''
+* '''N''' [[:János Jeszenák]]: (6 edits, 6 major, +1989) '''{{dif|499778222|(+1989)}}{{dif|499790573|(+1259)}}{{dif|499894612|(+482)}}{{dif|500049206|(+322)}}{{dif|500937849|(+770)}}{{dif|500973391|(+368)}}'''
+* '''N''' [[:László Piros]]: (1 edits, 1 major, +1988) '''{{dif|320403382|(+1988)}}'''
+* '''N''' [[:Zsolt Csampa]]: (3 edits, 3 major, +1987) '''{{dif|489522642|(+1987)}}{{dif|502692336|(+255)}}{{dif|526785133|(+156)}}'''
+
+== Articles 561 through 580 ==
+
+* '''N''' [[:Imre Puskás]]: (1 edits, 1 major, +1985) '''{{dif|571975184|(+1985)}}'''
+* '''N''' [[:Sándor Popovics]]: (1 edits, 1 major, +1984) '''{{dif|337702037|(+1984)}}'''
+* '''N''' [[:Sándor Zöld]]: (1 edits, 1 major, +1981) '''{{dif|320386683|(+1981)}}'''
+* '''N''' [[:Gyula Wlassics]]: (2 edits, 2 major, +1976) '''{{dif|350409632|(+1976)}}{{dif|481602272|(+431)}}'''
+* '''N''' [[:Lajos Für]]: (2 edits, 2 major, +1975) '''{{dif|324707320|(+1975)}}{{dif|552705016|(+157)}}'''
+* '''N''' [[:Rathold Rátót]]: (1 edits, 1 major, +1975) '''{{dif|565502862|(+1975)}}'''
+* '''N''' [[:Pál Vastagh]]: (1 edits, 1 major, +1975) '''{{dif|386991339|(+1975)}}'''
+* '''N''' [[:László Szapáry]]: (1 edits, 1 major, +1974) '''{{dif|469699425|(+1974)}}'''
+* '''N''' [[:Csaba Gyutai]]: (1 edits, 1 major, +1973) '''{{dif|511692367|(+1973)}}'''
+* '''N''' [[:Nehémiás, Archbishop of Esztergom]]: (1 edits, 1 major, +1972) '''{{dif|499162682|(+1972)}}'''
+* '''N''' [[:Zoltán Nógrádi]]: (1 edits, 1 major, +1971) '''{{dif|554203543|(+1971)}}'''
+* '''N''' [[:Tamás Harangozó]]: (1 edits, 1 major, +1968) '''{{dif|595592147|(+1968)}}'''
+* '''N''' [[:Zsolt Makay]]: (1 edits, 1 major, +1967) '''{{dif|450323724|(+1967)}}'''
+* '''N''' [[:Szilvia Lengyel]]: (1 edits, 1 major, +1967) '''{{dif|525620383|(+1967)}}'''
+* '''N''' [[:Ákos (chronicler)]]: (2 edits, 2 major, +1962) '''{{dif|580480011|(+1962)}}{{dif|580480304|(+587)}}'''
+* '''N''' [[:Ferenc Obreczán]]: (1 edits, 1 major, +1961) '''{{dif|554587177|(+1961)}}'''
+* [[:György Szilvásy]]: (6 edits, 6 major, +1961) '''{{dif|437708081|(+854)}}<span style="background-color: yellow">{{dif|437708222|(+231)}}</span>{{dif|439224266|(+342)}}{{dif|439230708|(+611)}}{{dif|449147699|(+152)}}<span style="background-color: yellow">{{dif|563088849|(+1961)}}</span>'''
+* '''N''' [[:László Vécsey]]: (1 edits, 1 major, +1959) '''{{dif|600593317|(+1959)}}'''
+* '''N''' [[:Lőrinc Szapáry]]: (1 edits, 1 major, +1958) '''{{dif|469538889|(+1958)}}'''
+* '''N''' [[:László Palóczy]]: (1 edits, 1 major, +1958) '''{{dif|475928220|(+1958)}}'''
+
+== Articles 581 through 600 ==
+
+* '''N''' [[:József Madarász]]: (2 edits, 2 major, +1958) '''{{dif|477014811|(+1958)}}{{dif|477350698|(+155)}}'''
+* '''N''' [[:István Esterházy (1572–1596)]]: (1 edits, 1 major, +1957) '''{{dif|514484285|(+1957)}}'''
+* '''N''' [[:Imre Dögei]]: (1 edits, 1 major, +1956) '''{{dif|429478861|(+1956)}}'''
+* '''N''' [[:István Fülöp]]: (2 edits, 2 major, +1956) '''{{dif|511667319|(+1956)}}{{dif|526851916|(+156)}}'''
+* '''N''' [[:Krisztián Kapus]]: (1 edits, 1 major, +1948) '''{{dif|524368551|(+1948)}}'''
+* '''N''' [[:Rado (palatine)]]: (1 edits, 1 major, +1947) '''{{dif|568856874|(+1947)}}'''
+* '''N''' [[:Jenő Hamburger]]: (1 edits, 1 major, +1945) '''{{dif|396825713|(+1945)}}'''
+* '''N''' [[:Balázs Bús]]: (1 edits, 1 major, +1940) '''{{dif|602466595|(+1940)}}'''
+* '''N''' [[:Ferenc Kalmár]]: (1 edits, 1 major, +1940) '''{{dif|600666443|(+1940)}}'''
+* '''N''' [[:Péter Vályi]]: (2 edits, 2 major, +1937) '''{{dif|339913106|(+1937)}}{{dif|471672482|(+1180)}}'''
+* '''N''' [[:Ferenc Gordon]]: (1 edits, 1 major, +1936) '''{{dif|339170073|(+1936)}}'''
+* '''N''' [[:András Rapcsák]]: (2 edits, 2 major, +1935) '''{{dif|465722704|(+1935)}}{{dif|465723309|(+200)}}'''
+* '''N''' [[:János Veres]]: (3 edits, 3 major, +1934) '''{{dif|349309765|(+1934)}}{{dif|349612379|(+595)}}{{dif|526858316|(+354)}}'''
+* '''N''' [[:Géza Szénási]]: (1 edits, 1 major, +1933) '''{{dif|530497782|(+1933)}}'''
+* '''N''' [[:Monika Rónaszéki-Keresztes]]: (1 edits, 1 major, +1928) '''{{dif|593514916|(+1928)}}'''
+* '''N''' [[:Klára Andrássy]]: (1 edits, 1 major, +1925) '''{{dif|479963351|(+1925)}}'''
+* '''N''' [[:Fehér County (former)]]: (2 edits, 2 major, +1924) '''{{dif|548134095|(+540)}}{{dif|548135516|(+1924)}}'''
+* '''N''' [[:Pál Almásy]]: (3 edits, 3 major, +1923) '''{{dif|475794000|(+1723)}}{{dif|476264151|(+737)}}{{dif|476267881|(+1923)}}'''
+* '''N''' [[:Károly Vántus]]: (1 edits, 1 major, +1922) '''{{dif|396826975|(+1922)}}'''
+* '''N''' [[:Gábor Varga (politician)]]: (1 edits, 1 major, +1921) '''{{dif|571571999|(+1921)}}'''
+
+== Articles 601 through 620 ==
+
+* '''N''' [[:Erika Szűcs]]: (2 edits, 2 major, +1920) '''{{dif|454548382|(+1920)}}{{dif|526859641|(+178)}}'''
+* [[:Péter Kiss]]: (6 edits, 6 major, +1918) '''{{dif|449147515|(+357)}}{{dif|452199212|(+1918)}}{{dif|452199886|(+645)}}{{dif|452201086|(+508)}}{{dif|458291517|(+165)}}{{dif|526857351|(+426)}}'''
+* '''N''' [[:Hungarian presidential election, 2012]]: {{y}} blanked —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 17:44, 18 May 2014 (UTC)
+* '''N''' [[:László Sebestyén]]: (1 edits, 1 major, +1915) '''{{dif|593602682|(+1915)}}'''
+* '''N''' [[:Roland Mengyi]]: (1 edits, 1 major, +1915) '''{{dif|553339598|(+1915)}}'''
+* '''N''' [[:Bertalan Andrásfalvy]]: (2 edits, 2 major, +1915) '''{{dif|367307741|(+1915)}}{{dif|575012039|(+1260)}}'''
+* '''N''' [[:Ilona Vörösmarty]]: (1 edits, 1 major, +1909) '''{{dif|545750146|(+1909)}}'''
+* '''N''' [[:László Háy]]: (3 edits, 3 major, +1909) '''{{dif|498227275|(+1909)}}{{dif|498227797|(+171)}}{{dif|498228092|(+270)}}'''
+* '''N''' [[:Béla Orczy]]: (3 edits, 3 major, +1905) '''{{dif|317727781|(+1905)}}{{dif|320592547|(+160)}}{{dif|327124176|(+193)}}'''
+* '''N''' [[:Béla Székely]]: (1 edits, 1 major, +1905) '''{{dif|337898974|(+1905)}}'''
+* '''N''' [[:Béla Perczel]]: (2 edits, 2 major, +1904) '''{{dif|371815470|(+1904)}}{{dif|476271393|(+263)}}'''
+* '''N''' [[:Aladár Zichy]]: (2 edits, 2 major, +1898) '''{{dif|328233031|(+1898)}}{{dif|333047173|(+212)}}'''
+* '''N''' [[:Vilmos Rőder]]: (1 edits, 1 major, +1898) '''{{dif|322974048|(+1898)}}'''
+* '''N''' [[:János Szabó (Minister of Agriculture)]]: (1 edits, 1 major, +1891) '''{{dif|432350493|(+1891)}}'''
+* '''N''' [[:József Teleki]]: (1 edits, 1 major, +1889) '''{{dif|480549929|(+1889)}}'''
+* '''N''' [[:József Haubrich]]: (1 edits, 1 major, +1885) '''{{dif|321566077|(+1885)}}'''
+* '''N''' [[:László Horváth (politician)]]: (2 edits, 2 major, +1884) '''{{dif|521874096|(+1884)}}{{dif|526853536|(+227)}}'''
+* '''N''' [[:Gábor Péter]]: (1 edits, 1 major, +1884) '''{{dif|324673326|(+1884)}}'''
+* '''N''' [[:Zoltán Gál]]: (3 edits, 3 major, +1883) '''{{dif|314722185|(+1883)}}{{dif|525183487|(+184)}}{{dif|528183403|(+354)}}'''
+* '''N''' [[:Tamás Kovács (jurist)]]: (1 edits, 1 major, +1881) '''{{dif|530532273|(+1881)}}'''
+
+== Articles 621 through 640 ==
+
+* '''N''' [[:István Gyenesei]]: (1 edits, 1 major, +1881) '''{{dif|313261428|(+1881)}}'''
+* '''N''' [[:József Kovács (politician)]]: (1 edits, 1 major, +1880) '''{{dif|526617654|(+1880)}}'''
+* [[:Dezső Pattantyús-Ábrahám]]: (3 edits, 3 major, +1880) '''{{dif|355136253|(+1151)}}{{dif|355224569|(+1880)}}{{dif|355224771|(+194)}}'''
+* '''N''' [[:Zoltán Kőszegi]]: (1 edits, 1 major, +1877) '''{{dif|530948118|(+1877)}}'''
+* '''N''' [[:Héder Viczay]]: (1 edits, 1 major, +1876) '''{{dif|466608161|(+1876)}}'''
+* '''N''' [[:Gábor Törő]]: (1 edits, 1 major, +1876) '''{{dif|570532287|(+1876)}}'''
+* '''N''' [[:Antal Apró]]: (1 edits, 1 major, +1876) '''{{dif|421329084|(+1876)}}'''
+* '''N''' [[:Farkas Bethlen (born 1957)]]: {{?}} deleted. [[User:Money emoji |💵Money💵emoji💵]]<sup>[[User talk:Money emoji|💸]]</sup> 12:15, 29 May 2019 (UTC)
+* '''N''' [[:Hungarian Liberal Party]]: (9 edits, 9 major, +1872) '''{{dif|555074503|(+1872)}}<span style="background-color: yellow">{{dif|572659117|(+476)}}</span><span style="background-color: yellow">{{dif|589073134|(+625)}}</span><span style="background-color: yellow">{{dif|589073621|(+371)}}</span>{{dif|589171216|(+249)}}{{dif|589172357|(+408)}}<span style="background-color: yellow">{{dif|589174153|(+807)}}</span><span style="background-color: yellow">{{dif|589176034|(+570)}}</span><span style="background-color: yellow">{{dif|591364596|(+1340)}}</span>'''
+* '''N''' [[:Zoltán Kovács (politician, 1957)]]: (3 edits, 3 major, +1868) '''{{dif|528150281|(+1845)}}{{dif|528152636|(+205)}}{{dif|528154651|(+1868)}}'''
+* '''N''' [[:Stephen II Csák]]: (7 edits, 7 major, +1862) '''{{dif|584920464|(+1862)}}{{dif|585121623|(+511)}}{{dif|585121854|(+463)}}{{dif|585154618|(+954)}}{{dif|585156760|(+709)}}{{dif|585157855|(+496)}}{{dif|585161253|(+829)}}'''
+* '''N''' [[:Károly Grecsák]]: (1 edits, 1 major, +1856) '''{{dif|381204632|(+1856)}}'''
+* '''N''' [[:Béla Pásztor]]: (1 edits, 1 major, +1855) '''{{dif|553366852|(+1855)}}'''
+* [[:2006 protests in Hungary]]: (4 edits, 4 major, +1853) '''{{dif|536424464|(+167)}}{{dif|597580871|(+1853)}}{{dif|597581960|(+209)}}{{dif|597589432|(+379)}}'''
+* '''N''' [[:Endre Sík]]: (1 edits, 1 major, +1848) '''{{dif|332669934|(+1848)}}'''
+* '''N''' [[:Ödön Mikecz]]: (1 edits, 1 major, +1848) '''{{dif|382771721|(+1848)}}'''
+* '''N''' [[:Battle of the Brenta]]: (1 edits, 1 major, +1847) '''{{dif|558296659|(+1847)}}'''
+* '''N''' [[:István Varga (politician)]]: (1 edits, 1 major, +1846) '''{{dif|366099095|(+1846)}}'''
+* '''N''' [[:György Danis]]: (1 edits, 1 major, +1845) '''{{dif|527788280|(+1845)}}'''
+* '''N''' [[:Sándor Arnóth]]: (2 edits, 2 major, +1840) '''{{dif|419280842|(+1840)}}{{dif|526782913|(+226)}}'''
+
+== Articles 641 through 660 ==
+
+* '''N''' [[:László Koszorús]]: (1 edits, 1 major, +1840) '''{{dif|530944705|(+1840)}}'''
+* [[:János Áder]]: (12 edits, 12 major, +1838) '''<span style="background-color: yellow">{{dif|503440579|(+1838)}}</span>{{dif|503441388|(+310)}}<span style="background-color: yellow">{{dif|515142133|(+1291)}}</span>{{dif|515142671|(+241)}}{{dif|525178607|(+166)}}{{dif|527008528|(+355)}}<span style="background-color: yellow">{{dif|531268572|(+1346)}}</span><span style="background-color: yellow">{{dif|547503876|(+1380)}}</span>{{dif|552706299|(+172)}}<span style="background-color: yellow">{{dif|571140322|(+726)}}</span><span style="background-color: yellow">{{dif|571140988|(+387)}}</span>{{dif|571143054|(+197)}}'''
+* '''N''' [[:László Kövér]]: (10 edits, 10 major, +1838) '''{{dif|331264203|(+1053)}}{{dif|439223903|(+240)}}{{dif|477523152|(+1016)}}{{dif|485168356|(+187)}}{{dif|485259877|(+1154)}}{{dif|485262672|(+755)}}{{dif|485787082|(+826)}}{{dif|525180906|(+156)}}{{dif|526854951|(+369)}}<span style="background-color: yellow">{{dif|573418339|(+1838)}}</span>'''
+* '''N''' [[:László Domokos]]: (3 edits, 3 major, +1837) '''{{dif|503501016|(+1837)}}{{dif|526786361|(+227)}}{{dif|528469309|(+728)}}'''
+* '''N''' [[:George Zápolya]]: (1 edits, 1 major, +1836) '''{{dif|492352371|(+1836)}}'''
+* '''N''' [[:József Balogh (politician)]]: (9 edits, 9 major, +1835) '''{{dif|486906260|(+1835)}}{{dif|526783671|(+285)}}{{dif|552730568|(+359)}}<span style="background-color: yellow">{{dif|553208297|(+1192)}}</span>{{dif|553209937|(+1034)}}{{dif|553211067|(+664)}}{{dif|553211956|(+428)}}<span style="background-color: yellow">{{dif|580465035|(+509)}}</span><span style="background-color: yellow">{{dif|580465618|(+412)}}</span>'''
+* '''N''' [[:Reynold Rátót]]: (1 edits, 1 major, +1833) '''{{dif|567419178|(+1833)}}'''
+* '''N''' [[:Imre Czobor]]: (2 edits, 2 major, +1830) '''{{dif|515234454|(+1830)}}{{dif|515540789|(+235)}}'''
+* '''N''' [[:Aladár Andrássy]]: (1 edits, 1 major, +1826) '''{{dif|468983300|(+1826)}}'''
+* '''N''' [[:Béla Csécsei]]: (2 edits, 2 major, +1825) '''{{dif|530602791|(+1825)}}{{dif|530611588|(+188)}}'''
+* '''N''' [[:Francis Rhédey]]: (1 edits, 1 major, +1818) '''{{dif|568573230|(+1818)}}'''
+* '''N''' [[:András Nemény]]: (1 edits, 1 major, +1818) '''{{dif|595526342|(+1818)}}'''
+* '''N''' [[:Levente Riz]]: (1 edits, 1 major, +1818) '''{{dif|593513925|(+1818)}}'''
+* '''N''' [[:Zoltán Balog (politician)]]: (1 edits, 1 major, +1814) '''{{dif|486902018|(+1814)}}'''
+* '''N''' [[:Andor Fejér]]: (1 edits, 1 major, +1807) '''{{dif|511404595|(+1807)}}'''
+* '''N''' [[:Imre Ghillány]]: (1 edits, 1 major, +1804) '''{{dif|393992503|(+1804)}}'''
+* '''N''' [[:Eleonóra Zichy]]: (1 edits, 1 major, +1802) '''{{dif|475766488|(+1802)}}'''
+* '''N''' [[:Lajos Drahos]]: (2 edits, 2 major, +1802) '''{{dif|422487593|(+1802)}}{{dif|422488964|(+185)}}'''
+* '''N''' [[:Sándor Czomba]]: (1 edits, 1 major, +1801) '''{{dif|493256358|(+1801)}}'''
+* '''N''' [[:Zache]]: (1 edits, 1 major, +1796) '''{{dif|568853748|(+1796)}}'''
+
+== Articles 661 through 680 ==
+
+* [[:Louis I of Hungary]]: (1 edits, 1 major, +1794) '''{{dif|570937087|(+1794)}}'''
+* '''N''' [[:Ildikó Bene]]: (1 edits, 1 major, +1792) '''{{dif|524366892|(+1792)}}'''
+* '''N''' [[:György Andrássy]]: (2 edits, 2 major, +1792) '''{{dif|468154331|(+1792)}}{{dif|549348325|(+177)}}'''
+* [[:Géza Teleki]]: (2 edits, 2 major, +1792) '''{{dif|349710532|(+290)}}{{dif|359524448|(+1792)}}'''
+* '''N''' [[:Julius III Kán]]: (2 edits, 2 major, +1791) '''{{dif|567249776|(+1791)}}{{dif|582072854|(+238)}}'''
+* '''N''' [[:Gyula Vantara]]: (1 edits, 1 major, +1790) '''{{dif|598245896|(+1790)}}'''
+* '''N''' [[:Károly Soós (Minister of Defence)]]: (1 edits, 1 major, +1789) '''{{dif|321920456|(+1789)}}'''
+* '''N''' [[:Péter Kovács (politician)]]: (1 edits, 1 major, +1789) '''{{dif|526630079|(+1789)}}'''
+* '''N''' [[:László Csány]]: (8 edits, 8 major, +1787) '''{{dif|499437119|(+1772)}}{{dif|499486170|(+355)}}{{dif|499630531|(+536)}}{{dif|499631981|(+470)}}{{dif|499641651|(+911)}}{{dif|499647692|(+877)}}{{dif|499675972|(+1787)}}{{dif|499677150|(+377)}}'''
+* '''N''' [[:József Kristóffy]]: (1 edits, 1 major, +1781) '''{{dif|317847194|(+1781)}}'''
+* [[:Ugrin Csák]]: (1 edits, 1 major, +1779) '''{{dif|584056928|(+1779)}}'''
+* '''N''' [[:Norbert Erdős]]: (2 edits, 2 major, +1777) '''{{dif|503985458|(+1777)}}{{dif|526786625|(+156)}}'''
+* '''N''' [[:Csaba Molnár]]: (3 edits, 3 major, +1777) '''{{dif|449145865|(+1777)}}{{dif|449147029|(+155)}}<span style="background-color: yellow">{{dif|513377828|(+558)}}</span>'''
+:*already rephrased —[[User:Norden1990|Norden1990]] ([[User talk:Norden1990|talk]]) 23:26, 22 July 2015 (UTC)
+* '''N''' [[:József Varga (politician)]]: (1 edits, 1 major, +1775) '''{{dif|598247033|(+1775)}}'''
+:*added {{tl|translated page}} —[[User:Norden1990|Norden1990]] ([[User talk:Norden1990|talk]]) 15:38, 7 July 2015 (UTC)
+* '''N''' [[:Zoltán Demeter]]: (1 edits, 1 major, +1772) '''{{dif|497625866|(+1772)}}'''
+* '''N''' [[:János Bud]]: (1 edits, 1 major, +1770) '''{{dif|338546764|(+1770)}}'''
+* '''N''' [[:Eth Geregye]]: (2 edits, 2 major, +1770) '''{{dif|539446358|(+1770)}}{{dif|548313319|(+321)}}'''
+* '''N''' [[:István Fodor]]: (1 edits, 1 major, +1768) '''{{dif|410462756|(+1768)}}'''
+* '''N''' [[:István Vásáry]]: (2 edits, 2 major, +1764) '''{{dif|338940994|(+1764)}}{{dif|475614622|(+558)}}'''
+* '''N''' [[:Ferenc Esterházy (1715–1785)]]: (2 edits, 2 major, +1762) '''{{dif|514322778|(+1762)}}{{dif|514324538|(+314)}}'''
+
+== Articles 681 through 700 ==
+
+* '''N''' [[:H. (noble)]]: (1 edits, 1 major, +1760) '''{{dif|566843713|(+1760)}}'''
+* '''N''' [[:Buzád Hahót]]: (8 edits, 8 major, +1759) '''{{dif|580642792|(+1759)}}{{dif|580647224|(+336)}}{{dif|580647587|(+179)}}{{dif|580678738|(+154)}}{{dif|581058131|(+314)}}{{dif|581059881|(+1285)}}{{dif|581619344|(+605)}}{{dif|581620979|(+750)}}'''
+* '''N''' [[:Dezső Perczel]]: (2 edits, 2 major, +1759) '''{{dif|317821571|(+1759)}}{{dif|477015697|(+460)}}'''
+* '''N''' [[:Erzsébet Lanczendorfer]]: (2 edits, 2 major, +1759) '''{{dif|600807426|(+1759)}}{{dif|600808120|(+1701)}}'''
+:*shortened —[[User:Norden1990|Norden1990]] ([[User talk:Norden1990|talk]]) 14:15, 15 July 2015 (UTC)
+* '''N''' [[:Ernő Mihályfi]]: (2 edits, 2 major, +1758) '''{{dif|332389872|(+1758)}}{{dif|454368415|(+155)}}'''
+* '''N''' [[:István Nagy (politician, 1967)]]: (1 edits, 1 major, +1757) '''{{dif|554514879|(+1757)}}'''
+* '''N''' [[:Battle of Isaszeg (1265)]]: (1 edits, 1 major, +1757) '''{{dif|509244898|(+1757)}}'''
+* '''N''' [[:Róbert Zsigó]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 14:15, 25 April 2014 (UTC)
+* '''N''' [[:Benedict I of Esztergom]]: (1 edits, 1 major, +1756) '''{{dif|495849906|(+1756)}}'''
+* '''N''' [[:Zsolt Páva]]: (1 edits, 1 major, +1753) '''{{dif|463821986|(+1753)}}'''
+* '''N''' [[:Imre Vejkey]]: (1 edits, 1 major, +1750) '''{{dif|601269260|(+1750)}}'''
+* '''N''' [[:István Rakovszky]]: (11 edits, 11 major, +1750) '''{{dif|359609202|(+1750)}}{{dif|359616515|(+280)}}{{dif|359631960|(+964)}}{{dif|359842182|(+844)}}{{dif|359851734|(+1638)}}{{dif|360486461|(+455)}}{{dif|360519700|(+1177)}}{{dif|360523299|(+1478)}}{{dif|360731078|(+1068)}}{{dif|360804366|(+873)}}{{dif|475741380|(+564)}}'''
+* '''N''' [[:Gyula Ferdinandy]]: (1 edits, 1 major, +1746) '''{{dif|320088291|(+1746)}}'''
+* '''N''' [[:Tamás Heintz]]: (1 edits, 1 major, +1745) '''{{dif|516705930|(+1745)}}'''
+* '''N''' [[:Richárd Tarnai]]: (1 edits, 1 major, +1745) '''{{dif|601684007|(+1745)}}'''
+* '''N''' [[:Dalma Mádl]]: (1 edits, 1 major, +1745) '''{{dif|602430199|(+1745)}}'''
+* [[:List of heads of state of Hungary]]: (9 edits, 9 major, +1744) '''{{dif|441692347|(+211)}}{{dif|441692477|(+179)}}{{dif|485168883|(+168)}}{{dif|496289964|(+455)}}{{dif|511409812|(+1744)}}{{dif|549171133|(+286)}}{{dif|590370833|(+657)}}{{dif|590374676|(+374)}}{{dif|602173967|(+556)}}'''
+* '''N''' [[:Lajos Dorkota]]: (4 edits, 4 major, +1744) '''{{dif|503668485|(+1744)}}{{dif|526786423|(+227)}}<span style="background-color: yellow">{{dif|565784984|(+626)}}</span><span style="background-color: yellow">{{dif|565785399|(+324)}}</span>'''
+* '''N''' [[:András Schiffer]]: (13 edits, 13 major, +1742) '''{{dif|343445070|(+354)}}<span style="background-color: yellow">{{dif|471716932|(+249)}}</span>{{dif|471722416|(+459)}}<span style="background-color: yellow">{{dif|471859190|(+502)}}</span>{{dif|473907393|(+239)}}<span style="background-color: yellow">{{dif|525040362|(+1742)}}</span>{{dif|525043789|(+329)}}<span style="background-color: yellow">{{dif|537256496|(+1453)}}</span><span style="background-color: yellow">{{dif|538323349|(+333)}}</span>{{dif|543097880|(+364)}}{{dif|546772692|(+194)}}{{dif|546773675|(+397)}}<span style="background-color: yellow">{{dif|571938391|(+606)}}</span>'''
+* '''N''' [[:József Polics]]: (1 edits, 1 major, +1742) '''{{dif|570058219|(+1742)}}'''
+
+== Articles 701 through 720 ==
+
+* '''N''' [[:Zsigmond Perényi (1870–1946)]]: (2 edits, 2 major, +1740) '''{{dif|319415024|(+1740)}}{{dif|481728589|(+245)}}'''
+* '''N''' [[:Zoltán Varga (politician)]]: (2 edits, 2 major, +1739) '''{{dif|313266928|(+1566)}}{{dif|457542962|(+1739)}}'''
+* '''N''' [[:István Antos]]: (1 edits, 1 major, +1739) '''{{dif|339599110|(+1739)}}'''
+* '''N''' [[:Gábor Bagdy]]: (1 edits, 1 major, +1738) '''{{dif|600663800|(+1738)}}'''
+* '''N''' [[:Lajos Hegyeshalmi]]: (1 edits, 1 major, +1737) '''{{dif|338461396|(+1737)}}'''
+* '''N''' [[:Rodowan]]: (1 edits, 1 major, +1736) '''{{dif|577850007|(+1736)}}'''
+* '''N''' [[:Róbert Rácz]]: (1 edits, 1 major, +1736) '''{{dif|570181742|(+1736)}}'''
+* '''N''' [[:Ferenc Kovács (politician, 1953)]]: (2 edits, 2 major, +1735) '''{{dif|525726724|(+1735)}}{{dif|526854674|(+227)}}'''
+* [[:Counter Terrorism Centre]]: (1 edits, 1 major, +1734) '''{{dif|530623368|(+1734)}}'''
+:*shortened and reworded —[[User:Norden1990|Norden1990]] ([[User talk:Norden1990|talk]]) 15:49, 7 July 2015 (UTC)
+* '''N''' [[:Pál Völner]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 14:15, 25 April 2014 (UTC)
+* '''N''' [[:Imreffy family]]: (1 edits, 1 major, +1730) '''{{dif|515875565|(+1730)}}'''
+* '''N''' [[:József Zichy]]: (1 edits, 1 major, +1727) '''{{dif|391411910|(+1727)}}'''
+* '''N''' [[:Gabriella Bábi-Szottfried]]: (1 edits, 1 major, +1727) '''{{dif|486837147|(+1727)}}'''
+* '''N''' [[:Péter Szalay]]: (1 edits, 1 major, +1726) '''{{dif|594752261|(+1726)}}'''
+* '''N''' [[:Gyula Széchényi]]: (4 edits, 4 major, +1725) '''{{dif|328199781|(+1725)}}{{dif|419108812|(+189)}}{{dif|463570367|(+809)}}{{dif|463571446|(+248)}}'''
+* '''N''' [[:Béla Tallián]]: (1 edits, 1 major, +1725) '''{{dif|392200486|(+1725)}}'''
+* '''N''' [[:Károly Kiss]]: (1 edits, 1 major, +1724) '''{{dif|332514434|(+1724)}}'''
+* '''N''' [[:Miklós Seszták]]: (1 edits, 1 major, +1720) '''{{dif|601268390|(+1720)}}'''
+* '''N''' [[:Gergely Tapolczai]]: (1 edits, 1 major, +1718) '''{{dif|571437507|(+1718)}}'''
+* '''N''' [[:Tibor Erdey-Grúz]]: (2 edits, 2 major, +1718) '''{{dif|362332696|(+1718)}}{{dif|559856470|(+227)}}'''
+
+== Articles 721 through 740 ==
+
+* '''N''' [[:Zsolt Csenger-Zalán]]: (1 edits, 1 major, +1716) '''{{dif|489526172|(+1716)}}'''
+* '''N''' [[:Sándor Farkas]]: (2 edits, 2 major, +1715) '''{{dif|506461695|(+1715)}}{{dif|526851466|(+227)}}'''
+* '''N''' [[:Pál Somssich]]: (1 edits, 1 major, +1715) '''{{dif|476270920|(+1715)}}'''
+* '''N''' [[:Nikola Tomašić]]: (1 edits, 1 major, +1713) '''{{dif|333640787|(+1713)}}'''
+* '''N''' [[:István Hetényi]]: (1 edits, 1 major, +1712) '''{{dif|340307762|(+1712)}}'''
+* '''N''' [[:Béla Szende]]: (1 edits, 1 major, +1712) '''{{dif|320671148|(+1712)}}'''
+* '''N''' [[:József Szekó]]: (1 edits, 1 major, +1711) '''{{dif|596098612|(+1711)}}'''
+* '''N''' [[:Attila Szedlák]]: (1 edits, 1 major, +1711) '''{{dif|571434786|(+1711)}}'''
+* '''N''' [[:Barnabás Tamás]]: (1 edits, 1 major, +1707) '''{{dif|571435818|(+1707)}}'''
+* '''N''' [[:Péter Fülöp (diplomat)]]: (1 edits, 1 major, +1707) '''{{dif|458152458|(+1707)}}'''
+* '''N''' [[:Pál Ilku]]: (1 edits, 1 major, +1706) '''{{dif|366657614|(+1706)}}'''
+* '''N''' [[:András Kupper]]: (1 edits, 1 major, +1703) '''{{dif|529190394|(+1703)}}'''
+* '''N''' [[:Imre Németh (politician)]]: (1 edits, 1 major, +1695) '''{{dif|433299442|(+1695)}}'''
+* '''N''' [[:Tibor Scitovszky]]: (1 edits, 1 major, +1694) '''{{dif|330946914|(+1694)}}'''
+* '''N''' [[:Csaba Tóth]]: (1 edits, 1 major, +1694) '''{{dif|595527204|(+1694)}}'''
+* '''N''' [[:Mihály Teleki (politician)]]: (1 edits, 1 major, +1693) '''{{dif|411667322|(+1693)}}'''
+* '''N''' [[:Péter Kozma]]: (2 edits, 2 major, +1693) '''{{dif|526710170|(+1693)}}{{dif|526854809|(+156)}}'''
+* '''N''' [[:Judit Czunyi-Bertalan]]: (1 edits, 1 major, +1693) '''{{dif|493257967|(+1693)}}'''
+* '''N''' [[:János Boldóczki]]: (1 edits, 1 major, +1692) '''{{dif|332558064|(+1692)}}'''
+* '''N''' [[:Erzsébet Menczer]]: (1 edits, 1 major, +1691) '''{{dif|553264920|(+1691)}}'''
+
+== Articles 741 through 760 ==
+
+* '''N''' [[:János Kerényi]]: (2 edits, 2 major, +1689) '''{{dif|524679071|(+1689)}}{{dif|526854312|(+227)}}'''
+* '''N''' [[:Dénes Pázmándy (1848–1936)]]: (1 edits, 1 major, +1687) '''{{dif|475787470|(+1687)}}'''
+* '''N''' [[:György Simonka]]: (1 edits, 1 major, +1686) '''{{dif|571652829|(+1686)}}'''
+* '''N''' [[:Jenő Karafiáth]]: (1 edits, 1 major, +1685) '''{{dif|353791020|(+1685)}}'''
+* '''N''' [[:Ferenc Duschek]]: (1 edits, 1 major, +1685) '''{{dif|335331682|(+1685)}}'''
+* '''N''' [[:György Szabad]]: (1 edits, 1 major, +1684) '''{{dif|314895980|(+1684)}}'''
+* '''N''' [[:László B. Nagy]]: (1 edits, 1 major, +1680) '''{{dif|486835065|(+1680)}}'''
+* '''N''' [[:Sebő Vukovics]]: (1 edits, 1 major, +1676) '''{{dif|369830457|(+1676)}}'''
+* '''N''' [[:András Vonza]]: (1 edits, 1 major, +1674) '''{{dif|433110614|(+1674)}}'''
+* '''N''' [[:Dénes Pázmándy (1781–1854)]]: (1 edits, 1 major, +1673) '''{{dif|475756713|(+1673)}}'''
+* '''N''' [[:Imre Vas]]: (1 edits, 1 major, +1672) '''{{dif|598174682|(+1672)}}'''
+* '''N''' [[:Zsigmond Járai]]: (2 edits, 2 major, +1672) '''{{dif|348174202|(+1672)}}{{dif|469587927|(+167)}}'''
+* '''N''' [[:Imre Forgács]]: (2 edits, 2 major, +1670) '''{{dif|387208130|(+1670)}}{{dif|387272700|(+277)}}'''
+* '''N''' [[:Csaba Dióssi]]: (1 edits, 1 major, +1667) '''{{dif|497627059|(+1667)}}'''
+* '''N''' [[:Imre Boros]]: (1 edits, 1 major, +1666) '''{{dif|432551427|(+1666)}}'''
+* '''N''' [[:István Román]]: (1 edits, 1 major, +1661) '''{{dif|570457315|(+1661)}}'''
+* '''N''' [[:Melinda Széky-Sztrémi]]: (1 edits, 1 major, +1659) '''{{dif|596100766|(+1659)}}'''
+* '''N''' [[:Péter Szilágyi (politician, 1954)]]: (2 edits, 2 major, +1659) '''{{dif|532449230|(+1659)}}{{dif|557712746|(+341)}}'''
+* '''N''' [[:István Nagy (politician, 1954)]]: (1 edits, 1 major, +1657) '''{{dif|554513751|(+1657)}}'''
+* '''N''' [[:István Bóka]]: {{n}} —[[User:Psychonaut|Psychonaut]] ([[User talk:Psychonaut|talk]]) 07:28, 25 April 2014 (UTC)
+
+This report generated by [http://tools.wmflabs.org/contributionsurveyor/survey.php?user=Norden1990&hide_reverts=on&hide_minor_edits=on&articles_per_section=20&major_edit_char_count=150&offset=0&limit=760&start_timestamp=&end_timestamp=20140425040010&output=wiki Contribution Surveyor] at 2014-04-25T04:02:10+00:00 in 0.72 sec.

@@ -1,0 +1,14 @@
+Title : Template:User Jawi
+Text : {{userbox
+| border-c = #6EF7A7
+| id       = [[Jawi alphabet|جاوي]]
+| id-c     = #6EF7A7
+| id-fc    = black
+| id-s     = 14
+| info     = This user uses '''[[:Category:User Jawi|Jawi Script]]''' '''[[:Category:User Jawi-N|without any problem]]'''.
+| info-c   = #C5FCDC
+| info-fc  = black
+| usercategory  = User Jawi
+| usercategory2 = User Jawi-N
+| nocat = {{{nocat|}}}
+}}

@@ -1,0 +1,119 @@
+Title : Wikipedia:Help desk/Archives/2014 April 20
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Help desk|Help desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Help desk/Archives/2014 April 19|April 19]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Help desk/Archives/March 2014|Mar]] | [[Wikipedia:Help desk/Archives/April 2014|April]] | [[Wikipedia:Help desk/Archives/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Help desk/Archives/2014 April 21|[[Wikipedia:Help desk/Archives/2014 April 21|April 21]]|[[Wikipedia:Help desk|Current help desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Help Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Help desk/Archives/2014 April 21|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Help desk|current Help Desk]] pages.
+|}
+
+
+__TOC__</noinclude>
+= April 20 =
+
+==Show/Hide option==
+
+How do I add a show/hide option for something? I plan to add a large table to a page and I want it to be hidden to start with, with a show/hide link at the top. Something like that is done on the Google Chrome page and I've looked at the source, but I can't figure out what controls it. Can anyone help? [[User:Kookiethebird|Kookiethebird]] ([[User talk:Kookiethebird|talk]]) 00:31, 20 April 2014 (UTC)
+:See {{tl|collapse}}. An alternative is {{tl|collapse top}} and {{tl|collapse bottom}}. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 01:25, 20 April 2014 (UTC)
+::That looks really useful, thanks. [[User:Kookiethebird|Kookiethebird]] ([[User talk:Kookiethebird|talk]]) 02:23, 20 April 2014 (UTC)
+:::{{ping|Kookiethebird}} You may also find the "[[Help:Table#Collapsible_tables|collapsible table type]] beneficial. - [[User:Purplewowies|Purplewowies]] ([[User talk:Purplewowies|talk]]) 17:30, 20 April 2014 (UTC)
+
+== Can't find a useful source ==
+
+I thought about asking this on the resource exchange board, but that seems to be more for getting behind paywalls than tracking down sources. Anyway, I've been searching for the Act 167 Stormwater Management Plans, which seem like they would be useful on writing articles on streams. I've managed to locate [http://www.portal.state.pa.us/portal/server.pt?open=18&objID=439672&mode=2 this list] of streams with Stormwater Management plans, but I can't find any list of the plans themselves. It would be great if someone here could figure out where I can find these. Thanks. --[[User:Jakec|Jakob]] ([[user talk:Jakec|talk]]) (Please comment on [[WP:Editor review/Jakec|my editor review]].) 01:16, 20 April 2014 (UTC)
+:I would think that [[WP:REX]] was the ideal place to track these down.  I suspect that there is not one central depository and the plans are held by the individual local authorities.  For instance, I found [http://www.dauphincd.org/swm/ACT%20167%20PLAN-FINAL/Dauphin%20County%20Phase%20II%20Plan.pdf the Dauphin County Plan] on [http://www.dauphincd.org/swm/act167.html this page] of the Dauphin county website.  Googling it seems to show up several more likely links. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 01:42, 20 April 2014 (UTC)
+::{{ping|Spinningspark}} Well, thanks, but I was actually looking for something more like [http://files.dep.state.pa.us/water/Watershed%20Management/WatershedPortalFiles/StormwaterManagement/Approved%20Plans/Act%20167%20Luzerne%20County%20Mill%20Creek.pdf this] ; i.e. for an individual creek. --[[User:Jakec|Jakob]] ([[user talk:Jakec|talk]]) (Please comment on [[WP:Editor review/Jakec|my editor review]].) 12:00, 20 April 2014 (UTC)
+
+== Editing the title of an article ==
+
+Is it possible to edit the title of an article? A friend has asked me to change the title of his page. The title includes his middle initial, which he does not use professionally. He would like only the middle initial removed.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Dr. Andrea Bruce|Dr. Andrea Bruce]] ([[User talk:Dr. Andrea Bruce|talk]] • [[Special:Contributions/Dr. Andrea Bruce|contribs]]) 01:47, 20 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:See [[Help:How to move a page]].  Or, if you tell someone here the name of the page, perhaps we can help you with it.  If you have a link to a [[WP:RS|reliable source]] we could read for ourselves which shows the correct name, that would be good as well.  --[[User:Jayron32|<font style="color:#000099">Jayron</font>]]'''''[[User talk:Jayron32|<font style="color:#009900">32</font>]]''''' 02:05, 20 April 2014 (UTC)
+::Looking through [[User:Dr. Andrea Bruce]]'s contributions, I'd say she's referring to [[Eugene L. Daub]].  <span style="font-family:monospace;">[[User:Dismas|Dismas]]</span>|[[User talk:Dismas|<sup>(talk)</sup>]] 02:16, 20 April 2014 (UTC)
+:::And after consulting Daub's official site, I've moved the article to the title without the initial.  <span style="font-family:monospace;">[[User:Dismas|Dismas]]</span>|[[User talk:Dismas|<sup>(talk)</sup>]] 02:21, 20 April 2014 (UTC)
+
+== Screen shots ==
+
+Dear editors:  At times when helping to debug new scripts it would be handy to provide a screen shot to the script developers.  What is the usual way to do this?  I know how to take a screen shot and save it as a JPEG file, but where should I post it?  &mdash;[[User:Anne Delong|Anne Delong]] ([[User talk:Anne Delong|talk]]) 02:42, 20 April 2014 (UTC)
+:It depends what sort of scripts these are.  If you are talking about template code, then either the template talk page or the author's talk page.  If you are talking about a [[WP:Wikimedia Labs|Wikimedia Labs]] application then contact the application developers (I thought I'd seen a table with this information somewhere on Wikimedia but I can't find it right now, someone on {{irc|wikimedia-labs}} chat channel should be able to help you with that information if you need it).  If you are talking about scripts that are part of the Wikimedia software then [https://bugzilla.wikimedia.org/ Bugzilla] might be the right place.  Remember when uploading screenshots to Wikipedia or Commons that they might contain Wikimedia logos which are copyright.  These are not covered by the CC licence.  You can still upload them if you add {{tl|Copyright by Wikimedia}} to the file licence. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 13:34, 20 April 2014 (UTC)
+
+::I'm sorry; I think I didn't frame my question clearly.  I should have asked, where should I upload it? If I understand your reply correctly, I should upload it at Commons, after making sure that no copyright logos are present.  I guess the file can always be deleted after it's not needed any more.  Thanks. &mdash;[[User:Anne Delong|Anne Delong]] ([[User talk:Anne Delong|talk]]) 15:05, 20 April 2014 (UTC)
+
+:::You can upload to either Wikipedia or Commons.  Personally, I would not upload to Commons if the image has no relevance outside Wikipedia, ie, it is just being used in a discussion here.  Commons do not normally accept non-free content, but they seem to make an exception for Wikimedia logos (provided the correct templates are present). '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 19:44, 20 April 2014 (UTC)
+
+== Need help with a video on the "Ames room" page ==
+
+There is a video on the "Ames room" page demonstrating how an Ames room works.  I used to be able to view it when I had Windows XP, but with Windows 7 I can't.  Does anyone have any suggestions as to what I need to do?  Thanks.[[User:Grammarspellchecker|Grammarspellchecker]] ([[User talk:Grammarspellchecker|talk]]) 05:03, 20 April 2014 (UTC)
+:I can view it using Windows 7 and Chrome. I suspect that your problem is not with Windows, but with your browser or its add-ons. [[User:Maproom|Maproom]] ([[User talk:Maproom|talk]]) 09:27, 20 April 2014 (UTC)
+
+== Chief Obafemi Awolowo ==
+
+I add some contribution about Chief Obafemi Awolowo using the edit and it not published. Is that not the appropriate way to add contribution on an issue published. I would like to know the better way to do this, because the fact need to be told to the public. We have being suffering in Nigeria because of his bad leadership and bad political foundation he contributed in laying down in Nigeria  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/99.5.242.53|99.5.242.53]] ([[User talk:99.5.242.53|talk]]) 05:30, 20 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:Your contribution to the [[Obafemi Awolowo]] article was removed by another editor, as unsourced. Any controversial content added to Wikipedia should be supported by references to reliable independent sources. [[User:Maproom|Maproom]] ([[User talk:Maproom|talk]]) 06:52, 20 April 2014 (UTC)
+
+== How to add map. ==
+
+How to add map to my schoool article page at --- [[New R. S. J. Public School]].  There are 2 school building and i want to add map to both of them. Can anyone please make the map and add it.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Prathamprakash29|Prathamprakash29]] ([[User talk:Prathamprakash29|talk]] • [[Special:Contributions/Prathamprakash29|contribs]]) 07:05, 20 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:Nobody can make a map unless you provide the information to go on the map.  If you can do this, you can make a request at [[Wikipedia:Graphics Lab/Illustration workshop]]. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 13:42, 20 April 2014 (UTC)
+
+== Socialism-definition ==
+
+{{hat|Unintelligible tirade with no discernible question  [[User:Rojomoke|Rojomoke]] ([[User talk:Rojomoke|talk]]) 10:21, 20 April 2014 (UTC)}}
+It is 3:00am in the morning and I do not know why I am remarking but for a memory of the definition of socialism as I know it was a threat to democracy.  As I had seen in some documentary many years hath, aural truths heard with thine ears spaken anguished words of babies being studied by the true pervayors of socialism and methodologies deplyed its value experimentations upon the mind of children to build the perfect subserviant citizen
+through understandings of stimulus and response mechanisms deployed from that knowledge of reactions to vile experiments performed often on orphaned children particvularily of those from warfare torn areas, subjected to isolations and segregations and torture and varieties of drugs, the knowlege of how to cultivate psoture of subservience commenced and the word the very word itself from the aural utterance of developing baby to child age of maturity was so sho as all children say this when experiencing there first independance of movement without assistance the documentary said, perhaps 1960s, when they are feeling there way and determining facination of things whilst learning to walk playfully and becaoming social as it was written down so sho, social, became the word because of the i a l had something to do with the nervous system and induced conditions of susceptibility increased to suggestions if such and such were inhibited or excited neuroganglia components at the time when in the last century the term was created unlike the false historical anachronisms written today as would it be a lengthy philosophy, nay just a casuistry of terms of experimentations upon Mankind which was completely illegal, during and before the ww1 and 2, and the united nations adherent then to the slavery laws which included usury experimentations for which evolved to the term socialism.  The inclusion which drew me to write this to you was in fact the comments highlighted in your text from each to another according to ability and to each another accordingly to need was the non conspiratorial sections of the UN first agreement of trade without monetary passings of any kind, and certainly protected from monopoly and military and political gain called graft.  Not anything to do with the utterances of some  brenev comments he repeeatledy said qoting th spirit of the agreement to the West primarily british ones whom hoarded trade to inure them from the wealth of resource in the East of Poland and now terms Ukraine areas of the 1960s.  Those odd features of misuse of the UN agreement are typically the obversive defiance of british sources that predominate the internet communications propaganda, as the UK is the worlds largest defyer of UN law and agreements since the signing of them, 1942 and beyond, still poisoning the world with chemicals and experiments apparatus mechanisms of warfare masked as medicine, british socialism is the type of socialism that characterizes other nations asn equated democracy with it socialism, freedom and democracy are not anything to do with social ism so whatever your site says is rubbish completely.  As far as communal orphans of torture were the learning grounds for perpetrators of socialism and building of military totalitarian complaints and instruments of easily influenced to surrender to subjections of another Canadians are like that cooperative towards appending of freedoms and allowing changes to slavery accommodating use of apparatus particularly medically of the masses, like british fawns of sheep forever lost in the dialectical semantics of depravity upon and degradation upon the will gifted to men under God.  Sure sounds pathetic and this writing may seem pathos but the loss to the right of mind underpins socialism and was the methodological structure of its design.  So from each to another and accrding to the truth to each one another the truth of the dangers of socialism would be refreshing since their are now upon america at least 100 thousand social workers trained in educations contrary to the the laws that used to exist because of the propaganda convincing others to the benefit of another managing their lives.  Life just is not hat way.  bye for now.  By the way it has now become acceptable to give antidepressants to babies enfants these days is not that too much, and that is a result of accomodations to socialism.  So stand up and correct correct the text protect the infants that they may live a free life tommorrow with out torrmenting stimulas tweaking their life along the way to sidetrack them into and out of jobs along the way, holy european union of UK eh, would you lie a treaty with a little sugar on top and a fairy tale with that.  And do not forget america is evil and the queen is good, want a pumkin pie with your coffee?  And excuse me I must go beat someone over their on a hanging ple while you are entertained in the night look the other way it is just ghosts, it is nothing at all, tea anybody with a little coal tar, todfay that is called benzodiazepine its for anxiexy enforced by plice socialism part of the arsenal...
+It is a crying shame,...truly.  from each to another british versioning with incredible insult as roosevelt wrote that to include non conspiracy laws and hoarding greedy for profit was included inside the UN first agreement and still is their if you have ever read it as I have read it in old encyclopedia when I was a child.  
+
+Bernard LOuis Liberto    <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/96.127.194.196|96.127.194.196]] ([[User talk:96.127.194.196|talk]]) 07:31, 20 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+{{hab}}
+
+== my reference ==
+
+I want to put my references and it does mark in blue. I tried fixing and I got warning in red letters  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Knurit|Knurit]] ([[User talk:Knurit|talk]] • [[Special:Contributions/Knurit|contribs]]) 11:04, 20 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:It was fixed, you needed to add {{tl|Reflist}}, to get the references to show up.  [[User:GB fan|GB]]&nbsp;[[User talk:GB fan|fan]] 11:55, 20 April 2014 (UTC)
+
+== Adding the name of an author / expert to an existing article ==
+
+I am trying to add the name of an expert / English translator to the Wikipedia page on Rumi but the page doesn't appear to have an 'edit' button. I'm logged in / registered user.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Mmeddin|Mmeddin]] ([[User talk:Mmeddin|talk]] • [[Special:Contributions/Mmeddin|contribs]]) 15:34, 20 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:[[Rumi]] is [[WP:SEMI|semi-protected]]. Wait until you are [[WP:AUTOCONFIRM|autoconfimed]] or place your requested edit on the article's talk page. --[[User:NeilN|'''<font color="navy">Neil<font color="red">N</font></font>''']] <sup>''[[User talk:NeilN|<font color="blue">talk to me</font>]]''</sup> 15:39, 20 April 2014 (UTC)
+
+== Twinkle ==
+
+I saw many people using Twinkle. How do I use it myself? My account is five months old if that matters. [[User:Wirenote|wirenote]] ([[User talk:Wirenote|talk]]) 17:02, 20 April 2014 (UTC)
+:{{ping|Wirenote}} Tick the checkbox next to Twinkle listed at [[Special:Preferences#mw-prefsection-gadgets]] under the Browsing section. See [[WP:TW]] for details. --[[User:Glaisher|<span title="Philon">Glaisher</span>]] [[User talk:Glaisher#top|<small>[talk]</small>]] 17:05, 20 April 2014 (UTC)
+::Thank you. [[User:Wirenote|wirenote]] ([[User talk:Wirenote|talk]]) 17:13, 20 April 2014 (UTC)
+
+== Binary Word Paintings. ==
+
+I have developed a format for free form verse called Binary Word Paintings and I would like to know how I can post a definition of a Binary word Painting on the Wikipedia.  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Zachkai|Zachkai]] ([[User talk:Zachkai|talk]] • [[Special:Contributions/Zachkai|contribs]]) 17:16, 20 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+: When the term has received significant coverage in a number of published [[WP:reliable sources|reliable sources]] independent of the subject, then it may be considered sufficiently [[WP:notable|notable]] for someone to write a Wikipedia article about it, but that someone should not be you because your [[WP:conflict of interest|conflict of interest]] would make it difficult for you to maintain a [[WP:neutral point of view|neutral point of view]]. --[[User:David Biddulph|David Biddulph]] ([[User talk:David Biddulph|talk]]) 17:33, 20 April 2014 (UTC)
+
+:Also note that Wikipedia is [[WP:DICDEF|not the place for dictionary definitions]]. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 19:52, 20 April 2014 (UTC)
+
+== copy paste stories ==
+
+Hiya, I copy paste created these stories [[James Boyd shooting]] - [[Alfred Redwine shooting]] from this story [[Albuquerque_Police_Department#See_also]]. I thought they would be deleted but they are still live, I think I have to post a notice on the talkpage saying where the story is copied from? [[User:Mosfetfaser|Mosfetfaser]] ([[User talk:Mosfetfaser|talk]]) 19:10, 20 April 2014 (UTC)
+:[[User:Mosfetfaser|Mosfetfaser]], you can use [[Template:Copied]]. --[[User:kelapstick|kelapstick]]<sup>([[User talk:Kelapstick#top|bainuu]]) </sup> 19:18, 20 April 2014 (UTC)
+::Ow cool , will do , ta kelapstick - [[User:Mosfetfaser|Mosfetfaser]] ([[User talk:Mosfetfaser|talk]]) 19:24, 20 April 2014 (UTC)
+
+==Edit heading==
+how can i wrote about myself?  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Subhasis koley|Subhasis koley]] ([[User talk:Subhasis koley|talk]] • [[Special:Contributions/Subhasis koley|contribs]]) 20:31, 20 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:On [[Facebook]]? '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 20:49, 20 April 2014 (UTC)
+
+:If you are asking how to write a Wikipedia article about yourself, the answer is Don't. Please see [[WP:autobiography|autobiography]] for why you shouldn't. If you are asking about your user page (the page [[User:Subhasis koley]], which appears as a redlink because it doesn't yet exist) you may write a certain amount about yourself on that page, but it should be mostly about you ''as a Wikipedia editor'', not substantially about anything unrelated to your work on Wikipedia. Please see [[WP:Userpage|Userpage]] for more information on that --[[User:ColinFine|ColinFine]] ([[User talk:ColinFine|talk]]) 00:11, 21 April 2014 (UTC)
+
+== Procedure for re-instating bio page ==
+
+My bio page now redirects to an agency I ran in 2010/2011.  How do I reinstate my bio page. Thank you [[User:Californiasecstate|Californiasecstate]] ([[User talk:Californiasecstate|talk]]) 21:34, 20 April 2014 (UTC)
+:Where is your "bio page"? Who are you? Knowing only your username, it is hard to guess what article you are asking about. [[User:Maproom|Maproom]] ([[User talk:Maproom|talk]]) 21:42, 20 April 2014 (UTC)
+
+:It sounds from your description as if somebody wrote an article about you, and somebody else decided that there should not be an article about you and made it into a redirection page. If you meet Wikipedia's criteria for "notability" (which means that you - and not just your company - have been written about in multiple [[WP:IRS||reliable sources, independent of you and your company]]), then there may be an article about you. But you are '''strongly''' discouraged from writing such an article: see [[WP:autobiography|autobiography]].
+:If there was a page about you which has been converted into a redirection page, older versions should be available in the history of the redirection page (pick where it says "Redirected from xxxx" at the top of the company page, and then pick the "history" tab). --[[User:ColinFine|ColinFine]] ([[User talk:ColinFine|talk]]) 00:17, 21 April 2014 (UTC)

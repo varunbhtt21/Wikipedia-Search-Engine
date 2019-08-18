@@ -1,0 +1,60 @@
+Title : PBAD promoter
+Text : {{technical|date=July 2014}}
+
+[[File:Figure 2. Expression of araB, araA and araC in the presence of arabinose..png|thumb|'''Figure 1. Expression of ''araB'', ''araA'' and ''araC'' in the presence of arabinose.''' In the presence of arabinose, arabinose binds to the arabinose binding pocket sites of AraC, causing AraC to dimerize at the I<sub>1</sub> and I<sub>2</sub> operators. This allows access for CAP to bind to the CAP-binding sites, which in turn helps recruit RNA Polymerase to both P<sub>BAD</sub> and P<sub>C</sub> promoters and activates transcription.|415x415px]]
+
+'''P''<sub>BAD</sub> ''''' (systematically ''araBp'') is a [[Promoter (genetics)|promoter]] found in [[bacteria]] and especially as part of [[plasmid]]s used in laboratory studies. The promoter is a part of the [[arabinose]] [[operon]] whose name derives from the [[genes]] it regulates [[:en:Transcription (genetics)|transcription]] of: ''araB'', ''araA'', and ''araD''.<ref name=":0">Schleif R. AraC protein, regulation of the L-arabinose operon in Escherichia coli, and the light switch mechanism of AraC action. FEMS Microbiol Rev (2010) 1–18.</ref><ref name=":1">Schleif R. AraC protein: a love-hate relationship. Bioessays 2003, 25:274-282.</ref> In ''[[E. coli]]'', the  P<sub>BAD</sub> promoter is adjacent to the P<sub>C</sub> promoter (systematically ''araCp''), which transcribes the ''araC'' gene in the opposite direction. ''araC'' encodes the AraC [[protein]], which regulates activity of both the  P<sub>BAD</sub> and P<sub>C</sub> promoters.<ref name=":2">Reed WL, Schleif RF. Hemiplegic Mutations in AraC Protein. J. Mol. Biol. (1999) 294, 417-425.</ref><ref name=":3">Lobell RB, Schleif RF. DNA looping and unlooping by AraC protein. Science. 1990 Oct 26;250(4980):528-32.</ref><ref>Soisson SM, MacDougall-Shackleton B, Schleif R, Wolberger C. Structural basis for ligand-regulated oligomerization of AraC. Science. 1997 Apr 18;276(5311):421-5.</ref> The [[Cyclic amp|cyclic AMP]] receptor protein [[Catabolite activator protein|CAP]] binds between the  P<sub>BAD</sub> and P<sub>C</sub> promoters, stimulating transcription of both when bound by cAMP.<ref name=":4">Dunn T.M., Schleif R. Deletion Analysis of the Escherichia coli ara PC and PBAD Promoters. J.Mol. Biol. (1984) 180, 201-204.</ref>
+
+==Regulation of  P<sub>BAD</sub>==
+
+Transcription initiation at the  P<sub>BAD</sub> promoter occurs in the presence of high arabinose and low [[glucose]] concentrations.<ref name=":5">Guzman LM, Belin D, Carson MJ, Beckwith J. Tight regulation, modulation, and high-level expression by vectors containing the arabinose PBAD promoter. J Bacteriol. Jul 1995; 177(14): 4121–4130.</ref> Upon arabinose binding to AraC, the [[N terminus|N-terminal]] arm of AraC is released from its [[Dna binding domain|DNA binding domain]] via a “light switch” mechanism.<ref name=":0" /><ref name=":1" /> This allows AraC to [[dimerize]] and bind the I<sub>1</sub> and I<sub>2</sub> [[Operator (biology)|operators]].<ref name=":2" /> The AraC-arabinose dimer at this site contributes to [[activation]] of the P<sub>BAD </sub>promoter.<ref name=":1" /> Additionally, CAP binds to two CAP binding sites [[Upstream and downstream (DNA)|upstream]] of the I<sub>1</sub> and I<sub>2</sub> operators and helps activate the P<sub>BAD</sub> promoter.<ref name=":4" /> In the presence of both high arabinose and high glucose concentrations however, low cAMP levels prevent CAP from activating the P<sub>BAD</sub> promoter.<ref name=":5" />  It is hypothesized that P<sub>BAD</sub> promoter activation by CAP and AraC is mediated through contacts between the [[C terminus|C-terminal]] [[Protein domain|domain]] of the α-subunit of [[RNA polymerase]] and the CAP and AraC proteins.<ref>Johnson CM, Schleif RF. Cooperative Action of the Catabolite Activator Protein and AraC In Vitro at the araFGH Promoter. J Bacteriol. Apr 2000; 182(7).</ref>
+
+[[File:Ara abs.png|thumb|'''Figure 2. Expression of ''araB'', ''araA'' and ''araC'' does not occur when arabinose is not present.''' In the absence of arabinose, AraC dimerizes while bound to the O<sub>2</sub> and I<sub>1</sub> operator sites, looping the DNA. The looping prevents binding of CAP and RNA Polymerase, which normally activate the transcription of both P<sub>BAD</sub> and P<sub>C</sub>.|416x416px]]
+
+Without arabinose, and regardless of glucose concentration, the P<sub>BAD</sub> and P<sub>C </sub>promoters are [[Repressor|repressed]] by AraC.<ref name=":1" /><ref name=":5" /> The N-terminal arm of AraC interacts with its DNA binding domain, allowing two AraC proteins to bind to the O<sub>2</sub> and I<sub>1</sub> operator sites.<ref name=":0" /> The O<sub>2 </sub>operator is situated within the ''araC '' gene. An AraC dimer also binds to the O<sub>1</sub> operator and represses the P<sub>C</sub> promoter via a [[Negative feedback|negative]] [[Autoregulation|autoregulatory]] [[Feedback loop|feedback]] loop.<ref name=":1" /> The two bound AraC proteins dimerize and cause looping of the DNA.<ref name=":2" /><ref name=":3" /> The looping prevents binding of CAP and RNA Polymerase, which normally activate the transcription of both P<sub>BAD</sub> and P<sub>C</sub>.
+
+{|class="wikitable"
+
+|
+Transcription by P<sub>BAD</sub>
+
+|
+'''High Arabinose'''
+
+|
+'''Low Arabinose'''
+
+|-
+|
+'''High Glucose'''
+
+|
+Repressed
+
+|
+Repressed
+
+|-
+|
+'''Low Glucose'''
+
+|
+Active
+
+|
+Repressed
+
+|}
+
+The spacing between the O<sub>2</sub> and I<sub>1</sub> operator sites is critical. Adding or removing 5 [[base pair]]s between the O<sub>2</sub> and I<sub>1</sub> operator sites abrogates AraC mediated repression of the P<sub>BAD</sub> promoter.<ref name=":0" /> The spacing requirement arises from the [[double helix]] nature of [[DNA]], in which a complete turn of the helix is about 10.5 [[nucleotide]]s. Therefore, adding or removing 5 base pairs between the O<sub>2</sub> and I<sub>1</sub> operator sites rotates the helix roughly 180 degrees. This reverses the direction that the O<sub>2 </sub>operator faces when the DNA is looped and prevents dimerization of the O<sub>2</sub> bound AraC with the bound I<sub>1</sub> ''araC''.<ref name=":0" /><ref name=":1" />
+
+==The P<sub>BAD</sub> promoter on expression plasmids==
+
+[[File:PBAD33.png|thumb|'''Figure 3. A representation of the PBAD 33 promoter on a plasmid with common cis-acting regions.'''  Abbreviations are defined as the phagemid origin (f1 origin), chloramphenicol resistance (CmR), plasmid origin (p15A ori), araC gene (araC), araC operator sites (araC O2 and O1), CAP-binding site (CAP BS), araC inducer sites (I1/I2), PBAD promoter (pBAD) and the multiple cloning site (MCS).|375x375px]]
+<br />
+The P<sub>BAD</sub> promoter allows for tight regulation and control of a target gene ''in vivo''.<ref name=:5 />  As explained above, P<sub>BAD</sub> is regulated by the addition and absence of [[arabinose]]. As tested, the promoter can be further repressed with reduced levels of [[Cyclic adenosine monophosphate|cAMP]] through the addition of glucose.<ref name=:5 /> Plasmid vectors have been constructed and tested with a [[selectable marker]] (Cm<sup>R</sup> in this case), [[origin of replication]], ''araC'' and operons, [[multiple cloning site]] and P<sub>BAD</sub> promoter. Studies show that vectors are highly expressed and can be used, in combination with chromosomal [[null alleles]], to study loss of function of essential genes.<ref name=:5 />
+
+==References==
+{{Reflist}}
+
+[[Category:Gene expression]]

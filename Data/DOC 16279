@@ -1,0 +1,27 @@
+Title : ICARUS Initiative
+Text : [[File:ISS-56 EVA-2 (b) Oleg Artemyev installs Icarus.jpg|thumb|Installation of the ICARUS antenna]]
+
+The '''ICARUS Initiative''', short for International Cooperation for Animal Research Using Space, is an international effort to track the migratory patterns of small flying animals using satellite imagery. The project began in 2002 and the tracker was finally installed on the [[International Space Station]] (ISS) in August 2018<ref>{{cite news |url=https://spaceflightnow.com/2018/08/15/russian-eva-45/ |title=Spacewalkers toss nanosatellites into orbit, hook up bird migration monitor |work=Spaceflight Now |first=Stephen |last=Clark |date=August 15, 2018 |access-date=August 23, 2018}}</ref> and switched on in July 2019.<ref>{{cite web |title=ICARUS has been switched on: Testing has started |url=https://www.uni-konstanz.de/en/university/news-and-media/current-announcements/news/news-in-detail/ICARUS-in-Betrieb-genommen-Testphase-hat-begonnen/ |publisher=University of Konstanz |accessdate=17 July 2019}}</ref> The director for the ICARUS project is Martin Wikelski, director of the [[Max Planck Institute for Ornithology]] in Germany.
+
+==Technology==
+Since the late 1980s animal tracking via satellite has been accomplished through the use of the [[Argos system]], which was historically limited to larger animals and with which ICARUS hopes to compete.<ref name=Aktuell>{{cite journal|title=Movement of Animals|journal=Akademie Aktuell|date=October 1, 2012|pages=18–21|url=http://icarusinitiative.org/sites/default/files/Migration%2520of%2520Animals%2520Oct%25202012_0_0.pdf|accessdate=29 April 2014}}</ref>  One major hurdle to tracking the movements of birds and especially insects is creating a transmitter small enough to place on individual animals. The ICARUS project currently implements 5 g radio transmitters that include a [[GPS navigation device|GPS receiver]], but has plans to use devices weighing less than 1 g in the future. Wikelski believes that within about five years there will be transmitters light enough to attach to a roughly 120&nbsp;mg honeybee. Since the ISS is only 320&nbsp;km from the Earth's surface instead of 850&nbsp;km like the Argos satellites, the ICARUS trackers do not have to create as strong of a radio signal and can therefore be smaller.<ref name=Science>{{cite journal|last=Pennisi|first=Elizabeth|title=Global Tracking of Small Animals Gains Momentum|journal=Science|date=25 November 2011|volume=334|issue=6059|page=1042|url=http://icarusinitiative.org/sites/default/files/Science-25.Nov_.2011-M.Wikelski.pdf|accessdate=25 November 2011|doi=10.1126/science.334.6059.1042|pmid=22116848}}</ref>  The transmitters tags are solar-powered and only activate when a satellite passes over them. About 5,000 to 10,000 tags are expected to be in use at the time of the 2015 launch.<ref name=Guardian>{{cite web|last=Vidal|first=John|title=Birds' migration secrets to be revealed by space tracker|url=https://www.theguardian.com/environment/2014/jan/19/migration-secrets-birds-icarus-space-station|work=The Observer|publisher=''[[The Guardian]]''|accessdate=29 April 2014}}</ref><ref name=Nautilus>{{cite web|last=Scott|first=Julia|title=Tracking Honeybees to Save Them|url=http://nautil.us/issue/3/in-transit/tracking-honeybees-to-save-them|publisher=''[[Nautilus (magazine)|Nautilus]]''|accessdate=29 April 2014}}</ref>
+
+==Applications==
+The primary purpose of the ICARUS Initiative is to greatly expand available data on animal migrations for the sake of conservation, although a variety of other fields of study may be advanced by the project's information gathering. Studying the movements of birds and insects may further scientists' understanding of how natural hazards and human interactions affect animal populations. Another application for the data collected by ICARUS is to investigate a possible link between unusual animal movements and impending earthquakes. It has long been hypothesized that some birds and bats can predict earthquakes because of their ability to detect shifts in magnetic fields, but so far the only evidence to support this has been anecdotal.<ref name=Economist>{{cite web|title=Seismology: Can animals predict earthquakes?|url=https://www.economist.com/blogs/babbage/2014/02/seismology?zid=313&ah=fe2aac0b11adef572d67aed9273b6e55|work=Babbage|publisher=''[[The Economist]]''|accessdate=29 April 2014|author=R.W.}}</ref> The project's migratory data may also provide greater insight into the propagation of animal-borne diseases like [[Severe acute respiratory syndrome|SARS]], [[Avian influenza|bird flu]] and [[West Nile virus]].<ref name=Guardian />
+
+==Supporters==
+*[[DLR Institute for Planetary Research]]
+*[[European Space Agency]]
+*[[Food and Agriculture Organization]]
+*UNEP/CMS ([[United Nations Environment Programme]] - Convention on migratory species)<ref name=Aktuell/>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|http://icarusinitiative.org}}
+*[http://icarusinitiative.org/sites/default/files/ICARUS%20White%20Paper%20Oct%202008.pdf White Paper]
+
+[[Category:Bird migration]]
+[[Category:Ornithological equipment and methods]]
+[[Category:Wireless locating]]

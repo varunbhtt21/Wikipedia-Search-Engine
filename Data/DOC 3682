@@ -1,0 +1,20 @@
+Title : Quasi-fibration
+Text : In [[algebraic topology]], a branch of mathematics, a '''quasi-fibration''', introduced by [[Albrecht Dold]] and [[René Thom]], is a [[continuous function|continuous map]] of [[topological space]]s <math>f\colon X \to Y</math> such that the fibers <math>f^{-1}(y)</math> are [[homotopy equivalent]] to the [[homotopy fiber]] of ''f'' via the canonical map. 
+
+Every [[fibration]] is a quasi-fibration, but the converse is not true. For instance, the projection of the letter L to its base interval is a quasi-fibration (all fibers are [[contractible space|contractible]]), but not a fibration. 
+
+==References==
+*{{Citation | last1=Dold | first1=Albrecht | last2=Thom | first2=René | authorlink1= Albrecht Dold | authorlink2= René Thom | title=Quasifaserungen und unendliche symmetrische Produkte | jstor=1970005 | mr=0097062 | year=1958 | journal=[[Annals of Mathematics]] |series=Second Series | issn=0003-486X | volume=67 | pages=239–281 | doi=10.2307/1970005}}
+*{{Citation|last=May|first=J.Peter|authorlink=J. Peter May|
+contribution=Weak equivalences and quasifibrations|title= Groups of self-equivalences and related topics (Montreal, PQ, 1988)|pages= 91–101| 
+series=Lecture Notes in Mathematics|volume= 1425|publisher= Springer|location=Berlin|year= 1990|mr=1070579|chapter-url=http://www.math.uchicago.edu/~may/PAPERS/67.pdf|doi=10.1007/BFb0083834}}
+
+== External links ==
+*http://mathoverflow.net/questions/53782/quasifibrations-and-homotopy-pullbacks
+*http://mathoverflow.net/questions/60763/when-a-quasifibration-is-a-hurewicz-fibration
+*http://www.lehigh.edu/~dmd1/tg516.txt
+
+[[Category:Algebraic topology]]
+
+
+{{topology-stub}}

@@ -1,0 +1,564 @@
+Title : Wikipedia:Sockpuppet investigations/Shuppiluliuma/Archive
+Text : __TOC__
+{{SPIarchive notice|1=Lord of Rivendell}}
+{{SPIpriorcases}}
+
+===== <big>Report date April 23 2009, 03:48 (UTC)</big>=====
+
+{{SPIcat}}
+
+;Suspected sockpuppets <!-- BOTDONE_USER_NOTICE DO_NOT_MODIFY [[Shuppiluliuma]][[Shiham K]][[Hekatonesos]][[Truthspeaks11]][[78.40.231.225]][[85.153.27.4]][[Gilokalentel]] (THIS CURRENTLY IS NOT ACTIVE, this comment is for testing only) -->
+*{{checkuser|Shiham K}}
+*{{checkuser|Hekatonesos}}
+*{{checkuser|Truthspeaks11}}
+*{{checkuser|78.40.231.225}}
+*{{checkuser|85.153.27.4}}
+*{{checkuser|Gilokalentel}}
+;Evidence submitted by [[User:Hiberniantears|Hiberniantears]]
+For background, this is the most helpful of the previous cases to read through: [[Wikipedia:Requests for checkuser/Case/Shuppiluliuma]] last year.
+
+This time through, I blocked Shiham K as an obvious sock, but requesting a CU for all underlying IP ranges. Currently appears to be editing from 85.153.27.4 and the associated range out of Istanbul. I have previously blocked an IP range out of Milan, Italy, and could greatly benefit from a comprehensive look at this editor's IPs. 
+
+Additionally, I blocked [[User:Hekatonesos]] as another obvious sock, and suspect that [[User:Truthspeaks11]] is probably him as well. For a little additional background, Shuppiluliuma edits from dynamic IPs, and has created at least dozens of sleeper accounts over the years. I'm looking for multiple IP ranges that can be blocked, and a list of sleeper accounts. 
+
+In fairness, whoever this guy is, he makes a fair number of helpful contributions. However, every couple of months he goes off the rails and starts antagonizing other editors at pages generally related to [[Turkey]]. This has now been going on for years (in fact, my initial run in with him back in Spring 2007 killed my first attempt at RfA). Lately, I have been giving him space so long as he behaves, and because chasing his socks around is a bit like a dog chasing its tail. In the case of Shiham, I was fairly certain all along that it was Shuppiluliuma from day 1, but let him be until another administrator reached out to me for my opinion on whether it was him or not. When he began an edit war this week over an image of Turkish money, I blocked him, but as you can see from the growing list above, he hasn't really missed a beat. Because of the number of sleeper accounts and IPs from different ranges that Shuppiluliuma uses, it is very difficult to regularly keep an eye out for him as the pages he edits already tend to have many editors of various nationalist POVs. My request for a very thorough CU here is aimed at avoiding mistakenly identifying innocent editors making newbie mistakes, as well as finding a more effective way to create a stable environment around pages like Turkey. Obviously, if we get flagged revisions off the ground, life becomes a lot easier for those of us watching pages that are impacted by editors like Shuppiluliuma... but in the mean time, I would really appreciate a deep look at this by a CU. [[User:Hiberniantears|Hiberniantears]] ([[User talk:Hiberniantears|talk]]) 18:00, 24 April 2009 (UTC) 
+
+;Comments by accused parties  &nbsp;&nbsp; <small><span style="font-weight:normal">''See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</span></small>
+
+
+;Comments by other users
+
+
+;CheckUser requests
+{{RFCU|F|no2ndletter|Checked}}
+{{Endorse}} to check for potential range blocks and collateral damage [[User:Mayalld|Mayalld]] ([[User talk:Mayalld|talk]]) 06:29, 23 April 2009 (UTC)
+;Clerk, patrolling admin and checkuser comments
+{{clerk-note}} merged from other case. [[User:Mayalld|Mayalld]] ([[User talk:Mayalld|talk]]) 06:29, 23 April 2009 (UTC)
+
+;Conclusions
+* {{confirmed}}: {{checkuser|Shiham K}} and {{checkuser|Hekatonesos}} are the same and almost certainly Shuppiluliuma (including both IPs).
+* {{unrelated}}: {{checkuser|Truthspeaks11}} and {{checkuser|Gilokalentel}}, to each other and to Shuppiluliuma.
+* The 78 address range was softblocked for a month, but the other would cause a great deal of collateral damage.  &mdash;&nbsp;[[User:Coren|Coren]]&nbsp;<sup>[[User Talk:Coren|(talk)]]</sup> 04:51, 26 April 2009 (UTC)
+:Thanks! For future reference, what was the range for the 78 address? [[User:Hiberniantears|Hiberniantears]] ([[User talk:Hiberniantears|talk]]) 15:28, 26 April 2009 (UTC)
+::78.40.192.0/18 &mdash;&nbsp;[[User:Coren|Coren]]&nbsp;<sup>[[User Talk:Coren|(talk)]]</sup> 15:31, 26 April 2009 (UTC)
+{{SPIclose|ARCHIVE}}--Tagged confirmed accounts; already blocked. <font face="Arial"> [[User:PeterSymonds|<font color="#02e">Peter</font><font color="#02b"><b>Symonds</b></font>]]&nbsp;([[User talk:PeterSymonds|<font color="#02e">talk</font>]])</font> 16:49, 26 April 2009 (UTC)
+:{{clerk-note}}  Okie-dokie.  Archiving.  — [[User:Jake Wartenberg|<font color="#21421E" face="Harrington">Jake</font>]] [[User_talk:Jake_Wartenberg|<font color="#21421E" face="Harrington">Wartenberg</font>]] 17:11, 26 April 2009 (UTC)
+----
+===== <big>Report date April 30 2010, 19:26 (UTC)</big>=====
+
+{{SPIcat}}
+
+<!-- Please do not add a header here -->
+
+======<span style="font-size:150%"> Suspected sockpuppets  </span>======
+* {{checkuser|1=StanStun}}
+
+
+======<span style="font-size:150%"> Evidence submitted by [[User:Athenean]] </span>======
+[[User:StanStun]] appears to be the latest in a long list of socks by the dreadful [[User:Shuppiluliuma]].  This case screams WP:DUCK pretty loudly.  Specifically:
+
+*Identical interests with previous Shuppiluliuma socks: [[Turkey]], Turkish cities (esp. [[Istanbul]]), [[Economy of Turkey]], [[Turkish Navy]], [[Accession of Turkey to the European Union]].  Compare the contribs for {{userlinks|StanStun}} with those of previous Shupp socks: [http://en.wikipedia.org/w/index.php?title=Special:Contributions&limit=500&contribs=user&target=Lancaster+Beaufighter] [http://en.wikipedia.org/w/index.php?title=Special:Contributions&limit=500&contribs=user&target=Pipebag] [http://en.wikipedia.org/wiki/Special:Contributions/Ay%C3%A7a_Leovinus] [http://en.wikipedia.org/w/index.php?title=Special:Contributions&limit=500&target=Shuppiluliuma] [http://en.wikipedia.org/wiki/Special:Contributions/Lortatl%C4%B1s%C4%B1] and many many others.
+*Identical editing style, lots of small incremental edits in a row.
+*Turkish nationalist agenda, e.g. denial of the [[Armenian genocide]] [http://en.wikipedia.org/w/index.php?title=Turkey&diff=prev&oldid=358521168], and also promotion of Turkey, particularly it's European credentials [http://en.wikipedia.org/w/index.php?title=Accession_of_Turkey_to_the_European_Union&diff=prev&oldid=358764844] and economy [http://en.wikipedia.org/w/index.php?title=Economy_of_Turkey&action=historysubmit&diff=351554645&oldid=351066296].
+*Stubborn edit-warring accompanied with extreme hostility and trolling, e.g. here [http://en.wikipedia.org/w/index.php?title=Talk:Turkey&diff=prev&oldid=357926821] [http://en.wikipedia.org/w/index.php?title=Istanbul&diff=prev&oldid=358688529].  
+*Same MO as previous socks, a few edits to random articles at first, before focusing exclusively on Turkey articles with a WP:OWN mentality, as for example with this sock [http://en.wikipedia.org/w/index.php?title=Special:Contributions&limit=500&contribs=user&target=Mokoko+24-7].  See also this [http://en.wikipedia.org/w/index.php?title=User_talk%3AHiberniantears&action=historysubmit&diff=331349822&oldid=330535681]. 
+
+
+======<span style="font-size:150%"> Comments by accused parties </span>======
+
+
+======<span style="font-size:150%"> Comments by other users  </span>======
+
+
+======<span style="font-size:150%"> Clerk, patrolling admin and checkuser comments </span>======
+* Blocked, obvious. Don't think there's a need for CU; I don't think he usually keeps sleepers around. [[User:Future Perfect at Sunrise|Fut.Perf.]] [[User talk:Future Perfect at Sunrise|☼]] 19:37, 30 April 2010 (UTC)
+
+{{RFCU| E | No2ndletter | Decline }} &nbsp;&nbsp; <small>Requested by [[User:Athenean|Athenean]] ([[User talk:Athenean|talk]]) 19:26, 30 April 2010 (UTC) </small>
+<!--## Replace CODE LETTER by the appropriate code letter and Replace No2ndLetter if you need a 2nd code letter (or leave it alone if not)  ##-->
+<!--## Codeletters are: 
+       A - arbcom ban/remedy evasion
+       B - Ongoing serious pattern vandalism
+       C - Vote fraud, please wait until after vote closes
+       D - 3RR with socks
+       E - Evasion of community based bans or blocks
+       F - Other, please explain why a check should be run -->
+<!--## Make sure your evidence explains why CheckUser is appropriate                 ##-->
+{{Decline}} agreeing with Future Perfect with regard to sleepers, as the accounts have been blocked no further need for checkuser. Thanks for the report, and thanks to Future Perfect for dealing with it. Regards, [[User:Spitfire|Spitfire]]<sup>[[User talk:Spitfire|Tally-ho!]]</sup> 19:42, 30 April 2010 (UTC)
+{{SPIclose|archive}}
+----
+=====<big>23 May 2010</big>=====
+
+{{SPIcat}}
+
+<!-- Please do not add a header here -->
+
+======<span style="font-size:150%"> Suspected sockpuppets  </span>======
+* {{checkuser|1=Iceman rides your tail}}
+* {{checkip|1=88.251.68.187}}
+* {{checkip|1=78.176.98.249}}
+
+======<span style="font-size:150%"> Evidence submitted by [[User:Athenean]] </span>======
+Standard Shuppiluliuma sock.  
+
+*As soon as the latest Shup sock, {{userlinks|StanStun}} was discovered and blocked, [http://en.wikipedia.org/w/index.php?title=Special:Log/block&page=User:StanStun], this account picks up right where he left off with the maniacal removal of any mention of the [[Armenian Genocide]] from [[Turkey]] [http://en.wikipedia.org/w/index.php?title=Turkey&diff=prev&oldid=359326908], which i had restored only a few hours previously [http://en.wikipedia.org/w/index.php?title=Turkey&action=historysubmit&diff=359312967&oldid=359273258].  Note the reverts by StanStun and Iceman are identical.
+
+*Identical interests:  [[Turkey]], [[Ottoman Empire]], [[Accession of Turkey to the European Union]], [[Turkish Armed Forces]], Turkey geography articles [http://en.wikipedia.org/wiki/Special:Contributions/Iceman_rides_your_tail].  Compare the contribs of the Iceman account and the suspected IPs with the contribs of the StanStun account and previous Shuppiluliuma socks: [http://en.wikipedia.org/w/index.php?title=Special:Contributions&limit=500&contribs=user&target=Lancaster+Beaufighter] [http://en.wikipedia.org/w/index.php?title=Special:Contributions&limit=500&contribs=user&target=Pipebag] [http://en.wikipedia.org/wiki/Special:Contributions/Ay%C3%A7a_Leovinus] [http://en.wikipedia.org/w/index.php?title=Special:Contributions&limit=500&target=Shuppiluliuma] [http://en.wikipedia.org/wiki/Special:Contributions/Lortatl%C4%B1s%C4%B1]. 
+
+*Identical editing style, lots of small incremental edits to geography articles, e.g. on [[Heybeliada]] [http://en.wikipedia.org/w/index.php?title=Heybeliada&action=historysubmit&diff=363536999&oldid=355886340] (compare with [[Trabzon]] [http://en.wikipedia.org/w/index.php?title=Trabzon&offset=20100509014816&action=history]).
+
+*Same level of English, stubborn edit-warring over keeping any mention of the Armenian Genocide out of Turkey:  StanStun: [http://en.wikipedia.org/w/index.php?title=Turkey&diff=prev&oldid=358521168]  Iceman: [http://en.wikipedia.org/w/index.php?title=Turkey&diff=prev&oldid=359326908] [http://en.wikipedia.org/w/index.php?title=Turkey&diff=prev&oldid=363859690] [http://en.wikipedia.org/w/index.php?title=Turkey&diff=prev&oldid=363885655] [http://en.wikipedia.org/w/index.php?title=Turkey&diff=prev&oldid=364057914] [http://en.wikipedia.org/w/index.php?title=Turkey&diff=prev&oldid=364063842].  [[User:Athenean|Athenean]] ([[User talk:Athenean|talk]]) 05:57, 25 May 2010 (UTC)  
+
+A checkuser is necessary, since the evidence shows this was a sleeper account.  He could well have more and uses a wide IP range.  The maniacal tenacity of this individual is not to be underestimated.  He has created something like 100 socks so far.  Something more than a simple block is necessary, otherwise he will be at it again in no time
+
+======<span style="font-size:150%"> Comments by accused parties </span>======
+<small><span style="font-weight:normal">''See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</span></small>
+
+
+======<span style="font-size:150%"> Comments by other users  </span>======
+
+
+======<span style="font-size:150%"> Clerk, patrolling admin and checkuser comments </span>======
+{{RFCU| E | No2ndletter | checked }} &nbsp;&nbsp; <small>Requested by [[User:Athenean|Athenean]] ([[User talk:Athenean|talk]]) 22:26, 23 May 2010 (UTC) </small>
+<!--## Replace CODE LETTER by the appropriate code letter and Replace No2ndLetter if you need a 2nd code letter (or leave it alone if not)  ##-->
+<!--## Codeletters are: 
+       A - arbcom ban/remedy evasion
+       B - Ongoing serious pattern vandalism
+       C - Vote fraud, please wait until after vote closes
+       D - 3RR with socks
+       E - Evasion of community based bans or blocks
+       F - Other, please explain why a check should be run -->
+<!--## Make sure your evidence explains why CheckUser is appropriate                 ##-->
+{{endorse}} The submitted evidence makes sense, and I see my own similarities in edit summary style. A CU would be good as a rangeblock was placed in the past, but seems to have expired. --[[User:Shirik|<span style="color:#005">Sh</span><span style="color:#007">i</span><span style="color:#009">r</span><span style="color:#00A">ik</span>]] <small>([[User talk:Shirik|<span style="color:#88C">Questions or Comments?</span>]])</small> 14:08, 25 May 2010 (UTC)
+:{{admin note}} Blocked all three reported under [[WP:DUCK]], not requesting a CU comment on the IPs. Just looking for a possible rangeblock. (The fact that the IPs were so dramatically different suggests this may not be possible, but if we're lucky maybe it's two small ranges.) --[[User:Shirik|<span style="color:#005">Sh</span><span style="color:#007">i</span><span style="color:#009">r</span><span style="color:#00A">ik</span>]] <small>([[User talk:Shirik|<span style="color:#88C">Questions or Comments?</span>]])</small> 14:13, 25 May 2010 (UTC)
+::A rangeblock is probably not going to happen... [[User:J.delanoy|<font color="green">J'''.'''delanoy</font>]][[User Talk:J.delanoy|<sup><font color="red">gabs</font></sup>]][[Special:Contributions/J.delanoy|<font color="blue"><sub>adds</sub></font>]] 18:24, 25 May 2010 (UTC)
+
+{{SPIclose|archive}}
+----
+=====<big>31 May 2010</big>=====
+
+{{SPIcat}}
+
+<!-- Please do not add a header here -->
+
+======<span style="font-size:150%"> Suspected sockpuppets </span>======
+* {{checkuser|1=Koruyucu}}
+* {{checkuser|1=Karakemence}}
+
+
+
+======<span style="font-size:150%"> Evidence submitted by [[User:Athenean]] </span>======
+Obvious socks of Shuppiluliuma, created as soon as previous socks were blocked, identical reverts (e.g. compare [http://en.wikipedia.org/w/index.php?title=Trabzon&action=historysubmit&diff=365166262&oldid=365149626] to [http://en.wikipedia.org/w/index.php?title=Trabzon&action=historysubmit&diff=364970407&oldid=364820306]).  
+
+
+======<span style="font-size:150%"> Comments by accused parties </span>======
+<small><span style="font-weight:normal">''See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</span></small>
+
+======<span style="font-size:150%"> Comments by other users </span>======
+
+
+======<span style="font-size:150%"> Clerk, patrolling admin and checkuser comments </span>======
+
+
+*{{adminnote}} Koruyucu blocked and tagged. No evidence links Karakemence and Shuppiluliuma, and Ka. is here since 2008 anyway, so that account is left alone. [[User:Tim Song|Tim Song]] ([[User talk:Tim Song|talk]]) 22:52, 1 June 2010 (UTC)
+
+{{SPIclose|archive}}
+----
+=====<big>02 July 2012</big>=====
+
+;Suspected sockpuppets
+
+* {{checkuser|1=Ben diyom Angara}}
+* Other, already blocked, recents accounts, for CU comparison:
+** {{user|Namuslu}}
+** {{user|Türbanistan}} 
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://toolserver.org/~betacommand/cgi-bin/uc?uc=Shuppiluliuma User compare report] <small>''Auto-generated every hour.''</small>
+
+Latest of the innumerable socks by user:Shuppluliuma.  Primary interests are [[Turkey]] and Turkish military articles [http://en.wikipedia.org/w/index.php?limit=50&tagfilter=&title=Special%3AContributions&contribs=user&target=Ben+diyom+Angara&namespace=&tagfilter=&year=&month=-1].  There is a simple, foolproof way to detect his socks:  Because most of the articles he likes to edit (Turkey, Turkish Air Force, etc...) are semi-protected, he needs to rack up a number of edits on non-semiprotected articles.  So the first thing he does after creating the new account is to make a few edits to non-semied articles before editing his favorite articles.  Interestingly, these first few edits are always related to the new sock's name, it's as if each of his socks has a "theme".  I noticed this with his sock {{user|Mokoko 24-7}}, which edited a few Japan related articles, then as soon as he reached 20 edits or so, immediately switched to [[Turkey]] and never looked back [http://en.wikipedia.org/w/index.php?title=Special:Contributions/Mokoko_24-7&dir=prev&target=Mokoko+24-7].  The first edits by Ben diyom Angora are to topics related to the Turkish capital Ankara (of which "Angara" is an alternate spelling and "Ben diyom Angara means "I sent him to Ankara").  Then, after those edits, it's back to the [[Turkish Armed Forces]] and [[Turkey]].  Also, Shuppiluliuma and socks love to make lots of small consecutive edits to articles, endlessly tweaking them, much like Ben dioym Angara.  Ben diyom Angora thus fits the pattern perfectly. [[User:Athenean|Athenean]] ([[User talk:Athenean|talk]]) 20:21, 2 July 2012 (UTC)
+
+Regarding the checkuser, he has at least two socks that were active until a few days/weeks ago, [[User:Namuslu]] and [[User:Türbanistan]], so they can be used for checkuser purposes.  His older accounts are of course stale. [[User:Athenean|Athenean]] ([[User talk:Athenean|talk]]) 21:32, 3 July 2012 (UTC)
+
+======<span style="font-size:150%">Comments by other users</span>======
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+======<span style="font-size:150%">Clerk, CheckUser, and/or patrolling admin comments</span>======
+*<del>{{Decline}} - because all of the contrib data in the archive is stale. This will have to be decided on behavioral evidence.</del> <br />&nbsp;—&nbsp;[[User:Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">Berean Hunter</span>]] [[User talk :Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">(talk)</span>]] 17:18, 3 July 2012 (UTC)
+:: Please reconsider; recent account {{user|Namuslu}} with several other socks ({{user|Türbanistan}} etc.) were likely also him. [[User:Future Perfect at Sunrise|Fut.Perf.]] [[User talk:Future Perfect at Sunrise|☼]] 21:58, 3 July 2012 (UTC)
+:::I wasn't aware of the other accounts. Striking my decline and moving back to open CU request for consideration.<br />&nbsp;—&nbsp;[[User:Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">Berean Hunter</span>]] [[User talk :Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">(talk)</span>]] 22:08, 3 July 2012 (UTC)
+
+Ben diyom Angara, Türbanistan, and Namuslu are {{confirmed}}. --[[User talk:MuZemike|MuZemike]] 23:31, 10 July 2012 (UTC)
+*Blocked and tagged. -- [[User:DeltaQuad|<font color="green">DQ</font>]][[User_Talk:DeltaQuad|<font color="blue"> (ʞlɐʇ) </font>]] 02:19, 11 July 2012 (UTC)
+----
+<!--- All comments go ABOVE this line, please. -->
+
+=====<big>22 April 2014</big>=====
+
+
+;Suspected sockpuppets
+* {{checkip|1=78.181.138.199}}
+* {{checkip|1=88.251.110.42}}
+* {{checkip|1=88.251.88.62}}
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://toolserver.org/~betacommand/cgi-bin/uc?uc=Lord%20of%20Rivendell User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+Block evasion. Identical arguments: [[Special:Diff/604958582|Lord of Rivendell diff1]],  [[Special:Diff/605137931|Lord of Rivendell diff2]] vs. [[Special:Diff/605148910|IP 78.181.138.199]]. 
+
+;Examples
+*[[Special:Diff/605148910|IP 78.181.138.199]]: {{xt|According to [[Encyclopædia Britannica]] (which is the world's most prestigious "academic" encyclopedia, and will always be more prestigious than [[Wikipedia]], which will never be accepted as an "academic" source)}}
+*[[Special:Diff/604958582|Lord of Rivendell diff1]]: {{xt|According to [[Encyclopædia Britannica]] (which is the world's most prestigious "academic" encyclopedia, and will always be more prestigious than [[Wikipedia]], which will never be accepted as an "academic" source)}}
+More IPs have been involved over the past few days, ex. 2 IPs 88.251.xxx.xx, but this is the latest disruption using IP 78.181.138.199. {{megaphone duck}}.  [[User:Dr.K.|Δρ.Κ.]]&nbsp;<small><sup style="position:relative">[[User talk:Dr.K.|λόγος]]<span style="position:relative;bottom:-2.0ex;left:-5.2ex;*left:-5.5ex">[[Special:Contributions/Dr.K.|πράξις]]</span></sup></small>  01:56, 22 April 2014 (UTC)
+
+======<span style="font-size:150%">Comments by other users</span>======
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+======<span style="font-size:150%">Clerk, CheckUser, and/or patrolling admin comments</span>======
+*Blocked, closing. [[User:King of Hearts|King of]] [[User:King of Hearts|<font color="red">&hearts;</font>]] [[User talk:King of Hearts|<font color="red">&diams;</font>]] [[Special:Contributions/King of Hearts|<font color="black">&clubs;</font>]] &spades; 21:56, 23 April 2014 (UTC)
+----<!--- All comments go ABOVE this line, please. -->
+=====<big>16 August 2014</big>=====
+
+
+;Suspected sockpuppets
+* {{checkuser|1=Eldarion of Gondor and Arnor}}
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Lord%20of%20Rivendell User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+New account. Username derived using names from [[Lord of the Rings]], exactly as the master, and edits disruptively. The articles the sock edits are, you guessed it, [[Turkey]]-related with an emphasis on Turkey. {{megaphone duck}}. [[User:Dr.K.|Δρ.Κ.]]&nbsp;<small><sup style="position:relative">[[User talk:Dr.K.|λόγος]]<span style="position:relative;bottom:-2.0ex;left:-5.2ex;*left:-5.5ex">[[Special:Contributions/Dr.K.|πράξις]]</span></sup></small> 10:20, 16 August 2014 (UTC)
+;Evidence
+*Image-related edit-warring at [[Template:Largest cities in Turkey]]: [[Special:Diff/568584896|Lord of Rivendell]] as compared to [[Special:Diff/621111170|Eldarion of Gondor]]
+*Large-scale additions/deletions on [[Turkey]]-related articles accompanied by edit-warring and personal edit-summaries directed at user {{u|Elmasmelih}}: [[Special:Diff/595845915|Lord of Rivendell]], [[Special:Diff/621337459|Eldarion of Gondor]]
+*[[Special:permalink/593230320|The userpage of Lord of Rivendell]] was decorated in a similar way with that of {{u|Eldarion of Gondor and Arnor}}, using images from the [[Lord of the rings]]
+*Repeating the same disapproved activity
+*Editing identical articles
+*Similar writing/editing styles
+*[[WP:ACTING]]
+
+======<span style="font-size:150%">Comments by other users</span>======
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+Eldarion of Gondor and Arnor has same altitude with Lord of Rivendell as you can see in the history of [[Turkey]]. He removes valuable/cited/GA reviwer recommended edits without any reasonbale in summaries. Also see [http://tools.wmflabs.org/sigma/editorinteract.py?user1=Eldarion+of+Gondor+and+Arnor&user2=Lord+of+Rivendell&user3=&startdate=20130101&enddate=20140816&ns= this] <span style="font-size: 150%; font-family: New Times Roman;">[[User:Elmasmelih|<span style="color:#006400">elmasmelih</span>]]</span> 11:37, 16 August 2014 (UTC)
+
+======<span style="font-size:150%">Clerk, CheckUser, and/or patrolling admin comments</span>======
+
+Eldarion blocked as obvious, plus a recent IP {{ipuser|88.251.86.240}} that was trying to stir up trouble at [[WP:AN]]. [[User:Future Perfect at Sunrise|Fut.Perf.]] [[User talk:Future Perfect at Sunrise|☼]] 16:08, 17 August 2014 (UTC)
+*Closing...no checkuser necessary at this time. <br />&nbsp;—&nbsp;[[User:Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">Berean Hunter</span>]] [[User talk :Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">(talk)</span>]] 18:23, 17 August 2014 (UTC)
+----<!--- All comments go ABOVE this line, please. -->
+=====<big>24 April 2015</big>=====
+
+
+;Suspected sockpuppets
+* {{checkuser|1=Superfluous man}}
+* {{checkuser|1=85.107.23.27}} - IP sock activated after Superfluous got a second edit-warring block.
+<!--You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Lord%20of%20Rivendell User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+Although there has been a long time since the last disruption by the socks of Lord of Rivendell, long enough to render a CU check impossible, I open this SPI based on rather [[WP:DUCK|loud quacking]]. I think there is enough evidence to firmly establish the relation between sock and master. {{duck}} [[User:Dr.K.|Δρ.Κ.]]&nbsp;<small><sup style="position:relative">[[User talk:Dr.K.|λόγος]]<span style="position:relative;bottom:-2.0ex;left:-5.5ex;*left:-5.5ex">[[Special:Contributions/Dr.K.|πράξις]]</span></sup></small> 19:27, 24 April 2015 (UTC)
+;<big>Evidence</big>
+*Heavy edit-concentration on Turkey accompanied by incessant edit-warring
+*[https://en.wikipedia.org/wiki/Special:Contributions/Lord_of_Rivendell Master got indeffed due to edit-warring], sock is blocked due to edit-warring on [[Turkey]] even as the 3RRN report was ongoing, a [[special:diff/659005594|fact noted by the blocking admin]]. The sock was finally blocked after he reached 6 reverts. 
+;Edit-warring on Turkey about the same sources and victim numbers of the Armenian Genocide
+*'''Keywords:''' Encyclopædia Britannica, Tehcir Law, Arnold J. Toynbee and Justin McCarthy
+*'''Key number''': 600,000
+*[[special:diff/604662596|Master mentioning the victim numbers and Encyclopaedia Britannica]], [[special:diff/604130226|Master mentioning the numbers, Encyclopaedia Britannica and historian Toynbee]] during his edit-warring on Turkey vs. [[special:diff/658839937|sock doing the same and adding McCarthy to boot]]
+*[[special:diff/604958582|Master mentioning the victim numbers,  Encyclopaedia Britannica, Tehcir Law, Toynbee, and McCarthy on his talkpage]] vs. [[special:diff/658959077|sock Superfluous adding exactly the same things to Turkey]]
+*[[Special:Diff/605148910|IP sock 78.181.138.199]]: '''Section title:''' ''The correct number of deaths is 600,000 according to Encyclopædia Britannica, Arnold J. Toynbee and Justin McCarthy'' '''Text sample:''' {{xt|According to [[Encyclopædia Britannica]] (which is the world's most prestigious "academic" encyclopedia, and will always be more prestigious than [[Wikipedia]], which will never be accepted as an "academic" source)}}
+*[[Special:Diff/604958582|Lord of Rivendell]] Identical edit as the IP above also mentioning the usual keywords Encyclopædia Britannica, Arnold J. Toynbee and Justin McCarthy. '''Text sample''': {{xt|According to [[Encyclopædia Britannica]] (which is the world's most prestigious "academic" encyclopedia, and will always be more prestigious than [[Wikipedia]], which will never be accepted as an "academic" source)}}
+;Very similar locus of articles
+*Apart from their heavy concentration and edit-warring on Turkey, sock and master have similar interests and edit several common articles
+*[[Istanbul]]
+*[[Turkish Armed Forces]]
+*[[Turkish Land Forces]]
+*[[Turkish Naval Forces]]
+*[[Mustafa Kemal Atatürk]]
+*[[Galatasaray S.K.]]
+;Similar top-four articles from edit-count
+;<small>Lord of Rivendell</small> 
+#599 edits on Turkey	
+#52 on Turkish Naval Forces	
+#44 on New Mosque (Istanbul)	
+#42 on Istanbul
+;<small>Superfluous man</small>
+#137 edits on Turkey	
+#61 on Turkish Naval Forces	
+#35 on Turkish Air Force	
+#24 on Istanbul
+;Interest on aircraft articles and the Turkish Air Force
+*[[special:diff/594966284|Air force/jet related edit of master on Turkey]] vs. [[special:diff/649365797|sock performing a similar edit on Turkish Air Force]]
+*[[special:diff/647389305|Aircraft-related edit of sock on TAI TFX]] vs. [[special:diff/649365797|master editing the aircraft article ATR 72]]
+;Similar image work on Istanbul
+*[[special:diff/627124050|Image edit by 武士道]] vs. [[special:diff/657292150|Superfluous man's similar edit]] vs. [[special:diff/587865669|image edit by Rivendell master]]
+;Similar mode of sock insertion
+*Use of non-Latin usernames for the socks: Blocked sock {{vandal|武士道 }} (blocked by {{u|Future Perfect at Sunrise}}) versus {{u|Лев Я́шин}} the username of Superfluous man [[special:diff/636743549|before he had his name changed]].
+
+;Similar MO of socks once inserted
+* 武士道 started his edits by editing Japanese articles while Лев Я́шин started editing Russia-related articles. Soon after that they started heavily concentrating on Turkey and edit-warring there. By the way Лев Я́шин is [[Lev Yashin]], a legendary Russian goalkeeper.
+
+;Similar layout of user pages
+*Superfluous man has a single picture decorating his user page with the caption "Superfluous man" while Lord of Rivendell had a picture of Rivendell with the caption "Rivendell". 
+
+;Edit-warring is the strongest common thread of all the socks
+*As mentioned above, Superfluous man was edit-warring while the 3RRN report was open and got blocked at 6R. [[Wikipedia:Administrators%27_noticeboard/3RRArchive254#User:Dr.K. and User:Elmasmelih reported by User:武士道 (Result: Submitter blocked)| Please see also User:Dr.K. and User:Elmasmelih reported by User:武士道 (Result: Submitter blocked)]] where the [[Bushido]] ([[武士道]]) sock was impacted by a [[WP:BOOMERANG]]. The master's edit-warring does not need further mention for obvious reasons.
+
+;Sock has violated 3RR again after release from block
+*Hours after release from block and while the previous edit-warring report is still at 3RRN {{Diff|Turkey|659276410|659273046|the sock reinstated his/her edit}} and has performed a total of four reverts so far. The [[special:diff/659273211|usual keywords of the master and other socks are all there]].
+======<span style="font-size:150%">Comments by other users</span>======
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+I dont believe that Superflous is a sockpuppet of Rivendell. Rivendel was much more aggresive.   <span style="font-size: 125%; font-family: New Times Roman;">[[User:KazekageTR|<span style="color:#FF8400">kazekagetr</span>]]</span> 19:31, 24 April 2015 (UTC)
+
+:Socks can change some aspects of their behaviour. [[User:Dr.K.|Δρ.Κ.]]&nbsp;<small><sup style="position:relative">[[User talk:Dr.K.|λόγος]]<span style="position:relative;bottom:-2.0ex;left:-5.5ex;*left:-5.5ex">[[Special:Contributions/Dr.K.|πράξις]]</span></sup></small> 20:27, 24 April 2015 (UTC)
+
+======<span style="font-size:150%">Clerk, CheckUser, and/or patrolling admin comments</span>======
+*Blocking sock but leaving IP since it is stale. Closing. <br />&nbsp;—&nbsp;[[User:Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">Berean Hunter</span>]] [[User talk :Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">(talk)</span>]] 22:09, 8 May 2015 (UTC)
+----<!--- All comments go ABOVE this line, please. -->
+===14 September 2015===
+
+
+;Suspected sockpuppets
+
+* {{checkuser|1=Heimdallr of Æsir}}
+* {{checkuser|1=88.251.68.205}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Shuppiluliuma User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+{{userlinks|Shuppiluliuma}} is a banned user and particularly prolific sockmaster, with close to 100 outed socks.  He has a penchant for unstoppable edit-warring and extreme incivility that crosses the line into hate speech, particularly in edit summaries.  One of his innumerable socks, {{userlinks|Pantepoptes}} made the following comment in an edit-summary long ago [https://en.wikipedia.org/w/index.php?title=Erzurum&diff=prev&oldid=304618008], taunting Armenian users about Armenia's "3 million population" and "11 billion GDP".  The account {{userlinks|Heimdallr of Æsir}}, which I suspected of being a sock due to the similarity in hate speech, was blocked today for 24 hrs for edit-warring.  He was also participating in this talkpage discussion [https://en.wikipedia.org/w/index.php?title=Talk:Turkey&oldid=680907009#Banning_the_term_.27Turkish_Kurdistan.27_in_this_article].  Immediately after the block, he edited the discussion as an IP, making the following comment [https://en.wikipedia.org/w/index.php?title=Talk%3ATurkey&type=revision&diff=680900523&oldid=680900054].  It couldn't quack any louder.  CU is desirable to ferret out sleeper accounts.  Frankly, considering the magnitude and incredible tenacity of this maniac (he has been socking since 2007), it seems a rangeblock is the only way to put an end to the disruption.  All his IP edits are from the 88.251 IP. [[User:Athenean|Athenean]] ([[User talk:Athenean|talk]]) 00:18, 14 September 2015 (UTC)
+
+More evidence:
+*Shuppiluliuma socks always uses wikilinks in edit summaries [https://en.wikipedia.org/w/index.php?title=Special:Contributions/Heimdallr_of_%C3%86sir&dir=prev&offset=20150721144429&target=Heimdallr+of+%C3%86sir] [https://en.wikipedia.org/w/index.php?title=Special:Contributions&offset=20090729035123&tagfilter=&contribs=user&target=Pantepoptes&namespace=]
+*Main focus on Turkish economy and armed forces, and the neighborhood of Galata [https://en.wikipedia.org/w/index.php?limit=50&tagfilter=&title=Special%3AContributions&contribs=user&target=Shuppiluliuma&namespace=&tagfilter=&year=2015&month=-1] [https://en.wikipedia.org/w/index.php?title=Special:Contributions/Heimdallr_of_%C3%86sir&dir=prev&offset=20150613145743&target=Heimdallr+of+%C3%86sir]
+*An obsessive attention to detail, reflected in the many incremental minor quality control edits, and the lack of spelling mistakes.
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+*I've declined the CU request. Per the archives, there hasn't been a puppet blocked since 2012. Thus, among other issues with the request, there's nothing to compare against.--[[User:Bbb23|Bbb23]] ([[User talk:Bbb23|talk]]) 04:10, 14 September 2015 (UTC)
+*The sock account is already blocked, the IP is not active. Closing the case. '''[[User:Vanjagenije|<font color="008B8B">Vanjagenije</font>]] [[User talk:Vanjagenije|<font color="F4A460">(talk)</font>]]''' 15:41, 5 October 2015 (UTC)
+===14 September 2015===
+
+
+;Suspected sockpuppets
+
+* {{checkuser|1=Lord of Rivendell}}
+* {{checkuser|1=Heimdallr of Æsir}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Lord%20of%20Rivendell User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+See the discussion at WP:ANI section "WP:BATTLEFIELD threats and constant edit-warring at Turkey" as of [https://en.wikipedia.org/w/index.php?oldid=681064764 right now].  The user is aggressively editing on Turkish topics; I blocked him yesterday for edit-warring on [[Turkey]] (see [https://en.wikipedia.org/w/index.php?title=Turkey&action=history&year=2015&month=9 recent history]), and an IP that's seemingly him has been [https://en.wikipedia.org/w/index.php?title=Talk:turkey&action=history&year=2015&month=9 active on the talk page], advocating the position that Heimdallr was trying to force into the article.  Over at WP:ANI, someone adds a note:<blockquote>Heimdallr of Æsir has a name from Norse mythology. (To see the connection to Lord of the Rings, Google for 'Heimdallr Tolkien'). Based on his choice of user name and his interest in Turkey, this editor is most likely the same person as [[WP:Sockpuppet investigations/Lord of Rivendell]]. [[User:EdJohnston|EdJohnston]] ([[User talk:EdJohnston|talk]]) 21:06, 14 September 2015 (UTC).</blockquote>This seems like a convincing argument to me.  If you want more evidence, let me know and I'll supply more diffs or other links. [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 23:50, 14 September 2015 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+Actually Lord of Rivendell and Heimdallr are both socks of the original sockmaster, {{userlinks|Shuppiluliuma}}. The aggressive POV is the same, the insults to Greek and Armenian users are the same, the "Ethnically themed sock" is the same, the many consecutive minor grammar edits are the same, the consistent use of wikilinks in edit summaries is the same.  The smoking gun is this edit summary by one of Shuppiluliuma's socks [https://en.wikipedia.org/w/index.php?title=Erzurum&diff=prev&oldid=304618008], where he taunts Armenian users about "Armenia's 3 million people and 11 billion GDP".  The IP sock of Heimdallr made the same exact taunt at Talk:Turkey a few days ago [https://en.wikipedia.org/w/index.php?title=Talk%3ATurkey&type=revision&diff=680900523&oldid=680900054].  They are all the same guy.  I've opened an SPI on Heimdallr here [https://en.wikipedia.org/wiki/Wikipedia:Sockpuppet_investigations/Shuppiluliuma], I think these should all be merged. [[User:Athenean|Athenean]] ([[User talk:Athenean|talk]]) 18:34, 16 September 2015 (UTC)
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+*I've declined the CU request. Per the archives, there are no non-stale puppets, confirmed or otherwise, to compare against. If you know of an account that is not stale, feel free to renew the request and provide the username.--[[User:Bbb23|Bbb23]] ([[User talk:Bbb23|talk]]) 01:15, 15 September 2015 (UTC)
+:*Just curious, [[User:Bbb23|Bbb23]]: in general, how long do we give before considering a puppet to be stale?  I mistakenly thought that an April 2015 appearance would be recent enough.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 02:25, 15 September 2015 (UTC)
+::*{{reply|Nyttend}} [https://meta.wikimedia.org/wiki/CheckUser_policy#CheckUser_status Three months].--[[User:Bbb23|Bbb23]] ([[User talk:Bbb23|talk]]) 04:03, 15 September 2015 (UTC)
+:::*Oh, so "stale" means "you're absolutely unable to get it".  I didn't know that: I figured there was a continuum between stale and not-stale, and the checkuser had to determine where a specific case fit.  So basically you're allowed to work with whatever data are available, since stuff older than three months is totally unavailable.  Thanks for helping me understand.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 04:25, 15 September 2015 (UTC)
+::::* That's generally correct. However, one can look at other CheckUsers' logs that predate the three-month window. I don't look at logs except in unusual circumstances and, even then, they have limited value.--[[User:Bbb23|Bbb23]] ([[User talk:Bbb23|talk]]) 04:49, 15 September 2015 (UTC)
+*'''Admin needed'''. Please, merge this page into [[Wikipedia:Sockpuppet investigations/Shuppiluliuma]]. '''[[User:Vanjagenije|<font color="008B8B">Vanjagenije</font>]] [[User talk:Vanjagenije|<font color="F4A460">(talk)</font>]]''' 15:44, 5 October 2015 (UTC)
+*{{done}} {{u|Vanjagenije}}. I've also retagged a few of the old accounts.<br />&nbsp;—&nbsp;[[User:Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">Berean Hunter</span>]] [[User talk :Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">(talk)</span>]] 17:10, 8 October 2015 (UTC)
+*Closing the case. '''[[User:Vanjagenije|<font color="008B8B">Vanjagenije</font>]] [[User talk:Vanjagenije|<font color="F4A460">(talk)</font>]]''' 18:10, 8 October 2015 (UTC)
+----<!--- All comments go ABOVE this line, please. -->
+===22 December 2015===
+
+
+;Suspected sockpuppets
+* {{checkuser|1=Protego Totalum}}
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Shuppiluliuma User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+;<big>Introduction</big>
+In the tradition of the recent sock incarnations of the {{u|Lord of Rivendell}} this new sock makes a few initial token edits on some articles and then starts the edit-warring on his favourite article: {{la|Turkey}}. But let's start from the beginning. [[User:Dr.K.|<span style="font-weight:600;font-family: arial;color: steelblue;font-size: 1em;">Dr.</span>]] [[User talk:Dr.K.|<span style="font-weight:600;font-family: arial;color: steelblue; font-size: 1em">K.</span>]] 01:13, 22 December 2015 (UTC)
+;<big>Evidence</big>
+;Name
+*The name of this sock is related to the mythology surrounding the saga of [[Harry Potter]]: [[Protego Totalum]]. The other socks also have names inspired by similar magic-related mythologies, as the one of the [[Lord of the Rings]].
+;Edit-warring on Turkey
+*In the unbroken and time-honoured tradition of all the other socks, Protego T also makes his/her last stand by edit-warring on Turkey.
+;Elaborate edit-summaries
+*All socks belonging to this sockfarm use up most of the edit-summary field writing elaborate edit-summaries to justify their edit-warring.
+*[[special:diff/683474847|Heimdallr of Æsir]] vs. [[special:diff/696197990|Protego T writing a mini Bachelor's thesis inside his/her edit-summary]]
+;Edit-warring about the GDP of Turkey
+*[[special:diff/695870857|Protego T]], [[special:diff/696112117|Protego T again]] vs. blocked sock [[special:diff/659325882|Superfluous man]] vs. [[special:diff/673471503|Heimdallr of Æsir]] and [[special:diff/673470898|more Heimdallr of Æsir]].
+;Use of wikilinks inside elaborate edit-summaries
+*[[special:diff/604662596|Lord of Rivendell]] himself, [[special:diff/604130226|Lord of Rivendell again]] vs. [[special:diff/695870857|Protego T]] and more [[special:diff/695871361|Protego T]]
+;Duck probability
+*{{megaphone duck}}
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+;Comment by [[User:Athenean]]
+I also strongly suspect this is a sock of Shuppililiuma/Lord of Rivendell.  The last sock was blocked back in September and this would be right around the time this user would create another sock.  This new account, created a few days ago knows how to edit-wikipedia and is clearly a sock. What made me suspect it was the latest sock of Shuppiluliuma is 
+# A few token edits to get past the semiprotection on [[Turkey]], and once that is done, almost exclusive focus on [[Turkey]]
+# Incessant edit-warring: this user simple ''cannot'' not edit-war.  Even though all his previous socks have been blocked for edit-warring, he keeps doing it.  He just ''can't'' not edit-war.
+# Meticulous attention to detail, lots of small quality control edits to [[Turkey]] in keeping with this individual's obsessive nature.
+# Long-winded edit-summaries without any typos or grammatical mistakes
+# Frequent use of wikilinks in the edit-summaries, whenever possible.  This is a signature of this user. [[User:Athenean|Athenean]] ([[User talk:Athenean|talk]]) 05:22, 22 December 2015 (UTC)
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+* {{user2|Protego Totalum}} and {{user2|Heimdallr of Æsir}} are {{likely}}. Blocked, tagged, closing.--[[User:Bbb23|Bbb23]] ([[User talk:Bbb23|talk]]) 17:17, 22 December 2015 (UTC)
+
+----<!--- All comments go ABOVE this line, please. -->
+===26 December 2015===
+
+
+;Suspected sockpuppets
+* {{checkip|1=85.107.224.212}}
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Shuppiluliuma User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+Not sure if CheckUser is even needed for this, however the user has went to user pages of other blocked sockpuppets from the master and removed the block notice. [[User:Dat GuyWiki|Dat Guy]]<sup>[[User talk:Dat GuyWiki|Talk]]</sup><sub>[[Special:Contributions/Dat_GuyWiki|Contribs]]</sub> 19:04, 26 December 2015 (UTC)
+
+[https://en.wikipedia.org/w/index.php?title=User:ColMilGem&diff=prev&oldid=696881101 1]
+[https://en.wikipedia.org/w/index.php?title=User:Blofeld%27s_Assistant&diff=prev&oldid=696881003 2]
+[https://en.wikipedia.org/w/index.php?title=User:Asparagas&diff=prev&oldid=696880863 3]
+[https://en.wikipedia.org/w/index.php?title=User:Alivelideli&diff=prev&oldid=696880743 4]
+[https://en.wikipedia.org/w/index.php?title=User:T%C3%BCrbanistan&diff=prev&oldid=696880673 5]
+[https://en.wikipedia.org/w/index.php?title=User:Dellakname-i_H%C3%BCmayun&diff=prev&oldid=696880583 6]
+[https://en.wikipedia.org/w/index.php?title=User:Freiherr_v._d._Goltz&diff=prev&oldid=696880496 7]
+[https://en.wikipedia.org/w/index.php?title=User:%C3%9Clk%C3%BC_Ocaklar%C4%B1&diff=prev&oldid=696880304 8]
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+*IP blocked 72 hours. Closing. [[User:Bbb23|Bbb23]] ([[User talk:Bbb23|talk]]) 20:16, 26 December 2015 (UTC)
+----<!--- All comments go ABOVE this line, please. -->
+===02 February 2017===
+
+
+====Suspected sockpuppets====
+
+* {{checkuser|1=Balki Chalkidiki}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Shuppiluliuma User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+* Consistent edits on Turkey and Turkey-related articles. (you can check these edits [https://en.wikipedia.org/w/index.php?title=Special:Contributions/Balki_Chalkidiki&dir=prev&limit=500&target=Balki+Chalkidiki here] and compare those edits to old socks' edits [https://en.wikipedia.org/wiki/Special:Contributions/Lord_of_Rivendell here] and [https://en.wikipedia.org/wiki/Special:Contributions/Heimdallr_of_%C3%86sir here]
+* Reckless edit warring.
+* Lots of small quality control edits in artcile of [[Turkey]] (related with this individual's obsessive nature).    
+* Oh and he/she explictly stated that ''I used to consider myself a Hellenophile (listening to Dalaras, etc.)'' in [https://en.wikipedia.org/wiki/Special:Contributions/Heimdallr_of_%C3%86sir here] so one can figure out that his/her name comes from Greek-related persons or places such as [[Balki Bartokomous]] and [[Chalkidiki]]. <span style="font-size: 125%; font-family: New Times Roman;">[[User:KazekageTR|<span style="color:#006400">kazekagetr</span>]]</span> 13:46, 2 February 2017 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+As far as I can tell, everyone is {{IPstale}}. CU declined.--[[User:Bbb23|Bbb23]] ([[User talk:Bbb23|talk]]) 14:52, 2 February 2017 (UTC)
+*Blocked on behavioral evidence. [[User:NeilN|<b style="color:navy">Neil<span style="color:red">N</span></b>]] <sup>[[User talk:NeilN|<i style="color:blue">talk to me</i>]]</sup> 22:56, 2 February 2017 (UTC)
+----<!--- All comments go ABOVE this line, please. -->
+===28 February 2017===
+
+
+====Suspected sockpuppets====
+
+* {{checkuser|1=V t I}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Shuppiluliuma User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+# New account created very soon after last Shuppiluliuma sock was blocked
+# Single-minded focus on [[Turkey]], the usual lots of consecutive small quality-control edits, in keeping with this individual's obsessive nature [https://en.wikipedia.org/wiki/Special:Contributions/V_t_I]
+# The usual Kemalist POV
+# The usual aggressiveness, hair-trigger edit-warring [https://en.wikipedia.org/w/index.php?title=Turkey&action=history] [[User:Khirurg|Khirurg]] ([[User talk:Khirurg|talk]]) 05:50, 28 February 2017 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+We are tired of him/her.   <span style="font-size: 125%; font-family: New Times Roman;">[[User:KazekageTR|<span style="color:#006400">kazekagetr</span>]]</span> 15:40, 4 March 2017 (UTC)
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+{{confirmed}}, blocked, tagged, closing.--[[User:Bbb23|Bbb23]] ([[User talk:Bbb23|talk]]) 18:02, 11 March 2017 (UTC)
+
+----<!--- All comments go ABOVE this line, please. -->
+===25 September 2018===
+
+
+====Suspected sockpuppets====
+
+* {{checkuser|1=Æternus Prætor Firmitas Semper}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*'''Tools''': <span class="plainlinks">[https://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility] • [https://tools.wmflabs.org/interaction-timeline?wiki=enwiki Interaction Timeline] • [https://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Shuppiluliuma User compare report]</span> <small>''Auto-generated every hour.''</small>
+
+#Similar grandiose Latin username, same as a previous account {{user|Res_Gestæ_Divi_Augusti}}
+#New account with a few token edits to get past the semiprotection on Turkey, and once that is done, almost exclusive focus on Turkey
+#Single-minded focus on Turkey, the usual many consecutive small quality-control edits, in keeping with this individual's obsessive nature
+#The same Turkish nationalist POV (e.g. does not like Kurds [https://en.wikipedia.org/w/index.php?title=Turkey&type=revision&diff=861122025&oldid=861121679] [https://en.wikipedia.org/w/index.php?title=Turkey&type=revision&diff=861121679&oldid=861119871]) [[User:Khirurg|Khirurg]] ([[User talk:Khirurg|talk]]) 17:00, 25 September 2018 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+*{{confirmed}} plus:
+**{{checkuser|Æternus prætor}}
+**{{checkuser|Boccadasse}}
+*Blocked the unblocked accounts and tagged all three. Closing.--[[User:Bbb23|Bbb23]] ([[User talk:Bbb23|talk]]) 17:29, 25 September 2018 (UTC)
+
+----<!--- All comments go ABOVE this line, please. -->
+===31 October 2018===
+
+
+====Suspected sockpuppets====
+
+* {{checkuser|1=Egnatias 406}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*'''Tools''': <span class="plainlinks">[https://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility] • [https://tools.wmflabs.org/interaction-timeline?wiki=enwiki Interaction Timeline] • [https://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Shuppiluliuma User compare report]</span> <small>''Auto-generated every hour.''</small>
+
+A typical "themed" Shuppiluliuma sock, this time named after a street in the city of [[Thessaloniki]] (Egnatias avenue). He makes a few edits to Thessaloniki to get around the semi-protection of [[Turkey]], and then edits exclusively [[Turkey]] almost exclusively, pushing Turkish nationalist POV [https://en.wikipedia.org/w/index.php?title=Turkey&diff=prev&oldid=866582203] and then lots of consecutive small edits to Turkey, as usual. [[User:Khirurg|Khirurg]] ([[User talk:Khirurg|talk]]) 16:39, 31 October 2018 (UTC) [[User:Khirurg|Khirurg]] ([[User talk:Khirurg|talk]]) 16:39, 31 October 2018 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+Egnatias 406 is {{confirmed}} to {{noping|Æternus Prætor Firmitas Semper}} and others in the archive. {{bnt}}.<br />&nbsp;—&nbsp;[[User:Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">Berean Hunter</span>]] [[User talk :Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">(talk)</span>]] 18:14, 31 October 2018 (UTC)
+*Case closed. '''[[User:Vanjagenije|<span style="color:#008B8B;">Vanjagenije</span>]] [[User talk:Vanjagenije|<span style="color: #F4A460;">(talk)</span>]]''' 20:42, 31 October 2018 (UTC)
+----<!--- All comments go ABOVE this line, please. -->
+===30 January 2019===
+
+
+====Suspected sockpuppets====
+
+* {{checkuser|1=Oumuamua Num Num}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*'''Tools''': <span class="plainlinks">[https://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility] • [https://tools.wmflabs.org/interaction-timeline?wiki=enwiki Interaction Timeline] • [https://tools.wmflabs.org/betacommand-dev/cgi-bin/uc?uc=Shuppiluliuma User compare report]</span> <small>''Auto-generated every hour.''</small>
+
+Identical in behavior to previous socks:
+# Makes a few token edits to non-semiprotected articles, to get past the semiprotection at [[Turkey]], and once that is done focuses exclusively on Turkey.
+# Many small incremental edits to [[Turkey]] in quick succession. 
+#Same Turkish nationalist POV (e.g. against Kurds [https://en.wikipedia.org/w/index.php?title=Turkey&type=revision&diff=880947017&oldid=880946796]). [[User:Khirurg|Khirurg]] ([[User talk:Khirurg|talk]]) 16:13, 30 January 2019 (UTC)
+
+====<big>Comments by other users</big>====
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+
+====<big>Clerk, CheckUser, and/or patrolling admin comments</big>====
+{{likely}} {{bnt}}.<br />&nbsp;—&nbsp;[[User:Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">Berean Hunter</span>]] [[User talk :Berean Hunter|<span style="font-family:High Tower Text;color:#0000ff;font-weight:900;">(talk)</span>]] 19:52, 31 January 2019 (UTC)
+----<!--- All comments go ABOVE this line, please. -->

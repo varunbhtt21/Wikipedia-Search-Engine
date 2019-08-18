@@ -1,0 +1,210 @@
+Title : Puma (microarchitecture)
+Text : {{Infobox CPU
+| name           = Puma - Family 16h (2nd-gen)
+| produced-start = mid-2014
+| produced-end   = present
+| size-from      = 28 nm
+| l1cache        = 64 KB per core<ref name="opti guide">{{cite web
+ | title     = Software Optimization Guide for Family 16h Processors
+ | publisher = AMD
+ | url       = http://support.amd.com/TechDocs/52128_16h_Software_Opt_Guide.zip
+ | accessdate= August 3, 2013
+}}</ref>
+| numcores       = 2–4
+| slowest        = 1.35
+| fastest        = 2.5
+| l2cache        = 1&nbsp;MB to 2&nbsp;MB shared
+| gpu            = Radeon Rx: 128 cores, 300–800{{nbsp}}Mhz
+| manuf1         = [[Advanced Micro Devices|AMD]]
+| core1          = Beema
+| core2          = Mullins
+| predecessor    = [[Jaguar (microarchitecture)|Jaguar - Family 16h]]
+| arch           = [[X86-64#AMD64|AMD64]] ([[x86-64]])
+| successor      =
+| sock1          = [[Socket AM1]]
+| sock2          = [[Socket FT3b]] (BGA-769)
+| brand1         = [[AMD Accelerated Processing Unit|AMD APU]]
+}}
+
+{{about|the microarchitecture|the 2008 mobile platform|AMD mobile platform#Puma platform (2008)}}
+
+The '''Puma Family 16h''' is a low-power [[microarchitecture]] by [[Advanced Micro Devices|AMD]] for its [[Accelerated processing unit|APUs]]. It succeeds the [[Jaguar (microarchitecture)|Jaguar]] as a second-generation version, targets the same market, and belongs to the same AMD architecture Family 16h. The ''Beema'' line of processors are aimed at low-power notebooks, and ''Mullins'' are targeting the tablet sector.
+
+== Design ==
+The Puma cores use the same microarchitecture as Jaguar, and inherits the design:
+* [[Out-of-order execution]] and [[Speculative execution]], up to 4 CPU cores
+* Two-way integer execution
+* Two-way 128-bit wide floating-point and packed integer execution
+* Integer hardware divider
+* Puma '''does not''' feature [[clustered multi-thread]] (CMT), meaning that there are no "modules"
+* Puma '''does not''' feature [[Heterogeneous System Architecture]] or [[zero-copy]]<ref>{{cite web |url=http://www.extremetech.com/computing/181407-amd-launches-new-beema-mullins-socs-higher-performance-at-almost-low-enough-tdps |title=AMD launches new Beema, Mullins SoCs |date=2014-04-29 |accessdate=2014-05-02 |work=[[ExtremeTech]]}}</ref>
+* 32&nbsp;KiB instruction + 32&nbsp;KiB data L1 [[CPU cache|cache]] per core
+* 1–2&nbsp;MiB unified L2 cache shared by two or four cores
+* Integrated single channel [[memory controller]] supporting 64bit [[DDR3L]]
+* 3.1&nbsp;mm<sup>2</sup> area per core
+
+=== Instruction set support ===
+Like Jaguar, the ''Puma'' core has support for the following instruction sets and instructions: [[MMX (instruction set)|MMX]], [[Streaming SIMD Extensions|SSE]], [[SSE2]], [[SSE3]], [[SSSE3]], [[SSE4a]], SSE4.1, SSE4.2, AVX, F16C, CLMUL, AES, BMI1, MOVBE (Move Big-Endian instruction), XSAVE/XSAVEOPT, [[Bit Manipulation Instruction Sets|ABM]] (POPCNT/LZCNT), and [[AMD-V]].<ref name="opti guide" />
+
+=== Improvements over [[Jaguar (microarchitecture)|''Jaguar'']] ===
+* 19% CPU core [[Leakage (electronics)|leakage]] reduction at 1.2V<ref>{{cite web|last=Shimpi|first=Anand|title=AMD Beema/Mullins Architecture & Performance Preview|url=http://anandtech.com/show/7974/amd-beema-mullins-architecture-a10-micro-6700t-performance-preview|publisher=AnandTech|accessdate=29 April 2014}}</ref> 
+* 38% GPU leakage reduction
+* 500&nbsp;mW reduction in memory controller power
+* 200&nbsp;mW reduction in display interface power
+* Chassis temperature aware turbo boost<ref>{{cite web|last=Shimpi|first=Anand|title=New Turbo Boost, The Lineup and Trustzone|url=http://anandtech.com/show/7974/amd-beema-mullins-architecture-a10-micro-6700t-performance-preview/2|publisher=AnandTech|accessdate=29 April 2014}}</ref> 
+* Selective boosting according to application needs (intelligent boost)
+* Support for ARM [[TrustZone]] via integrated [[ARM Cortex-A5|Cortex-A5]] processor
+* Support for [[DDR3L]]-1866 memory<ref>{{cite web|last=Woligroski|first=Don|title=Meet The Mullins And Beema Tablet APUs|url=http://www.tomshardware.com/reviews/amd-tablet-processor,3813.html|publisher=Toms Hardware|accessdate=29 April 2014}}</ref>
+
+== Puma+ ==
+AMD released a revision of Puma core, Puma+, as a part of the Carrizo-L platform in 2015. The differences in the CPU microarchitecture are unclear. Puma+ featured 2 or 4 cores up to 2.5GHz and required the newer FP4 socket.<ref>{{cite news|last1=Cutress|first1=Ian|title=AMD's Carrizo-L APU Unveiled|url=http://www.anandtech.com/show/9246/amds-carrizo-l-apus-unveiled-12-25w-quad-core-puma|accessdate=14 January 2017|publisher=Anandtech|date=12 May 2015}}</ref>
+
+== Features and ASICs ==
+{{AMD APU features}}
+
+== Processors ==
+{{See also|List of AMD Accelerated Processing Unit microprocessors|List of AMD mobile microprocessors}}
+
+=== Desktop/Mobile (Beema) ===
+{| class="wikitable" style="text-align:center"
+! rowspan=2 | Family
+! rowspan=2 | Model
+! rowspan=2 | Socket
+! colspan=4 | CPU
+! colspan=3 | GPU
+! rowspan=2 | TDP
+! rowspan=2 | Memory
+|-
+! Cores
+! Frequency
+! Max. Turbo
+! L2 Cache
+! Model
+! Config.
+! Max. Freq.
+|-
+| A8
+| 6410
+| rowspan=6 | [[Socket FT3]]b
+| rowspan=5 | 4
+| 2.0{{0}}&nbsp;GHz
+| rowspan=2 | 2.4&nbsp;GHz
+| rowspan=5 | 2&nbsp;MB
+| Radeon R5
+| rowspan=6 | 128:?:?
+| 800&nbsp;MHz
+| rowspan=2 | 15&nbsp;W
+| rowspan=2 | DDR3L-1866
+|-
+| A6
+| 6310
+| 1.8{{0}}&nbsp;GHz
+| Radeon R4
+| 800&nbsp;MHz
+|-
+| A4
+| 6250J
+| 2.0{{0}}&nbsp;GHz
+| rowspan=4 {{N/A}}
+| Radeon R3
+| 600&nbsp;MHz
+| 25&nbsp;W
+| rowspan=3 | DDR3L-1600
+|-
+| A4
+| 6210
+| 1.8{{0}}&nbsp;GHz
+| Radeon R3
+| 600&nbsp;MHz
+| rowspan=2 | 15&nbsp;W
+|-
+| E2
+| 6110
+| 1.5{{0}}&nbsp;GHz
+| rowspan=2 | Radeon R2
+| 500&nbsp;MHz
+|-
+| E1
+| 6010
+| 2
+| 1.35&nbsp;GHz
+| 1&nbsp;MB
+| 350&nbsp;MHz
+| 10&nbsp;W
+| DDR3L-1333
+|}
+
+=== Tablet (Mullins) ===
+{| class="wikitable" style="text-align:center"
+! rowspan="2" | Family
+! rowspan="2" | Model
+! colspan="4" | CPU
+! colspan="3" | GPU
+! colspan="2" | Power
+! rowspan="2" | Memory
+|-
+! Cores
+! Frequency
+! Max. Turbo
+! L2 Cache
+! Model
+! Config.
+! Max. Freq.
+! TDP
+! SDP
+|-
+| A10 Micro
+| 6700T
+| rowspan="3" | 4
+| rowspan="2" | 1.2&nbsp;GHz
+| 2.2&nbsp;GHz
+| rowspan="3" | 2 MB
+| Radeon R6
+| rowspan="4" | 128:?:?
+| 500&nbsp;MHz
+| rowspan="3" | 4.5 W
+| rowspan="4" | 2.8 W
+| rowspan="3" | DDR3L-1333
+|-
+| A6 Micro
+| 6500T
+| 1.8&nbsp;GHz
+| Radeon R4
+| 401&nbsp;MHz
+|-
+| A4 Micro
+| 6400T
+| rowspan="2" | 1.0&nbsp;GHz
+| 1.6&nbsp;GHz
+| Radeon R3
+| 350&nbsp;MHz
+|-
+| E1 Micro
+| 6200T
+| 2
+| 1.4&nbsp;GHz
+| 1 MB
+| Radeon R2
+| 300&nbsp;MHz
+| 3.95 W
+| DDR3L-1066
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://support.amd.com/TechDocs/52128_16h_Software_Opt_Guide.zip Software Optimization Guide for Family 16h Processors]
+* [http://www.slideshare.net/AMD/2014-amd-lowpower-mobile-apus 2014 AMD Low-Power Mobile APUs] 
+* [http://player.vimeo.com/video/70360819 Jaguar presentation (video)] at [[ISSCC]] 2013 
+* [http://www.realworldtech.com/forum/?threadid=132914 Discussion initiated on RWT forums by Jeff Rupley, Chief Architect of the Jaguar core]
+* [http://support.amd.com/TechDocs/48751_16h_bkdg.pdf BKDG for Family 16h Models 00h-0Fh Processors]
+* [http://support.amd.com/TechDocs/51810_16h_00h-0Fh_Rev_Guide.pdf Revision Guide for Family 16h Models 00h-0Fh Processors] (Jaguar)
+* [http://support.amd.com/TechDocs/53072_Rev_Guide_16h_Models_30h-3Fh.pdf Revision Guide for Family 16h Models 30h-3Fh Processors] (Puma)
+
+{{AMD processors}}
+{{AMD CPU sockets}}
+{{Single-board computer}}
+
+[[Category:Advanced Micro Devices x86 microprocessors]]
+[[Category:Advanced Micro Devices microarchitectures]]

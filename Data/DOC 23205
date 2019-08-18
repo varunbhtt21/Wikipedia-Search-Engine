@@ -1,0 +1,101 @@
+Title : Filtered esophageal left heart electrogram
+Text : The '''filtered esophageal left heart electrogram''' is a semi-invasive [[Electrocardiography|electrocardiographic]] method. This technique is able to provide additional information about left atrial and left ventricular activities.
+
+[[File:Simultane transösophageale elektrokardiographische Ableitung des linken Vorhofes und der linken Herzkammer.jpg|300px|thumb|right|Simultaneous transesophageal electrogram of the left atrium and the left ventricle]]
+
+== Application of a bipolar esophageal electrode ==
+Recording of the esophageal left heart electrograms requires a bipolar esophageal electrode. For example, the TOslim electrode (Osypka AG, Rheinfelden, Germany) can be used. It has to be applied perorally or transnasally either with or without any mild sedation. To record left atrial electrograms in adults of medium size, the electrodes are placed at a position of about 38-cm measured from the upper row of teeth. At this height, the maximum amplitude of the left atrial deflection can be expected, which is achieved by careful correction of the lead position. Then the electrode should be fixated at the chin of the patient with a plaster.
+
+== Filtered bipolar esophageal electrogram ==
+To eliminate artifacts in the esophageal left atrial electrogram and to improve the differentiation of the left atrial deflection from the ventricular complex, filtering with a Butterworth highpass is recommended. For instance, the [[:File:Rostock Filter.jpg|Rostockfilter (Osypka AG Rheinfelden)]] can be used as separate electronic supplement for electrocardiographs for this purpose. It is not necessary to interconnect different devices in order to record a filtered esophageal electrogram if the [[:File:ICS3000 PK199.jpg|programmer ICS3000]] ([[Biotronik|Biotronik GmbH Berlin]], Germany) is used. The esophageal electrogram recording feature of the ICS3000 offers a filtered Butterworth high-pass esophageal left atrial electrogram. In combination with the surface ECG, filtered bipolar esophageal left atrial electrogram (LAE) recording can be of advantage in all situations requiring doubtless recognition of the atrial activities.
+
+{| class="wikitable"
+|-
+|[[File:ICS3000 PK199.jpg|400px|Using the PK-199 cable and Osypka TOslim electrode, the Biotronic ICS3000 programmer enables esophageal left heart heart electrogram recording.]]
+||[[File:Osypka TO Slim.jpg|290px|The Osypka TO Slim is a bipolar esophageal electrode to record filtered esophageal  left heart  electrograms.]]
+||[[File:Rostock Filter.jpg|110px| Osypka Rostock-Filter is a Butterworth high-pass filter. It can be used in combination with a standard ECG recorder. The output of the “Rostock filter” has to be connected to the auxiliary DC input of the electrocardiograph.]]
+|-
+|Using the PK-199 cable and Osypka TOslim electrode, the Biotronic ICS3000 programmer enables esophageal left heart heart electrogram recording.
+||The Osypka TO Slim is a bipolar esophageal electrode to record filtered esophageal  left heart  electrograms.
+||Osypka Rostock-Filter is a Butterworth high-pass filter. It can be used in combination with a standard ECG recorder. The output of the “Rostock filter” has to be connected to the auxiliary DC input of the electrocardiograph.
+|}
+
+Maximal left ventricular deflection can be found about 3 to 5&nbsp;cm deeper than maximal left ventricular deflection. The lead position should be carefully adjusted in order to record maximal left atrial or left ventricular deflections, respectively. To eliminate artifacts in the esophageal left atrial electrogram and to improve the differentiation of the left atrial deflection from the ventricular complex, a high-pass filtering is recommended. Good results can be obtained using Butterworth 15&nbsp;Hz high-pass filtering. In position of maximal left atrial deflection, to achieve maximal suppression of the QRS amplitude, the lower high-pass filter frequency should be switched to 40&nbsp;Hz.
+
+{| class="wikitable"
+
+|[[File:Gefilterte bipolare elektrokradiographische Ableitung vom Ösophagus auf der Höhe des linken Vorhofes.jpg|500px|Left atrial deflection, with bipolar esophageal electrode in left atrial position using Butterworth highpass filtering.]]
+
+||[[File:Gefilterte bipolare elektrokradiographische Ableitung vom Ösophagus auf der Höhe des His'schen-Bündels.jpg|500px|Filtered bipolar left heart electrogram in position near the coronary sinus.]]
+
+|-
+|Left atrial deflection, with bipolar esophageal electrode in left atrial position using <br /> Butterworth highpass filtering.
+||Filtered bipolar left heart electrogram in position near the coronary sinus.
+|}
+
+{| class="wikitable"
+|[[File:LVE 2.jpg|500px|Left ventricular deflection, with bipolar esophageal electrode in left ventricular position using Butterworth highpass filtering.]]
+|-
+|Left ventricular deflection, with bipolar esophageal electrode in left ventricular position <br /> using Butterworth highpass filtering.
+|}
+
+== Utilization ==
+=== Filtered bipolar esophageal left atrial electrogram for  rhythm analysis ===
+In combination with the surface ECG, filtered bipolar esophageal left atrial electrogram (LAE) recording can be of advantage in all situations requiring doubtless recognition of the atrial activities. Applying bipolar electrode in esophageal position of maximal left atrial deflection and using Butterworth high-pass filtering, the LAE provides an additional “left atrial marker channel”. By this way, atrial activities can easily be recognized even if they are superimposed by the QRS complex. Thus, LAE recording can be utilized, for example, to quickly differentiate tachycardias and extrasystolies.
+
+[[File:VorhofflatternLAE.jpg|600px|Esophageal left atrial electrogram recording to detect supra-ventricular tachycardias using the ICS3000 programmer (BIOTRONIK GmbH, Berlin, Germany).]]
+
+Esophageal left atrial electrogram recording to detect supra-ventricular tachycardias using the ICS3000 programmer (BIOTRONIK GmbH, Berlin, Germany).
+
+=== Approximation of the individually optimal resting AV delay for VDD pacing ===
+The lower tracking rate is programmed to a value below the sinus rate to achieve atrial controlled ventricular pacing. Then the AV delay is preset to an arbitrary value, but, for practical reasons, the use of a standard value (e. g. 150 ms) in all cases and in both modes is recommended. The rate adaptation of the AV delay has to be disabled.
+Now approximation of the optimal AV delay is accomplished in two steps:<br />
+1. With the preset AV delay, the interval between the left atrial deflection (LA) in the filtered esophageal left atrial electrogram (LAE) and the ventricular stimulus (Vp) is measured.<br />
+2. Then the preset AV delay (in this case 150 ms) is corrected by the amount the measured LA-Vp interval is deviating from the target value (70 ms in AV block and 50 ms in congestive heart failure patients, respectively).
+The resulting AV delay (prolonged if LA-Vp is shorter, shortened if LA-Vp is longer than the target value) is the approximately optimal AV interval for atrial sensing. After programming this optimal AV delay, the best possible approximation of the interval LA-Vp to the target value can be checked in the LAE.
+After programming this optimal AV delay, the best possible approximation of the interval LA-Vp to the target value can be checked in the LAE.
+
+==== Approximation of the individually optimal resting AV delay for DDD pacing ====
+The lower tracking rate is programmed to a value about 10 bpm above the sinus rate to achieve AV sequential pacing. Then the AV delay for atrial pacing remains programmed to the chosen arbitrary value of 150 ms and the rate adaptation of the AV delay remains disabled.
+Now approximation of the optimal AV delay takes place as in DDD pacing:<br />
+1. With the preset AV delay the interval between the left atrial deflection (LA) in the filtered esophageal left atrial electrogram (LAE), and the ventricular stimulus (Vp) is measured.<br />
+2. Then the preset AV delay (in this case 150 ms) is corrected by the amount the measured LA-Vp interval is deviating from the target value (70 ms in AV block and 50 ms in congestive heart failure patients, respectively).
+The resulting AV delay (prolonged if LA-Vp is shorter, shortened if LA-Vp is longer than the target value) is the approximate optimal AV interval for atrial sensing. After programming this optimal AV delay, the best possible approximation of the interval LA-Vp to the target value can be checked in the LAE.
+
+[[File:LA-Vp.jpg|600px|AV-Delay Optimierung]]
+Measuring of „negative“ LA-Vp interval of -18 ms in VDD operation in a patient with Medtronic CRT system using the Biotronic ICS3000 programmers left heart electrogram feature. In this case, factory SAV of 100 ms presents an “unphysiologically short” AV delay truncating or even excluding an atrial contribution to the left ventricular filling.
+
+[[File:LA-Vp2.jpg|600px|AV-Delay Optimierung 2]]
+Approximation of the optimal sensed AV delay in the same CRT patient of the previous figure. Programming SAV of 170 ms instead of factory setting of 100 ms results into LA-Vp of 52 ms which represents approximately the mean value of a CRT patient cohort. In this case the ventricular stimulation starts immediately after the left atrial deflection has finished.
+
+=== The individually optimized electromechanical interval ===
+This is the AV delay component that can be individually optimized. During diastolic optimization, it can be determined from the difference of two time intervals that can be measured by echo. These are the following:
+
+1. The duration of the left atrial electromechanical action (LA-EAClong) is measured during an AV interval programmed to be non-physiologically long (about 200 ms longer than As-LA). It is measured from the beginning of the left atrial deflection (LA) in the esophageal electrogram to the undisturbed end of the left atrial contribution to the left ventricular filling (EAClong), which can be detected in the mitral flow image.
+
+2. The duration of the left ventricular latency period (Vp-EACshort) is measured during DDD pacing with an AV interval programmed to be non-¬physiologically short (about 20 ms shorter than Ap-LA). It is measured from the ventricular stimulus Vp and the prematurely truncated end of the left atrial contribution, to the left ventricular filling (EACshort) in the mitral flow.
+
+{| class="wikitable"
+||[[File:Avd echo.jpg|600px|AV-Delay Optimierung]]
+|}
+
+This description emphasises that the hemodynamic optimization of the AV delay always consists in the individual optimization of only its electromechanical share. The individual share of implant-related interatrial conduction times in the total duration of the optimal AV delay, can be considerably but must be accepted as a given. It can be influenced intraoperatively by the choice of the lead position in the right atrium. The overall duration of the optimal AV delay thus results for both modes as the sum of the implant-related individual interatrial conduction time (IACT) valid for the respective mode (VDD or DDD) and the individually optimal electromechanical interval. This advanced principle avoids all limitations and pitfalls of an AV delay optimization according to Ritter et al..
+
+[[File:AVD principle.jpg|600px|AV-Delay Optimierung]]
+In contrast to the interatrial conduction intervals, the individually optimized electromechanical interval LA-Vp as the difference in the intervals LA-EAClong and Vp-EACshort, has always the same duration for VDD and DDD pacing. It could be shown that this duration is on average about 70 ms in patients with AV block and unimpaired left ventricular function. In patients with congestive heart failure and left bundle branch block, on the other hand, an average value of about 50 ms was found.
+
+==References==
+*Ismer B, von Knorre GH, Voß W. Digitales Ösophagus-Speicher-EKG - Eine neue Methode zur Schrittmacher- und Rhythmusdiagnostik unter Langzeit- und Belastungsbedingungen. Biomedizinische Technik 1994; 39: 258-259
+*Ismer B, von Knorre GH, Voß W, Beyer F. Modifizierter Speicher-EKG-Rekorder zur Rhythmus- und Schrittmacherkontrolle durch Einbeziehung einer Ösophagusableitung. Herzschr Elektrophys 1992; 3: 28-33
+*Ismer B, von Knorre GH, Voß W. Eine kompakte Basiseinheit für die Ableitung von Elektrokardiogrammen zur Rhythmusanalyse. Z  klin Med 1986; 41: 703-704
+*Ismer B, von Knorre GH, Voß W. Zur Optimierung intrakardialer Elektrogramme durch den Einsatz aktiver Filter mit variablen Frequenzgrenzen. Dt. Gesundh.-Wesen 1983; 38: 154-158
+*Ismer B: Utilization of the Esophageal Left Heart Electrogram in Cardiac Resynchronization and AV Block Patients. Hochschule Offenburg, Offenburg 2013, {{ISBN|978-3-943301-08-3}}
+
+{{reflist}}
+
+== External links==
+* [http://www.bruno-ismer.com Homepage of Prof. Dr. Bruno Ismer]
+* [http://www.osypka.de/  Producer of the esophageal electrode]
+* [http://poi.hs-offenburg.de/ Peter Osypka Institute for Pacing and Ablation]
+
+[[Category:Cardiovascular physiology]]

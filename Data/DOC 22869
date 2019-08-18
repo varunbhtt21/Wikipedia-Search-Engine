@@ -1,0 +1,36 @@
+Title : Wikipedia:WikiProject Spam/Local/co.douglas.or.us
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|co.douglas.or.us]]
+== Links ==
+* {{LinkSummary|co.douglas.or.us}}
+:* co.douglas.or.us resolves to [//199.195.30.56 199.195.30.56]
+:*: {{LinkSummary|199.195.30.56}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{IPSummary|71.94.166.238}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12854713|lang=en|wikidomain=w|namespace=|pagename=Marilyn Kittelman|username=71.94.166.238|link=www.co.douglas.or.us/clerk/election_results/election_results_11022004.pdf|sortdomain=us.or.douglas.co.|domain=co.douglas.or.us|origdiff=http://en.wikipedia.org/w/index.php?diff=606721544&oldid=606718894|resolved=X|isIP=1|date=2014-05-02|time=03:37:52|wiki=en.wikipedia.org|revid=606721544|oldid=606718894|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=8|top=0|deleted=0|there=1|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.oregonvotes.gov/doc/history/nov22010/results/ss.pdf|domain=oregonvotes.gov|U=8|L=4|UL=2|WUL=1}}{{User:COIBot/OtherLinks|link=www.oregonvotes.gov/doc/history/nov22010/results/ss.pdf|domain=oregonvotes.gov|U=8|L=4|UL=2|WUL=1}}{{User:COIBot/OtherLinks|link=www.co.douglas.or.us/clerk/election_results/election_results_05202008.pdf|domain=co.douglas.or.us|U=8|L=6|UL=6|WUL=1}}{{User:COIBot/OtherLinks|link=www.co.douglas.or.us/clerk/election_results/election_results_05202008.pdf|domain=co.douglas.or.us|U=8|L=6|UL=6|WUL=1}}{{User:COIBot/OtherLinks|link=www.co.douglas.or.us/clerk/election_results/election_results_09112006.pdf|domain=co.douglas.or.us|U=8|L=6|UL=6|WUL=1}}{{User:COIBot/OtherLinks|link=www.co.douglas.or.us/clerk/election_results/election_results_09112006.pdf|domain=co.douglas.or.us|U=8|L=6|UL=6|WUL=1}}{{User:COIBot/OtherLinks|link=www.co.douglas.or.us/clerk/election_results/election_results_11022004.pdf|domain=co.douglas.or.us|U=8|L=6|UL=6|WUL=1}}{{User:COIBot/OtherLinks|link=www.co.douglas.or.us/clerk/election_results/election_results_11022004.pdf|domain=co.douglas.or.us|U=8|L=6|UL=6|WUL=1}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 1 additions out of 1 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/co.douglas.or.us]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bco\.douglas\.or\.us\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/co.douglas.or.us]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/co.douglas.or.us|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 03:57, 2 May 2014 (UTC)
+<!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 03:30, 15 May 2014 (UTC)

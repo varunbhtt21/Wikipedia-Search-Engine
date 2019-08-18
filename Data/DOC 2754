@@ -1,0 +1,11 @@
+Title : Template:Syrian Civil War detailed map/doc
+Text : {{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+{{lua|Module:Syrian Civil War detailed map}}
+Transclude this template by using {{tlx|Syrian Civil War detailed map}}. No parameters should be provided.
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go here and interwikis go in Wikidata. -->
+[[Category:Syria templates]]
+[[Category:War map templates]]
+}}</includeonly>

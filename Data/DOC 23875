@@ -1,0 +1,122 @@
+Title : Termial
+Text : {{orphan|date=December 2018}}
+In [[mathematics]], the '''termial''' of a positive [[integer]] {{math|''n''}}, denoted by {{math|''n''?}}, is the [[Summation|sum]] of all positive integers less than or equal to {{math|''n''}}. For example,
+
+:<math>5? = 5 + 4  +  3  +  2  +  1 = 15 \,. </math>
+
+The value of {{math|0?}} is {{math|0}}, according to the convention for an [[empty sum]].
+
+The termial  was invented by [[Donald E. Knuth]] in his ''[[The Art of Computer Programming]]''. It is the additive analog of the [[factorial]] function, which is the [[Product (mathematics)|product]] of integers from {{math|1}} to {{math|''n''}}. He used it to illustrate the extension of the [[domain of a function|domain]] from positive integers to the [[real number]]s.<ref name="Donald">Donald E. Knuth (1997).  ''The Art of Computer Programming: Volume 1: Fundamental Algorithms''. 3rd Ed. Addison Wesley Longman, U.S.A. p. 48.</ref>
+
+The termial of positive integers is also known as the [[triangular number]]s.<ref>{{cite web|last1=Weisstein|first1=Eric W.|title=Triangular Number|url=http://mathworld.wolfram.com/TriangularNumber.html|publisher=MathWorld-A Wolfram Web Resource|accessdate=30 December 2018}}</ref> The first few {{OEIS|id=A000217}} are 
+
+:0, 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, 66, 78, 91, 105, 120, 136, 153, 171, 190, 210, 231, 253, 276, 300, 325, 351, 378, 406, 435, 465, 496, 528, 561, 595, 630, 666...
+
+==History==
+
+Since the 18th century, [[Leonhard Euler]] and some other mathematicians had been trying to extend the [[domain of a function|domain]] of the [[factorial]] function to [[real number]]s or even [[complex number]]s, and eventually put forward the [[Gamma function]].<ref name="Davis">{{cite journal|last=Davis |first=P. J. |date=1959 |title=Leonhard Euler's Integral: A Historical Profile of the Gamma Function |journal=[[American Mathematical Monthly]] |volume=66 |issue=10 |pp=849–869 |url=http://mathdl.maa.org/mathDL/22/?pa=content&sa=viewDocument&nodeId=3104 |access-date=30 December 2018 |doi=10.2307/2309786}}</ref> In 1997,  [[Donald E. Knuth]] introduced the termial function {{math|''n''?}} in his ''[[The Art of Computer Programming]]'', as an analog of factorial in [[addition]], so as to illustrate the meaning of domain extension.<ref name="Donald" />
+
+==Definition==
+The termial function is defined by the sum
+
+:<math>n?  = 1 + 2 + 3 + \cdots + (n-2) + (n-1) + n\,,</math>
+
+initially for integer {{math|''n'' ≥ 1}}.  This may be written in the [[Summation#Capital-sigma notation|Sigma sum notation]] as
+
+:<math>n?  = \sum_{i = 1}^{n} i.</math>
+
+From these formulas, one may derive the [[recurrence relation]]
+
+:<math> n? = n +(n-1)? \,.</math>
+
+For example, one has 
+: <math>\begin{align}
+ 5? &=  5 +  4? \\
+ 6? &=  6 +  5? \\
+50? &= 50 + 49?
+\end{align}</math>
+and so on.
+
+The termial function can be calculated using the summation formula for [[arithmetic sequence]]:
+
+:<math>n?=\frac{n(n+1)}{2} \,.</math>
+
+For example, <math>100? = \frac{100\times101}{2}=5050</math>.
+
+===Termial of zero===
+
+In order for the recurrence relation to be extended to {{math|1=''n'' = 0}}, it is necessary to define
+
+:<math>0? = 0 </math>
+
+so that
+
+:<math>1? = 1 + 0? = 1.</math>
+
+===Termial of a non-integer===
+
+The termial function can also be defined for non-integer values using the formula <math>n?=\frac{n(n+1)}{2}</math>.
+
+For example, <math>(\frac{1}{2})? = \frac{3}{8}</math>.
+
+==Applications==
+
+Termial is less frequently used in mathematics, but still it has some uses in fields such as [[combinatorics]].
+
+*For a set of {{math|''n''}} distinct elements, the number of {{math|2}}-[[combination]] (i.e., number of ways to choose 2 of them) equals {{math|(''n''&nbsp;−&nbsp;1)?}}. This is to say
+
+::<math>{n \choose 2} = (n-1)?\,.</math>
+
+*In playing [[four fours]], termial can be a useful tool to find the expression required, especially when the rules do not allow the use of [[decimal point]] and [[square root]] (which is because the numbers {{math|0}} and {{math|2}} are used invisibly). For example,
+
+::<math>13=4?+4-4\div4</math>
+::<math>18=4!+4?-4\times4</math>
+
+==Termial-like sum and functions==
+
+
+=== Double termial ===
+{{main|Square number#Properties}}
+
+Similar to double factorial<ref>{{cite web|last1=Weisstein|first1=Eric W.|title=Double Factorial|url=http://mathworld.wolfram.com/DoubleFactorial.html|publisher=MathWorld-A Wolfram Web Resource|accessdate=30 December 2018}}</ref>, The sum of all the odd integers up to some odd positive integer {{mvar|n}} is called the '''double termial ''' of {{mvar|n}}, and denoted by {{math|''n''??}}. That is,
+:<math>(2k-1)?? = \sum_{i=1}^k (2i-1) = 1 + 3 + 5 + \cdots + (2k-3)+(2k-1)\,.</math>
+For example, <math>9??=1+3+5+7+9=25</math>.
+
+The sequence of double termial for {{math|''n'' {{=}} 1, 3, 5, 7,...}} is the [[square number]] sequence.<ref>{{cite web|last1=Goodman|first1=Len|last2=Weisstein|first2=Eric W.|title=Square Number|url=http://mathworld.wolfram.com/SquareNumber.html|publisher=MathWorld-A Wolfram Web Resource|accessdate=30 December 2018}}</ref> It starts as
+: 1, 4, 9, 16, 25, 36, 49, ... {{OEIS|id=A000290}}
+
+===Primial===
+
+'''Primial''' can be introduced as an analog of [[primorial]], and denoted by {{math|''n''§}}. It is defined as the sum of [[prime number]]s less than or equal to {{math|''n''}}<ref>Hardy, G. H. and Wright, E. M. (1979). ''An Introduction to the Theory of Numbers'', 5th ed. Oxford, England: Clarendon Press, pp. 1–4, 17, 22, and 251.</ref>, i.e.
+
+:<math>n\S=p_{\pi(n)}\S = \sum_{i=1}^{\pi(n)} p_i\,,</math>
+
+where <math>\pi(n)</math> is the [[prime-counting function]].
+
+For example, <math>11\S=p_5\S=2+3+5+7+11=28</math>.
+
+The first few results are
+: 0, 2, 5, 10, 17, 28, 41, ... {{OEIS|id=A007504}}
+
+===Reciprocal termial===
+{{main|Harmonic number}}
+
+'''Reciprocal termial''' is defined as the sum of reciprocal of first {{math|''n''}} positive integers. It is equal to the ''n''-th [[harmonic number]].<ref>Graham, R. L.; Knuth, D. E.; and Patashnik, O. (1994). ''Concrete Mathematics: A Foundation for Computer Science'', 2nd ed. Reading, MA: Addison-Wesley. pp. 272–282.</ref>
+
+:<math>\sum_{i=1}^n \frac{1}{i}= 1+\frac{1}{2}+\frac{1}{3}+\cdots+\frac{1}{n} =H_n.</math>
+
+For example, <math>\sum_{i=1}^3 \frac{1}{i}= 1+\frac{1}{2}+\frac{1}{3} = \frac{11}{6}.</math>
+
+==See also==
+
+*[[Triangular number]]
+*[[Summation]]
+*[[Factorial]]
+*[[Exponential factorial]]
+
+==References==
+{{Reflist}}
+
+
+
+[[Category:Mathematical terminology]]

@@ -1,0 +1,102 @@
+Title : Template:Timeline US Vice Presidents
+Text : This is a graphical timeline listing of the [[Vice President of the United States|Vice Presidents of the United States]].
+
+<timeline>
+ImageSize = width:400 height:1600
+PlotArea  = left:45 right:0 bottom:150 top:20
+Legend    = columns:1 left:40 top:100
+AlignBars = early
+
+Colors=
+  id:grid     value:gray(0.80)
+  id:grid2    value:gray(0.95)
+
+  id:DR  value:green               legend:Democratic-Republican
+  id:Dem value:blue                legend:Democratic
+  id:Fed value:rgb(0.9,0.9,0.6)    legend:Federalist
+  id:NU  Value:rgb(0.91,0.54,0.76) legend:National_Union
+  id:Rep value:red                 legend:Republican
+  id:Wh  value:yellow              legend:Whig
+  id:NP  value:rgb(1,1,0.8)        legend:No_party
+  id:Vac value:black               legend:Office_vacant
+
+DateFormat = yyyy
+Period     = from:1789 till:2021
+TimeAxis   = orientation:vertical order:reverse
+ScaleMajor = grid:grid unit:year increment:4  start:1789
+ScaleMinor = grid:grid2 unit:year increment:1  start:1789
+
+PlotData=
+  bar:Leaders width:30 mark:(line,white) align:left fontsize:M shift:(25,-5) anchor:middle
+
+  from:1789  till:1797 color:NP   text:"[[John Adams]] 1789&ndash;1797"
+  from:1797  till:1801 color:DR   text:"[[Thomas Jefferson]] 1797&ndash;1801"
+  from:1801  till:1805 color:DR   text:"[[Aaron Burr]] 1801&ndash;1805"
+  from:1805  till:1812 color:DR   text:"[[George Clinton (vice president)|George Clinton]] 1805&ndash;1812"
+  from:1812  till:1813 color:Vac  fontsize:S text:"(1812&ndash;1813)"  shift:(25,+12)
+  from:1813  till:1814 color:DR   text:"[[Elbridge Gerry]] 1813&ndash;1814" shift:(25,-7)
+  from:1814  till:1817 color:Vac  fontsize:S text:"(1814&ndash;1817)"  shift:(25,-11)
+  from:1817  till:1825 color:DR   text:"[[Daniel D. Tompkins]] 1817&ndash;1825"
+  from:1825  till:1832 color:DR   text:"[[John C. Calhoun]] 1825&ndash;1832"
+  from:1832  till:1833 color:Vac  fontsize:S text:"(1832&ndash;1833)"
+  from:1833  till:1837 color:Dem  text:"[[Martin Van Buren]] 1833&ndash;1837"  shift:(25,-6)
+  From:1837  till:1841 color:Dem  text:"[[Richard M. Johnson]] 1837&ndash;1841"
+  from:1841  till:1842 color:Wh   text:"[[John Tyler]] 1841"
+  from:1842  till:1845 color:Vac  fontsize:S text:"(1841&ndash;1845)" shift:(25,-9)
+  from:1845  till:1849 color:Dem  text:"[[George M. Dallas]] 1845&ndash;1849"
+  from:1849  till:1850 color:Wh   text:"[[Millard Fillmore]] 1849&ndash;1850"
+  from:1850  till:1853 color:Vac  fontsize:S text:"(1850&ndash;1853)"  shift:(25,-4)
+  from:1853  till:1854 color:Dem  text:"[[William R. King]] 1853"  shift:(25,-5)
+  from:1854  till:1857 color:Vac  fontsize:S text:"(1853&ndash;1857)"  shift:(25,-9)
+  from:1857  till:1861 color:Dem  text:"[[John C. Breckinridge]] 1857&ndash;1861"
+  from:1861  till:1865 color:Rep  text:"[[Hannibal Hamlin]] 1861&ndash;1865"
+  from:1865  till:1866 color:NU   text:"[[Andrew Johnson]] 1865"
+  from:1866  till:1869 color:Vac  fontsize:S text:"(1865&ndash;1869)"  shift:(25,-5)
+  from:1869  till:1873 color:Rep  text:"[[Schuyler Colfax]] 1869&ndash;1873"
+  from:1873  till:1875 color:Rep  text:"[[Henry Wilson]] 1873&ndash;1875"
+  from:1875  till:1877 color:Vac  fontsize:S text:"(1875&ndash;1877)"
+  from:1877  till:1881 color:Rep  text:"[[William A. Wheeler]] 1877&ndash;1881"
+  from:1881  till:1882 color:Rep  text:"[[Chester A. Arthur]] 1881"
+  from:1882  till:1885 color:Vac  fontsize:S text:"(1881&ndash;1885)"
+  from:1885  till:1886 color:Dem  text:"[[Thomas A. Hendricks]] 1885"
+  from:1886  till:1889 color:Vac  fontsize:S text:"(1885&ndash;1889)"
+  from:1889  till:1893 color:Rep  text:"[[Levi P. Morton]] 1889&ndash;1893"
+  from:1893  till:1897 color:Dem  text:"[[Adlai Stevenson I|Adlai Stevenson]] 1893&ndash;1897"
+  from:1897  till:1899 color:Rep  text:"[[Garret Hobart]] 1897&ndash;1899"
+  from:1899  till:1901 color:Vac  fontsize:S text:"(1899&ndash;1901)"
+  from:1901  till:1902 color:Rep  text:"[[Theodore Roosevelt]] 1901"  shift:(25,-8)
+  from:1902  till:1905 color:Vac  fontsize:S text:"(1901&ndash;1905)"  shift:(25,-10)
+  from:1905  till:1909 color:Rep  text:"[[Charles W. Fairbanks]] 1905&ndash;1909
+  from:1909  till:1912 color:Rep  text:"[[James S. Sherman]] 1909&ndash;1912"
+  from:1912  till:1913 color:Vac  fontsize:S text:"(1912&ndash;1913)"
+  from:1913  till:1921 color:Dem  text:"[[Thomas R. Marshall]] 1913&ndash;1921"
+  from:1921  till:1923 color:Rep  text:"[[Calvin Coolidge]] 1921&ndash;1923"
+  from:1923  till:1925 color:Vac  fontsize:S text:"(1923&ndash;1925)"
+  from:1925  till:1929 color:Rep  text:"[[Charles G. Dawes]] 1925&ndash;1929"
+  from:1929  till:1933 color:Rep  text:"[[Charles Curtis]] 1929&ndash;1933"
+  from:1933  till:1941 color:Dem  text:"[[John N. Garner]] 1933&ndash;1941"
+  from:1941  till:1945 color:Dem  text:"[[Henry A. Wallace]] 1941&ndash;1945"
+  from:1945  till:1946 color:Dem  text:"[[Harry S. Truman]] 1945"
+  from:1946  till:1949 color:Vac  fontsize:S text:"(1945&ndash;49)"  shift:(25,-7)
+  from:1949  till:1953 color:Dem  text:"[[Alben W. Barkley]] 1949&ndash;1953"
+  from:1953  till:1961 color:Rep  text:"[[Richard Nixon]] 1953&ndash;1961"
+  from:1961  till:1963 color:Dem  text:"[[Lyndon B. Johnson]] 1961&ndash;1963"
+  from:1963  till:1965 color:Vac  fontsize:S text:"(1963&ndash;1965)"
+  from:1965  till:1969 color:Dem  text:"[[Hubert Humphrey]] 1965&ndash;1969"
+  from:1969  till:1973 color:Rep  text:"[[Spiro Agnew]] 1969&ndash;1973"  shift:(25,+24)
+  from:1973  till:1973 color:Vac  fontsize:S text:"(1973)"  shift:(25,+25)
+  from:1973  till:1974 color:Rep  text:"[[Gerald Ford]] 1973&ndash;1974"  shift:(25,-7)
+  from:1974  till:1974 color:Vac  fontsize:S text:"(1974)"  shift:(25,-14)
+  from:1974  till:1977 color:Rep  text:"[[Nelson Rockefeller]] 1974&ndash;1977"  shift:(25,-13)
+  from:1977  till:1981 color:Dem  text:"[[Walter Mondale]] 1977&ndash;1981"
+  from:1981  till:1989 color:Rep  text:"[[George H. W. Bush]] 1981&ndash;1989"
+  from:1989  till:1993 color:Rep  text:"[[Dan Quayle]] 1989&ndash;1993"
+  from:1993  till:2001 color:Dem  text:"[[Al Gore]] 1993&ndash;2001"
+  from:2001  till:2009 color:Rep  text:"[[Dick Cheney]] 2001&ndash;2009"
+  from:2009  till:2017 color:Dem  text:"[[Joe Biden]] 2009&ndash;2017"
+  from:2017  till:2019 color:Rep  text:"[[Mike Pence]] 2017&ndash;present"
+</timeline>
+<noinclude>
+[[Category:Graphical timeline templates|US Vice Presidents]]
+[[Category:Executive branch of the United States government templates|VPUS]]
+</noinclude>

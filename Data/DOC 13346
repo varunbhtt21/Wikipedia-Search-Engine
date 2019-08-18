@@ -1,0 +1,42 @@
+Title : Template:Heart (radio network)
+Text : {{Navbox
+|name = Heart (radio network)
+|title = [[Heart (radio network)|Heart]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+
+|group1= Regions
+|list1 = 
+*[[Heart East|East]]
+*[[Heart Hertfordshire|Hertfordshire]]
+*[[Heart London|London]]
+*[[Heart West Midlands|West Midlands]]
+*[[Heart North East|North East]]
+*[[Heart North West|North West]]
+*[[Heart Yorkshire|Yorkshire]]
+*[[Heart Scotland|Scotland]]
+*[[Heart South|South]]
+*[[Heart West|West]]
+*[[Heart North Wales|North Wales]]
+*[[Heart Wales|South Wales]]
+
+|group2= DAB-Only stations
+|list2 = 
+*[[Heart Extra]]
+*[[Heart 80s]]
+
+|group3 = Related topics
+|list3 =
+*[[Atlantic FM]]
+*[[Gem 106]] ([[Orion Media]])
+*[[Heart Digital]]
+*[[Marcher Radio Group]]
+*[[The One Network]]
+*[[Real Radio]]
+*[[List of Global Group stations]]
+
+}}<noinclude>
+{{collapsible option}}
+
+[[Category:United Kingdom radio navigational boxes]]
+</noinclude>

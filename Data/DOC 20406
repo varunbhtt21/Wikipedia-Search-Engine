@@ -1,0 +1,106 @@
+Title : Arkansas Highway 549
+Text : {{for|the previous incarnation of Highway 549|Arkansas Highway 549 (2004–2014)}}
+
+{{Infobox road
+|state=AR
+|type=AR
+|route=549
+|alternate_name=Bella Vista Bypass
+|formed=2014
+|length_mi=11.4
+|length_ref=
+|direction_a=South
+|terminus_a={{jct|state=AR|I|49|US|71}} near [[Bentonville, Arkansas|Bentonville]]
+|junction={{jct|state=AR|AR|72}} near [[Gravette, Arkansas|Gravette]]
+|direction_b=North
+|terminus_b={{jct|state=AR|CR|34|county1=Benton|name1=Rocky Dell Hollow Road}}
+|counties=[[Benton County, Arkansas|Benton]]
+|previous_type=I
+|previous_route=540
+|next_type=I
+|next_route=555
+}}
+
+'''Highway 549''', known as the '''Bella Vista Bypass''', is the temporary designation of Future [[Interstate 49 in Arkansas|Interstate&nbsp;49]] (I-49) near [[Bella Vista, Arkansas|Bella Vista]] in the U.S. state of Arkansas. It currently consists of a two-lane freeway from a temporary roundabout interchange with [[Interstate 49 (Arkansas)|I-49]] and [[U.S. Route 71 (Arkansas)|US 71]] near [[Bentonville, Arkansas|Bentonville]] to an incomplete interchange with County Road 34 near [[Hiwasse, Arkansas|Hiwasse]].<ref name=ADG>{{cite news |title= First Section of Bella Vista Bypass to Open |url= http://www.arkansasbusiness.com/article/98279/first-section-of-bella-vista-bypass-to-open |accessdate= May 1, 2014 |newspaper= [[Arkansas Democrat-Gazette]] |date= April 21, 2014 |agency= Associated Press |location= Little Rock, AR}}</ref>
+
+==Route description==
+AR&nbsp;549 currently begins at an interchange with [[Interstate 49 (Arkansas)|I-49]] and [[U.S. Route 71 (Arkansas)|US 71]] in [[Bentonville, Arkansas|Bentonville]] and continues west to an interchange with [[Arkansas Highway 72|AR&nbsp;72]] at [[Hiwasse, Arkansas|Hiwasse]]. AR&nbsp;549 turns northwest and has another interchange with AR&nbsp;72, where it turns northward and continues to its temporary end at Rocky Dell Hollow Road.
+
+==History==
+The AR&nbsp;549 designation was signed again in 2014 as the temporary designation to the Bella Vista Bypass. This segment was signed in late April and runs for approximately {{convert|3|mi|km|spell=in}} as a [[two-lane expressway]], with room to expand up to four lanes.<ref>{{cite news |work= Arkansas Matters |location= Little Rock, AR |publisher= [[KARK-TV]] |url= http://www.arkansasmatters.com/story/d/story/first-section-of-bella-vista-bypass-now-open/15025/DxfFfErv7Emdlcrj2HUKjA |title= First Section of Bella Vista Bypass Now Open |date= April 22, 2014 |accessdate= May 14, 2014}}</ref>
+
+==Future==
+The Bella Vista Bypass is set to continue northwards, running along the western edge of [[Bella Vista, Arkansas|Bella Vista]] before entering [[Missouri]]. After an interchange with [[Missouri Route 90]], the bypass will rejoin [[U.S. Route 71 in Missouri|US&nbsp;71]] near [[Pineville, Missouri]]. When the entire section has been upgraded to interstate standards, it will be signed as I-49.
+
+==Exit list==
+{{jcttop|exit|state_col=state|length_ref=}}
+{{ARint|exit
+|sspan=4
+|county=Benton
+|cspan=4
+|location=Bentonville
+|mile=
+|type=
+|exit=93
+|road={{jct|state=AR|I|49|dir1=south|US|71|city1=Fayetteville|city2=Bella Vista}}
+|notes=Roundabout; Southern terminus
+}}
+{{ARint|exit
+|location=Hiwasse
+|mile=
+|exit=284
+|road={{jct|state=AR|AR|72|city1=Hiwasse|city2=Bentonville}}
+|notes=former southern terminus
+}}
+{{ARint|exit
+|location=Gravette
+|mile=
+|exit=287
+|road={{jct|state=AR|AR|72|city1=Gravette|city2=Hiwasse}}
+|notes=former northern terminus
+}}
+{{ARint|exit
+|location=Bella Vista
+|mile=
+|type=incomplete
+|exit=289
+|road={{jct|state=AR|CR|34|name1=Rocky Dell Hollow Road}}
+|notes=current temporary northern terminus
+}}
+{{MOint|exit
+|sspan=2
+|county=McDonald
+|cspan=2
+|location=none
+|mile=
+|type=unbuilt
+|exit=2
+|road={{jct|state=MO|MO|90|city1=Noel|city2=Jane}}
+|notes=Planned interchange
+}}
+{{MOint|exit
+|location=Pineville
+|mile=
+|type=unbuilt
+|exit=4
+|road={{jct|state=MO|I|49|dir1=north|US|71|city1=Joplin}}, [[Bella Vista, Arkansas|Bella Vista]]
+|notes=Future northern terminus
+}}
+{{jctbtm|col=8|keys=incomplete,unbuilt}}
+
+==See also==
+{{portal|Arkansas|U.S. Roads}}
+* [[List of state highways in Arkansas]]
+{{clear}}
+
+==References==
+{{reflist|22em}}
+
+==External links==
+{{commons category-inline|Arkansas Highway 549}}
+
+
+[[Category:State highways in Arkansas|549]]
+[[Category:Transportation in Benton County, Arkansas|Highway 549]]
+[[Category:Interstate 49]]
+[[Category:Bentonville, Arkansas]]

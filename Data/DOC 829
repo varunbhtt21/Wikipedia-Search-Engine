@@ -1,0 +1,45 @@
+Title : Template:Database Population Arrentières
+Text : <includeonly>{{#switch: {{{1|}}}
+ | max = 250
+ | source-chart = Sources: database Ldh/EHESS/Cassini and Insee
+ | source1 = http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=1165
+ | source2 = http://www.statistiques-locales.insee.fr/FICHES/DL/DEP/10/COM/DL_COM10011.pdf
+ | source3 = 
+ | source4 = 
+ | 1 = 1793/579
+ | 2 = 1800/609
+ | 3 = 1806/579
+ | 4 = 1821/587
+ | 5 = 1831/631
+ | 6 = 1836/611
+ | 7 = 1841/614
+ | 8 = 1846/621
+ | 9 = 1851/654
+ | 10 = 1856/616
+ | 11 = 1861/616
+ | 12 = 1866/622
+ | 13 = 1872/592
+ | 14 = 1876/599
+ | 15 = 1881/588
+ | 16 = 1886/557
+ | 17 = 1891/548
+ | 18 = 1896/517
+ | 19 = 1901/470-
+ | 20 = 1906/434
+ | 21 = 1911/390
+ | 22 = 1921/349
+ | 23 = 1926/322
+ | 24 = 1931/308
+ | 25 = 1936/319
+ | 26 = 1946/294
+ | 27 = 1954/325
+ | 28 = 1962/271
+ | 29 = 1968/235
+ | 30 = 1975/241
+ | 31 = 1982/245
+ | 32 = 1990/244
+ | 33 = 1999/231
+ | 34 = 2006/-
+ | 35 = 2009/207
+|2010/9999
+}}</includeonly><noinclude>{{documentation}}</noinclude>

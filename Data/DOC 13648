@@ -1,0 +1,63 @@
+Title : Run-off transcription
+Text : {{technical|date=April 2014}}
+
+A '''run-off transcription''' assay is an assay in [[molecular biology]] which is conducted ''in vitro'' to identify the position of the transcription start site (1 base pair upstream) of a specific promoter along with its accuracy and rate of ''in vitro'' [[Transcription (genetics)|transcription]].<ref name="Loewenstein">{{Cite journal
+ | pmid = 17656772
+| year = 2007
+| author1 = Loewenstein
+| first1 = P. M.
+| title = The use of in vitro transcription to probe regulatory functions of viral protein domains
+| journal = Methods in Molecular Medicine
+| volume = 131
+| pages = 15–31
+| last2 = Song
+| first2 = C. Z.
+| last3 = Green
+| first3 = M
+}}</ref>
+<ref name="molstation">{{cite web|title=Run-off Transcription|url=http://molecularstation.com/dna/run-off-transcription|publisher=Molecular Station|accessdate=April 16, 2014|deadurl=yes|archiveurl=https://archive.is/20140422173019/http://molecularstation.com/dna/run-off-transcription|archivedate=April 22, 2014|df=}}</ref><ref name="Lelandais">{{Cite journal
+ | pmid = 8972868
+| year = 1996
+| author1 = Lelandais
+| first1 = C
+| title = A promoter element active in run-off transcription controls the expression of two cistrons of nad and rps genes in Nicotiana sylvestris mitochondria
+| journal = Nucleic Acids Research
+| volume = 24
+| issue = 23
+| pages = 4798–804
+| last2 = Gutierres
+| first2 = S
+| last3 = Mathieu
+| first3 = C
+| last4 = Vedel
+| first4 = F
+| last5 = Remacle
+| first5 = C
+| last6 = Maréchal-Drouard
+| first6 = L
+| last7 = Brennicke
+| first7 = A
+| last8 = Binder
+| first8 = S
+| last9 = Chétrit
+| first9 = P
+| pmc = 146301
+
+ | doi=10.1093/nar/24.23.4798
+}}</ref> 
+
+Run-off transcription can be used to quantitatively measure the effect of changing promoter regions on in vitro transcription levels,<ref name="Loewenstein" /><ref name="molstation" /><ref name="Kadonaga">{{cite web|last=Allison|first=Lizabeth|title=Fundamental molecular biology, chapter 11|url=http://www.blackwellpublishing.com/allison/docs/sample_ch11.pdf|publisher=BlackWell Publishing|accessdate=April 18, 2014}}</ref> Because of its in vitro nature, however, this assay cannot accurately predict cell-specific gene transcription rates, unlike in vivo assays such as nuclear run-on.<ref name="Loewenstein" /><ref name="molstation" /> 
+
+To perform a run-off transcription assay, a gene of interest, including the [[Promoter (genetics)|promoter]], is cloned into a [[plasmid]]<ref name="Kadonaga" />. The plasmid is digested at a known [[restriction enzyme]] cut site downstream from the transcription start site such that the expected [[mRNA]] run-off product would be easily separated by [[gel electrophoresis]].<ref name="Loewenstein" /><ref name="molstation" /><ref name="Kadonaga" />
+DNA needs to be highly purified prior to running this assay.<ref name="Loewenstein" /> 
+<ref name="molstation" /> To initiate transcription, [[Isotopic labeling|radiolabeled]] [[Uridine triphosphate|UTP]], the other [[nucleotide]]s, and [[RNA polymerase]] are added to the linearized DNA.<ref name="Loewenstein" /><ref name="molstation" /> Transcription continues until the RNA polymerase reaches the end of the DNA where it simply “runs off” the DNA template, resulting in an mRNA fragment of a defined length.<ref name="Loewenstein" /><ref name="molstation" /> This fragment can then be separated by gel electrophoresis, alongside size standards, and autoradiographed.<ref name="Loewenstein" /><ref name="molstation" /><ref name="Kadonaga" /> The corresponding size of the band will represent the size of the mRNA from the restriction enzyme cut site to the transcription start site (+1).<ref name="Kadonaga" /> The intensity of the band will indicate the amount of mRNA produced.<ref name="Kadonaga" />
+
+Additionally, it can be used to detect whether or not transcription is carried out under certain conditions (i.e. in the presence of different chemicals).<ref>{{Cite journal | doi=10.1038/emboj.2011.273| pmid=21829165| pmc=3209775|title = Mechanism of transcriptional repression at a bacterial promoter by analysis of single molecules| journal=The EMBO Journal| volume=30| issue=19| pages=3940–3946|year = 2011|last1 = Sanchez|first1 = Alvaro| last2=Osborne| first2=Melisa L.| last3=Friedman| first3=Larry J.| last4=Kondev| first4=Jane| last5=Gelles| first5=Jeff}}</ref>
+
+<!-- Fig 1. Run-off Transcription Assay. Cartooned is part of a plasmid that contains (A) a promoter and downstream DNA with a known restriction enzyme site. (B) The DNA is cut with the restriction enzyme, leaving DNA fragment (in this case 328 bp from the +1). (C) Transcription is initiated by the addition of radiolabeled UTP, NTPs and RNA Polymerase II. (D) RNA Polymerase II continues with transcription until it reaches the end of the DNA fragment, where it then falls off, or “runs off”, resulting in . an incomplete mRNA of a defined length. (E) The RNA is separate by gel electrophoresis, along with a size standards, and detected by autoradiography to determine the length and intensity of the mRNA. "Editor's note: The figure that this label points to is missing"-->
+
+==References==
+
+{{reflist}}
+
+[[Category:Molecular biology techniques]]

@@ -1,0 +1,23 @@
+Title : Template:AACTA International Award for Best Direction
+Text : {{Navbox 
+|name      = AACTA International Award for Best Direction
+|title     = [[AACTA International Award for Best Direction]] 
+|state = {{{state|autocollapse}}}
+|border    = {{#if:{{{list only|}}}|child}}
+|bodyclass = hlist
+|basestyle = background: #DECD87
+
+|list1 = 
+* [[Michel Hazanavicius]] (2011)
+* [[David O. Russell]] (2012)
+* [[Alfonso Cuarón]] (2013)
+* [[Alejandro González Iñárritu|Alejandro G. Iñárritu]] (2014)
+* [[George Miller (director)|George Miller]] (2015)
+* [[Mel Gibson]] (2016)
+* [[Christopher Nolan]] (2017)
+* [[Alfonso Cuarón]] (2018)
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:AACTA Award navigational boxes|AACTA International Award for Best Direction]]
+</noinclude>

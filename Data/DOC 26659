@@ -1,0 +1,233 @@
+Title : Line 2 (Changsha Metro)
+Text : {{Infobox rail line
+| name        =
+| logo        = {{huge|{{rint|changsha|2}}}}
+| logo_width  = 
+| color       = {{CSM color|2}}
+| image       = 
+| image_width = 265px
+| image_alt   =
+| caption     = 
+| type        = [[Rapid transit]]
+| system      = [[Changsha Metro]]
+| status      = Operational
+| locale      = [[Changsha]], [[Hunan]], [[China]]
+| start       = {{CSM stations|West Meixi Lake}}
+| end         = {{CSM stations|Guangda}}
+| stations    = 23
+| routes      = 1
+| daily_ridership = 
+| open        = {{Start date and age|2014|04|29}}
+| close       = 
+| owner       = [[Changsha]] Government
+| operator    = [[Changsha Metro|Changsha Metro Corporation]]
+| character   = Underground
+| depot       = 
+| stock       = 
+| linelength  = {{convert|26.57|km|mi|2|abbr=on}}
+| tracklength = 
+| tracks = 2
+| gauge       = {{track gauge|sg}}
+| electrification = 
+| speed       = 
+| elevation   = 
+| website     =
+| map         = 
+| map_state   = collapsed
+}}
+'''Line 2''' of the [[Changsha Metro]] ({{zh|s=长沙地铁二号线|p=Chǎngshā Dìtiě Èr Hào Xiàn}}) is a [[rapid transit]] line running from west to east [[Changsha]] crossing the [[Xiang River]]. The Phase 1 of the line was opened on 29 April 2014 with 19 stations, and the western extension opened on 28 December 2015 with 4 stations.<ref>{{cite web|url=http://www.hunan.gov.cn/zw/hnyw/szdt/201512/t20151229_2836589.html|title=长沙地铁2号线西延一期载客试运营|author=<!--Staff writer(s); no by-line.--> |date=28 December 2015 |website=Government of Hunan|publisher= |accessdate=30 December 2015 }}</ref> This line is 26.57&nbsp;km long with 23 stations.<ref name="railwaygazette2014">{{cite web|url=http://www.railwaygazette.com/news/urban/single-view/view/changsha-metro-opens.html|title=Changsha metro opens |author=<!--Staff writer(s); no by-line.--> |date=29 April 2014 |website=Railway Gazette |publisher= |accessdate=4 May 2014}}</ref>
+
+==Opening timeline==
+{| class="wikitable" cellpadding="3" style="border-collapse: collapse; text-align: right;"
+!Segment!!Commencement!!Length!!Station(s)!!Name
+|-
+|style="text-align: left;"| Wangchengpo — Guangda
+| 29 April 2014
+| {{convert|22.3|km|mi|2|abbr=on}}
+| 19
+|style="text-align: left;"| Phase 1
+|-
+|style="text-align: left;"| West Meixi Lake — Wangchengpo
+| 28 December 2015
+| {{convert|4.279|km|mi|2|abbr=on}}
+| 4
+|style="text-align: left;"| Western extension
+|}
+
+==Stations (west to east)==
+[[File:Changsha Railway Station (Line 2, Changsha Metro).jpg|thumb|Changsha railway station (Line 2, Changsha Metro).]]
+[[File:Line 2, Changsha Metro6.jpg|thumb|Line 2, Changsha Metro]]
+
+{| class="wikitable"
+! colspan="2" | Station name
+! rowspan="2" | Connections
+! colspan="2" rowspan="2" | Distance<br>{{small|km}}
+! rowspan="2" | Location
+|-
+! {{small|English}}
+! {{small|Chinese}}
+|- style = "background:#{{CSM color|2}}; height: 2pt"
+| colspan = "6" |
+|-
+|{{CSM stations|West Meixi Lake}}
+|{{large|{{lang|zh-cn|梅溪湖西}}}}
+|
+|0.00
+|0.00
+|rowspan="9"|[[Yuelu District|Yuelu]]
+|-
+|{{CSM stations|Luyun Road}}
+|{{large|{{lang|zh-cn|麓云路}}}}
+|
+|1.35
+|1.35
+|-
+|{{CSM stations|Culture and Arts Center}}
+|{{large|{{lang|zh-cn|文化艺术中心}}}}
+|
+|1.05
+|2.40
+|-
+|{{CSM stations|East Meixi Lake}}
+|{{large|{{lang|zh-cn|梅溪湖东}}}}
+|
+|1.10
+|3.50
+|-
+|{{CSM stations|Wangchengpo}}
+|{{large|{{lang|zh-cn|望城坡}}}}
+|
+|1.15
+|4.65
+|-
+|{{CSM stations|Jinxing Road}}
+|{{large|{{lang|zh-cn|金星路}}}}
+|
+|1.50
+|6.15
+|-
+|{{CSM stations|Xihu Park}}
+|{{large|{{lang|zh-cn|西湖公园}}}}
+|
+|1.25
+|7.40
+|-
+|{{CSM stations|Yingwanzhen}}
+|{{large|{{lang|zh-cn|溁湾镇}}}}
+|{{Rint|changsha|4}}
+|1.15
+|8.55
+|-
+|{{CSM stations|Juzizhou}}
+|{{large|{{lang|zh-cn|橘子洲}}}}
+|
+|1.20
+|9.75
+|-
+|{{CSM stations|Xiangjiang Middle Road}}
+|{{large|{{lang|zh-cn|湘江中路}}}}
+|
+|0.70
+|10.45
+|[[Tianxin District|Tianxin]]/[[Kaifu District, Changsha|Kaifu]]
+|-
+|{{CSM stations|Wuyi Square}}
+|{{large|{{lang|zh-cn|五一广场}}}}
+|{{Rint|changsha|1}}
+|0.65
+|11.10
+|[[Tianxin District|Tianxin]]/[[Kaifu District, Changsha|Kaifu]]/[[Furong District|Furong]]
+|-
+|{{CSM stations|Furong Square}}
+|{{large|{{lang|zh-cn|芙蓉广场}}}}
+|
+|0.80
+|11.90
+|rowspan="6"|[[Furong District|Furong]]
+|-
+|{{CSM stations|Yingbin Road}}
+|{{large|{{lang|zh-cn|迎宾路}}}}
+|
+|0.80
+|12.70
+|-
+|{{CSM stations|Yuanjialing}}
+|{{large|{{lang|zh-cn|袁家岭}}}}
+|
+|0.80
+|13.50
+|-
+|{{CSM stations|Changsha}}
+|{{large|{{lang|zh-cn|长沙火车站}}}}
+|{{RouteBox|CZT|Changsha–Zhuzhou–Xiangtan intercity railway|#{{CR color|intercity}}}} {{nowrap|{{rint|cn|rail|link=Changsha railway station}} [[Changsha railway station|CSQ]]}}
+|1.05
+|14.55
+|-
+|{{CSM stations|Jintai Square}}
+|{{large|{{lang|zh-cn|锦泰广场}}}}
+|
+|0.70
+|15.25
+|-
+|{{CSM stations|Wanjiali Square}}
+|{{large|{{lang|zh-cn|万家丽广场}}}}
+|
+|1.25
+|16.50
+|-
+|{{CSM stations|Renmin East Road}}
+|{{large|{{lang|zh-cn|人民东路}}}}
+|
+|1.50
+|18.00
+|[[Furong District|Furong]]/[[Yuhua District, Changsha|Yuhua]]
+|-
+|{{CSM stations|Changsha Avenue}}
+|{{large|{{lang|zh-cn|长沙大道}}}}
+|
+|2.00
+|20.00
+|rowspan="4"|[[Yuhua District, Changsha|Yuhua]]
+|-
+|{{CSM stations|Shawan Park}}
+|{{large|{{lang|zh-cn|沙湾公园}}}}
+|{{Rint|changsha|4}}
+|1.20
+|21.20
+|-
+|{{CSM stations|Duhua Road}}
+|{{large|{{lang|zh-cn|杜花路}}}}
+|
+|1.80
+|23.00
+|-
+|{{CSM stations|Changsha South}}
+|{{large|{{lang|zh-cn|长沙火车南站}}}}
+|{{Rint|changsha|4}} {{Rint|changsha|maglev}} {{rint|cn|rail|link=Changsha South railway station}} [[Changsha South railway station|CWQ]]
+|1.00
+|24.00
+|-
+|{{CSM stations|Guangda}}
+|{{large|{{lang|zh-cn|光达}}}}
+|{{Rint|changsha|4}}
+|2.00
+|26.00
+|[[Changsha County|Changsha Co.]]
+|- style = "background:#{{CSM color|2}}; height: 2pt"
+| colspan = "6" |
+|}
+
+==References==
+{{Reflist}}
+
+{{Hunan transit}}
+
+{{commonscat|Line 2, Changsha Metro}}
+
+{{DEFAULTSORT:Changsha Metro, Line 2}}
+[[Category:Changsha Metro]]
+[[Category:2014 establishments in China]]
+[[Category:Railway lines opened in 2014]]
+
+{{PRChina-rail-transport-stub}}
+{{metro-stub}}

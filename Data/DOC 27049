@@ -1,0 +1,31 @@
+Title : Template:Upper secondary schools of Oslo
+Text : {{Navbox
+|name = Upper secondary schools of Oslo
+|title = [[Oslo|Upper secondary schools of Oslo]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|titlestyle =
+|list1 = 
+* [[Berg Upper Secondary School|Berg]]
+* [[Bjerke Upper Secondary School|Bjerke]]
+* [[Fagerborg Upper Secondary School|Fagerborg]]
+* [[Foss Upper Secondary School|Foss]]
+* [[Hartvig Nissen School|Hartvig Nissen]]
+* [[Kuben Upper Secondary School|Kuben]]
+* [[Lambertseter Upper Secondary School|Lambertseter]]
+* [[Nydalen Upper Secondary School|Nydalen]]
+* [[Oslo Commerce School]]
+* [[Oslo Cathedral School]]
+
+|belowclass=hlist
+|below=
+[[File:Flag of Norway.svg|25px|right]]
+* '''{{Icon|Category}} [[:Category:Oslo Municipality|Category:Oslo Municipality]]'''
+* ''' {{Icon|Portal}} [[Portal:Norway|Portal:Norway]]'''
+|belowstyle = 
+}}<noinclude>
+{{collapsible option}}
+[[Category:Norway navigational boxes]]
+[[Category:Education navigational boxes]]
+[[Category:Education in Oslo]]
+</noinclude>

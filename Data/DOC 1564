@@ -1,0 +1,42 @@
+Title : Wikipedia:Sockpuppet investigations/Natas Mon/Archive
+Text : __TOC__
+{{SPIarchive notice|1=Natas Mon}}
+{{SPIpriorcases}}
+=====<big>14 April 2014</big>=====
+
+
+;Suspected sockpuppets
+
+* {{checkuser|1=Harshray}}
+* {{checkuser|1=Mona.SHEPHERD}}
+* {{checkuser|1=Unclethai}}
+* {{checkuser|1=Chellaney}}
+
+
+<!-- You may duplicate the templates above ({{checkuser}} and {{checkIP}}) to list more accounts-->
+*[http://toolserver.org/~betacommand/cgi-bin/uc?uc=Chellaney User compare report] <small>''Auto-generated every hour.''</small>
+*[http://tools.wmflabs.org/sigma/editorinteract.py Editor interaction utility]
+
+{{u|Harshray}} has been previously identified as a sock or meat puppet of the now-blocked user {{u|Chellaney}}, who engaged in edit warring on [[Brahma Chellaney]], an article user Chellaney created. See [https://en.wikipedia.org/wiki/Wikipedia:Requests_for_checkuser/Case/Chellaney checkuser report].
+
+Recently, Harshray began editing the article [[Neville Maxwell]] in a way that blatantly violates the [[WP:BLP]] policy. For example, [https://en.wikipedia.org/w/index.php?title=Neville_Maxwell&diff=prev&oldid=587114388 this edit] labels Maxwell as "controversial" and having a "pro-China slant", neither of which can be found in the [http://www.rediff.com/news/2002/oct/08max1.htm cited source] (and [http://www.rediff.com/news/special/defence-news-if-nehru-had-declared-his-intention-to-attack-then-the-chinese-were-not-going-to-wait/20140318.htm recent update]), which on the contrary calls his book "authoritative". His other edits added more attacking material, citing several "sources" that have nothing to do with Maxwell, and an unabashedly biased opinion by the aforementioned Indian nationalist and Maxwell critic [[Brahma Chellaney]] (diff: [https://en.wikipedia.org/w/index.php?title=Neville_Maxwell&diff=587601577&oldid=587599832]).
+
+After I reverted most of his edits, a new single-purpose account {{u|Mona.SHEPHERD}} was created, which copied much of Harshray's edits to the related article [[Henderson Brooks–Bhagat Report]] (diff: [https://en.wikipedia.org/w/index.php?title=Henderson_Brooks%E2%80%93Bhagat_Report&diff=600359786&oldid=600301845]), and repeatedly reverted attempts by myself and user {{u|Huaxia}} to remove the BLP-violating content (diffs: [https://en.wikipedia.org/w/index.php?title=Neville_Maxwell&diff=601968494&oldid=601542321] [https://en.wikipedia.org/w/index.php?title=Neville_Maxwell&diff=603281288&oldid=603251752]). See [[Talk:Neville Maxwell]] and [[User talk:Mona.SHEPHERD]] for more detailed analyses of their malicious edits, which are [https://en.wikipedia.org/w/index.php?title=User_talk:Cullen328&diff=603694505&oldid=603681518 characterized] by an otherwise uninvolved editor ({{u|Cullen328}}) as "an attempt to make Maxwell look as bad as possible".
+
+Upon further investigation, Mona.SHEPHERD appears to be just the latest reincarnation of a series of single-purpose accounts whose sole purpose is to add promotional material to the article [[Brahma Chellaney]] or advance Chellaney's views. These include [https://en.wikipedia.org/wiki/Special:Contributions/Motheruniverse Motheruniverse], [https://en.wikipedia.org/wiki/Special:Contributions/Unclethai Unclethai], [https://en.wikipedia.org/w/index.php?title=Brahma_Chellaney&diff=prev&oldid=519989727 Norblogger], and [https://en.wikipedia.org/wiki/Special:Contributions/Natas_Mon Natas Mon]. They almost all share the highly distinctive habit of beginning their edit comments with verbs in the single third-person present tense, e.g. "Adds update" and "Inserts reference", instead of the usual "add" or "inserted". I haven't added all of them to the list of possible socks as some have been dormant. [[User:Zanhe|Zanhe]] ([[User talk:Zanhe|talk]]) 18:12, 14 April 2014 (UTC)
+
+:I've now added {{u|Natas Mon}} to the list as the once dormant account has been reactivated to [https://en.wikipedia.org/w/index.php?title=Brahma_Chellaney&curid=4215846&diff=604711567&oldid=603354745 remove the peacock and COI tags] on [[Brahma Chellaney]]. -[[User:Zanhe|Zanhe]] ([[User talk:Zanhe|talk]]) 19:04, 18 April 2014 (UTC)
+
+======<span style="font-size:150%">Comments by other users</span>======
+<small>''Accused parties may also comment/discuss in this section below. See [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|Defending yourself against claims]].''</small>
+
+*I just saw this. I vigorously deny any link with {{u|Natas Mon}}. [[User:Mona.SHEPHERD|Mona.SHEPHERD]] ([[User talk:Mona.SHEPHERD|talk]]) 08:05, 20 April 2014 (UTC)
+
+======<span style="font-size:150%">Clerk, CheckUser, and/or patrolling admin comments</span>======
+*'''Checkuser comments''':  
+*{{checkuser|1=Harshray}} is {{unrelated}} to the other accounts. 
+*{{checkuser|1=Unclethai}} is {{inconclusive}}
+*{{checkuser|1=Mona.SHEPHERD}} and {{checkuser|1=Natas Mon}} are {{likely}} socks. 
+* Neither Mona.SHEPHERD nor Natas Mon can be linked back to Chellaney directly; apparently editing from a different continent. [[User:Risker|Risker]] ([[User talk:Risker|talk]]) 05:42, 20 April 2014 (UTC)
+**Blocked and tagged (in a sec) and moved here from [[Wikipedia:Sockpuppet investigations/Chellaney]]. <b>[[User:Callanecc|Callanecc]]</b> ([[User talk:Callanecc|talk]] • [[Special:Contributions/Callanecc|contribs]] • [[Special:Log/Callanecc|logs]]) 12:58, 20 April 2014 (UTC)
+----<!--- All comments go ABOVE this line, please. -->

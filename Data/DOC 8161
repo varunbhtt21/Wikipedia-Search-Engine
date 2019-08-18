@@ -1,0 +1,28 @@
+Title : Template:Non-free review/doc
+Text : {{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+== Usage ==
+'''As of November 2015, [[Wikipedia:Non-free content review]] has been shut down. In effect, this template should no longer be used. Please use [[Wikipedia:Files for discussion]] for new review requests.'''
+
+''Note: This template should only be used on media description pages in the [[Help:Files|File:]] namespace.  As of December 24, 2013, it must not be added to article pages ([[Template talk:Non-free review#RfC: Should the non-free review template be added to articles?|archived discussion]]).''
+
+== TemplateData ==
+{{TemplateData header}}
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "discussion",
+			"description": "The name of the discussion section on “Wikipedia:Non-free content review”",
+			"default": "File:{{PAGENAME}}"
+		}
+	}
+}
+</templatedata>
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go here and interwikis go in Wikidata. 
+[[Category:Copyright maintenance templates|{{PAGENAME}}]]
+[[Category:File maintenance templates|{{PAGENAME}}]]-->
+
+}}</includeonly>

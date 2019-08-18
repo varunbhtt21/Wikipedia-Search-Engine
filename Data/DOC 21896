@@ -1,0 +1,23 @@
+Title : Template:Critics' Choice Movie Award for Best Cinematography
+Text : {{Navbox
+| name       = Critics' Choice Movie Award for Best Cinematography
+| title      = [[Critics' Choice Movie Award for Best Cinematography]]
+| state      = {{{state|autocollapse}}}
+|listclass   = hlist
+
+| list1=
+* [[Mauro Fiore]] (2009)
+* [[Wally Pfister]] (2010)
+* [[Janusz Kamiński]] / [[Emmanuel Lubezki]] (2011)
+* [[Claudio Miranda]] (2012)
+* [[Emmanuel Lubezki]] (2013)
+* [[Emmanuel Lubezki]] (2014)
+* [[Emmanuel Lubezki]] (2015)
+* [[Linus Sandgren]] (2016)
+* [[Roger Deakins]] (2017)
+* [[Alfonso Cuarón]] (2018)
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Broadcast Film Critics Association Award templates|Cinematography]]
+</noinclude>

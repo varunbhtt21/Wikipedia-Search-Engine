@@ -1,0 +1,121 @@
+Title : Commonwealth Railways KA class
+Text : {{Use Australian English|date=May 2014}}
+{{Use dmy dates|date=May 2014}}
+{{Infobox locomotive
+| name             = Commonwealth Railways KA class
+| powertype        = Steam
+| image            = KA class, Commonwealth Railways, ca 1951.jpg
+| alt              = A KA class locomotive, c 1951.
+| caption          = A KA class locomotive, c 1951.
+| designer         = 
+| builder          = [[Perry Engineering]] (6)<br>[[Walkers Limited]] (20)
+| ordernumber      = 
+| serialnumber     = 
+| buildmodel       = 
+| builddate        = 1918-1920
+| totalproduction  = 26
+| rebuilder        = 
+| rebuilddate      = 
+| numberrebuilt    = 
+| whytetype        = {{whyte|2-8-0}}
+| uicclass         = 
+| gauge            = {{track gauge|1435 mm|allk=on}}
+| leadingdiameter  = 
+| driverdiameter   = 
+| trailingdiameter = 
+| minimumcurve     = 
+| wheelbase        = 
+| length           = 
+| width            = 
+| height           = 
+| axleload         = 
+| weightondrivers  = 
+| locoweight       = 
+| tenderweight     = 
+| locotenderweight = 
+| tendertype       = 
+| fueltype         = [[Coal]]
+| fuelcap          = 
+| watercap         = {{convert|4,850|impgal|L USgal|abbr=on}}
+| tendercap        = 
+| sandcap          = 
+| boiler           = 
+| boilerpressure   = 
+| feedwaterheater  = 
+| firearea         = 
+| tubearea         = 
+| fluearea         = 
+| tubesandflues    = 
+| fireboxarea      = 
+| totalsurface     = 
+| superheatertype  = 
+| superheaterarea  = 
+| cylindercount    = 
+| cylindersize     = {{convert|22|x|26|in|mm|0|abbr=on}}
+| frontcylindersize= 
+| rearcylindersize = 
+| hpcylindersize   = 
+| lpcylindersize   = 
+| valvegear        = 
+| valvetype        = 
+| valvetravel      = 
+| valvelap         = 
+| valvelead        = 
+| transmission     = 
+| maxspeed         = 
+| poweroutput      = 
+| tractiveeffort   = {{convert|29,609|lbf|kN|abbr=on}}
+| factorofadhesion = 
+| trainheating     = 
+| locobrakes       = 
+| locobrakeforce   = 
+| trainbrakes      = 
+| safety           = 
+| operator         = [[Commonwealth Railways]]
+| operatorclass    = 
+| powerclass       = 
+| numinclass       = 
+| fleetnumbers     = KA35–KA54, KA56–KA61
+| officialname     = 
+| nicknames        = 
+| axleloadclass    = 
+| locale           = 
+| deliverydate     = 
+| firstrundate     = September 1918
+| lastrundate      = 
+| retiredate       = 
+| withdrawndate    = 
+| preservedunits   = 
+| restoredate      = 
+| scrapdate        = 
+| currentowner     = 
+| disposition      = All scrapped}} 
+
+The '''Commonwealth Railways KA class''' was a class of {{whyte|2-8-0}} [[tender locomotive]]s of the [[Commonwealth Railways]], Australia. The class operated on the {{track gauge|sg}} [[Trans-Australian Railway]].
+
+==History==
+Between September 1918 and June 1920, [[Commonwealth Railways]] took delivery of 26 KA class freight locomotives built to the same design as the [[New South Wales Government Railways]]' [[New South Wales D53 class locomotive|TF class]] (later the D53 class). Six were built by [[Perry Engineering]], [[Gawler, South Australia|Gawler]] and 20 by [[Walkers Limited]], [[Maryborough, Queensland|Maryborough]].<ref name=LOberg>{{cite book|last=Oberg|first=Leon|title=Locomotives of Australia 1850s-1980s|year=1984|publisher=Reed Books|location=Frenchs Forest|isbn=0 730100 05 7|page=108}}</ref><ref>[http://www.comrails.com/cr_locos/r_ka.html#35 KA class] Chris's Commonwealth Railways Pages</ref> They were an upgraded version of the K class.
+
+The Perry built locomotives received superheaters in 1943. Three were converted to burn oil during the [[1949 Australian coal strike|1949 coal strike]], but were converted back within months.<ref name=LOberg/>
+
+Most survived until replaced by [[Commonwealth Railways GM class|GM class]] diesel locomotives with the last withdrawn in September 1952.<ref name=LOberg/>
+
+==References==
+===Notes===
+{{Reflist}}
+===Bibliography===
+{{refbegin}}
+*{{FluMarWil-LocRailCR}}
+{{refend}}
+
+==External links==
+{{commonscat-inline|Commonwealth Railways KA class locomotives}}
+
+{{AusLocos|state=collapsed}}
+
+[[Category:Commonwealth Railways steam locomotives|KA class]]
+[[Category:Railway locomotives introduced in 1918]]
+[[Category:Walkers Limited locomotives]]
+[[Category:2-8-0 locomotives]]
+[[Category:Standard gauge locomotives of Australia]]
+[[Category:Scrapped locomotives]]

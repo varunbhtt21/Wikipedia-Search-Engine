@@ -1,0 +1,40 @@
+Title : Limacella glischra
+Text : {{Taxobox
+| regnum = [[Fungi]]
+| image = Limacella glischra 53218.jpg
+| image_width = 234px
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Amanitaceae]]
+| genus = ''[[Limacella]]''
+| species = '''''L. glischra'''''
+| binomial = '''''Limacella glischra'''''
+| binomial_authority = ([[Andrew Price Morgan|Morgan]]) [[William Alphonso Murrill|Murrill]] (1914)
+| synonyms_ref = <ref name="urlFungorum synonymy: Limacella glischra"/>
+| synonyms = *''Lepiota glischra'' <small>Morgan (1906)</small>
+}}
+
+'''''Limacella glischra''''' is a [[mushroom]] species in the family [[Amanitaceae]]. It was first named as a species of ''[[Lepiota]]'' by [[Andrew Price Morgan]] in 1906;<ref name="Morgan 1906"/> [[William Alphonso Murrill]] transferred it to ''[[Limacella]]'' in 1914.<ref name="Murrill 1914"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Morgan 1906">{{cite journal |author=Morgan AP. |title=North American species of ''Lepiota'' |journal=Journal of Mycology |year=1906 |volume=12 |pages=195–203 (see p.&nbsp;203) |url=http://www.cybertruffle.org.uk/cyberliber/59805/0012/005/0203.htm |doi=10.2307/3753012}}</ref>
+
+<ref name="Murrill 1914">{{cite journal |author=Murrill WA. |title=Agaricales (Agaricaceae) |journal=North American Flora |year=1914 |volume=10 |issue=1 |page=41}}</ref>
+
+<ref name="urlFungorum synonymy: Limacella glischra">{{cite web |title=GSD Species Synonymy: ''Limacella glischra'' |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=530307 |publisher=Species Fungorum. CAB International |accessdate=2014-04-28}}</ref>
+
+}}
+
+==External links==
+{{IndexFungorum|530307}}
+{{Taxonbar|from=Q16754424}}
+
+[[Category:Amanitaceae]]
+[[Category:Fungi described in 1906]]
+[[Category:Fungi of North America]]
+
+
+{{Agaricales-stub}}

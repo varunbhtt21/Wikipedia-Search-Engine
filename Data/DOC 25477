@@ -1,0 +1,45 @@
+Title : Template:Database Population Arvert
+Text : <includeonly>{{#switch: {{{1|}}}
+ | max = 250
+ | source-chart = Sources: database Ldh/EHESS/Cassini and Insee
+ | source1 = http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=1454
+ | source2 = http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2010&typgeo=COM&codgeo=17021
+ | source3 = 
+ | source4 = 
+ | 1 = 1793/2650
+ | 2 = 1800/2717
+ | 3 = 1806/2496
+ | 4 = 1821/2425
+ | 5 = 1831/2402
+ | 6 = 1836/2360
+ | 7 = 1841/2432
+ | 8 = 1846/2430
+ | 9 = 1851/2539
+ | 10 = 1856/2620
+ | 11 = 1861/2627
+ | 12 = 1866/2773
+ | 13 = 1872/2483
+ | 14 = 1876/2443
+ | 15 = 1881/2532
+ | 16 = 1886/2496
+ | 17 = 1891/2571
+ | 18 = 1896/2485
+ | 19 = 1901/2494
+ | 20 = 1906/2334
+ | 21 = 1911/2323
+ | 22 = 1921/2036
+ | 23 = 1926/1957
+ | 24 = 1931/1926
+ | 25 = 1936/2071
+ | 26 = 1946/2028
+ | 27 = 1954/2003
+ | 28 = 1962/2155
+ | 29 = 1968/2183
+ | 30 = 1975/2380
+ | 31 = 1982/2541
+ | 32 = 1990/2734
+ | 33 = 1999/2887
+ | 34 = 2006/3031
+ | 35 = 2010/3117
+|2010/9999
+}}</includeonly><noinclude>{{documentation}}</noinclude>

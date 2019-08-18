@@ -1,0 +1,36 @@
+Title : Wikipedia:WikiProject Spam/Local/gopaljeegroup.com
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|gopaljeegroup.com]]
+== Links ==
+* {{LinkSummary|gopaljeegroup.com}}
+:* gopaljeegroup.com resolves to [//103.21.58.10 103.21.58.10]
+:*: {{LinkSummary|103.21.58.10}}
+:* {{GoogleAnalyticsSummary|50030677}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Gupalgurop}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12654194|lang=en|wikidomain=w|namespace=User|pagename=Gupalgurop|username=Gupalgurop|link=gopaljeegroup.com|sortdomain=com.gopaljeegroup.|domain=gopaljeegroup.com|origdiff=http://en.wikipedia.org/w/index.php?oldid=606451652&rcid=652293450|resolved=103.21.58.10|isIP=0|date=2014-04-30|time=09:22:16|wiki=en.wikipedia.org|revid=606451652|oldid=0|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=10|top=0|deleted=1|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=gopaljeegroup.com/freshfarm/tetra-milk/|domain=gopaljeegroup.com|U=10|L=10|UL=10|WUL=0|analytics=50030677}}{{User:COIBot/OtherLinks|link=gopaljeegroup.com/gopaljee/skimmed-milk-powder-smp/|domain=gopaljeegroup.com|U=10|L=10|UL=10|WUL=0|analytics=50030677}}{{User:COIBot/OtherLinks|link=gopaljeegroup.com/gopaljee/skimmed-milk-powder-smp/|domain=gopaljeegroup.com|U=10|L=10|UL=10|WUL=0|analytics=50030677}}{{User:COIBot/OtherLinks|link=gopaljeegroup.com/gopaljee/ghee-in-jar/|domain=gopaljeegroup.com|U=10|L=10|UL=10|WUL=0|analytics=50030677}}{{User:COIBot/OtherLinks|link=gopaljeegroup.com/about-us/company-profile/|domain=gopaljeegroup.com|U=10|L=10|UL=10|WUL=0|analytics=50030677}}{{User:COIBot/OtherLinks|link=gopaljeegroup.com/about-us/company-profile/|domain=gopaljeegroup.com|U=10|L=10|UL=10|WUL=0|analytics=50030677}}{{User:COIBot/OtherLinks|link=gopaljeegroup.com|domain=gopaljeegroup.com|U=10|L=10|UL=10|WUL=0|analytics=50030677}}{{User:COIBot/OtherLinks|link=gopaljeegroup.com|domain=gopaljeegroup.com|U=10|L=10|UL=10|WUL=0|analytics=50030677}}{{User:COIBot/OtherLinks|link=gopaljeegroup.com|domain=gopaljeegroup.com|U=10|L=10|UL=10|WUL=0|analytics=50030677}}{{User:COIBot/OtherLinks|link=gopaljeegroup.com|domain=gopaljeegroup.com|U=10|L=10|UL=10|WUL=0|analytics=50030677}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 1 additions out of 1 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/gopaljeegroup.com]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bgopaljeegroup\.com\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/gopaljeegroup.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/gopaljeegroup.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. <!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). <!-- noleft -->No links left in here mentioned edits.  Marked stale.  --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 11:03, 30 April 2014 (UTC)

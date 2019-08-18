@@ -1,0 +1,99 @@
+Title : Template:11TeamBracket-CCHA-with play-in/doc
+Text : {{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Usage ===
+<pre>{{10TeamBracket-NCAA
+| RD1=
+| RD1-seed1=
+| RD1-team1=
+| RD1-score1=
+| RD1-seed2=
+| RD1-team2=
+| RD1-score2=
+| RD2=
+| RD2-seed1=
+| RD2-team1=
+| RD2-score1-1=
+| RD2-score1-2=
+| RD2-score1-3=
+| RD2-seed2=
+| RD2-team2=
+| RD2-score2-1=
+| RD2-score2-2=
+| RD2-score2-3=
+| RD2-seed3=
+| RD2-team3=
+| RD2-score3-1=
+| RD2-score3-2=
+| RD2-score3-3=
+| RD2-seed4=
+| RD2-team4=
+| RD2-score4-1=
+| RD2-score4-2=
+| RD2-score4-3=
+| RD2-seed5=
+| RD2-team5=
+| RD2-score5-1=
+| RD2-score5-2=
+| RD2-score5-3=
+| RD2-seed6=
+| RD2-team6=
+| RD2-score6-1=
+| RD2-score6-2=
+| RD2-score6-3=
+| RD2-seed7=
+| RD2-team7=
+| RD2-score7-1=
+| RD2-score7-2=
+| RD2-score7-3=
+| RD2-seed8=
+| RD2-team8=
+| RD2-score8-1=
+| RD2-score8-2=
+| RD2-score8-3=
+| RD2-seed9=
+| RD2-team9=
+| RD2-score9-1=
+| RD2-score9-2=
+| RD2-score9-3=
+| RD2-seed10=
+| RD2-team10=
+| RD2-score10-1=
+| RD2-score10-2=
+| RD2-score10-3=
+| RD3=
+| RD3-seed1=
+| RD3-team1=
+| RD3-score1=
+| RD3-seed2=
+| RD3-team2=
+| RD3-score2=
+| RD4=
+| RD4-seed1=
+| RD4-team1=
+| RD4-score1=
+| RD4-seed2=
+| RD4-team2=
+| RD4-score2=
+| RD4-seed3=
+| RD4-team3=
+| RD4-score3=
+| RD4-seed4=
+| RD4-team4=
+| RD4-score4=
+| RD5=
+| RD5-seed1=
+| RD5-team1=
+| RD5-score1=
+| RD5-seed2=
+| RD5-team2=
+| RD5-score2=
+}}</pre>
+
+=== See also ===
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+
+</includeonly>

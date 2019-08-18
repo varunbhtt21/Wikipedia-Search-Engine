@@ -1,0 +1,29 @@
+Title : Template:Infobox sports series
+Text : {{Infobox
+|bodyclass = vevent
+
+|title   = {{{title|}}}
+|image   = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|alt={{{image_alt|}}}}}
+|caption = {{{caption|}}}
+
+|headerstyle = background:lavender
+
+|label1  = Type
+|data1   = {{{type|}}}
+|label2  = Format
+|data2   = {{{format|}}}
+|label3  = {{#if:{{{dates|}}}|Dates|Date}}
+|data3   = {{#if:{{{dates|}}}|{{{dates}}}|{{{date|}}}}}
+|label4  = {{#if:{{{locations|}}}|Locations|Location}}
+|data4   = {{#if:{{{locations|}}}|{{{locations}}}|{{{location|}}}}}
+|label5  = {{#if:{{{teams|}}}|Teams|Clubs}}
+|data5   = {{#if:{{{teams|}}}|{{{teams}}}|{{{clubs|}}}}}
+|label6  = Result
+|data6   = {{{result|}}}
+|header10= {{#if:{{{officials|}}}|{{#if:{{{officials_type|}}}|{{{officials_type}}}|Officials}}}}
+|data11  = {{#if:{{{officials|}}}|<div style="text-align:left">
+{{{officials}}}
+</div>}}
+}}<noinclude>
+{{documentation}}
+</noinclude>

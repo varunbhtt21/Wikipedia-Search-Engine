@@ -1,0 +1,6 @@
+Title : Template:Museum row
+Text : <includeonly>| {{{name|}}} || {{{location|}}}{{#if:{{{lat|}}}|<br/>{{coord|{{{lat}}}|{{{lon}}}|display=inline}}}} || {{{type|}}} || {{{summary|}}} || {{#if:{{{image|}}}|[[File:{{{image}}}|100x100px|center|border|{{#if:{{{image description|}}}|{{{image description}}}}}]]|[[File:Missing-monuments-image.svg|100x100px|center|border]]}}
+|-
+</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

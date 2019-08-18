@@ -1,0 +1,195 @@
+Title : List of power stations in Peru
+Text : {{Location map+|Peru|width=250|float=right|caption=Location of power stations in Peru, [[File:Black pog.svg|15px]] Coal, [[File:Orange pog.svg|15px]]Gas, [[File:Blue pog.svg|15px]]Hydro
+|places=
+  {{Location map~|Peru|lat_deg=-17|lat_min=46|lon_deg=-71|lon_min=11|position=bottom|mark=Black pog.svg|background=|label=<small>Ilo2</small>}}
+  {{Location map~|Peru|lat_deg=-11|lat_min=56|lon_deg=-77|lon_min=07|position=left|mark=Orange pog.svg|background=|label=<small>Ventanilla</small>}}
+  {{Location map~|Peru|lat_deg=-12|lat_min=2|lon_deg=-74|lon_min=39|position=left|mark=Blue pog.svg|background=|label=<small>Mantaro-Tablachaca</small>}}
+}}
+
+The following is a list of the power stations in [[Peru]].
+
+==Coal==
+{| class="wikitable sortable"
+! width="21%" | Name
+! width="6%" | Capacity (MW)
+! width="10%" | Commissioned
+! width="20%" | Location
+! width="17%" | Owner
+! width="10%" | Refs
+|-
+| Ilo2
+| 135
+| 2000
+| 
+|  EnerSur
+| <ref>{{cite web | url=http://globalenergyobservatory.org/form.php?pid=44542 | title=C.T. Ilo 2 Power Plant | publisher=Global Energy Observatory | accessdate=25 April 2014}}</ref>
+|-
+|}
+
+==Gas==
+
+{| class="wikitable sortable"
+! width="21%" | Name
+! width="6%" | Capacity (MW)
+! width="10%" | Commissioned
+! width="20%" | Location
+! width="17%" | Owner
+! width="10%" | Type
+! width="10%" | Refs
+|-
+| Chilca Kallpa
+| 570
+| 2007-2010
+| Canete
+|  
+| 
+| 
+|-
+| Chilca Uno
+| 348
+| 2006-2007
+| Canete
+| 
+| 
+| 
+|-
+| Malacas 
+| 96
+| 1998
+| Talara
+| 
+| 
+| 
+|-
+| Mollendo
+| 105
+| 1997-1999
+| 
+| 
+| 
+| 
+|-
+| Santo Domingo de los Olleros
+| 200
+| 2013
+| Canete
+|  
+| 
+| 
+|-
+| Termoselva
+| 156
+| 1998
+| Padre Abad
+|  
+| 
+| 
+|-
+| Ventanilla
+| 498
+| 1998-2006
+| Callao
+|  
+| 
+| <ref>{{cite web | url=http://globalenergyobservatory.org/form.php?pid=44541 | title=Ventanilla CCGT Power Plant | publisher=Global Energy Observatory | accessdate=25 April 2014}}</ref>
+
+|}
+
+==Hydroelectric ==
+{| class="wikitable sortable"
+! width="21%" | Name
+! width="6%" | Capacity (MW)
+! width="10%" | Commissioned
+! width="20%" | Location
+! width="17%" | Owner
+! width="10%" | Type
+! width="10%" | Refs
+|-
+| Cahua
+| 43
+| 1967
+| 
+|  
+| 
+| 
+|-
+| Chimay
+| 140
+| 2000
+| 
+|  
+| 
+| 
+|-
+| Mantaro-Tablachaca
+| 1008
+| 1973-1984
+| Southern Peru
+|  
+| 
+| <ref>{{cite web | url=http://globalenergyobservatory.org/form.php?pid=44548 | title=Mantaro-Tablachaca Hydroelectric Power Plant | publisher=Global Energy Observatory | accessdate=26 April 2014}}</ref>
+|-
+| Monbamba
+| 6
+| 1998
+| 
+|  
+| 
+| 
+|-
+| Oroya
+| 9
+| 1914
+| 
+|  
+| 
+| 
+|-
+| Purmacana
+| 2
+| 2011
+| 
+|  
+| 
+| 
+|-
+| '''Santa Cruz Ancash'''
+| 12
+| 2009-2010
+| 
+|  
+| 
+| 
+|-
+| Yaupo
+| 108
+| 1957-1968
+| 
+|  
+| 
+| 
+|-
+| Yuncan
+| 132
+| 2005
+| 
+|  
+| 
+| 
+|-
+
+|}
+
+==See also==
+{{Portal|Energy|Peru}}
+*[[Electricity sector in Peru]]
+*[[List of largest power stations in the world]]
+
+==References==
+{{reflist}}
+
+{{GeoGroupTemplate}}
+{{Power stations|state=expanded}}
+
+[[Category:Lists of power stations by country|Peru]]
+[[Category:Energy in Peru]]

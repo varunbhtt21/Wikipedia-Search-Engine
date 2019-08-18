@@ -1,0 +1,170 @@
+Title : Wikipedia:Help desk/Archives/2014 April 25
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Help desk|Help desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Help desk/Archives/2014 April 24|April 24]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Help desk/Archives/March 2014|Mar]] | [[Wikipedia:Help desk/Archives/April 2014|April]] | [[Wikipedia:Help desk/Archives/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Help desk/Archives/2014 April 26|[[Wikipedia:Help desk/Archives/2014 April 26|April 26]]|[[Wikipedia:Help desk|Current help desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Help Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Help desk/Archives/2014 April 26|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Help desk|current Help Desk]] pages.
+|}
+
+
+__TOC__</noinclude>
+= April 25 =
+
+== How To Insert Reference Template ==
+
+I am new to this fabulous resource. How do I insert the Reference Template?
+Many Thanks[[User:Hazzands|Hazzands]] ([[User talk:Hazzands|talk]]) 00:52, 25 April 2014 (UTC)
+:You did everything right except putting {{tl|Reflist}} before the references instead of after them.  [[User:GB fan|GB]]&nbsp;[[User talk:GB fan|fan]] 01:00, 25 April 2014 (UTC)
+
+== Nariman Mehta - This article was deleted and I need help in rewriting article so that it can be undeleted ==
+
+--[[User:Beach4444|Beach4444]] ([[User talk:Beach4444|talk]]) 02:46, 25 April 2014 (UTC)beach4444--[[User:Beach4444|Beach4444]] ([[User talk:Beach4444|talk]]) 02:46, 25 April 2014 (UTC)
+:see the guidelines [[Wikipedia:Your first article simple|here]]. Then when you have done what you know how to do, you can find a related Wikiproject and go to their talk and ask for help from people who know the subject. (Find a similar subject that has an article and look on that talk page to get an idea about which Wikiprojects might have people interested in the subject of your article. ) -- [[User talk:TheRedPenOfDoom|<span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span>]] 03:45, 25 April 2014 (UTC)
+
+== naturopathy ==
+
+I am am MD and have some serious issues with your article about naturopathy. First of all, in 2007 a study was performed
+evaluating the usage of alternative vs 'traditional' healthcare and it was found that people in the US had paid out of
+pocket an amount for alternative healthcare surpassing the amount they spent on deductibles for 'traditional' medicine.
+That year the established medical practioners realized they had to adapt to the changing desires of their patients or
+they would lose them. There was two ways to look at this change: one they could try to discredit the move towards more
+healthy ways of treating health issues or they could educate themselves on it and try to incorporate some of the ideas.
+Of course some physicians chose one and some forward thinking MDs chose the latter. It must be understood how the current
+medical field operates. For one, it is dominated by big corporate pharmaceutical companies who have a lot of money to
+manipulate and otherwise control what is studied, accepted and put out for use by the population. It is never wise to 
+allow big money to control what is made available as they will always go for their profit and NOT what benefits people
+as a whole. Also involved in this is the fact that money is required to fund studies, and big pharma will not fund a 
+study for herbals or other alternatives if they cannot patent it, which since herbals grow, it is difficult or impossible
+to patent, therefore no studies, therefore established medicine cannot officially approve of this or that herbal application.
+Secondly, if a study did get funded, performed, and had results;good or bad, the study must go before a board of their peers.
+Remember that these establised physicians all have been prejudiced against this move to more natural means of healing and
+preventing illness by their training in established medical schools so it is difficult for them to get over this prejudice
+and evaluate the study objectively. After all, they spent many years studying very difficult materials and passing boards,
+it is natural that they would not want to take more time to study more medicine after all that time they invested already.
+And remember, not all MDs are altruistic, enough of them are in it for the money to make it difficult for different ideas
+to be allowed or evaluated. Please re-examine this issue and have a less biased reporter redo this entry on Wiki pedia.
+
+Thank you for your kind attention to this matter, sincerely,
+
+Gerri George, MD MT  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.97.112.166|24.97.112.166]] ([[User talk:24.97.112.166|talk]]) 03:48, 25 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+:You probably want to bring this up on the discussion page for the article, which is at [[Talk:Naturopathy]]. There are probably more people who are well-versed in this topic to evaluate what you are saying. However, before you do, you should search the discussion archives (there should be a search box at the top of the discussion page). I'd also advise you to cite specific sources you have (including the 2007 study you mention) and understand that [[WP:NOR|Wikipedia cannot include information unless it comes from reliable sources]]. [[User:Anon126|<span style="background-color: #000"><span style="color: #fff">Anon</span><span style="color: #0ff;">126</span></span>]] ([[User:Anon126/R|notify me of responses!]] / [[User talk:Anon126|talk]] / [[Special:Contributions/Anon126|contribs]]) 07:08, 25 April 2014 (UTC)
+
+== Image issue ==
+
+I have been uploading the page for my organization, and the logo stopped appearing on the page. When I went to the file, it said I didn't have the right rationale somehow? So I updated and fixed everything, using the non-free logo rationale and the copyrighted license, and no the file looks file, but it still won't show up on the page! What's going on?  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:MimZfish|MimZfish]] ([[User talk:MimZfish|talk]] • [[Special:Contributions/MimZfish|contribs]]) 11:39, 25 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+
+:Fixed.[//en.wikipedia.org/w/index.php?title=Our_Time_(nonprofit)&diff=605741118&oldid=605735335] A parameter can only be assigned once. If there are multiple assignments then only the last is used and that was empty. [[Template:Infobox organization]] adds its own image formatting so I removed the formatting code, but it wasn't this which prevented the logo from showing. The empty space above and below the logo is due to [[:File:OurTimeOrg, logo.png]] being poorly cropped. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 12:35, 25 April 2014 (UTC)
+
+== Error in table ==
+
+Please find and fix the error in a table [[User:Tomcat7/Sandbox28|here]]. Regards.--[[User:Tomcat7|Tomcat]] '''''([[User talk:Tomcat7|7]])''''' 14:57, 25 April 2014 (UTC)
+:{{fixed}} You're fond of the rowspan tag aren't you ;-)  - [[User:X201|X201]] ([[User talk:X201|talk]]) 15:02, 25 April 2014 (UTC)
+::Thanks.--[[User:Tomcat7|Tomcat]] '''''([[User talk:Tomcat7|7]])''''' 15:09, 25 April 2014 (UTC)
+
+Under term of office, how to make both cells the same size? Why is one larger and the other shorter?--[[User:Tomcat7|Tomcat]] '''''([[User talk:Tomcat7|7]])''''' 15:13, 25 April 2014 (UTC)
+
+== Unreviewed articles ==
+
+I have several articles, one dating back to January, that have not been reviewed.  How should I bring this to the attention of potential editors? 
+[[User:Gomach|Gomach]] ([[User talk:Gomach|talk]]) 15:25, 25 April 2014 (UTC)
+:Are they articles for creation articles? (I looked at your contribs and don't see any from that time frame.) It somewhat depends on how you drafted/posted them to determine where you should post, or even if they get reviewed in the first place. - [[User:Purplewowies|Purplewowies]] ([[User talk:Purplewowies|talk]]) 20:46, 25 April 2014 (UTC)
+The articles are as follows:
+*[[Croftinloan School]]
+*[[Quayle Munro]]
+*[[Ian Quayle Jones]]
+*[[Alan Watson Featherstone]]
+Many thanks.
+[[User:Gomach|Gomach]] ([[User talk:Gomach|talk]]) 22:18, 25 April 2014 (UTC)
+
+== Bot improvements; Web sites with dead content ==
+
+Several questions:
+
+1) Where is/are better place(s) to suggest improvements to bots?
+(All content. i.e. web pages, under http://hometown.aol.com/ disappeared on Oct 31, 2008 (see [[AOL Hometown]]). All links to that content should be marked <nowiki>{{Dead link}}</nowiki>.  This is a task bots would be great at. I suspect this is a modification that quite a few bot maintainers would want to make. (I just manually marked one at [[Middlesex_and_Boston_Street_Railway#References]].)) [[User:Lentower|Lentower]] ([[User talk:Lentower|talk]]) 15:48, 25 April 2014 (UTC)
+
+: There are some bots for this.  See [[Wikipedia:Link_rot#Bots]]  [[User:RudolfRed|RudolfRed]] - ([[User talk:RudolfRed|talk]]) 16:37, 25 April 2014 (UTC)
+
+::Do any of them handle this case? [[User:Lentower|Lentower]] ([[User talk:Lentower|talk]]) 16:43, 25 April 2014 (UTC)
+
+::Is there a simple way to let all of their maintainers know of this case? [[User:Lentower|Lentower]] ([[User talk:Lentower|talk]]) 16:43, 25 April 2014 (UTC)
+
+2) Which place(s) can a web site with dead content be listed (like http://hometown.aol.com)? [[User:Lentower|Lentower]] ([[User talk:Lentower|talk]]) 15:48, 25 April 2014 (UTC)
+
+3) Where would be a better place(s) to ask each of these questions? [[User:Lentower|Lentower]] ([[User talk:Lentower|talk]]) 15:48, 25 April 2014 (UTC)
+
+:You are probably looking for [[Wikipedia:Bot requests]]. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 23:36, 25 April 2014 (UTC)
+
+'''Note:''' I've since found that much of this content is archived at the [[Internet Archive]] [[Wayback Machine]] at https://archive.org/ in archives before Nov 1, 2008. Archives after Oct 31, 2008 just link to root of that web site. [[User:Lentower|Lentower]] ([[User talk:Lentower|talk]]) 13:15, 29 April 2014 (UTC)
+
+== Problem with Template:Genealogy of the Olympians in Greek mythology ==
+
+In use the [[Template:Genealogy of the Olympians in Greek mythology]] shows a row of nonsense at the top: 
+
+yugegf8gckir,utgkfviucdtysfhnm,kturjhduchjmufvtkjuhyfgyhhhhhhhhhhhhhhhhhhhhhyugegf8gckir,utgkfviucdtysfhnm,kturjhduchjmufvtkjuhyfgyhhhhhhhhhhhhhhhhhhhhhyugegf8gckir,utgkfviucdtysfhnm,kturjhduchjmufvtkjuhyfgyhhhhhhhhhhhhhhhhhhhhh 
+
+There has been vandalism to the template that has been fixed. But this problem does not appear in the source code. What is causing this? Thanks. [[User:StarryGrandma|StarryGrandma]] ([[User talk:StarryGrandma|talk]]) 18:39, 25 April 2014 (UTC)
+
+:I don't see it on the tested articles. Pages using a template can take time to update when the template is edited. A [[WP:PURGE|purge]] will force an update. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 20:30, 25 April 2014 (UTC)
+::Thanks. It looks fine now. [[User:StarryGrandma|StarryGrandma]] ([[User talk:StarryGrandma|talk]]) 22:52, 25 April 2014 (UTC)
+
+== Age of consent spain - wrong information in wikipedia ==
+
+Hello,
+someone changed the information about the minimum age of consent in Spain on this site: https://en.wikipedia.org/wiki/Ages_of_consent_in_Europe#Spain based on that article: http://www.theguardian.com/world/2013/sep/04/spain-raises-age-of-consent Actually the marriageable age was raised to 16 (with parental consent). But the raising of the age of sexual consent was just a proposal of the conservatives just as removing sex education from the curriculum, which would be ridiculous. In the referred article you can read "the change is expected to come into force this month". In this later article: http://theantifeminist.com/spain-raises-age-of-consent-to-16/ you can read "the measure is part of a draft law to be approved by the council of ministers by the end of this month. It will then be debated in Parliament for its final approval." There is no reliable hint to find on the net that it got it's final approval. In German press they reported the raising of the marriageable age, but there is no word to find about a raised  age of consent. I am really sure they would have reported that. The referred article is definitely not a reliable source. Before otherwise proven, the age of consent information in Wikipedia should be changed back to 13, regardless of gender and/or sexual orientation. I don't know how to change that information back, so I ask you, dear reader, to do so. Thank you very much and have a great day.  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.42.205.205|78.42.205.205]] ([[User talk:78.42.205.205|talk]]) 18:41, 25 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+== Can quotes from 3 different paragraphs be combined in 1 blockquote? ==
+
+Hello,
+
+I've looked for an answer but can't find it. I'm looking at an article that combines quotes from different parts of a published article using (...) to combine them in blockquotes. Say, taking the first sentence from 3 different paragraphs in a 6 paragraph article. Is there a rule for this?  Thanks, [[User:Parabolooidal|Parabolooidal]] ([[User talk:Parabolooidal|talk]]) 19:59, 25 April 2014 (UTC)
+:Probably it ''can'', although depending upon the overall length of the original source material, if it is short, might be a copyright violation that would be ''no''. ''Should'' an article contain a quote of that length, probably not. -- [[User talk:TheRedPenOfDoom|<span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span>]] 20:03, 25 April 2014 (UTC)
+::Is there a rule somewhere that I can quote? This regards a possible DYK for the Main page, and there are several such blockquotes.  [[User:Parabolooidal|Parabolooidal]] ([[User talk:Parabolooidal|talk]]) 20:17, 25 April 2014 (UTC)
+:::[[Wikipedia:Quotations#Overusing_quotations]] for one, theres probably something somewhere in a more authoritative policy or at least guideline. -- [[User talk:TheRedPenOfDoom|<span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span>]] 22:21, 25 April 2014 (UTC)
+::::Wow, thanks!  [[User:Parabolooidal|Parabolooidal]] ([[User talk:Parabolooidal|talk]]) 23:42, 25 April 2014 (UTC)
+
+== bio of a judge ? ==
+
+i cannot find any information on Dea's law judge Francis L. Young who ruled in 88' seems he been removed from the internet . no information far as bio or history other then his 88' case .. what ide like to see is a page showing him n his life bio and what happened to him . did he die naturally or just erased from existence . thank you ill check with wiki later  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/96.244.45.160|96.244.45.160]] ([[User talk:96.244.45.160|talk]]) 21:46, 25 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+:Are you sure you are at the right place? This is to ask questions about using Wikipedia. We do not control the internets and anything that may or may not appear or be removed from them other than Wikipedia encyclopedia pages. Only a few judges are likely to meet [[WP:GNG|our requirements for having an article about them]]. -- [[User talk:TheRedPenOfDoom|<span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span>]] 22:23, 25 April 2014 (UTC)
+::{{u|TheRedPenOfDoom}} is right, this page is only for questions about Wikipedia. But I find that there are still mentions of judge Young on the internet, for instance [http://medicalmarijuana.procon.org/view.source.php?sourceID=191 this one]. [[User:Maproom|Maproom]] ([[User talk:Maproom|talk]]) 08:32, 26 April 2014 (UTC)
+
+== Uploading Images ==
+
+Though I am not a new editor (I have 1000+ edits), I have never uploaded a picture. Specifically, I would like to upload an image I made by combining a few images already on Wikimedia to put on my user page. This image would not be very useful for others, except for me on my userpage. Am I allowed to upload such image and put it on my page? Thanks [[User:Piguy101|Piguy101]] ([[User talk:Piguy101|talk]]) 22:42, 25 April 2014 (UTC)
+:If they are all free images, no copyrighted ones. <span style="background:silver;font-family:Kristen ITC;">[[User:CTF83!|<font color="red">C</font><font color="#ff6600">T</font><font color="yellow">F</font><font color="green">8</font><font color="blue">3</font><font color="#6600cc">!</font>]]</span> 23:42, 25 April 2014 (UTC)
+
+:Without seeing the images, it's probably ok, but take a look at [[WP:UPNO]] guideline. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 23:45, 25 April 2014 (UTC)
+::Thank you for the prompt replies. I will read the aforementioned guidelines. [[User:Piguy101|Piguy101]] ([[User talk:Piguy101|talk]]) 01:06, 26 April 2014 (UTC)
+
+== How to contact writers of articles to query their sources? ==
+
+Dear Wikipedia
+Can you please tell me how to contact a writer of an article to query their sources. I have just read some information about an historical person which astonished me and if it is true it would be very significant to my research. Is it possible to contact a writer ( in a friendly way), simply to discuss this kind of thing and how would I find their contact details. The article in question has been edited very often already.
+Many thanks
+[[User:Raec5001|Raec5001]] ([[User talk:Raec5001|talk]]) 23:37, 25 April 2014 (UTC)
+:Click history at the top of the page to find the user who made the edit. Then go to their [[Help:Using talk pages|talk page]] and write them. There might already be a source on the page. Can you link us to the page? <span style="background:silver;font-family:Kristen ITC;">[[User:CTF83!|<font color="red">C</font><font color="#ff6600">T</font><font color="yellow">F</font><font color="green">8</font><font color="blue">3</font><font color="#6600cc">!</font>]]</span> 23:45, 25 April 2014 (UTC)
+
+The page in question was https://de.wikipedia.org/wiki/Lilli_Lehmann
+I have tried to find the author of the particular detail by using the filter in the history and typing in a key word but without success. Can you tell me how to do this?
+Thanks  <small><span class="autosigned">—&nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Raec5001|Raec5001]] ([[User talk:Raec5001|talk]] • [[Special:Contributions/Raec5001|contribs]]) 00:17, 26 April 2014 (UTC)</span></small><!-- Template:Unsigned --> <!--Autosigned by SineBot-->
+:I can't help you with the DE wikipedia, whatever language that is. Do they have a help page similar to this you can use? <span style="background:silver;font-family:Kristen ITC;">[[User:CTF83!|<font color="red">C</font><font color="#ff6600">T</font><font color="yellow">F</font><font color="green">8</font><font color="blue">3</font><font color="#6600cc">!</font>]]</span> 00:26, 26 April 2014 (UTC)
+:Actually I probably can. You'll probably just have to go to the history, and go through every edit 1 by 1 to see who made it. You can pick a random edit, and see if that edit is there and jump forward or backwards depending on if the edit you want is there or not, to cut down the number you need to go edit by edit. <span style="background:silver;font-family:Kristen ITC;">[[User:CTF83!|<font color="red">C</font><font color="#ff6600">T</font><font color="yellow">F</font><font color="green">8</font><font color="blue">3</font><font color="#6600cc">!</font>]]</span> 00:31, 26 April 2014 (UTC)
+
+:Unfortunately the filter thing doesn't search the content of edits (see [[Wikipedia:Edit filter]] for more information). You'll have to either go through the revisions manually to find the one that added the content in question, or use a tool called [http://wikipedia.ramselehof.de/wikiblame.php Wikiblame], which should help locate the editor who added a specific bit of text (I've found it a bit counterintuitive and difficult before, but hopefully you'll have more luck than me). I agree with CTF83 though that this question might be better asked on the German Wikipedia; if there's no page equivalent to this one you could try [[:de:Talk:Lilli Lehmann]]. &ndash;&nbsp;[[User:Arms &amp; Hearts|Arms &amp; Hearts]] ([[User talk:Arms &amp; Hearts|talk]]) 00:36, 26 April 2014 (UTC)
+
+::If you tell me what fact you found so astonishing I can find the editor who inserted it for you.  Nothing in the article leaps out at me as being jaw-dropping astonishing. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 00:52, 26 April 2014 (UTC)
+:::does [[WP:WIKIBLAME]] work outside of en. wikipedia? -- [[User talk:TheRedPenOfDoom|<span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span>]] 01:03, 26 April 2014 (UTC)
+::::It works fine on German Wikipedia, but we need to know what we are searching for first. '''[[User:Spinningspark|<font style="background:#fafad2;color:#C08000">Spinning</font>]][[User talk:Spinningspark|<font style="color:#4840a0">Spark</font>]]''' 01:22, 26 April 2014 (UTC)
+
+::If you count the bytes in the claim from the edit page (characters and spaces), you can look for that green number in the history. Not nearly foolproof, since it could be part of a bigger edit, but worth a shot. [[User:InedibleHulk|InedibleHulk]] [[User_Talk:InedibleHulk|(talk)]] 01:48, [[April 26]], [[2014]] (UTC)

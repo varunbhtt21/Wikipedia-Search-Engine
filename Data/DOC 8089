@@ -1,0 +1,51 @@
+Title : HWB color model
+Text : '''HWB''' is a [[cylindrical coordinate system|cylindrical-coordinate]] representation of points in an [[RGB color model]], similar to [[HSL and HSV]]. It was developed by [[HSL and HSV|HSV]]’s creator [[Alvy Ray Smith]] in 1996 to address some of the issues with HSV. HWB was designed to be more intuitive for humans to use<ref name="W3C, CSS Color, HWB" >{{Cite web
+  |title=§7 HWB Colors: hwb() function
+  |url=http://dev.w3.org/csswg/css-color/#the-hwb-notation
+  |date=15 April 2014
+  |publisher=[[W3C]]
+  |work=CSS Color Module Level 4
+}}</ref> and slightly faster to compute. The first coordinate, H ([[Hue]]), is the same as the Hue coordinate in [[HSL and HSV]]. '''W''' and '''B''' stand for '''Whiteness''' and '''Blackness''' respectively and range from 0–100% (or 0–1). The mental model is that the user can pick a main hue and then “mix” it with white and/or black to produce the desired color.<ref name="Smith" >{{cite journal
+  |ref={{harvid|Smith}}
+  |last=Smith  |first=Alvy Ray 
+  |authorlink=Alvy Ray Smith
+  |year=1996
+  |url=http://alvyray.com/Papers/CG/HWB_JGTv208.pdf 
+  |title=HWB — A More Intuitive Hue-Based Color Model
+  |journal=Journal of Graphics, GPU and Game tools
+  |volume=1  |issue=1
+  |pages=3–17
+}} This is the original paper describing the HWB color model.</ref>
+
+HWB came to prominence in 2014 following its use in the [[CSS]] Level 4 Color Module.<ref name="W3C, CSS Color, HWB" />
+
+==Converting to and from HSV==
+HWB is very closely related to [[HSL and HSV|HSV]], and therefore the conversion formulas are fairly simple. <ref name="Smith" /> Before conversion, if the sum of W and B is greater than 1, both W and B must be scaled back proportionally to make the sum 1.
+:{| class="wikitable"
+! HSV to HWB
+! HWB to HSV
+|-
+
+|<math>\begin{align}
+H &= H\\
+W &= (1-S)V\\
+B &= 1 - V
+\end{align}</math>
+|<math>\begin{align}
+H &= H\\
+S &= 1 - \frac{W}{1-B} \\
+V &= 1 - B
+\end{align}</math>
+|}
+
+==Swatches==
+The ''CSS Color Level 4'' draft specification <ref name="W3C, CSS Color, HWB" /> includes a number of HWB example color swatches.<ref name="CSS HWD Examples" >[http://dev.w3.org/csswg/css-color/#hwb-examples CSS Color Module Level 4]</ref>
+
+{{HWB-swatches}}
+
+==References==
+{{Reflist}}
+
+[[Category:Color space]]
+
+{{Color-stub}}

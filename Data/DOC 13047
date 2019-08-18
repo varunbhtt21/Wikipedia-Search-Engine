@@ -1,0 +1,17 @@
+Title : Wikipedia:WikiProject Human–Computer Interaction/Banner Template
+Text : <pre>
+{{WikiProject Human Computer Interaction
+ |class= (FA/FL/A/GA/B/C/Start/Stub/List/Category/Disambig/Image/NA/Portal/Project/Redirect/Template)
+ |importance= (Top/High/Mid/Low/NA)
+ |needs-infobox= (yes or remove it)
+ |needs-photo= (yes or remove it)
+ |attention= (yes or remove it)
+ |a-class= (pass/fail/current; if applicable, otherwise remove it)
+ |peer-review= (yes or remove it) 
+ |old-peer-review= (yes or remove it)
+}}
+</pre>
+or
+<pre>
+{{WikiProject Human Computer Interaction |class= |importance= }}
+</pre><noinclude>[[Category:WikiProject Human–Computer Interaction|Project banner]]</noinclude>

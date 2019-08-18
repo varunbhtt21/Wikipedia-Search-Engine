@@ -1,0 +1,19 @@
+Title : Template:User eccentric/doc
+Text : {{documentation subpage}}__NOTOC__
+This [[Help:Template|template]] creates a [[Wikipedia:Userboxes|userbox]] that identifies a [[Wikipedia:Wikipedians|user]] as somewhat [[Eccentricity (behavior)|eccentric]].
+
+==Use==
+To use this userbox template, place the following line of [[Wiki markup]] on your [[Wikipedia:User page|user page]]:
+ '''<nowiki>{{User eccentric}}</nowiki>'''
+This template creates the following userbox:
+{{User eccentric}}{{clear}}
+
+==See also==
+*This template invokes [[Template:Userbox]].
+*View related userboxes at:
+**[[Wikipedia:Userboxes/Life#Personality]]
+**[[Wikipedia:Userboxes/Health#Personality types]]
+**[[Wikipedia:Userboxes/Wikipedia/humour]]
+<includeonly>
+[[Category:Health user templates|Eccentric]]
+</includeonly>

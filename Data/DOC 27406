@@ -1,0 +1,61 @@
+Title : N,N-Dimethylethylamine
+Text : {{DISPLAYTITLE:''N'',''N''-Dimethylethylamine}}
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 607448118
+| Name = ''N'',''N''-Dimethylethylamine
+| ImageFile = N,N-Dimethylethylamine.svg
+| ImageSize = 
+| PIN = ''N'',''N''-Dimethyl ethyl amine
+| SystematicName = 
+| OtherNames = Ethyl(dimethyl)amine
+| IUPACName = Dimethyl ethyl amine
+| Section1 = {{Chembox Identifiers
+| IUPHAR_ligand = 5523
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=598-56-1
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 11230
+| PubChem=11723
+| SMILES=CCN(C)C
+  }}
+| Section2 = {{Chembox Properties
+| C=4 | H=11 | N=1
+| Appearance=Volatile liquid at room temp.
+| Density= 0.7±0.1 g/cm<sup>3</sup>
+| MeltingPtC=-140
+| BoilingPtC= 36.5
+| Solubility=
+| VaporPressure = 495.4±0.1 mmHg
+| pKa = 10.16 (for the conjugate acid) (H<sub>2</sub>O)<ref name=toxnet/>
+  }}
+| Section3 = {{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+| Section4 = 
+| Section5 = 
+| Section6 = 
+}}
+
+'''''N'',''N''-Dimethylethylamine''' ('''DMEA'''), sometimes referred to as dimethylethylamine, is an [[organic compound]] with formula {{chemical formula|C|4|H|11|N}}. It is an industrial chemical that is mainly used in foundries as a catalyst for sand core production.<ref>{{cite web|title=Dimethylethylamine|url=http://www.basf.com/group/corporate/us/en/brand/N_N_DIMETHYLETHYLAMINE|publisher=BASF The Chemical Company|accessdate=4 May 2014}}</ref>  Dimethylethylamine is a malodorous, volatile liquid at room temperature that is excreted at greater concentrations with larger dietary intake of [[trimethylamine]].<ref name=toxnet>{{cite web|title=N,N-Dimethylethylamine|url=http://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+5712|work=Toxnet|publisher=Hazardous Substance Data Bank|accessdate=4 May 2014|quote=The aim was to study the effect of trimethylamine (TMA) on the metabolism of the industrial catalyst N,N-dimethylethylamine to ascertain whether biological monitoring of industrial exposure to N,N-dimethylethylamine is compromised and excretion of the malodorous N,N-dimethylethylamine in sweat and urine is increased by dietary intake of TMA....Although the increased urinary and hidrotic excretion of N,N-dimethylethylamine may contribute to body odor problems, they were primarily due to TMA excretion, which is much the greater.}}</ref>  It has recently been identified as an [[agonist]] of [[TAAR5|human trace amine-associated receptor 5]].<ref name="pmid23393561">{{cite journal |vauthors=Wallrabenstein I, Kuklan J, Weber L, Zborala S, Werner M, Altmüller J, Becker C, Schmidt A, Hatt H, Hummel T, Gisselmann G |title=Human trace amine-associated receptor TAAR5 can be activated by trimethylamine |journal=PLoS ONE |volume=8 |issue=2 |pages=e54950 |year=2013 |pmid=23393561 |pmc=3564852 |doi=10.1371/journal.pone.0054950 |url=}}</ref>
+
+==See also==
+* [[Odorant]]
+* [[Olfactory receptor]]
+* [[Trace amine]]
+* [[Trace amine-associated receptor]]
+
+==References==
+{{reflist}}
+
+{{TAAR ligands}}
+
+{{DEFAULTSORT:Dimethylethylamine, N, N-}}
+[[Category:Alkylamines]]
+[[Category:Foul-smelling chemicals]]
+[[Category:Dimethylamino compounds]]
+
+
+{{amine-stub}}

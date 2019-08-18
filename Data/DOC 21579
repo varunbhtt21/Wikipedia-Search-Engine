@@ -1,0 +1,23 @@
+Title : Template:Critics' Choice Movie Award for Best Action Movie
+Text : {{Navbox 
+| name       = Critics' Choice Movie Award for Best Action Movie
+| title      = [[Critics' Choice Movie Award for Best Action Movie]]
+| state      = {{{state|autocollapse}}}
+| listclass  = hlist
+
+| list1=
+* ''[[The Dark Knight (film)|The Dark Knight]]'' (2008)
+* ''[[Avatar (2009 film)|Avatar]]'' (2009)
+* ''[[Inception]]'' (2010)
+* ''[[Drive (2011 film)|Drive]]'' (2011)
+* ''[[Skyfall]]'' (2012)
+* ''[[Lone Survivor]]'' (2013)
+* ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]'' (2014)
+* ''[[Mad Max: Fury Road]]'' (2015)
+* ''[[Hacksaw Ridge]]'' (2016)
+* ''[[Wonder Woman (2017 film)|Wonder Woman]]'' (2017)
+* ''[[Mission: Impossible – Fallout]]'' (2018)
+
+}}<noinclude>
+{{Documentation}}
+</noinclude>

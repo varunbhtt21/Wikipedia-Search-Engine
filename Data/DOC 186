@@ -1,0 +1,25 @@
+Title : Template:Attached KML/Flatlands Avenue
+Text : <?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Flatlands Avenue</name>
+	<Style id="line-000000-4">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Flatlands Avenue</name>
+		<Placemark>
+			<name>Flatlands Avenue</name>
+			<styleUrl>#line-000000-4</styleUrl>
+			<LineString>
+				<coordinates>
+					-73.94116401672363,40.61742186416409,0 -73.89254093170166,40.64889904817033,0 -73.88996601104736,40.65119452692486,0 -73.86895895004272,40.66016404483763,0 -73.86252164840698,40.66105930257467,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,144 @@
+Title : Wikipedia:Reference desk/Archives/Science/2014 April 28
+Text : <noinclude><!-- From archive header-->
+{{#ifeq:{{PAGENAME}}|Special:Undelete| |{{#if:|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|Wikipedia|{{#switch:{{NAMESPACE}}|= |<div style="display:none;">}}|{{error:not substituted|Archive header}}<div style="display:none;">}}}} {{#if:|</div></div>}}{| width = "100%"
+|-
+! colspan="3" align="center" | [[Wikipedia:Reference desk/Science|Science desk]]
+|-
+! width="20%" align="left"  | &lt; [[Wikipedia:Reference desk/Archives/Science/2014 April 27|April 27]]
+! width="25%" align="center"|&lt;&lt; [[Wikipedia:Reference desk/Archives/Science/March 2014|Mar]] | [[Wikipedia:Reference desk/Archives/Science/April 2014|April]] | [[Wikipedia:Reference desk/Archives/Science/May 2014|May]] &gt;&gt;
+! width="20%" align="right" |{{#ifexist:Wikipedia:Reference desk/Archives/Science/2014 April 29|[[Wikipedia:Reference desk/Archives/Science/2014 April 29|April 29]]|[[Wikipedia:Reference desk/Science|Current desk]]}} &gt;
+|}
+{| align=center width=95% style="background: #FFFFFF; border: 1px solid #003EBA;" cellpadding="8" cellspacing="0"
+|-
+! style="background: #5D7CBA; text-align: center;" align="center" | <font face="Arial" color="#FFFFFF">'''Welcome to the Wikipedia Science Reference Desk Archives'''</font>
+|-
+| The page you are currently viewing is {{#ifexist:Wikipedia:Reference desk/Archives/Science/2014 May 8|an archive page|a [[Wikipedia:Transclusion|transcluded]] archive page}}. While you can leave answers for any questions shown below, please ask new questions on one of the [[Wikipedia:Reference desk|current reference desk]] pages.
+|}
+
+
+__TOC__
+</noinclude>
+= April 28 =
+
+== SF2 - SF4 -SF6... Why only H2O and NOT H4O or H6O???... ==
+
+Sorry but I know that it is a silly Question...
+
+My REAL Question is: If the properties of the Bonds of a Atom changes with the Pressure and Temperature...
+
+So... could we have H4O or H6O under specific circumstances???...
+
+THANK you VERY-VERY much!!!...
+
+"Have a nice Day/Night"
+
+SPYROU Kosta - Greece - [[User:Honeycomp|Honeycomp]] ([[User talk:Honeycomp|talk]]) 01:41, 28 April 2014 (UTC)
+
+:Because [[oxygen]] is a second-period element and therefore can ''never'' be [[Hypervalency|hypervalent]] -- because the 2nd electron shell only has room for 8 electrons. [[Special:Contributions/24.5.122.13|24.5.122.13]] ([[User talk:24.5.122.13|talk]]) 03:00, 28 April 2014 (UTC)
+
+:That said, you ''can'' have H<sub>3</sub>O<sup>+</sup>, but that is a positively charged [[cation]] made by the addition of an H<sup>+</sup> cation to H<sub>2</sub>O, ''not'' a neutral molecule. [[Special:Contributions/24.5.122.13|24.5.122.13]] ([[User talk:24.5.122.13|talk]]) 03:03, 28 April 2014 (UTC)
+
+::The article about [[hypervalent molecule]]s has several explanations using more modern theories than the simple "number of electrons in the valance shell" and standard 2-electron valence bonding (i.e., the origins of the octet limit for second-period vs expanded-octet via d orbitals for third and beyond). So much of what's taught in schools is only an approximation or most-common-case in order to give intro students a starting point (but then they forget or never learn the advanced subtitles), or sadly just out-dated! Neutral H<sub>3</sub>O (CAS #12168-76-2) is known. It's a radical, and indeed requires specific circumstances to synthesize and contain (see [[doi:10.1021/ja00740a038]]). Neutral H<sub>4</sub>O (CAS #37381-92-3) has been studied theoretically. It may have some stability as a tetrahedral structure ([[doi:10.1016/0022-2860(80)80356-5]]) or planar/seesaw-shape (''International Journal of Quantum Chemistry'', Symposium (1972), No. 6, 187–200). Something with this composition, as a covalent network-lattice solid (rather than discrete molecules), is hypothesized to exist at extreme pressure ([[doi:10.1103/PhysRevB.87.024112]]). [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 04:00, 28 April 2014 (UTC)
+
+:::By "extreme pressure", I presume you mean the kind of pressure that [[Metallic hydrogen|can turn hydrogen into a metal]]? [[Special:Contributions/24.5.122.13|24.5.122.13]] ([[User talk:24.5.122.13|talk]]) 09:48, 28 April 2014 (UTC)
+
+: Simplistically: Atoms like to have their 'electron shells' nicely full of electrons.   Oxygen has room for two more electrons than it has - and hydrogen has one electron.   So if two hydrogens each share their one electron with a single atom of oxygen, everyone can be happy.   If there were more or fewer hydrogens, there would not be the beauty and harmony of a full shell and water wouldn't be such a stable compound.
+
+: That said, H<sub>2</sub>O<sub>2</sub> is hydrogen peroxide - which is very reactive because it wants to dump one of those that extra oxygen atom.  [[User:SteveBaker|SteveBaker]] ([[User talk:SteveBaker|talk]]) 19:31, 28 April 2014 (UTC)
+
+== Excited decay ==
+
+How does a unimolecular population in a particular excited state decay - linearly, or exponentially, or is it dependent? [[User:Plasmic Physics|Plasmic Physics]] ([[User talk:Plasmic Physics|talk]]) 07:40, 28 April 2014 (UTC)
+:It decay is spontaneous, it will decay exponentially. [[User:Ruslik0|Ruslik]]_[[User Talk:Ruslik0|<span style="color:red">Zero</span>]] 12:27, 28 April 2014 (UTC)
+
+:On very short timescales there can be small deviations from exponential decay, [http://arxiv.org/abs/1312.3315 see e.g. here]. [[User:Count Iblis|Count Iblis]] ([[User talk:Count Iblis|talk]]) 21:10, 28 April 2014 (UTC)
+
+::Thank you all. [[User:Plasmic Physics|Plasmic Physics]] ([[User talk:Plasmic Physics|talk]]) 10:22, 30 April 2014 (UTC)
+
+== Mind Gym ==
+
+Hi all. I'm looking for some scientific review of things like "Mind Gym" (a quick google will show you what it is - we only have an article on it's creator which reads like it was written by the guy himself). It all just seems like it is a load of vague motivational nonsense, which whilst it will increasse motivation, it isn't free and therefore needs to prove it's worth. I remember reading a while ago that UK schools had spent a large amount of money on "workouts" that were supoosed to get different parts of your brain working, but it was later shown to be total nonsense - does anyone have a source for this? Has anything been done to prove whether or not things like mind gym actually work well enough to justify the (probably quite large) cost? [[Special:Contributions/80.254.147.164|80.254.147.164]] ([[User talk:80.254.147.164|talk]]) 09:44, 28 April 2014 (UTC)
+
+:Here's a good starting point: [http://rse.sagepub.com/content/28/2/117.full.pdf+html Brain Gym®: Building Stronger Brains or Wishful Thinking?] (PDF). Basically says it's nonsense. There may also be other good links from some of [http://www.badscience.net/category/brain-gym/ Ben Goldacre's pages]. --[[User:OpenToppedBus|OpenToppedBus]] - [[User talk:OpenToppedBus|Talk to the driver]] 11:25, 28 April 2014 (UTC)
+
+:It's pretty much a pseudoscientific scam that being peddled to naive/desperate parents and schools in Britain. Much about it in the press over the past few years. Google and you'll find a lot. [[User:Dominus Vobisdu|Dominus Vobisdu]] ([[User talk:Dominus Vobisdu|talk]]) 11:31, 28 April 2014 (UTC)
+
+::Just to be clear; the company I'm querying is called "Mind gym", the one that's been in the news was "brain gym". They have very subtly different claims, with Mind Gym being general vague  management promises, whereas Brain Gym is proper psuedoscience. [[Special:Contributions/80.254.147.164|80.254.147.164]] ([[User talk:80.254.147.164|talk]]) 11:52, 28 April 2014 (UTC)
+
+:::For ease of access, the material in question is [[Octavius Black#Mind Gym]].  The material there does look entirely promotional, and really ought to be deleted. [[User:Looie496|Looie496]] ([[User talk:Looie496|talk]]) 16:10, 28 April 2014 (UTC)
+
+== Blackberry Z10 wmv format  ==
+
+Which types of formats of wmv does the Blackberry Z10 play or work on? My dad has one but doesn't play WMV videos and it says that the phone does support the format of wmv. Also, what other formats of other videos like MP4, FLV and etc, does the phone play? Will they work on SDXC card?  <span style="font-size: smaller;" class="autosigned">— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/162.219.184.237|162.219.184.237]] ([[User talk:162.219.184.237|talk]]) 16:28, 28 April 2014 (UTC)</span><!-- Template:Unsigned IP --> <!--Autosigned by SineBot-->
+
+: The different container file formats and video and audio codecs that the Z10 supports are listed on [http://docs.blackberry.com/en/smartphone_users/deliverables/47561/mba1344953159594.jsp this page]. -- [[User:Finlay McWalter|Finlay McWalter]]'''ᚠ'''[[User talk:Finlay McWalter|Talk]] 16:51, 28 April 2014 (UTC)
+
+::Keep in mind the extension of a media file does not not tell you all there is to know about how the file is internally formatted. [[WMV]] is a [[digital container format]], but inside that is [[video codec]] and [[audio codec]] formatted data. So your Blackberry might play some WMV files and not others depending on how they are formatted internally. [[User:Richard-of-Earth|Richard-of-Earth]] ([[User talk:Richard-of-Earth|talk]]) 18:16, 28 April 2014 (UTC)
+
+:::Information about what codecs are used in a specific media file can be discerned with [[FFmpeg]], simply by running <tt>ffmpeg -i somevideofile.mpg</tt> -- [[User:Finlay McWalter|Finlay McWalter]]'''ᚠ'''[[User talk:Finlay McWalter|Talk]] 19:07, 28 April 2014 (UTC)
+
+== "Deep processing" ==
+
+I am just wondering to what extent does deep processing would take into account of repetition (aka memory rehearsal). I mean, isn't it plausible to think that the longer you recite something over and over again, you will happen to find some sort of mnemonic? [[Special:Contributions/140.254.226.240|140.254.226.240]] ([[User talk:140.254.226.240|talk]]) 20:12, 28 April 2014 (UTC)
+
+:If you are going to put scare quotes around a term like deep processing it might help if you either linked to a WP article or an outside source.  And are you looking for actual references, or some sort of approval of your hypothesis?  Help us out here. [[User:Medeis|μηδείς]] ([[User talk:Medeis|talk]]) 22:14, 28 April 2014 (UTC)
+::In psychology studies I have read "deep processing" means the opposite of mere repetition. It would mean processing letters to see if they are vowels or consonants, for instance, or processing trigrams to the point of determining whether they are words, when only a physical match reaction time task is required. [[User:Edison|Edison]] ([[User talk:Edison|talk]]) 23:55, 28 April 2014 (UTC)
+
+:You might like to read ''The Ravenous Brain'' by Daniel Bor. In it, he says that countless memory experiments have been skewed by people continually looking for mnemonics to improve their performance. They don't just happen to find mnemonics, they actively search for them. Whatever impact this has on your claim is up to you to decide, because, as Medeis says, you haven't given us a lot of information. [[User:It&#39;s Been Emotional|IBE]] ([[User talk:It&#39;s Been Emotional|talk]]) 01:58, 29 April 2014 (UTC)
+
+== Big brown-backed bunny with black bordered ears? ==
+[[File:Wild rabbit us.jpg|thumb|right|typical cottontail--the one in question has a noticeably browner back saddle, and black margins around the ears, not just at the extreme tip]] 
+The common species of rabbit in [[NYC]] and [[New Jersey]] is the [[Florida cottontail]], which is somewhat small and uniformly grey in my area.  A rabbit which I saw this weekend and which has been around for a month or so at my parents' in NJ is obviously a [[cottontail]], but it has a brownish saddleback with a grey underbelly and has black margins to the inside of its ears, almost like eyeliner.  It appears to be about twice the mass of a normal plain grey cottontail of the area.  (Indeed, this is the only non-Florida cottontail I have ever seen besides a domestic rabbit.)  I have read all our cottontail (quite a few species) articles to no avail. 
+
+Can anyone suggest what species this might be?  (We have pictures, but they are from the rear with the rabbit crouching low, so you can't see the front margins of the ears or see the difference between the grey belly and the browner back. Thanks.  [[User:Medeis|μηδείς]] ([[User talk:Medeis|talk]]) 22:08, 28 April 2014 (UTC)
+
+:<small>"Twice the mass" ?  What an odd way to specify a size difference in an animal you clearly haven't put on a balance scale.  Are you saying it's 26% longer, wider, and taller, so 1.26<sup>3</sup>, or twice, the volume, assuming similar shapes between the rabbits, and you also assume it has about the same mass density as smaller rabbits, and thus it's twice the mass, too ? [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 23:03, 28 April 2014 (UTC)</small>
+
+::Yes Stu, that's exactly what I meant, which is why I said it.  Weird for the science desk, huh?  Sorry if it made the space between your ears overheat.  I've started a talk page dicussion if you want to explain why my well chosen wording was problematic. [[User:Medeis|μηδείς]] ([[User talk:Medeis|talk]]) 03:09, 29 April 2014 (UTC)
+
+:::<small>It's odd because you can't observe the mass directly, but only guess at it, and scientists only report direct observations, not guesses.  Feel free to hat this aside, if you wish.  [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 18:42, 29 April 2014 (UTC)
+
+::::If I were in a position to measure the bunny's length, I'd also be in a position to measure its mass and volume. About twice the mass was chosen as the most economic means of expressing what amounts to the exact same thing, given the shape and density are constant. [[User:Medeis|μηδείς]] ([[User talk:Medeis|talk]]) 17:00, 30 April 2014 (UTC)</small>
+
+:::::<small>If you had a pic of it up against a brick wall, you could measure how many bricks long it is, then go out with a ruler and determine how long that is.   Same with a bush, etc. [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 14:15, 1 May 2014 (UTC)</small>
+
+:Big rabbit with black ear margins? Sounds to me like [[Black-tailed_jackrabbit|this guy]], but it's got a looong way to hop to New Jersey :) --[[User:Dr Dima|Dr Dima]] ([[User talk:Dr Dima|talk]]) 23:42, 28 April 2014 (UTC)
+
+::No, Dr. Dima, it has a nice white cottontail and the same proportions as a cottontail.  It's not a hare, but it doeesn't seem to match any of the species native to NJ.  I'd estimate the black edges to be less than 1/4", and the ear shape normal for a cottontail. Again the only difference seems to be the noticeably browner back as compared to the rest of the fur, the size, and the black ear margins. I'll post a picture if my dad can get one . [[User:Medeis|μηδείς]] ([[User talk:Medeis|talk]]) 03:09, 29 April 2014 (UTC)
+
+:::Could it just be a released/feral/interbreed with a [[domestic rabbit]] breed of some sort?  --[[User:Jayron32|<font style="color:#000099">Jayron</font>]]'''''[[User talk:Jayron32|<font style="color:#009900">32</font>]]''''' 11:05, 29 April 2014 (UTC)
+
+::::I came in to suggest a domestic/wild interbreed as well. As a kid, we had [[Dutch Dwarf]] bunnies that were tiny, with tiny ears. Several of them roamed the neighborhood. For years later, we would occasionally see "wild" rabbits that were much smaller than average, with tiny ears... [[User:SemanticMantis|SemanticMantis]] ([[User talk:SemanticMantis|talk]]) 13:17, 29 April 2014 (UTC)
+
+:::::Yes, that occurred to me, and I can't rule it out.  But the body form of domesticated rabbits is usually longer than that of cottontails, while this one is normally shaped, and the coloration is drab save the browner saddle on the back and the black "earliner".  One would expect some white or some black in the coat if it were a hybrid with a domestic.  Plus I am not sure if ''[[Sylvilagus]]'' hybridizes with other genera, domesticated rabbits being of Eurasian origin. It really does look for all intensive purposes like a larger-than-normal cottontail with noticeably but not strikingly different coloration.  I was hoping someone from a nearby state might say-oh that's what all the rabbits here look like. [[User:Medeis|μηδείς]] ([[User talk:Medeis|talk]]) 17:31, 29 April 2014 (UTC)
+
+::::::Well, you might appreciate more detail from my anecdote: we had two particular dutch dwarf rabbits that roamed around. They were uniform black, a male and female. This was in OH, and I'm pretty sure the wild bunnies around were the ''S. floridanus'' that you mentioned. The dutch dwarf is a ''[[Oryctolagus]]'' variety. I can not claim conclusive proof of interbreeding in my specific case, this paper [http://onlinelibrary.wiley.com/doi/10.1002/jez.1401440102/abstract] indicates that Oryctolagus spp. ''can'' interbreed with Sylvilagus spp.  Anyway, the bunnies that we saw that were presumed hybrids had no noticeable changes in coat, except perhaps a slightly darker hue. The main difference is that their adult size was about 2/3 the weight of the other cottontails, and perhaps 20-30% heavier than the putative dwarf parents. Genetics of coat color are often counterintuitive, see [[Domestic_rabbit#Genetics]] and links therein.
+::::::Anyway, pretty tough to say conclusively without genetic tests, but I think that e.g. a 6-8 lb. [[cinnamon rabbit]] with dark "earliner" could mate with a 3-4 lb wild cottontail to produce a 7 lb hybrid that would look like you describe. I'm not certain, but I feel like there are no pure wild cottontails in the eastern USA that get to the 7+ pounds that is roughly double the weight of a common eastern cottontail.  [[User:SemanticMantis|SemanticMantis]] ([[User talk:SemanticMantis|talk]]) 18:15, 29 April 2014 (UTC)
+
+:::::::Well, it's a shame we don't have a picture of a Cinnamon Rabbit, as they are pretty.  The border around the ears is again to broad for the mystery rabbit, but it does match the pattern, if not the width.  And I am certainly familiar with the fact that coat color in crosses can be unexpected.  We had a blond German Shepherd, and when she mated with a white mle the result was two blond pups, two "Rottweiler" colored pups, and two that looked like silver huskies. I'll buy some carrot friday, and see if we can't get a better picture. [[User:Medeis|μηδείς]] ([[User talk:Medeis|talk]]) 20:59, 29 April 2014 (UTC)
+
+::::::::May or may not be pertinent, but the [[European rabbit|bog standard British rabbit]], although usually grey like your cottontail shown above, will sometimes have black patches, particularly on their ears. Fans of ''[[Watership Down]]'' might recall a rabbit called [[List of Watership Down characters|"Blackberry"]] who was distinguished in this way. Totally black wild rabbits are not unknown, like [[:File:Wild black Oryctologus cuniculus.jpg|this one]]. [[User:Alansplodge|Alansplodge]] ([[User talk:Alansplodge|talk]]) 20:05, 1 May 2014 (UTC)
+
+== Cooler question ==
+
+I have a portable [[cooler]] which comes with something like a [[hot water bottle]], with the idea being to freeze that to provide the cooling to keep everything cold.  I've heard that saltwater will hold more "coolth", than freshwater.  However, I don't know how much difference it makes.  If there's only a minimal benefit, I'd prefer to stick with freshwater, as that makes less of a mess if it spills.  So, if we assume I can cool either down to 0 F, how much difference will it make ? [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 22:54, 28 April 2014 (UTC)
+
+:It can make a big difference because you lower the melting temperature. The problem on the long term is that things will heat up eventually. You deal with that by exploiting the fact that the latent heat of melting is large. So, at first the temprature is going to rise steadily, until you hit the melting temperature. When you reach that point the temperature will be stuck there for a long time until everythig is molten. So, by adding salt, you move that melting point downward, therefore the contents will stay a lot cooler for a long time. [[User:Count Iblis|Count Iblis]] ([[User talk:Count Iblis|talk]]) 23:29, 28 April 2014 (UTC)
+
+::Right. My understanding is that the difference made will depend on the [[thermal mass]] of the (salt) water and the size of the cooler. If the liquid bottle is half the volume of the cooler, the salt/fresh difference will be larger than if the liquid bottle is 1/100 the volume of the cooler. [[User:SemanticMantis|SemanticMantis]] ([[User talk:SemanticMantis|talk]]) 13:14, 29 April 2014 (UTC)
+
+:::The water container is about 1/10th the volume of the cooler.  But why would that affect the relative value of saltwater versus freshwater ?  Is this because the water, once it melts, will no longer provide much cooling, and that would happen quicker with either saltwater or a larger ratio of cooler size to coolant ? [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 18:40, 29 April 2014 (UTC)
+
+::::My thinking was just based on thermal mass. If there is x% difference with salt and regular water, then the actual difference in the application of keeping food cool in a cooler will be much larger when you use more water (e.g. if you were measuring minutes until food reaches 40F, then the larger volume of liquid would lead to a larger difference in minutes). [[User:SemanticMantis|SemanticMantis]] ([[User talk:SemanticMantis|talk]]) 21:00, 29 April 2014 (UTC)
+
+::The Count's logic seems backward to me.  As he says, the great bulk of the cooling effect comes from the energy it takes to cause a state change from solid to liquid.  As I understand it, that energy is actually reduced in salt-water ice (but I might be wrong about that).  Disregarding any such difference, the result of using salt-water-ice would be to keep the contents colder while the ice stays frozen, but I think it will melt more quickly, because there will be a larger temperature gradient between the ice and the outside of the cooler. [[User:Looie496|Looie496]] ([[User talk:Looie496|talk]]) 14:45, 29 April 2014 (UTC)
+
+:::Yes, the levelling off of the temperature rise curve will occur at a lower temperature for salt water, but, ultimately, I tend to agree that the total cooling effect over a long period is probably marginally reduced by adding salt.  I suppose it depends on the exact configuration of food, container and frozen fluid, and on whether you are trying to keep ice cream at -10C or just ordinary food at below 4C.  [[User:Dbfirs|''<font face="verdana"><font color="blue">D</font><font color="#00ccff">b</font><font color="#44ffcc">f</font><font color="66ff66">i</font><font color="44ee44">r</font><font color="44aa44">s</font></font>'']] 07:41, 30 April 2014 (UTC)
+
+::::This does seem like more of a practical issue than a scientific one.  If you have something that you care about keeping solid rather than liquid, and you are frequently opening the lid, then you're averaging 0 degree ice with plus degree weather to get ... liquid something.  But there aren't that many things that this really applies to. [[User:Wnt|Wnt]] ([[User talk:Wnt|talk]]) 11:41, 30 April 2014 (UTC)
+
+:::::RE: "more of a practical issue than a scientific one", isn't this "applied science" ? [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 17:12, 30 April 2014 (UTC)
+
+::::::Well, my point is that it depends on what the person wants to do.  If you're worried about steaks dripping blood all over the place you might want extra cold.  If you want cold beer/soda you can toss some ice in a cooler with the drinks and not give a second thought.  (Or in my case omit the cooler since AFAIC they have more flavor warm anyway) [[User:Wnt|Wnt]] ([[User talk:Wnt|talk]]) 19:40, 30 April 2014 (UTC)
+
+:::::::I use it to transport frozen foods home from the grocery store, such as ice cream, which forms ice crystals if it melts on the way home and later refreezes.  (At least they stopped selling it in those stupid cardboard boxes that leaked out the corners as soon as it melted.) [[User:StuRat|StuRat]] ([[User talk:StuRat|talk]]) 14:12, 1 May 2014 (UTC)

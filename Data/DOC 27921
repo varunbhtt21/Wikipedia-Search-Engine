@@ -1,0 +1,75 @@
+Title : Template:TCDD color
+Text : {{#switch:{{{1}}}
+ | Ada Express = 0046B8
+ | Aegean Express = 0046B8
+ | Ankara Express = 0046B8
+ | Ankara-Polatlı Regional = 0276bf
+ | Sincan-Polatlı Regional = 0276bf
+ | B1 = 558D39
+ | B2 = 558D39
+ | Basmane-Alaşehir Regional = AB639C
+ | Basmane-Denizli Regional = F1BD33
+ | Basmane-Ödemiş Regional = DB5B53
+ | Basmane-Nazilli Regional = 933416
+ | Basmane-Söke Regional = 8FBF7B
+ | Basmane-Tire Regional = 88A4C7
+ | Basmane-Uşak Regional = BFA36D
+ | Başkentray = 87DCBB
+ | Bosphorus Express = 009999
+ | Diyarbakır-Batman Regional = 0276BF
+ | Eastern Express = 0046B8
+ | Eastern Express (Tourist) = 0046B8
+ | Eastern Express Bus = 0046B8
+ | Elazığ-Tatvan Regional = DA212F
+ | Erciyes Express = 0046B8
+ | Erzincan-Divriği Regional = DA212F
+ | Eskişehir-Afyon Regional = D83649
+ | Eskişehir-Kütahya Regional = AD6D2B
+ | Eskişehir-Tavşanlı Regional = A74163
+ | Euphrates Express = 0046B8
+ | Istanbul-Kapıkule Regional = DA212F
+ | Istanbul-Çerkezköy Regional = 0276BF
+ | Istanbul-Sofia Express = 009999
+ | Istanbul-Uzunköprü Regional = F1BD33
+ | Izmir Blue Train = 0046B8
+ | Karesi Express = 0046B8
+ | Kars-Akyaka Regional = A36191
+ | Konya Blue Train = 0046B8
+ | Konya-Karaman Regional = B697AE
+ | Lake Van Express = 0046B8
+ | Lake Van Express Bus = 0046B8
+ | Manisa-Alaşehir Regional = C6A1C1
+ | Marmaray = 5A5F5C
+ | Marmaray future = 5A5F5C
+ | Mersin-Adana Regional = 0276BF
+ | Mersin-Ceyhan Regional = 7E6E55
+ | Mersin-İskenderun Regional = F1BD33
+ | Mersin-İslahiye Regional = DA212F
+ | Pamukkale Express = 0046B8
+ | Sivas-Divriği Regional = 0276BF
+ | Söke-Denizli Regional = 7E6E55
+ | Söke-Nazilli Regional = E26C7C
+ | Southern Express = 0046B8
+ | Southern Express Bus = 0046B8
+ | Taurus Express = 0046B8
+ | Tire-Çatal Regional = 88A4C7
+ | Trans-Asia Express East = 0046B8
+ | Trans-Asia Express West = 0046B8
+ | Vangölü Feribot = 0046B8
+ | YHT = 009695
+ | YHT Istanbul-Ankara = 009695
+ | YHT Istanbul-Konya = 009695
+ | YHT Ankara-Konya = 009695
+ | YHT Ankara-Sivas = 009695
+ | YHT Ankara-İzmir = 009695
+ | YHT Konya-Karaman = 009695
+ | 6th of September Express = 0046B8
+ | 17th of September Express = 0046B8
+ | Zonguldak-Karabük Regional = F1BD33
+ | Zonguldak-Gökçebey Regional = F1BD33
+}}<noinclude>
+{{Documentation}}
+[[Category:Templates for railway lines in Turkey]]
+[[Category:Turkey rail transport templates]]
+[[Category:Turkish State Railways|τ]]
+</noinclude>

@@ -1,0 +1,142 @@
+Title : Brunswick–Derneburg railway
+Text : {{Infobox rail line
+| name          = Brunswick–Lebenstedt/<br>Heerte–Derneburg railway
+| routenumber   = 352
+| linenumber    = *''1903 <small>(Braunschweig Nord–West)</small>
+*1924 <small>(Braunschweig West–Barum)</small>
+*1926 <small>(Barum–Lichtenberg)</small>''
+*1901 <small>(Braunschweig–Leiferde)</small>
+*1920 <small>(Leiferde–Salzgitter Bad)</small>
+*1923 <small>(Salzgitter-Drütte–Derneburg)</small>
+| gauge         = {{Track gauge|sg|allk=on}}
+| locale        = [[Lower Saxony]], Germany
+| map = 
+{{Routemap|inline=1 |footnote = Source: German railway atlas<ref name=Eisenbahnatlas >{{cite book|title=Eisenbahnatlas Deutschland (German railway atlas) |publisher= Schweers + Wall | year= 2009 |isbn= 978-3-89494-139-0}}</ref>|map=
+DST~~0.0 {{0|00.0}}~~Braunschweig Nord
+KDSTxe~~ ~~BS HKW Mitte~~(established during BLE times)
+exhKRZWae~~ ~~ ~~[[Oker]]
+exDST\exSTR\~~Braunschweig Lehndorf (freight yard)
+exSTRl\exABZg+r\~~Braunschweig Celler Straße junction
+\exSTR\STR+l~~ ~~ ~~[[Brunswick–Magdeburg railway|from Helmstedt]]
+exSTR+l\exSTRr\BHF~~0.0~~'''[[Braunschweig Hauptbahnhof|Braunschweig Hbf]]'''
+exSTR\\hKRZWae~~ ~~ ~~[[Oker]]
+exSTR\exKBHFa\STR~~[[Braunschweiger Bahnhof|Old Brunswick station]]
+exBHF\exSTR\STR~~4.8 {{0|00.0}}~~Braunschweig West~~Wilhelmitor
+exSTR\exABZgl\eABZgr+r~~ ~~ ~~(Connection from 1941 to 1960)
+exABZgl\exABZgr\STR~~ ~~ ~~(Connection until 1938)
+xKRZxl\eABZqr\ABZgr~~ ~~ ~~[[Hanover–Brunswick railway|To Hannover]], [[Hildesheim–Brunswick railway|to Hildeshelm]]
+exSTRl\exSTR+r\BST~~4.2~~Braunschweig-[[Rüningen]]~~(siding)
+\exHST\STR~~10.3 {{0|00.0}}~~Geitelde~~(until 1941)
+\exSTR\BST~~6.0~~Leiferde (Braunschweig)~~(junction)
+\exSTR\ABZgl~~ ~~ ~~[[Brunswick–Bad Harzburg railway|Line to Wolfenbüttel]]
+\exBHF\STR~~12.7 {{0|00.0}}~~Thiede~~(until 1941)
+\exSTR\HST~~8.9~~Thiede~~''(Formerly Thiede Ost)''
+exSTR+r\exSTR\STR~~ ~~ ~~Former [[Groß Gleidingen–Wolfenbüttel railway|line from Groß Gleidingen]] (until 1941)
+exABZgl\exKRZu\eKRZu~~ ~~ ~~Former [[Groß Gleidingen–Wolfenbüttel railway|line to Wolfenbüttel]] (until 1941)
+exSTRl\exABZg+lr\eABZg+l~~ ~~ ~~From Wolfenbüttel (1941 until 1959)
+\exBHF\DST~~''18.5'' 12.7~~[[Salzgitter]]-Drütte
+STR+l\xKRZ\ABZgr~~ ~~ ~~(New line from 1953)
+STR\exBHF\STR~~ ~~Salzgitter-Immendorf~~(1954)
+HST\exSTR\STR~~ ~~Salzgitter-Immendorf~~(from 1953)
+BHF\exSTR\STR~~ ~~Salzgitter-Watenstedt~~(terminus 1953/54)
+STR\exBHF\STR~~23.1 {{0|00.0}}~~Barum~~(until 1954)
+STR\exABZgl\eABZg+r
+STR\exSTR\eBST~~17.1~~Salzgitter-Barum~~(siding)
+STR\exBHF\STR~~26.0 {{0|00.0}}~~Salzgitter-Heerte~~(until 1954)
+KRZo\exSTR\STR~~ ~~ ~~[[Verkehrsbetriebe Peine-Salzgitter|VPS]] Watenstedt Nord–Immendorf
+KRZo\xKRZu\ABZg+r~~ ~~ ~~VPS Watenstedt Nord–Salzgitter-Voßpaß
+ABZg+r\exSTR\STR~~ ~~ ~~VPS from Salzgitter-Voßpaß
+ABZgr\exSTR\STR~~ ~~ ~~VPS to Broistedt
+eKRZo\exKRZu\STR~~ ~~ ~~VPS "Erzbahn" Broistedt–Calbecht
+STR\exSTR\ABZg+l~~ ~~ ~~[[Brunswick Southern Railway|Line from Börßum]] (museum operation)
+STR\exSTR\BHF~~26.3~~[[Salzgitter-Bad station|Salzgitter Bad]]
+STR\exSTR\STRl~~ ~~ ~~[[Brunswick Southern Railway|Line to Kreiensen]]
+STR\exBHF\~~30.3 {{0|00.0}}~~[[Salzgitter-Salder]]~~(until 1954)
+KHSTxe\exSTR\~~ ~~[[Salzgitter-Lebenstedt]]~~(since 1954)
+exHST\exSTR\~~ ~~[[Bruchmachtersen|Salzgitter-Bruchmachtersen]]~~(1954–1984)
+exSTRl\exABZg+r\~~ ~~ ~~(until 1984, planned RegioStadtBahn)
+exBHF~~32.8 {{0|00.0}}~~[[Salzgitter-Lichtenberg]]~~(until 1984)
+exBHF~~35.0 {{0|00.0}}~~[[Osterlinde]]-[[Burgdorf, Wolfenbüttel|Burgdorf]]~~(until 1984)
+exBHF~~39.8 {{0|00.0}}~~[[Luttrum]]~~(bis 1984)
+exHST~~ ~~[[Grasdorf (Holle)|Grasdorf]]~~(bis 1984)
+xABZg+l~~ ~~ ~~[[Hildesheim–Goslar railway|Line from Goslar]]
+ABZg+l~~ ~~ ~~[[Derneburg–Seesen railway|Line from Seesen]]
+BHF~~''44.2'' {{0|00.0}}~~[[Derneburg]]
+STR~~ ~~ ~~[[Hildesheim–Goslar railway|Line to Hildesheim]]
+}}
+}}
+
+The '''Brunswick–Derneburg railway''' ({{lang-de| Bahnstrecke Braunschweig–Derneburg}}) was the original line of the [[Brunswick State Railway Company]] (''Braunschweigische Landes-Eisenbahn-Gesellschaft'', BLE). In the late 19th century it opened up the then rural area of the area now called [[Salzgitter]] in the German state of [[Lower Saxony]].
+
+In the course of industrialisation, the lines were repeatedly rebuilt and realigned and the current lines emerged in the mid-20th century:
+*the Brunswick–Salzgitter-Lebenstedt railway and 
+*the Brunswick–Salzgitter Bad railway.
+
+==Original route ==
+
+The route that operated from 1886 to about 1938 started in Brunswick North station (''Braunschweiger Nordbahnhof''), the BLE’s centre of operations. It ran through the Brunswick districts of Gartenstadt, Geitelde and Thiede to the south. Near Hoheweg station there was a connection with a line from [[Wolfenbüttel]]. The line continued through Immendorf and Barum to the south and then turned to the west and the northwest. It continued to Lichtenberg and Osterlinde, then turned to the southwest to Derneburg  in the municipality of [[Holle]].
+
+This line was curvy as it was built as a development line through rural areas and made major detours. It allowed only low speeds.
+
+==Current route ==
+
+The current Brunswick–Salzgitter-Lebenstedt line and the Brunswick–Salzgitter Bad railway (connecting with the old [[Brunswick Southern Railway]] ([[Börßum]]–[[Kreiensen]]) share a newly built route from Brunswick to Salzgitter Drütte. Brunswick–Salzgitter-Lebenstedt line turns from there to the west, serving Watenstedt. There it connects with the rail network of the [[Salzgitter AG|Salzgitter steel works]]. It crosses the freight railway of the [[Verkehrsbetriebe Peine-Salzgitter]] (Peine-Salzgitter transport company), then runs parallel with one of its lines. While the freight line turns to the north, the passenger line turns to the southwest and reaches Salzgitter Lebenstedt south of its centre. From here it ran until 1984 in an almost straight line to Salzgitter-Lichtenberg.
+
+The lines used today were planned for heavy freight trains and have no curves in contrast to the original line.
+
+==History==
+
+During the construction of the long-haul routes, the triangle between the [[Brunswick Southern Railway]] (then running via Börßum to Kreiensen), the Hildesheim–Goslar railway and the [[Hildesheim–Brunswick railway]] remained free of railways. To encourage the construction of railways in this area, the government of the [[Duchy of Brunswick]] granted a concession in 1885 to the BLE to build and operate a railway to Derneburg and continue from there to Seesen. It granted assistance for the construction to make the project worthwhile.
+
+The section was opened to Derneburg on 18 July 1886. A connection was opened to Wolfenbüttel on 17 October. However, even this mainly promoted regional development as the largest cities of the duchy had already been directly connected by the [[Brunswick–Bad Harzburg railway]] since 1838. An [[Derneburg–Seesen railway|extension to Seesen]] was opened in 1889. Until the 1930s, the line was a branch line in a rural area with low to medium traffic. [[Lichtenberge]] with [[Lichtenberg Castle (Salzgitter)|its castle]] in the [[Salzgitter Hills]] was the target of excursions.
+
+===Conversions between 1938 and 1954 ===
+
+In order to develop the new industrial complex that is now [[Salzgitter AG]], the BLE was nationalised by the [[Nazi Germany|Nazi Government]] in 1938. The [[Schunter Valley Railway]] (''Schuntertalbahn'') between Brunswick and [[Fallersleben]], another BLE line, was used for an extension to the [[Volkswagen]] factory in Fallersleben.
+
+As of 1938, passenger trains operated to the old Brunswick station.
+
+A new, direct connection was built from Leiferde on the Brunswick–Wolfenbüttel railway to Drütte, which replaced the old BLE line north of Drütte. Wolfenbüttel was also re-connected to the BLE line. Soon after further extensions were interrupted by the Second World War.
+
+After the war, a well-developed northeast half of the Brunswick–Drütte line contrasted with the less-developed rural western section, which passed south of the industrial sites and new residential areas. Then the section from Drütte to Lichtenberg via Watenstedt and Lebenstedt was also realigned. The connection with the steel works in Watenstedt was opened to traffic on 17 May 1953. Trains ran via Lebenstedt to Lichtenberg from 28 November 1954. From there they continued to use the BLE route. The former line via Barum and Heerte was closed.
+
+In 1956, a line was built from Salzgitter-Bad to Salzgitter-Drütte, creating a more direct route for the [[Brunswick Southern Railway|Brunswick–Kreiensen railway]].
+
+The last major realignment took place in 1960 with the opening of the new Brunswick Hauptbahnhof.
+
+===Withdrawal from the late 1950s ===
+
+[[File:Braunschweig-Derneburg Straßenbrücke.jpg|thumb|Road bridge in the Bruchmachtersen area]]
+[[File:Braunschweig-Derneburg Fuhsebrücke.jpg|thumb|Bridge over the [[Fuhse]] in the Bruchmachtersen area]]
+
+By 1959, the Wolfenbüttel branch was abandoned, but near Wolfenbüttel there was a section of the line that was still used as a connection from the Welger agricultural machinery factory. The rest of the line lasted until the 1980s, with traffic continuing to decline, especially west of Lebenstedt.
+
+[[Deutsche Bundesbahn]] discontinued passenger services on the section between Lebenstedt and Derneburg at the commencement of the summer 1984 timetable on 2 June. At the same time, the transport of goods between Derneburg and Osterlinde was abandoned. The transport of freight between Lebenstedt and Osterlinde ended on 31 March 1985. The Derneburg–Lebenstedt section is now dismantled and built over for the most part. The old railway embankment along with its track bed still exists east of the Bosch factory in Salzgitter, including several bridges over roads and the [[Fuhse]]. The line ran through a tunnel under Kattowitzer Straße in Lebenstedt; the tunnel is locked off with bars. A parking garage is built next to the line at Lebenstedt station, where there is only one track. A long section of the line has been built over by [[Bundesautobahn 39|Autobahn 39]] in the Lichtenberg area.
+
+A service now runs every two hours from Brunswick to Lebenstedt. The line is wholly within the area administered by the ''Verbundtarif Region Braunschweig'' (Brunswick Region Tariff Association). Scheduled services are operated with [[DB Class 628|class 628]] diesel multiple units.
+
+===Planned Regiostadtbahn===
+
+The now abandoned proposal for a [[RegioStadtBahn Braunschweig]] (Brunswick Regional [[Stadtbahn]]) would have integrated the route to Lebenstedt. The railcars would have left the current route before its terminus and run on a new tram line to a point closer to the centre of the district.
+
+==Notes==
+
+{{Reflist}}
+
+==References==
+{{refbegin}}
+* {{cite book|last1= Fiegenbaum|first1= Wolfgang|last2= Klee |first2= Wolfgang| title= Abschied von der Schiene – Stillgelegte Bahnstrecken im Personenzugverkehr Deutschlands 1980–1985 |edition= 1st|language= German|trans-title= Farewell to rail: abandoned passenger railways in Germany 1980–1985| publisher= Motorbuch Verlag | location= Stuttgart  | year= 1988 |pages= 39f | isbn= 9783613011915 |oclc= 256813807}}
+{{refend}}
+
+== External links ==
+{{commons category|Bahnstrecke Braunschweig–Derneburg|Brunswick–Derneburg railway}}
+* {{cite web| url=http://www.nickolai.de/Lichtenberg/Der_Bahnhof/der_bahnhof.html | title=Der Lichtenberger Bahnhof |author1=Gisbert Bobert |author2=Hans-Jürgen Behrend |author3=Horst Splitt |  accessdate=25 April 2014| language=German }}
+
+{{coord missing|Lower Saxony}}
+
+{{DEFAULTSORT:Brunswick-Derneburg railway}}
+[[Category:Railway lines in Lower Saxony]]
+[[Category:Transport in Braunschweig]]
+[[Category:Buildings and structures in Salzgitter]]
+[[Category:Buildings and structures in Hildesheim (district)]]
+[[Category:Railway lines opened in 1886]]

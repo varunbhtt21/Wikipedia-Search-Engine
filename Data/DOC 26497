@@ -1,0 +1,24 @@
+Title : Template:Extended football squad 2 start/doc
+Text : {{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Usage ===
+<code><nowiki>{{Extended football squad 2 start|1|2|3|4|mins=</nowiki>''yes/no''<nowiki>|cupref=</nowiki>''yes/no''<nowiki>}}</nowiki></code>
+
+* ''<nowiki>{{{1}}}</nowiki>'' – Name of first competition; default is "Pre." (pre-season)
+* ''<nowiki>{{{2}}}</nowiki>'' – Name of second competition; default is "League"
+* ''<nowiki>{{{3}}}</nowiki>'' – Name of third competition; default is "Mid." (mid-season)
+* ''<nowiki>{{{4}}}</nowiki>'' – Name of fourth competition; default is "Cup"
+* ''<nowiki>{{{mins}}}</nowiki>'' – Whether to include minutes in stats; default is "no"
+* ''<nowiki>{{{cupref}}}</nowiki>'' – Whether to include reference to cup (to name all domestic cups played) in stats; default is "no"
+
+===Microformat===
+{{UF-hcard-person}}
+
+=== See also ===
+* [[Template:Extended football squad start]]
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:football squad templates]]
+</includeonly>

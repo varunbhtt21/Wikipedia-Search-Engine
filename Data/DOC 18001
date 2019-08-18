@@ -1,0 +1,70 @@
+Title : OpenID Connect
+Text : {{Distinguish|OpenID}}
+
+'''OpenID Connect''' ('''OIDC''') is an [[authentication]] layer on top of [[OAuth#OAuth 2.0|OAuth 2.0]], an [[authorization]] framework.<ref name="//openid.net/connect">{{cite web|title=OpenID Connect|url=https://openid.net/connect/|publisher=OpenID Foundation|accessdate=2016-04-18|language=en}}</ref> The standard is controlled by the [[OpenID#OpenID_Foundation|OpenID Foundation]].
+
+== Description ==
+
+OpenID Connect is a simple identity layer on top of the [[OAuth#OAuth 2.0|OAuth 2.0]] protocol, which allows [[Client (computing)|computing clients]] to verify the identity of an end-user based on the authentication performed by an authorization server, as well as to obtain basic profile information about the end-user in an interoperable and [[REST]]-like manner. In technical terms, OpenID Connect specifies a [[RESTful]] [[HTTP]] [[API]], using [[JSON]] as a data format.
+
+OpenID Connect allows a range of clients, including Web-based, mobile, and [[JavaScript engine|JavaScript]] clients, to request and receive information about authenticated sessions and end-users. The specification suite is [[Extensibility|extensible]], supporting optional features such as encryption of identity data, discovery of OpenID Providers, and session management.<ref name="//openid.net/connect" />
+
+== Open Source Providers ==
+
+There are several [[Open Source]] implementations of OpenID connect providers, including:
+* [[MITREid Connect]] from MIT<ref>{{Cite web|url=https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server|title=An OpenID Connect reference implementation in Java on the Spring platform.: mitreid-connect/OpenID-Connect-Java-Spring-Server|date=July 2, 2019|via=GitHub}}</ref>
+* [[Dex Identity Provider]]<ref>{{Cite web|url=https://github.com/dexidp/dex|title=OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors: dexidp/dex|date=July 5, 2019|via=GitHub}}</ref>
+* [[Ipsilon (service provider)|Ipsilon]]<ref>{{Cite web|url=https://ipsilon-project.org/|title=Ipsilon|website=ipsilon-project.org}}</ref>
+* [[IdentityServer4]]<ref>{{Cite web|url=http://docs.identityserver.io/en/latest/|title=IdentityServer4|date=July 18, 2019}}</ref>
+
+== Adoption ==
+
+Organizations that have started to use OpenID Connect include the following:
+* [[Auth0]]<ref>{{Cite web|url=https://auth0.com/docs/|title=OpenID Connect|website=Auth0 Docs}}</ref>
+* [[Authentiq.com|Authentiq]]<ref>{{Cite web|url=https://developers.authentiq.com/|title=Overview - Authentiq Connect|website=developers.authentiq.com}}</ref>
+* ForgeRock
+* [[Gigya]]<ref>{{Cite web|url=https://developers.gigya.com/display/GD/OpenID+Connect|title=OpenID Connect|website=Developer's Guide}}</ref> 
+* [[10Duke]]<ref>[http://www.10duke.com/products/identity/ 10Duke Identity Provider], ''10duke.com''. Retrieved 25 July 2016.</ref> 
+* [[Amazon.com|Amazon]]<ref>[https://aws.amazon.com/blogs/aws/openid-connect-support OpenID Connect Support for Amazon Cognito], 2014, Jeff Barr, ''amazon.com''. Retrieved 25 July 2016.</ref> 
+* [[Steam (software)|Steam]]
+* Centrify<ref>[https://docs.centrify.com/en/centrify/appref/cloudhelp/gen/SAML-gen-OpenID.pdf Custom OpenID Connect applications], ''centrify.com''. Retrieved 25 July 2016.</ref>  
+* The [[Chile]]an government<ref>[https://www.claveunica.gob.cl OpenID Connect en ClaveÚnica], 2016, ''claveunica.gob.cl''</ref> 
+* [[Deutsche Telekom]]<ref>[http://www.gsma.com/personaldata/wp-content/uploads/2014/03/OpenID-Connect-at-Deutsche-Telekom-Torsten-Lodderstedt.pdf OpenID Connect @ Deutsche Telekom], 2014, Dr. Torsten Lodderstedt, ''gsma.com''. Retrieved 25 July 2016.</ref> 
+* [[Google]]<ref>[https://developers.google.com/identity/protocols/OpenIDConnect OpenID Connect], 2016, ''google.com''. Retrieved 25 July 2016.</ref> 
+* [[IBM]]<ref>[https://www.ibm.com/support/knowledgecenter/SSEQTJ_8.5.5/com.ibm.websphere.wlp.doc/ae/cwlp_openid_connect.html OpenID Connect], 2016, ''ibm.com''. Retrieved 25 July 2016.</ref> 
+* [[Janrain]]<ref>{{Cite web|url=https://blogs.akamai.com/|title=The Akamai Blog - Akamai|website=blogs.akamai.com}}</ref> 
+* [[Microsoft]]<ref>[https://blogs.technet.microsoft.com/enterprisemobility/2014/09/09/openid-connect-and-oauth-2-0-support-in-azure-active-directory-has-gad/ OpenID Connect and OAuth 2.0 support in Azure Active Directory has GA’d!], 2014, Alex_Simons, ''microsoft.com''. Retrieved 25 July 2016.</ref> 
+* [[Okta (identity management)|Okta]]<ref>[http://developer.okta.com/docs/api/resources/oidc OpenID Connect], ''okta.com''. Retrieved 25 July 2016.</ref> 
+* OneLogin<ref>[https://support.onelogin.com/hc/en-us/articles/203601134-OneLogin-Supported-Platforms-and-Standards Onelogin Supported Platforms and Standards], 2016, Leif Brown, ''onelogin.com''. Retrieved 25 July 2016.</ref> 
+* [[Ping Identity]]<ref>[https://documentation.pingidentity.com/display/PF70/OpenID+Connect OpenID Connect], ''pingidentity.com''. Retrieved 25 July 2016.</ref> 
+* [[Salesforce.com|Salesforce]]<ref>[https://developer.salesforce.com/page/Inside_OpenID_Connect_on_Force.com Inside OpenID Connect on Force.com], 2014, Pat Patterson, ''pingidentity.com''. Retrieved 25 July 2016.</ref> 
+* The [[Nomura Research Institute]] of Japan<ref>{{Cite web|url=https://openid.net/2014/02/26/the-openid-foundation-launches-the-openid-connect-standard/|title=The OpenID Foundation Launches the OpenID Connect Standard &#124; OpenID|first=Don|last=Thibeau}}</ref> 
+* [[VMware]]<ref>{{Cite web|url=https://github.com/vmware/lightwave/tree/dev/vmidentity|title=vmware/lightwave|website=GitHub|access-date=2016-12-01}}</ref> 
+* General Electric
+* [[i-Sprint Innovations]]<ref>{{Cite web|url=http://www.i-sprint.com/products/universal-access-management/|title=OpenID Connect(UAM)|website=i-sprint.com|access-date=2017-04-11}}</ref>
+* The Norwegian government.<ref name=":0">{{Cite web|url=https://difi.github.io/idporten-oidc-dokumentasjon/index.html|title=OpenID Connect i ID-porten &#124; OpenID Connect i ID-porten|website=difi.github.io}}</ref>
+* [https://www.cidaas.com/ cidaas]<ref >{{Cite web|url=https://www.cidaas.com/cidaas-gets-openid-certificate/|title=cidaas gets the OpenID certificate|date=April 26, 2018}}</ref> 
+* [[Quest Software|Quest]]- [https://www.oneidentity.com/ One Identity]
+* CA Technologies
+* Onegini<ref>{{Cite web|url=https://docs.onegini.com/msp/token-server/10.0.1/api-reference/oidc/index.html|title=OpenID Connect &#124; Onegini Token Server|website=docs.onegini.com}}</ref>
+
+== See also ==
+* [[Authorization]], not to be confused with [[authentication]]
+* [[IndieAuth]]
+* [[OAuth]]
+* [[OpenID]]
+* [[SAML 2.0]]
+* [[WebFinger]]
+* [[WebID]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Official website|http://openid.net/connect/}}
+* [https://openidconnect.net/ OpenID Connect Playground]
+
+{{Authentication APIs}}
+
+[[Category:Computer networks]]
+[[Category:Computer access control protocols]]

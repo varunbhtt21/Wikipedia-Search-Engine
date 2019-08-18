@@ -1,0 +1,45 @@
+Title : Template:Database Population Artiguelouve
+Text : <includeonly>{{#switch: {{{1|}}}
+ | max = 250
+ | source-chart = Sources: database Ldh/EHESS/Cassini and Insee
+ | source1 = http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=1436
+ | source2 = http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2010&typgeo=COM&codgeo=64060
+ | source3 = 
+ | source4 = 
+ | 1 = 1793/480
+ | 2 = 1800/464
+ | 3 = 1806/427
+ | 4 = 1821/606
+ | 5 = 1831/673
+ | 6 = 1836/662
+ | 7 = 1841/674
+ | 8 = 1846/682
+ | 9 = 1851/660
+ | 10 = 1856/603
+ | 11 = 1861/590
+ | 12 = 1866/545
+ | 13 = 1872/590
+ | 14 = 1876/600
+ | 15 = 1881/577
+ | 16 = 1886/561
+ | 17 = 1891/545
+ | 18 = 1896/551
+ | 19 = 1901/541
+ | 20 = 1906/541
+ | 21 = 1911/493
+ | 22 = 1921/438
+ | 23 = 1926/445
+ | 24 = 1931/409
+ | 25 = 1936/386
+ | 26 = 1946/413
+ | 27 = 1954/448
+ | 28 = 1962/552
+ | 29 = 1968/549
+ | 30 = 1975/678
+ | 31 = 1982/822
+ | 32 = 1990/898
+ | 33 = 1999/1252
+ | 34 = 2006/-
+ | 35 = 2010/1544
+|2010/9999
+}}</includeonly><noinclude>{{documentation}}</noinclude>

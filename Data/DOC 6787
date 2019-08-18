@@ -1,0 +1,94 @@
+Title : Template:Iht header/doc
+Text : {{Documentation subpage}}
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+
+Template:iht header (ice hockey table - header)<br>
+
+==Parameters==
+{| class="wikitable"
+!Parameter
+!Possible values
+!Notes
+|-
+|title
+|anything
+|Displays a title above the header
+|-
+|group
+|y = yes; blank = no
+|Displays group column if set (for ranking of teams from different groups)
+|-
+|teamwidth
+|any number
+|Width of column "Team" (default = 165)
+|-
+|colwidth
+|any number
+|Width of individual columns (default = 36)
+|-
+|template
+|yes
+|Creates navbar for use on a template (must be used together with name-parameter)
+|-
+|name
+|anything
+|Name of the template for correct linking (used together with template-parameter)
+|}
+
+==Examples==
+'''table with title & background colors'''
+<pre><nowiki>{{iht header|title=Ice Hockey World Championship – Group A}}
+{{iht team|t={{ih|CAN}} |w=3 |ow=2 |ol=1 |l=0 |gf=15 |ga=6 |bc=#cfc}}
+{{iht team|t={{ih|USA}} |w=1 |ow=2 |ol=2 |l=1 |gf=20 |ga=8}}
+{{iht team|t={{ih|RUS}} |w=0 |ow=1 |ol=2 |l=3 |gf=10 |ga=14 |bc=#fcc}}
+|}</nowiki></pre>
+
+{{iht header|title=Ice Hockey World Championship – Group A}}
+{{iht team|t={{ih|CAN}} |w=3 |ow=2 |ol=1 |l=0 |gf=15 |ga=6 |bc=#cfc}}
+{{iht team|t={{ih|USA}} |w=1 |ow=2 |ol=2 |l=1 |gf=20 |ga=8}}
+{{iht team|t={{ih|RUS}} |w=0 |ow=1 |ol=2 |l=3 |gf=10 |ga=14 |bc=#fcc}}
+|}
+
+
+'''table with custom teamwidth'''
+<pre><nowiki>{{iht header|teamwidth=300}}
+{{iht team|t={{ihw18|COD}} |w=1 |ow=2 |ol=2 |l=1 |gf=20 |ga=8}}
+|}</nowiki></pre>
+
+{{iht header|teamwidth=300}}
+{{iht team|t={{ihw18|COD}} |w=1 |ow=2 |ol=2 |l=1 |gf=20 |ga=8}}
+|}
+
+
+'''table with group column & custom colwidth'''
+<pre><nowiki>{{iht header|group=y|colwidth=50}}
+{{iht team|group=A |t={{ihw|SWE}} |w=3 |ow=2 |ol=1 |l=0 |gf=15 |ga=6}}
+{{iht team|group=B-2 |t={{ihw|FIN}} |w=1 |ow=2 |ol=2 |l=1 |gf=20 |ga=8}}
+{{iht team|group=3 |t={{ihw|NOR}} |w=0 |ow=1 |ol=2 |l=3 |gf=10 |ga=14}}
+|}</nowiki></pre>
+
+{{iht header|group=y|colwidth=50}}
+{{iht team|group=A |t={{ihw|SWE}} |w=3 |ow=2 |ol=1 |l=0 |gf=15 |ga=6}}
+{{iht team|group=B-2 |t={{ihw|FIN}} |w=1 |ow=2 |ol=2 |l=1 |gf=20 |ga=8}}
+{{iht team|group=3 |t={{ihw|NOR}} |w=0 |ow=1 |ol=2 |l=3 |gf=10 |ga=14}}
+|}
+
+
+'''table with template navbar'''
+<pre><nowiki>{{iht header |template=yes |name=2014–15 Champions Hockey League standings – Group A}}
+{{iht team|t={{flagicon|FIN}} [[Oulun Kärpät]]                             |w=3 |ow=2 |ol=0 |l=1 |gf=17 |ga=12 |bc=#ccffcc}}
+{{iht team|t={{flagicon|CZE}} [[HC Bílí Tygři Liberec|Bílí Tygři Liberec]] |w=3 |ow=0 |ol=0 |l=3 |gf=16 |ga=15}}
+{{iht team|t={{flagicon|SVK}} [[HC Košice]]                                |w=2 |ow=0 |ol=1 |l=3 |gf=14 |ga=16}}
+{{iht team|t={{flagicon|GER}} [[Kölner Haie]]                              |w=2 |ow=0 |ol=1 |l=3 |gf=12 |ga=16}}
+|}</nowiki></pre>
+
+{{iht header |template=yes |name=2014–15 Champions Hockey League standings – Group A}}
+{{iht team|t={{flagicon|FIN}} [[Oulun Kärpät]]                             |w=3 |ow=2 |ol=0 |l=1 |gf=17 |ga=12 |bc=#ccffcc}}
+{{iht team|t={{flagicon|CZE}} [[HC Bílí Tygři Liberec|Bílí Tygři Liberec]] |w=3 |ow=0 |ol=0 |l=3 |gf=16 |ga=15}}
+{{iht team|t={{flagicon|SVK}} [[HC Košice]]                                |w=2 |ow=0 |ol=1 |l=3 |gf=14 |ga=16}}
+{{iht team|t={{flagicon|GER}} [[Kölner Haie]]                              |w=2 |ow=0 |ol=1 |l=3 |gf=12 |ga=16}}
+|}
+
+<includeonly>
+[[Category:Ice hockey team templates|{{PAGENAME}}]]
+</includeonly>

@@ -1,0 +1,28 @@
+Title : Template:Usertalkpage/doc
+Text : {{Documentation subpage}}
+<!-- Categories go where indicated at the bottom of this page, please; interwikis go to Wikidata (see also: [[Wikipedia:Wikidata]]) -->
+{{Distinguish|Template:User talk page}}
+== Usage ==
+This template may be placed on pages in [[WP:OWNTALK|user talk pages]] in order to differentiate them from pages containing [[WP:NS|encyclopedic content]]. It is recommended that it be included via <code><nowiki>{{subst:usertalkpage}}</nowiki></code> so that it will be displayed even on mirror sites that don't use this template.
+
+=== Parameters ===
+* {{tnull|usertalkpage|2=logo=yes|3=noindex=yes}}
+** {{para|logo|<var>yes</var>}}&nbsp;– shows the Wikipedia logo on the left (default {{var|hidden}})
+** {{para|logo|<var>right</var>}}&nbsp;- shows the Wikipedia logo on the right (default {{var|hidden}})
+** {{para|noindex|<var>yes</var>}}&nbsp;– prevents external search engines from indexing the page (default {{var|no}})
+** {{para|rounded|<var>yes</var>}}&nbsp;- makes the container's border rounded (default {{var|no}})
+** {{para|border-radius|<var>15px</var>}}&nbsp;- changes the border radius, if <code>rounded={{var|yes}}</code> is also set (default {{var|15px}})
+** {{para|border-s|<var>1</var>}}&nbsp;- the size of the border (default {{var|1}})
+** {{para|border-c|<var>#ffc9c9</var>}}&nbsp;- the color of the border (default {{var|#ffc9c9}})
+** {{para|background|<var>#fffff3</var>}}&nbsp;- changes the background color (default {{var|#fffff3}})
+
+{{Userspace Disclaimers}}
+{{User Talk Pages}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go below this line, please; interwikis go to Wikidata, thank you! -->
+[[Category:User talk header templates]]
+[[Category:User namespace templates|{{PAGENAME}}]]
+[[Category:Wikipedia templates which apply NOINDEX]]
+
+}}</includeonly>

@@ -1,0 +1,27 @@
+Title : Template:Database Population Arrien-en-Bethmale
+Text : <includeonly>{{#switch: {{{1|}}}
+ | max = 250
+ | source-chart = Sources: database Ldh/EHESS/Cassini and Insee
+ | source1 = http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=1363
+ | source2 = http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2010&typgeo=COM&codgeo=09017
+ | source3 = 
+ | source4 = 
+ | 19 = 1901/-
+ | 20 = 1906/-
+ | 21 = 1911/-
+ | 22 = 1921/-
+ | 23 = 1926/-
+ | 24 = 1931/551
+ | 25 = 1936/430
+ | 26 = 1946/358
+ | 27 = 1954/273
+ | 28 = 1962/242
+ | 29 = 1968/186
+ | 30 = 1975/143
+ | 31 = 1982/89
+ | 32 = 1990/89
+ | 33 = 1999/110
+ | 34 = 2006/-
+ | 35 = 2010/101
+|2010/9999
+}}</includeonly><noinclude>{{documentation}}</noinclude>

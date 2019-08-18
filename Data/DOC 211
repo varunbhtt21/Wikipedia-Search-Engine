@@ -1,0 +1,55 @@
+Title : Template:Attached KML/Vanderbilt Avenue
+Text : <?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Vanderbilt Avenue</name>
+	<Style id="line-DB4436-4">
+		<LineStyle>
+			<color>ff3644db</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-62AF44-4">
+		<LineStyle>
+			<color>ff44af62</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-0BA9CC-4">
+		<LineStyle>
+			<color>ffcca90b</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Vanderbilt Avenues</name>
+		<Placemark>
+			<name>Vanderbilt Avenue (Brooklyn)</name>
+			<styleUrl>#line-DB4436-4</styleUrl>
+			<LineString>
+				<coordinates>
+					-73.97079706192017,40.69783586557483,0 -73.96759986877441,40.68179336451767,0 -73.9674711227417,40.68163064188376,0 -73.96968126296997,40.67534924461093,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Vanderbilt Avenue (Manhattan)</name>
+			<styleUrl>#line-62AF44-4</styleUrl>
+			<LineString>
+				<coordinates>
+					-73.97607564926147,40.75557964275591,0 -73.97837162017822,40.7523774849036,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Vanderbilt Avenue (Staten Island)</name>
+			<styleUrl>#line-0BA9CC-4</styleUrl>
+			<LineString>
+				<coordinates>
+					-74.07257080078125,40.62248722393382,0 -74.07997369766235,40.61852943544422,0 -74.0872049331665,40.61330088623791,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

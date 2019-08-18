@@ -1,0 +1,29 @@
+Title : MetaboMiner
+Text : {{Orphan|date=April 2016}}
+
+{{Infobox biodatabase
+|title = MetaboMiner
+|logo = [[File:UoA biolab metabominer.png|thumb|MetaboMiner website]]
+|description = For automatically or semi-automatically identifying metabolites in complex biofluids from 2D NMR spectra
+|center = University of Alberta
+|laboratory = Dr. David Wishart
+|author = Jianguo Xia, Trent C Bjorndahl, Peter Tang and David S Wishart  
+|released = 
+|format = 
+|url = http://wishart.biology.ualberta.ca/metabominer/index.html
+|download = http://wishart.biology.ualberta.ca/metabominer/installation.html
+|frequency = Last update 2008
+|curation = Manually curated
+}}
+
+'''MetaboMiner''' is a tool which can be used to automatically or semi-automatically identify [[metabolite]]s in complex [[biofluid]]s from [[2D-NMR]] spectra. MetaboMiner is able to handle both 1H-1H total correlation spectroscopy (TOCSY) and 1H-13C heteronuclear single quantum correlation ([[HSQC]]) data. It identifies compounds by comparing 2D spectral patterns in the NMR spectrum of the biofluid mixture with specially constructed libraries containing reference spectra of approximately 500 pure compounds. MetaboMiner protocol is available via [http://wishart.biology.ualberta.ca/metabominer/ MetaboMiner website].<ref>Jianguo Xia, Trent C Bjorndahl, Peter Tang and David S Wishart. [http://www.biomedcentral.com/1471-2105/9/507 MetaboMiner – semi-automated identification of metabolites from 2D NMR spectra of complex biofluids]. BMC Bioinformatics 2008, 9:507 doi:10.1186/1471-2105-9-507</ref>
+
+==References==
+{{reflist}}
+
+==See also==
+*[[NMR]]
+*[[Bioinformatics]]
+*[[Biology]]
+
+[[Category:Biological databases]]

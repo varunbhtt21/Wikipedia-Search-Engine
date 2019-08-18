@@ -1,0 +1,74 @@
+Title : Marwar Junction railway station
+Text : {{Use dmy dates|date=January 2016}}
+{{Use Indian English|date=January 2016}}
+{{Infobox station
+| name            = Marwar Junction
+| type            = [[Indian Railways|Indian Railway]] [[Junction Station]]
+| style           = Indian Railways
+| image           =
+| image_caption   =
+| address         = State Highway 61, Marwar Junction, Rajasthan
+| country         = India 
+| coordinates     =  {{Coord|25.7205|N|73.6093|E|type:railwaystation_region:IN|format=dms|display=inline, title}}
+| elevation       =  {{convert|267|m|ft}}       
+| line            =  [[Jaipur-Ahmedabad line]]<br />[[Marwar Junction-Munabao line]]<br />Mavli-Marwar line (MG)
+| structure       = Standard on ground
+| platform        = 4
+| tracks          = {{RailGauge|1676mm|allk=on}} and {{RailGauge|1000mm|allk=on}}
+| parking         = Yes
+| bicycle         = No
+| opened          = 1881
+| closed          =
+| rebuilt         =
+| electrified     =
+| ADA             = 
+| code            = {{Indian railway code
+  | code          = MJ
+  | division = Ajmer
+  }}
+| owned           = [[Indian Railways]]
+| operator        = [[North Western Railway zone|North Western Railway]]
+| status           = Functioning
+| former          =
+| passengers      =
+| pass_year       =
+| pass_percent    =
+| pass_system     =    
+| map_locator     = {{Location map|India Rajasthan| lat=25.7205|long=73.6093| width=300|caption= Location in Rajasthan|label='''Marwar Junction''' railway station}}
+}} 
+'''Marwar Junction railway station''' is located in [[Pali district]] in the [[India]]n [[States and territories of India|state]] of  [[Rajasthan]] .  It serves the census town  at [[Marwar Junction]].
+
+==The railway station==
+Marwar Junction railway station is at an elevation of {{convert|267|m|ft}} and was assigned the code – MJ.<ref>{{cite web|url= http://indiarailinfo.com/arrivals/marwar-junction-mj/129 |title= Arrivals at Marwar Junction|publisher= indiarailinfo| accessdate=30 April 2014}}</ref>
+
+==History==
+Rajputana State Railway extended the Delhi-Ajmer {{RailGauge|1000mm}} wide [[metre gauge]] line to Ahmeabad in 1881.<ref name=irfcaii>{{cite web|url= http://www.irfca.org/faq/faq-history2.html |title= IR History: Early Days II (1870-1899)| publisher=IRFCA| accessdate=30 April 2014}}</ref> It was converted to {{RailGauge|1676mm}} wide [[Indian gauge|broad gauge]] in 1997.<ref>{{cite web|url= http://www.irfca.org/faq/faq-history5.html |title= IR History: Part V (1970-1995)| publisher=IRFCA| accessdate=30 April 2014}}</ref>
+
+The Rajputana-Malwa Railway built the metre gauge line from Marwar Junction to [[Pali]] in 1882. Later, this section was extended to [[Jodhpur]] and formed the Jodhpur Railway.<ref>{{cite web| url = http://www.wiki.fibis.org/index.php?title=Jodhpur-Bikaner_Railway|title = Jodhpur-Bikaner Railway| publisher= fibis| accessdate = 30 April 2014}}</ref> The line now runs up to [[Munabao]] on the India-Pakistan border and has been fully converted to broad gauge.<ref>{{cite web| url = http://www.irfca.org/faq/faq-inter.html  |title = Geography:International| publisher=IRFCA | accessdate = 30 April 2014}}</ref>
+
+The [[Mavli]]-Marwar metre gauge line was opened in 1936.<ref>{{cite web| url = http://www.irfca.org/faq/faq-history3.html  |title = IR History: Part III (1900-1947)| publisher=IRFCA | accessdate = 30 April 2014}}</ref>
+
+== Cultural references ==
+
+=== In fiction ===
+The station is mentioned in Chapter&nbsp;1 of [[Rudyard Kipling|Rudyard Kipling's]] short story [[The Man Who Would Be King]] which was first published in ''[[The Phantom Rickshaw and other Eerie Tales]]'' (1888).  It is the meeting place of the narrator, Kipling in all but name, and [[Daniel Dravot]].<ref>{{Cite book|url=https://archive.org/stream/phantomrickshawo00kiplrich#page/66/mode/2up/search/marwar|title=The Phantom Rickshaw and other Eerie Tales|last=Kipling|first=Rudyard|publisher=Samson Low, Marston, Searle & Rivington Ltd|year=1888|isbn=|location=|pages=67}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://indiarailinfo.com/arrivals/marwar-junction-mj/129  Trains at Marwar Junction]
+
+{{s-rail-start|noclear=yes}}
+{{s-rail|title=Indian Railways}}
+{{s-line|system=Indian Railways |previous= Dhareshwar| next= Auwa |line= North Western Railway zone|branch= [[Jaipur-Ahmedabad line]] |rows1=1}}
+{{s-line|system=Indian Railways |previous= | next= Rajakiawas |line= North Western Railway zone|branch= Marwar Junction-Munabao line |rows1=1}}
+{{s-line|system=Indian Railways |previous= | next=Marwar Ranawas |line= North Western Railway zone|branch= Mavli-Marwar line |rows1=1}}
+{{end}}
+
+{{Railway stations in Rajasthan}}
+
+[[Category:Railway stations in Pali district]]
+[[Category:Ajmer railway division]]
+[[Category:1881 establishments in India]]
+[[Category:1880s establishments in British India]]

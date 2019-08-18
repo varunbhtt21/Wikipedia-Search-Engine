@@ -1,0 +1,12 @@
+Title : Template:User Sandakan
+Text : {{userbox
+| border-c = {{{1|#000}}}
+| id       = {{{3|[[File:Sandakan Emblem.png|45px]]}}}
+| id-c     = {{{1|#ffffff}}}
+| id-fc    = #ffffff
+| id-s     = {{{5|12}}}
+| info     = {{{4|This user comes from '''[[Sandakan|<span style="color:purple;">Sandakan</span>]]'''.}}}
+| info-c   = {{{2|cyan}}}
+| usercategory  = Wikipedians in Malaysia
+| nocat = {{{nocat|}}}
+}}

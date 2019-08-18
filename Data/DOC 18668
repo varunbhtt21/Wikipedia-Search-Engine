@@ -1,0 +1,2 @@
+Title : Module:Location map/data/Pennsylvania
+Text : return require('Module:Location map/data/USA Pennsylvania')

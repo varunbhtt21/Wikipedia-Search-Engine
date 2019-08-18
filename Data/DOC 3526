@@ -1,0 +1,25 @@
+Title : Template:Started/doc
+Text : {{Documentation subpage}}
+{{Hatnote|You may be looking for the template: {{tl|Start date}}}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE. -->
+This template is to be used on [[Wikipedia:talk pages|talk pages]] to show that an action has been started.
+
+==Usage==
+You may either use {{tl|started}} by itself for the default message or you may add a custom message as an optional parameter.
+
+{| class="wikitable"
+!Template !! Result
+|-
+|{{tlx|started}} || {{started}}
+|-
+|{{tlx|started|Custom message}} || {{started|Custom message}}
+|}
+
+==See also==
+{{Done/See also}}
+
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Category:Resolution templates]]
+[[Category:Image with comment templates]]
+</includeonly>

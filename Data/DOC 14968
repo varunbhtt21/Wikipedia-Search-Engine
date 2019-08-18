@@ -1,0 +1,32 @@
+Title : Template:Peabody Essex Museum
+Text : {{Navbox
+|name = Peabody Essex Museum
+|state = {{{state<includeonly>|collapsed</includeonly>}}}
+|image = [[File:Peabody Essex Museum.JPG|130px]]
+|title = [[Peabody Essex Museum]]
+|bodyclass = hlist
+|above =
+
+|group1 = Buildings
+|groupstyle = text-align:left; 
+|list1  =
+* [[Cotting-Smith Assembly House]]
+* [[John Tucker Daland House]]
+* [[Ropes Mansion]]
+* [[Yin Yu Tang House]]
+|group2 = Departments<br>and objects
+|list2 =
+* ''[[Cleopatra's Barge]]'' items
+
+|group3 = Other
+|list3  =
+* [[East India Marine Society]]
+
+|below = 
+* {{icon|category}} '''[[:Category:Peabody Essex Museum|Category]]'''
+* {{Icon|Commons}} [[commons:Category:Peabody Essex Museum|'''Commons''']]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Museum templates]]
+[[Category:Massachusetts templates]]
+</noinclude>

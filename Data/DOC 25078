@@ -1,0 +1,47 @@
+Title : Wikipedia:WikiProject Spam/Local/lemaker.org
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|lemaker.org]]
+== Links ==
+* {{LinkSummary|forum.lemaker.org}}
+:* forum.lemaker.org resolves to [//113.10.174.176 113.10.174.176]
+:*: {{LinkSummary|113.10.174.176}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+* {{LinkSummary|lemaker.org}}
+:* lemaker.org resolves to [//113.10.174.176 113.10.174.176]
+:*: {{LinkSummary|113.10.174.176}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|Jetxu2014}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12946434|lang=en|wikidomain=w|namespace=|pagename=Banana Pi|username=Jetxu2014|link=forum.lemaker.org|sortdomain=org.lemaker.forum.|domain=forum.lemaker.org|origdiff=http://en.wikipedia.org/w/index.php?diff=606851812&oldid=606451101|resolved=113.10.174.176|isIP=0|date=2014-05-03|time=03:09:00|wiki=en.wikipedia.org|revid=606851812|oldid=606451101|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=3|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=forum.lemaker.org|domain=forum.lemaker.org|U=3|L=2|UL=2|WUL=0}}{{User:COIBot/OtherLinks|link=forum.lemaker.org|domain=forum.lemaker.org|U=3|L=2|UL=2|WUL=0}}}}
+{{User:COIBot/EditSummary|id=12947201|lang=en|wikidomain=w|namespace=|pagename=Banana Pi|username=Jetxu2014|link=www.lemaker.org|sortdomain=org.lemaker.|domain=lemaker.org|origdiff=http://en.wikipedia.org/w/index.php?diff=606852401&oldid=606852044|resolved=113.10.174.176|isIP=0|date=2014-05-03|time=03:15:46|wiki=en.wikipedia.org|revid=606852401|oldid=606852044|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=3|top=0|deleted=0|there=0|checked=1|coiflag=0|otherlinks={{User:COIBot/OtherLinks|link=www.lemaker.org|domain=lemaker.org|U=3|L=7|UL=1|WUL=0}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 2 additions out of 7 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/lemaker.org]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bforum\.lemaker\.org\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/forum.lemaker.org]]<nowiki>]]</nowiki>
+ \blemaker\.org\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/lemaker.org]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/lemaker.org|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 04:09, 3 May 2014 (UTC)
+<!-- auto-closed --><!-- noleft -->No links left in here mentioned edits.  Marked stale. . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 06:28, 8 May 2014 (UTC)

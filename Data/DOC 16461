@@ -1,0 +1,16 @@
+Title : Template:Infobox tennis tournament/style
+Text : {{#switch:{{lc:{{{type}}}}}
+| atp = background:#B0E0E6
+| atp challenger = background:#4CBB17; color:white;
+| defunct = background:#483C32; color:white;
+| exhibition = background:#893F45; color:white;
+| pro | professional = background:#000000; color:white;
+| itf women's circuit = background:#CD5700; color:white;
+| wta = background:#FF77FF
+| wta 125k = background:#C71585; color:white;
+| joint = background-color:#eee;
+| #default = background:#ADD8E6;
+}}<noinclude>
+{{documentation|content=
+This subtemplate is used to set the header coloring in {{tl|{{BASEPAGENAME}}}}.
+}}</noinclude>

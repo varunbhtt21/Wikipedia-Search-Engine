@@ -1,0 +1,45 @@
+Title : Template:Database Population Artix, Ariège
+Text : <includeonly>{{#switch: {{{1|}}}
+ | max = 250
+ | source-chart = Sources: database Ldh/EHESS/Cassini and Insee
+ | source1 = http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=1446
+ | source2 = http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2010&typgeo=COM&codgeo=09021
+ | source3 = 
+ | source4 = 
+ | 1 = 1793/155
+ | 2 = 1800/154
+ | 3 = 1806/194
+ | 4 = 1821/212
+ | 5 = 1831/226
+ | 6 = 1836/240
+ | 7 = 1841/249
+ | 8 = 1846/212
+ | 9 = 1851/238
+ | 10 = 1856/205
+ | 11 = 1861/215
+ | 12 = 1866/195
+ | 13 = 1872/204
+ | 14 = 1876/176
+ | 15 = 1881/187
+ | 16 = 1886/170
+ | 17 = 1891/148
+ | 18 = 1896/159
+ | 19 = 1901/164
+ | 20 = 1906/154
+ | 21 = 1911/147
+ | 22 = 1921/124
+ | 23 = 1926/128
+ | 24 = 1931/102
+ | 25 = 1936/108
+ | 26 = 1946/93
+ | 27 = 1954/91
+ | 28 = 1962/71
+ | 29 = 1968/60
+ | 30 = 1975/53
+ | 31 = 1982/72
+ | 32 = 1990/70
+ | 33 = 1999/91
+ | 34 = 2006/95
+ | 35 = 2010/118
+|2010/9999
+}}</includeonly><noinclude>{{documentation}}</noinclude>

@@ -1,0 +1,39 @@
+Title : Summability kernel
+Text : In mathematics, a '''summability kernel''' is a family or sequence of periodic integrable functions satisfying a certain set of properties, listed below. Certain kernels, such as the [[Fejér kernel]], are particularly useful in [[Fourier analysis]]. Summability kernels are related to [[approximation of the identity]]; definitions of an approximation of identity vary,<ref>http://math.stackexchange.com/questions/114028/approximation-of-the-identity-and-hardy-littlewood-maximal-function</ref> but sometimes the definition of an approximation of the identity is taken to be the same as for a summability kernel.
+
+==Definition==
+Let <math>\mathbb{T}:=\mathbb{R}/\mathbb{Z}</math>. A '''summability kernel''' is a sequence <math>(k_n)</math> in <math>L^1(\mathbb{T})</math> that satisfies
+# <math>\int_\mathbb{T}k_n(t)\,dt=1</math> 
+# <math>\int_\mathbb{T}|k_n(t)|\,dt\le M</math> (uniformly bounded) 
+# <math>\int_{\delta\le|t|\le\frac{1}{2}}|k_n(t)|\,dt\to0</math> as <math>n\to\infty</math>, for every <math>\delta>0</math>.
+
+Note that if <math>k_n\ge0</math> for all <math>n</math>, i.e. <math>(k_n)</math> is a '''positive summability kernel''', then the second requirement [[logical consequence|follows automatically]] from the first.
+
+If instead we take the convention <math>\mathbb{T}=\mathbb{R}/2\pi\mathbb{Z}</math>, the first equation becomes <math>\frac{1}{2\pi}\int_\mathbb{T}k_n(t)\,dt=1</math>, and the upper limit of integration on the third equation should be extended to <math>\pi</math>.
+
+We can also consider <math>\mathbb{R}</math> rather than <math>\mathbb{T}</math>; then we integrate (1) and (2) over <math>\mathbb{R}</math>, and (3) over <math>|t|>\delta</math>.
+
+==Examples==
+* The [[Fejér kernel]]
+* The [[Poisson kernel]] (continuous index)
+* The [[Dirichlet kernel]] is ''not'' a summability kernel, since it fails the second requirement.
+
+==Convolutions==
+Let <math>(k_n)</math> be a summability kernel, and <math>*</math> denote the [[convolution]] operation.
+* If <math>(k_n),f\in\mathcal{C}(\mathbb{T})</math> (continuous functions on <math>\mathbb{T}</math>), then <math>k_n*f\to f</math> in <math>\mathcal{C}(\mathbb{T})</math>, i.e. uniformly, as <math>n\to\infty</math>.
+* If <math>(k_n),f\in L^1(\mathbb{T})</math>, then <math>k_n*f\to f</math> in <math>L^1(\mathbb{T})</math>, as <math>n\to\infty</math>.
+* If <math>(k_n)</math> is radially decreasing symmetric and <math>f\in L^1(\mathbb{T})</math>, then <math>k_n*f\to f</math> [[Pointwise convergence#Almost everywhere convergence|pointwise a.e.]], as <math>n\to\infty</math>. This uses the [[Hardy–Littlewood maximal function]]. If <math>(k_n)</math> is not radially decreasing symmetric, but the decreasing symmetrization <math>\widetilde{k}_n(x):=\sup_{|y|\ge|x|}k_n(y)</math> satisfies <math>\sup_{n\in\mathbb{N}}\|\widetilde{k_n}\|_1<\infty</math>, then a.e. convergence still holds, using a similar argument.
+
+==References==
+{{reflist}}
+*{{citation
+|first=Yitzhak
+|last=Katznelson
+|authorlink=Yitzhak Katznelson
+|title=An introduction to Harmonic Analysis
+|year=2004
+|publisher=Cambridge University Press
+|isbn=0-521-54359-2}}
+
+[[Category:Mathematical analysis]]
+[[Category:Fourier series]]

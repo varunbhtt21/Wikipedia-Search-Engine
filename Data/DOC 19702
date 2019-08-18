@@ -1,0 +1,32 @@
+Title : Template:Torae
+Text : {{Navbox musical artist
+| name       = Torae
+| state      = {{{state|}}}
+| title      = [[Torae]]
+| listclass  = hlist
+| background = solo_singer
+
+| group1 = Studio albums
+| list1  = 
+* ''[[For the Record (Torae album)|For the Record]]''
+* ''[[Entitled (album)|Entitled]]''
+
+| group2 = Extended plays
+| list2  = 
+* ''Heart Failure''
+* ''[[Off the Record (EP)|Off the Record]]''
+
+| group3 = Mixtapes
+| list3  = 
+* ''[[Daily Conversation]]''
+* ''Admission of Guilt''
+
+| group4 = Collaboration albums
+| list4  = 
+* ''[[Double Barrel (album)|Double Barrel]]'' {{small|(with [[Marco Polo (producer)|Marco Polo]])}}
+* ''[[Barrel Brothers]]'' {{small|(with [[Skyzoo]])}}
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:Rappers templates|Torae]]
+</noinclude>

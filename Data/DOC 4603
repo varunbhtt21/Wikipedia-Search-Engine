@@ -1,0 +1,51 @@
+Title : Parahupehsuchus
+Text : {{Automatic taxobox
+| fossil_range = [[Early Triassic]], {{Fossil range|Olenekian}}
+| image = Parahupehsuchus.png
+| image_upright = 1.15
+| image_caption = [[Holotype]] specimen of ''Parahupehsuchus''
+| taxon = Parahupehsuchus
+| authority = Chen ''et al.'', [[2014 in paleontology|2014]]
+| type_species = {{extinct}}'''''Parahupehsuchus longus'''''
+| type_species_authority = Chen ''et al.'', 2014
+}}
+
+'''''Parahupehsuchus''''' is an extinct [[genus]] of [[hupehsuchia]]n [[marine reptile]]s from the [[Early Triassic]] of China. The genus is [[monotypic]], known from the single species ''Parahupehsuchus longus'' and based on a single specimen. Like other hupehsuchians, it possesses a suite of features not seen in any other group of reptiles, including an elongated torso, a tail nearly as long as the rest of the body, short and paddle-like limbs, extra bones in the fore- and hind limbs, thick ribs and [[gastralia]], [[neural spine]]s of the vertebrae split into two parts, and bony plates over the neural spines. It differs from other hupehsuchians in having an even more elongated body and wider ribs that touch along their edges and have no spaces between them. The ribs connect with gastralia on the underside of the torso to form a bony "tube" around the body wall.<ref name=CRCJR14>{{Cite journal | doi = 10.1371/journal.pone.0094396| pmid = 24718682| title = A Carapace-Like Bony 'Body Tube' in an Early Triassic Marine Reptile and the Onset of Marine Tetrapod Predation| journal = PLoS ONE| volume = 9| issue = 4| pages = e94396| year = 2014| last1 = Chen | first1 = X. H. | last2 = Motani | first2 = R. | last3 = Cheng | first3 = L. | last4 = Jiang | first4 = D. Y. | last5 = Rieppel | first5 = O. | pmc=3981804}}</ref>
+
+==Description==
+[[File:Parahupehsuchus armor.png|thumb|left|Diagram showing the armor and torso]] 
+''Parahupehsuchus longus'' is known from a single [[type specimen]], [[Wuhan Centre of China Geological Survey|WGSC]] 26005, found in an outcrop of the Early Triassic ([[Olenekian]]) [[Jialingjiang Formation]] in [[Yuan'an County]], [[Hubei Province]], China, in 2011. WGSC 26005 consists of a mostly complete left half of a skeleton lacking the skull and most of the tail. The torso of ''Parahupehsuchus'' is very elongated; it has 38 [[dorsal vertebra]]e, 10 more than in ''[[Hupehsuchus]]'' and the unnamed hupehsuchian [[Hupehsuchia#V4070|IVPP V4070]]. The rib cage of ''Parahupehsuchus'' is narrow and tube-shaped, unlike the barrel-shaped rib cage of ''Hupehsuchus''.<ref name=CRCJR14/>
+
+The ribs of ''Parahupehsuchus'' are unlike those of any other hupehsuchian. They are wide and flat, touching edge-to-edge to form a bony tube across the torso. Rows of gastralia on the underside of the torso form a bottom wall enclosing this tube. Each rib articulates with two dorsal vertebrae, wedged between the [[diapophysis]] and [[parapophysis]] of the vertebra in front of it and an anterior rib facet extending from the parapophysis of the vertebra behind it. Each rib sweeps backward from its connection with the vertebrae. The gastralia, which overlap the bottom ends of the ribs, sweep forward.<ref name=CRCJR14/>
+
+==Phylogeny==
+[[File:Parahupehsuchus forelimbs.png|thumb|Forelimbs]] 
+{{clade| style=font-size:100%;line-height:85% 
+|1={{clade
+   |1=''[[Hovasaurus]]''
+   |2={{clade
+      |1=''[[Utatsusaurus]]''
+      |label2=[[Hupehsuchia]]
+      |2={{clade
+         |1=''[[Nanchangosaurus]]''
+         |label2=[[Hupehsuchidae]]
+         |2={{clade
+            |1=''[[Hupehsuchus]]''
+            |2={{clade
+               |1='''''Parahupehsuchus'''''
+               |2=[[Hupehsuchia#V4070|IVPP V4070]]
+}} }} }} }} }} }}
+
+==References==
+{{Reflist}}
+
+{{Basal ichthyopterygians}}
+{{Taxonbar|from=Q16766422}}
+
+[[Category:Triassic ichthyosauromorphs]]
+[[Category:Triassic animals of Asia]]
+[[Category:Fossil taxa described in 2014]]
+[[Category:Paleontology in Hubei]]
+
+
+{{paleo-reptile-stub}}

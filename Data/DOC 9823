@@ -1,0 +1,118 @@
+Title : Commonwealth Railways K class
+Text : {{Use Australian English|date=May 2014}}
+{{Use dmy dates|date=May 2014}}
+{{Infobox locomotive
+|name             = Commonwealth Railways K class
+|powertype        = Steam
+|image            = 
+|alt              = 
+|caption          = 
+|designer         = 
+|builder          = [[North British Locomotive Company]]
+|ordernumber      = 
+|serialnumber     = 21230-21237
+|buildmodel       = 
+|builddate        = 1916
+|totalproduction  = 8
+|rebuilder        = 
+|rebuilddate      = 
+|numberrebuilt    =
+|whytetype        = 2-8-0
+|uicclass         = 
+|gauge            = {{RailGauge|1435 mm|allk=on}}
+|leadingdiameter  = 
+|driverdiameter   = 
+|trailingdiameter = 
+|minimumcurve     = 
+|wheelbase        = 
+|length           = 
+|width            = 
+|height           = 
+|axleload         = 
+|weightondrivers  = 
+|locoweight       = {{convert|111|LT|t ST|abbr=on}}
+|tenderweight     = 
+|locotenderweight = 
+|tendertype       = 
+|fueltype         = [[Coal]]
+|fuelcap          = 
+|watercap         = {{convert|4,850|impgal|L USgal|abbr=on}}
+|tendercap        = 
+|sandcap          = 
+|boiler           = 
+|boilerpressure   = {{convert|160|psi|bar kPa|abbr=on}}
+|feedwaterheater  = 
+|firearea         = {{convert|29|sqft|m2|abbr=on}}
+|tubearea         = 
+|fluearea         = 
+|tubesandflues    = 
+|fireboxarea      = 
+|totalsurface     = 
+|superheatertype  = 
+|superheaterarea  = 
+|cylindercount    = 
+|cylindersize     = {{convert|21|x|26|in|mm|0|abbr=on}}
+|frontcylindersize= 
+|rearcylindersize = 
+|hpcylindersize   = 
+|lpcylindersize   = 
+|valvegear        = 
+|valvetype        = 
+|valvetravel      = 
+|valvelap         = 
+|valvelead        = 
+|transmission     = 
+|maxspeed         = 
+|poweroutput      = 
+|tractiveeffort   = {{convert|28,777|lbf|kN|abbr=on}}
+|factorofadhesion = 
+|trainheating     = 
+|locobrakes       = 
+|locobrakeforce   = 
+|trainbrakes      = 
+|safety           = 
+|operator         = [[Commonwealth Railways]]
+|operatorclass    = 
+|powerclass       = 
+|numinclass       = 
+|fleetnumbers     = K27-K34
+|officialname     = 
+|nicknames        = 
+|axleloadclass    = 
+|locale           = 
+|deliverydate     = 
+|firstrundate     = March 1916
+|lastrundate      = 
+|retiredate       = 
+|withdrawndate    = 
+|preservedunits   = 
+|restoredate      = 
+|scrapdate        = 
+|currentowner     = 
+|disposition      = All scrapped}}
+
+The '''Commonwealth Railways K class''' was a class of 2-8-0 freight locomotives built in 1916 by [[North British Locomotive Company]], United Kingdom, for the [[Commonwealth Railways]], Australia.
+
+==History==
+In order to operate freight trains on the then under construction [[Trans-Australian Railway]], [[Commonwealth Railways]] ordered eight locomotives of the same design as the [[New South Wales Government Railways]]' [[New South Wales D50 class locomotive|T class]] (later the D50 class), but with higher capacity tenders.<ref name=LOberg>{{cite book|last=Oberg|first=Leon|title=Locomotives of Australia 1850s-1980s|year=1984|publisher=Reed Books|location=Frenchs Forest|isbn=0 730100 05 7|pages=76–77}}</ref><ref name=Chris>[http://www.comrails.com/cr_locos/r_k.html#27 K class] Chris's Commonwealth Railways Pages</ref>
+
+All were delivered between March and June 1916. Most had been withdrawn by the early 1950s with the last withdrawn in March 1952 after dieselisation.<ref name=LOberg/><ref name=Chris/>
+
+==References==
+
+===Notes===
+{{Reflist}}
+
+===Bibliography===
+{{refbegin}}
+*{{FluMarWil-LocRailCR}}
+{{refend}}
+
+{{AusLocos|state=collapsed}}
+
+[[Category:Commonwealth Railways steam locomotives|K class]]
+[[Category:NBL locomotives]]
+[[Category:Railway locomotives introduced in 1916]]
+[[Category:2-8-0 locomotives]]
+[[Category:Standard gauge locomotives of Australia]]
+[[Category:Scrapped locomotives]]

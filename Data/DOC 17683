@@ -1,0 +1,47 @@
+Title : Wikipedia:WikiProject Spam/Local/ipshousewares.com
+Text : <!--Please put any comments at the bottom of the report, AFTER the tag at the bottom-->
+{{User:COIBot/Summary/SpecificReports}}
+{{User:COIBot/linksaverdatabases|||||}}
+
+<!-- tags and categories -->{{NOINDEX}}[[Category:Local COIBot Reports|ipshousewares.com]]
+== Links ==
+* {{LinkSummary|http}}
+:* http resolves to [//X X]
+:*: {{LinkSummary|X}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+* {{LinkSummary|ipshousewares.com}}
+:* ipshousewares.com resolves to [//23.229.149.226 23.229.149.226]
+:*: {{LinkSummary|23.229.149.226}}
+:* {{GoogleAnalyticsSummary|34837303}}
+:* Link is not on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Domainredlist|domainredlist]].
+:* Link is not on the [[en:User:COIBot#Monitorlist|Monitorlist]].
+:* None of the mentioned users is on the [[en:User:COIBot#Blacklist|blacklist]].
+:* Link is not on the [[en:User:COIBot#Whitelist|whitelist]].
+:* Link is not on the [[en:User:COIBot#Monitor list|monitor list]].
+== Users ==
+* {{UserSummary|IPS Housewares}}
+
+== Selected additions ==
+{{User:COIBot/Additionlist_top}}
+{{User:COIBot/EditSummary|id=12642506|lang=en|wikidomain=w|namespace=User|pagename=IPS Housewares|username=IPS Housewares|link=Http://www.ipshousewares.com/images/ips-logo.png|sortdomain=com.ipshousewares.|domain=http|origdiff=http://en.wikipedia.org/w/index.php?oldid=606440343&rcid=652270660|resolved=X|isIP=0|date=2014-04-30|time=06:40:40|wiki=en.wikipedia.org|revid=606440343|oldid=0|whitelisted=0|blacklisteduser=0|whitereason=|blackreason=|usercount=6|top=0|deleted=1|there=0|checked=1|coiflag=1|coiname=IPS_Housewares|coilanguage=en|coipage=User:IPS_Housewares|coiurl=ipshousewares.com|coifullurl=www.ipshousewares.com/images/ips-logo.png|coidiff=http://en.wikipedia.org/?oldid=606440343|coithetime=1398840285|coireason=(overlap) Username overlaps with domain: 'ips housewares'-'ipshousewares.com' = 81.25% (100/81.25)|otherlinks={{User:COIBot/OtherLinks|link=www.ipshousewares.com|domain=ipshousewares.com|U=6|L=22|UL=6|WUL=0|analytics=34837303}}{{User:COIBot/OtherLinks|link=www.ipshousewares.com|domain=ipshousewares.com|U=6|L=22|UL=6|WUL=0|analytics=34837303}}{{User:COIBot/OtherLinks|link=www.ipshousewares.com|domain=ipshousewares.com|U=6|L=22|UL=6|WUL=0|analytics=34837303}}{{User:COIBot/OtherLinks|link=Http://www.ipshousewares.com/images/ips-logo.png|domain=http|U=6|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.ipshousewares.com/images/ips-logo.png|domain=http|U=6|L=0|UL=X|WUL=X}}{{User:COIBot/OtherLinks|link=Http://www.ipshousewares.com/images/ips-logo.png|domain=http|U=6|L=0|UL=X|WUL=X}}}}
+{{User:COIBot/Additionlist_bottom}}
+* Displayed 1 additions out of 3 total.	 For more info see [[Wikipedia:WikiProject_Spam/LinkReports/ipshousewares.com]]
+== Entry ==
+[[MediaWiki talk:Spam-blacklist/log|Log]] entry for the [[MediaWiki:Spam-blacklist]]:
+
+ \bhttp\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/http]]<nowiki>]]</nowiki>
+ \bipshousewares\.com\b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <span id="adminname">ADMINNAME</span> # see <nowiki>[[</nowiki>[[Wikipedia:WikiProject_Spam/Local/ipshousewares.com]]<nowiki>]]</nowiki>
+== Discussion ==
+
+{{LinkStatusLocal|en.wikipedia.org|Stale}}
+
+See [[Wikipedia:WikiProject_Spam/LinkReports/ipshousewares.com|COIBot report]] for more details.<!-- Please put comments after this remark -->
+
+New data reported. --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 08:30, 30 April 2014 (UTC)
+<!-- auto-closed --><!-- veryold -->Autostale: very old local report (>7 days). <!-- noleft -->No links left in here mentioned edits.  Marked stale. . --[[User:COIBot|COIBot]] ([[User talk:COIBot|talk]]) 22:49, 22 May 2014 (UTC)

@@ -1,0 +1,31 @@
+Title : Tip link
+Text : [[File:The Tailchaser mutation does not affect formation of interstereocilial links.png|thumb|250px|Pictures G-N show the tip links connecting the stereocilia.]]
+
+'''Tip links''' are extracellular filaments that connect [[stereocilia]] to each other or to the [[kinocilium]] in the hair cells of the [[inner ear]].<ref name="Picklesetal1984">Pickles JO, Comis SD, Osborne MP. 1984.Cross-links between stereocilia in the guinea pig organ of Corti, and their possible relation to sensory transduction. Hearing Research 15:103-112.</ref><ref name="BradySiegel2012">{{cite book|author1=Scott T. Brady|author2=George J. Siegel|author3=Robert Wayne Albers|author4=Donald Lowell Price|title=Basic Neurochemistry: Principles of Molecular, Cellular and Medical Neurobiology|url=https://books.google.com/books?id=NPqgM38h4LsC&pg=PA920|year=2012|publisher=Academic Press|isbn=978-0-12-374947-5|pages=920}}</ref> [[Mechanotransduction]] is thought to occur at the site of the tip links, which connect to spring-gated ion channels.<ref name="Aidley1998">{{cite book|author=David J. Aidley|title=The Physiology of Excitable Cells|url=https://books.google.com/books?id=3JgC_rE8ZVwC&pg=PA248|date=3 September 1998|publisher=Cambridge University Press|isbn=978-0-521-57421-1|pages=248–}}</ref> These channels are cation-selective transduction channels that allow potassium and calcium ions to enter the hair cell from the [[endolymph]] that bathes its apical end. When the hair cells are deflected toward the kinocilium, depolarization occurs; when deflection is away from the kinocilium, hyperpolarization occurs. The tip link is made of two different [[cadherin]] molecules, [[protocadherin 15]] and [[CDH23|cadherin 23]].<ref name="Lewin">Lewin GR, Moshourab R. 2004. Mechanosensation and pain. Journal of Neurobiology 61:30-44</ref> It has been found that the tip links are relatively stiff, so it is thought that there has to be something else in the hair cells that is stretchy which allows the stereocilia to move back and forth.<ref name="Corey">Corey, D. Harvard University. Phone Interview. 19 November 2008.</ref>
+
+It is hypothesized that the tip link is attached to the myosin motor which moves along [[actin]] filaments.<ref name="Howard">{{Cite journal 
+| last1 = Howard | first1 = J. 
+| last2 = Hudspeth | first2 = A. J. 
+| title = Mechanical relaxation of the hair bundle mediates adaptation in mechanoelectrical transduction by the bullfrog's saccular hair cell 
+| journal = Proceedings of the National Academy of Sciences of the United States of America 
+| volume = 84 
+| issue = 9 
+| pages = 3064–3068 
+| year = 1987 
+| pmid = 3495007 
+| pmc = 304803
+ | doi=10.1073/pnas.84.9.3064
+}}</ref>
+
+==See also==
+* [[Neuronal encoding of sound]]
+
+==References==
+{{reflist}}
+
+{{Auditory and vestibular systems|state=collapsed}}
+
+[[Category:Vestibular system]]
+[[Category:Auditory system]]
+
+{{Cell-biology-stub}}

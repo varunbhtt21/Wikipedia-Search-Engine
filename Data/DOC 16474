@@ -1,0 +1,37 @@
+Title : Mionochroma electrinum
+Text : {{short description|Species of beetle}}
+{{Italic title}}
+{{Taxobox
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Beetle|Coleoptera]]
+| subordo = [[Polyphaga]]
+| familia = [[Cerambycidae]]
+| genus = ''[[Mionochroma]]''
+| species = '''''M. electrinum'''''
+| binomial = ''Mionochroma electrinum''
+| binomial_authority = (Gounelle, 1911)
+| synonyms = {{Species list
+|Callichroma vittatum electrinum|Gounelle, 1911<ref name="Gounelle, 1911" />
+|Callichroma (Mionochroma) vittatum electrinum|Schmidt, 1924<ref name="Schmidt, 1924"/>
+|Mionochroma vittatum electrinum|Podaný, 1965
+}}
+|synonyms_ref=<ref>{{cite web|title=''Mionochroma electrinum'' (Gounelle, 1911)|url=http://cerambycidae.org/taxa/electrinum-%28Gounelle-1911%29|website=Cerambycidae of the World|accessdate=31 August 2017}}</ref>
+}}
+
+'''''Mionochroma electrinum''''' is a species of [[beetle]] in the family [[Cerambycidae]]. It was described by Gounelle in 1911.<ref>Bezark, Larry G. [http://plant.cdfa.ca.gov/byciddb/bycidview.asp A Photographic Catalog of the Cerambycidae of the World]. Retrieved on 22 May 2012.</ref> It is known from [[Brazil]], [[Paraguay]], [[Argentina]], and [[Uruguay]].
+
+==References==
+{{Reflist|refs=
+<ref name="Gounelle, 1911">{{cite journal|last1=Gounelle|first1=E.|title=Liste des cérambycides de la région de Jatahy, État de Goyaz, Brésil (2ème partie)|journal=Annales de la Société Entomologique de France|date=1911|volume=80|issue=1|page=74|url=https://www.biodiversitylibrary.org/page/30836194}}</ref>
+<ref name="Schmidt, 1924">{{cite journal|last1=Schmidt|first1=Martin|title=Die amerikanischen Callichrominen (col ceramb.) nach systematischen und phylogenetischen Gesichtspunkten dargestellt.|journal=Berliner entomologische Zeitschrift|date=1924|volume=1924|issue=4|pages=297–321|doi=10.1002/mmnd.192419240401}}</ref>
+}}
+
+{{Taxonbar|from=Q14826533}}
+
+[[Category:Callichromatini]]
+[[Category:Beetles described in 1911]]
+
+
+{{Callichromatini-stub}}

@@ -1,0 +1,155 @@
+Title : Module:User:Happy5214/WikiWork
+Text : local p = {}
+local calculators = {}
+
+-- Global imports
+local getArgs = require('Module:Arguments').getArgs
+local math = require "Module:Math"
+local round = math._precision_format
+local insert = table.insert
+
+-- Statistics
+local stats, total
+local top, high, mid, low
+local fa, a, ga, b, c, start, stub
+
+-- Utility
+local function pad(number)
+	return round(tostring(number), '3')
+end
+
+local function getCount(type)
+	return stats[type] or 0
+end
+
+-- Setup
+local function setup()
+	top = getCount('topFA') + getCount('topA') + getCount('topGA') + getCount('topB') + getCount('topC') + getCount('topStart') + getCount('topStub')
+	high = getCount('highFA') + getCount('highA') + getCount('highGA') + getCount('highB') + getCount('highC') + getCount('highStart') + getCount('highStub')
+	mid = getCount('midFA') + getCount('midA') + getCount('midGA') + getCount('midB') + getCount('midC') + getCount('midStart') + getCount('midStub')
+	low = getCount('lowFA') + getCount('lowA') + getCount('lowGA') + getCount('lowB') + getCount('lowC') + getCount('lowStart') + getCount('lowStub')
+	fa = getCount('topFA') + getCount('highFA') + getCount('midFA') + getCount('lowFA')
+	a = getCount('topA') + getCount('highA') + getCount('midA') + getCount('lowA')
+	ga = getCount('topGA') + getCount('highGA') + getCount('midGA') + getCount('lowGA')
+	b = getCount('topB') + getCount('highB') + getCount('midB') + getCount('lowB')
+	c = getCount('topC') + getCount('highC') + getCount('midC') + getCount('lowC')
+	start = getCount('topStart') + getCount('highStart') + getCount('midStart') + getCount('lowStart')
+	stub = getCount('topStub') + getCount('highStub') + getCount('midStub') + getCount('lowStub')
+	total = top + high + mid + low
+end
+
+-- Calculators
+
+function constantGenerator(classes, importances, func)
+	local constants = {}
+	for class,classValue in pairs(classes) do
+		for imp,impValue in pairs(importances) do
+			constants[imp .. class] = func(classValue, impValue)
+		end
+	end
+	return constants
+end
+
+function calculators.constant(classes)
+	local importances = {top=1, high=1, mid=1, low=1}
+	return constantGenerator(classes, importances, function (class, importance) return class end)
+end
+
+function calculators.linear(classes, importances)
+	return constantGenerator(classes, importances, function (class, importance) return class * importance end)
+end
+
+function calculators.exponential(classes, importances)
+	return constantGenerator(classes, importances, function (class, importance) return class ^ importance end)
+end
+
+function sumOfCountsWithConstantMultipliers(constants)
+	local sum = 0.0
+	for classImp,multiplier in pairs(constants) do
+		sum = sum + (multiplier * getCount(classImp))
+	end
+	return sum
+end
+
+function calculators.sum(constants)
+	return sumOfCountsWithConstantMultipliers(constants)
+end
+
+function calculators.average(constants)
+	return sumOfCountsWithConstantMultipliers(constants) / total
+end
+
+-- Statistics
+
+local function original()
+	local classes = {FA=0, A=1, GA=2, B=3, C=4, Start=5, Stub=6}
+	return calculators.sum(calculators.constant(classes))
+end
+
+local function originalRelative()
+	local classes = {FA=0, A=1, GA=2, B=3, C=4, Start=5, Stub=6}
+	return calculators.average(calculators.constant(classes))
+end
+
+local function importanceAdjusted()
+	local classes = {FA=0, A=1, GA=2, B=3, C=4, Start=5, Stub=6}
+	local importances = {top=2, high=1.5, mid=1, low=0.5}
+	return calculators.average(calculators.linear(classes, importances))
+end
+
+local function reverseImportanceAdjusted()
+	local classes = {FA=0, A=1, GA=2, B=3, C=4, Start=5, Stub=6}
+	local importances = {top=0.5, high=1, mid=1.5, low=2}
+	return calculators.average(calculators.linear(classes, importances))
+end
+
+local function exponentialImportanceAdjusted()
+	local classes = {FA=0, A=0.25, GA=0.5, B=1, C=2, Start=3, Stub=4}
+	local importances = {top=4, high=2, mid=1, low=0.5}
+	return calculators.average(calculators.exponential(classes, importances))
+end
+
+---- Ratios
+local function importanceRatio()
+	return (2*top + 1.5*high + 1*mid + 0.5*low) / total
+end
+
+local function importanceAdjustedRatio()
+	return importanceAdjusted() / original()
+end
+
+local function reverseImportanceAdjustedRatio()
+	return reverseImportanceAdjusted() / original()
+end
+
+-- Table definitions
+local columns = {{"ω", original},
+                 {"Ω", originalRelative},
+                 {"Importance-adjusted WikiWork", importanceAdjusted},
+                 {"Importance ratio", importanceRatio},
+                 {"Exponential importance-adjusted WikiWork", exponentialImportanceAdjusted},
+                 }
+
+function p._wikiwork()
+	setup()
+	local cells = {}
+	for k,v in ipairs(columns) do
+		insert(cells, pad(v[2]()))
+	end
+	return '| ' .. table.concat(cells, ' || ')
+end
+
+function p.wikiwork(frame)
+	stats = getArgs(frame)
+	return p._wikiwork()
+end
+
+function p.header(frame)
+	local headers = {}
+	for k,v in ipairs(columns) do
+		insert(headers, v[1])
+	end
+	return '! ' .. table.concat(headers, ' !! ')
+end
+
+return p

@@ -1,0 +1,79 @@
+Title : Template:F1Laps1960
+Text : {{#switch:{{{1}}}
+|ARG  = 
+<timeline>
+Preset     = TimeVertical_OneBar_UnitYear
+ImageSize  = width:250 height:300
+PlotArea   = bottom:20 left:40
+Period     = from:0 till:80
+ScaleMajor = start:0 increment:5
+ScaleMinor = start:1 increment:1
+
+Colors =
+  id:canvas      value:rgb(0.937,0.937,0.937)
+  id:linemark    value:gray(0.8)
+  id:linemark2   value:gray(0.9)
+
+BackgroundColors = canvas:canvas
+
+PlotData =
+  mark:(line,linemark)
+  from:start till:1 color:blue shift:(20,-5)  text:Innes Ireland (Lap 1)
+  from:1 till:15 color:yellow shift:(20,-5)  text:Joakim Bonnier (Laps 2–15)
+  from:15 till:20 color:red shift:(20,-5)  text:Stirling Moss (Laps 16–20)
+  from:20 till:36 color:yellow shift:(20,-5)  text:Joakim Bonnier (Laps 21–36)
+  from:36 till:40 color:red shift:(20,-5)  text:Stirling Moss (Laps 37–40)
+  from:40 till:67 color:yellow shift:(20,-5)  text:Joakim Bonnier (Laps 41–67)
+  from:67 till:end color:green shift:(20,-5)  text:Bruce McLaren (Laps 68–80)
+</timeline>
+|INDY   = 
+<timeline>
+Preset     = TimeVertical_OneBar_UnitYear
+ImageSize  = width:250 height:800
+PlotArea   = bottom:20 left:40
+Period     = from:0 till:200
+ScaleMajor = start:0 increment:5
+ScaleMinor = start:1 increment:1
+
+Colors =
+  id:canvas      value:rgb(0.937,0.937,0.937)
+  id:linemark    value:gray(0.8)
+  id:linemark2   value:gray(0.9)
+
+BackgroundColors = canvas:canvas
+
+PlotData =
+  mark:(line,linemark)
+  from:start till:1 color:red shift:(20,-7)  text:Rodger Ward (Lap 1)
+  from:1 till:3 color:blue shift:(20,-2)  text:Eddie Sachs (Laps 2–3)
+  from:3 till:18 color:red shift:(20,-5)  text:Rodger Ward (Laps 4–18)
+  from:18 till:24 color:purple shift:(20,-5)  text:Troy Ruttman (Laps 19–24)
+  from:24 till:37 color:yellow shift:(20,-5)  text:Jim Rathmann (Laps 25–37)
+  from:37 till:41 color:red shift:(20,-5)  text:Rodger Ward (Laps 38–41)
+  from:41 till:51 color:blue shift:(20,-5)  text:Eddie Sachs (Laps 42–51)
+  from:51 till:56 color:purple shift:(20,-5)  text:Troy Ruttman (Laps 52–56)
+  from:56 till:61 color:blue shift:(20,-5)  text:Eddie Sachs (Laps 57–61)
+  from:61 till:69 color:yellow shift:(20,-5)  text:Jim Rathmann (Laps 62–69)
+  from:69 till:72 color:blue shift:(20,-5)  text:Eddie Sachs (Laps 70–72)
+  from:72 till:74 color:yellow shift:(20,-5)  text:Jim Rathmann (Laps 73–74)
+  from:74 till:75 color:blue shift:(20,0)  text:Eddie Sachs (Lap 75)
+  from:75 till:85 color:yellow shift:(20,-5)  text:Jim Rathmann (Laps 76–85)
+  from:85 till:95 color:green shift:(20,-5)  text:Johnny Thomson (Laps 86–95)
+  from:95 till:122 color:yellow shift:(20,-5)  text:Jim Rathmann (Laps 96–122)
+  from:122 till:127 color:red shift:(20,-5)  text:Rodger Ward (Laps 123–127)
+  from:127 till:141 color:yellow shift:(20,-5)  text:Jim Rathmann (Laps 128–141)
+  from:141 till:146 color:red shift:(20,-5)  text:Rodger Ward (Laps 142–146)
+  from:146 till:147 color:yellow shift:(20,-5)  text:Jim Rathmann (Lap 147)
+  from:147 till:151 color:red shift:(20,-2)  text:Rodger Ward (Laps 148–151)
+  from:151 till:162 color:yellow shift:(20,-5)  text:Jim Rathmann (Laps 152–162)
+  from:162 till:169 color:red shift:(20,-5)  text:Rodger Ward (Laps 163–169)
+  from:169 till:170 color:yellow shift:(20,-5)  text:Jim Rathmann (Lap 170)
+  from:170 till:177 color:red shift:(20,-5)  text:Rodger Ward (Laps 171–177)
+  from:177 till:182 color:yellow shift:(20,-5)  text:Jim Rathmann (Laps 178–182)
+  from:182 till:189 color:red shift:(20,-5)  text:Rodger Ward (Laps 183–189)
+  from:189 till:193 color:yellow shift:(20,-5)  text:Jim Rathmann (Laps 190–193)
+  from:193 till:196 color:red shift:(20,-5)  text:Rodger Ward (Laps 194–196)
+  from:196 till:end color:yellow shift:(20,-5)  text:Jim Rathmann (Laps 197–200)
+</timeline>
+      |No race-code specified
+    }}<noinclude>[[Category:Formula One formatting and function templates]]</noinclude>

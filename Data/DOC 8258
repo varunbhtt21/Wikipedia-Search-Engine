@@ -1,0 +1,14 @@
+Title : Template:Vandal-s/doc
+Text : {{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+== Usage ==
+This template is a shorter version of '''{{tl|Vandal}}'''; it excludes the page moves log and block link, but includes a link to the block log.
+
+The username is also an #anchorname, to aid quick reference on a long page.
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go here and interwikis go in Wikidata. -->
+{{Signatures}}
+[[Category:Username internal link templates]]
+}}</includeonly>

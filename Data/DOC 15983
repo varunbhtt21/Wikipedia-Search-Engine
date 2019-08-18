@@ -1,0 +1,12 @@
+Title : Template:WikiProject Skateboarding/doc
+Text : {{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+== Usage ==
+Place {{tl|WikiProject Skateboarding}} on the talk page of articles related to skateboarding.
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go here and interwikis go in Wikidata. -->
+[[Category:WikiProject Skateboarding| ]]
+[[Category:Skateboarding templates]]
+}}</includeonly>

@@ -1,0 +1,52 @@
+Title : BeamNG.drive
+Text : {{short description|Vehicle simulation game}}
+{{Use dmy dates|date=December 2016}}
+{{Infobox video game
+| title = BeamNG.drive
+| image = BeamNG.drive logo.svg
+| developer = BeamNG GmbH
+| publisher = BeamNG GmbH
+| engine = [[Torque (game engine)|Torque]]
+| platforms = [[Microsoft Windows]]
+| released = {{Video game release|WW|29 May 2015 {{small|([[Steam Early Access]])}}}}
+| genre = [[Vehicle simulation game|Vehicle simulation]]
+| modes = {{hlist|[[Single-player video game|Single-player]]|[[Multiplayer_video_game#Single-system|multiseat]]}}
+}}
+
+'''''BeamNG.drive''''' is a [[Vehicle simulation game|vehicle simulation]] [[video game]] developed and published by [[Bremen]]-based [[video game developer]] BeamNG. The game features [[Soft-body dynamics|soft-body physics]], and was released into [[Steam Early Access]] for [[Microsoft Windows]] on 29 May 2015.
+
+== Development ==
+On 28 May 2012, BeamNG released a [[YouTube]] video titled "Revolutionary soft-body physics in CryEngine3".<ref>{{cite web |url=http://www.ign.com/articles/2012/10/01/the-most-impressive-physics-engine-youve-never-seen |title=The Most Impressive Physics Engine You've Never Seen |last=Reilly |first=Luke |date=30 September 2012 |website=[[IGN]] |publisher=[[IGN Entertainment]] |accessdate=3 December 2016}}</ref> Originally, ''BeamNG.drive'' was to be based on [[CryEngine 3]], but its use in a driving game uncovered numerous bugs, leading development to be rolled over to [[Torque (game engine)|Torque]].<ref>{{cite web |url=http://blog.beamng.com/beamng-and-torque3d/ |title=BeamNG and Torque3D |date=27 January 2013 |website=[[BeamNG]] |accessdate=3 December 2016}}</ref> ''BeamNG.drive'' relies heavily on coding in [[Lua (programming language)|Lua]], and uses packets of local data using the Lua network system while the game is running.
+
+BeamNG's website, beamng.com, was opened on 8 May 2012, to begin rolling out news of their development of the simulator.<ref>{{cite web |url=http://blog.beamng.com/new-website/ |title=new website |date=8 May 2012 |website=[[BeamNG]] |accessdate=3 December 2016}}</ref>
+
+The game was placed on an open vote on [[Steam Greenlight]] on 12 February 2014<ref>{{cite web |url=http://www.pcgamer.com/beamng-drive-crashes-onto-steam-greenlight/ |title=BeamNG.drive crashes onto Steam Greenlight |last=Savage |first=Phil |date=13 February 2014 |website=[[PC Gamer]] |publisher=[[Future US]] |accessdate=3 December 2016}}</ref> and was greenlit eight days later.<ref>{{cite web |url=http://blog.beamng.com/we-have-been-greenlit/ |title=We have been greenlit! |date=20 February 2014 |website=[[BeamNG]] |accessdate=3 December 2016}}</ref>
+
+On 29 May 2015, the game was released to [[Steam Early Access]].<ref>{{cite web |url=http://blog.beamng.com/steam-early-access-release/ |title=Steam Early Access release |date=27 May 2015 |website=[[BeamNG]] |accessdate=3 December 2016}}</ref>
+
+On 15 June 2018, BeamNG announced a partnership with Camshaft Software, developer of the vehicle tycoon game [[Automation (video game)|Automation]], where they offered a promotional sale on 13 July 2018 for both games.<ref>{{cite web |url=https://blog.beamng.com/announcing-automation-beamng-drive-collaboration/ |title=Announcing Automation & BeamNG.drive collaboration! |date=15 June 2018 |website=[[BeamNG]] | accessdate=19 September 2018}}</ref>
+
+== Gameplay ==
+''BeamNG.drive'' features six modes: Scenarios, which are missions that vary in complexity, difficulty, and goals; Campaign Mode, which is a collection of small scenarios pertaining to a specific theme; Free Roam Mode, where the player can drive (or crash) several different vehicles in an environment of choice; Time Trials, where the player selects the vehicle, the map, the course, and aims for the best time; Bus Routes, which puts the player behind the wheel of a bus, shuttling passengers along a specific route; and Light Runner mode, which is essentially a time trial, but in a setting reminiscent of [[Tron]].
+
+The game implements its soft-body physics to both control vehicle dynamics as well as to control the collisions between objects and vehicles.<ref>{{cite web |url=http://www.ign.com/articles/2013/08/08/finally-beamngs-soft-body-physics-are-available-to-the-public |title=Finally, BeamNG's Soft-Body Physics Are Available to the Public |last=Reilly |first=Luke |date=7 August 2013 |website=[[IGN]] |publisher=[[IGN Entertainment]] |accessdate=3 December 2016}}</ref><ref>{{cite web |url=http://www.gameinformer.com/games/drive/b/pc/archive/2013/08/05/beamngs-drive-features-amazingly-realistic-car-crashes.aspx |title=BeamNG's Amazingly Realistic Car Crashes |last=Futter |first=Mike |date=5 August 2013 |website=[[Game Informer]] |publisher=[[GameStop]] |accessdate=3 December 2016}}</ref><ref name="BBC">{{cite web |url=http://www.bbc.com/autos/story/20140702-crafting-the-perfect-crash |title=Video-game wrecks get real |last=Stewart |first=Jack |date=3 July 2014 |website=[[BBC]] |accessdate=3 December 2016}}</ref>
+
+=== Physics ===
+''BeamNG.drive'' uses a [[Real-time computing|real-time]], [[soft-body dynamics]] physics structure to simulate its vehicles. Algorithms have been written for the physics equations to be carried out.<ref>{{cite web |url=http://blog.beamng.com/a-faster-selection-algorithm/ |title=A faster selection algorithm |last=Stamatogiannakis |first=Lefteris |date=12 June 2014 |website=[[BeamNG]] |accessdate=3 December 2016}}</ref> Vehicles in the game consist of a soft-body, node-beam structure, similar to the vehicle structure in ''[[Rigs of Rods]]''. The physics engine simulates a network of interconnected nodes and beams which combine to form an invisible skeleton of a vehicle with realistic weights and masses. In terms of soft-body physics, vehicles realistically flex and deform as stresses to the skeleton, such as impacts from collisions, are applied. The game's engine constantly calculates physics equations and problems in real-time during gameplay.<ref>{{cite web |url=https://www.garagegames.com/community/blogs/view/22383 |title=BeamNG DRIVE alpha release |last=Fischer |first=Thomas |date=5 August 2013 |website=[[GarageGames]] |accessdate=3 December 2016}}</ref>
+
+== Reception ==
+Jack Stewart of [[BBC]] mentioned that ''BeamNG.drive'' "has received interest from the film industry to model vehicle stunts, so that they can be prototyped and tested exhaustively – but cheaply – before a stunt driver smashes up a car on set."<ref name="BBC" /> [[Polygon (website)|Polygon]]'s Nick Robinson lauded the game's simulated physics and user-created content support, leading him to create an ongoing video series for Polygon, "Car Boys", in which he and [[Griffin McElroy]] spotlighted new ''BeamNG.drive'' content each week.<ref>{{cite web|url=http://nymag.com/selectall/2016/10/car-boys-is-this-falls-best-show.html|title=Car Boys, the Hilarious and Terrifying Car-Crash Series, Is the Best Show|first=Brian|last=Feldman|publisher=}}</ref><ref>{{cite web|url=http://jalopnik.com/there-is-only-one-youtube-channel-worth-watching-and-it-1786990843|title=There Is Only One YouTube Channel Worth Watching And It's Car Boys|first=Raphael|last=Orlove|publisher=}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|beamng.com}}
+
+[[Category:Upcoming video games]]
+[[Category:Early access video games]]
+[[Category:Steam Greenlight games]]
+[[Category:Vehicle simulation games]]
+[[Category:Windows games]]
+[[Category:Windows-only games]]
+[[Category:Video games developed in Germany]]

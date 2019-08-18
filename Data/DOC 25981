@@ -1,0 +1,72 @@
+Title : Template:French Consulate
+Text : {{Navbox
+|name       = French Consulate
+|title      = [[French Consulate]] (10 November 1799 – 18 May 1804)
+|above = 
+|state = 
+|bodyclass  = hlist
+|image=[[File:Bonabarte Premier consul.jpg|100px]]<br>Bonaparte<br>First Consul
+
+|group1=Provisional consuls
+|list1=
+*[[Napoleon|Napoleon Bonaparte]]
+*[[Emmanuel Joseph Sieyès]]
+*[[Roger Ducos]]
+|group2=Consuls
+|list2=
+*[[Napoleon|Napoleon Bonaparte]]
+*[[Jean Jacques Régis de Cambacérès]]
+*[[Charles-François Lebrun, duc de Plaisance]]
+|group3=Ministers
+|list3= {{Navbox|subgroup
+
+|group1=Foreign Affairs 
+|list1=
+* [[Charles-Frédéric Reinhard]]
+* [[Charles Maurice de Talleyrand-Périgord]]
+
+|group2=Justice
+|list2=
+* [[Jean Jacques Régis de Cambacérès]] 
+* [[André Joseph Abrial]]
+* [[Claude Ambroise Régnier]]
+
+|group3=War 
+|list3=
+* [[Louis-Alexandre Berthier]] 
+* [[Lazare Carnot]]
+* [[Louis-Alexandre Berthier]]
+
+|group4=Finance 
+|list4= [[Martin-Michel-Charles Gaudin]] 
+
+|group5=Police
+|list5= [[Joseph Fouché]]
+
+|group6=Interior 
+|list6=
+* [[Pierre-Simon Laplace]]
+* [[Lucien Bonaparte]]
+* [[Jean-Antoine Chaptal]]
+
+|group7=Navy and Colonies 
+|list7=
+* [[Marc Antoine Bourdon de Vatry]]
+* [[Pierre-Alexandre-Laurent Forfait]]
+* [[Denis Decrès]]
+
+|group8=Secretary of State
+|list8= [[Hugues-Bernard Maret, duc de Bassano]]
+
+|group9=Treasury
+|list9= [[François Barbé-Marbois]]
+
+|group10=War Administration
+|list10= [[Jean François Aimé Dejean]]
+}}
+|below=
+* Preceded by [[French Directory]]
+* Followed by [[First cabinet of Napoleon]]
+}}<noinclude>
+[[Category:French government ministry templates]]
+</noinclude>

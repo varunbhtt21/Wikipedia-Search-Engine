@@ -1,0 +1,45 @@
+Title : Template:Database Population Arros-de-Nay
+Text : <includeonly>{{#switch: {{{1|}}}
+ | max = 250
+ | source-chart = Sources: database Ldh/EHESS/Cassini and Insee
+ | source1 = http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=1372
+ | source2 = http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2010&typgeo=COM&codgeo=64054
+ | source3 = 
+ | source4 = 
+ | 1 = 1793/1069
+ | 2 = 1800/842
+ | 3 = 1806/1017
+ | 4 = 1821/1158
+ | 5 = 1831/1100
+ | 6 = 1836/1170
+ | 7 = 1841/1164
+ | 8 = 1846/1110
+ | 9 = 1851/1121
+ | 10 = 1856/1124
+ | 11 = 1861/1164
+ | 12 = 1866/1104
+ | 13 = 1872/1007
+ | 14 = 1876/965
+ | 15 = 1881/986
+ | 16 = 1886/928
+ | 17 = 1891/903
+ | 18 = 1896/932
+ | 19 = 1901/907
+ | 20 = 1906/911
+ | 21 = 1911/837
+ | 22 = 1921/751
+ | 23 = 1926/725
+ | 24 = 1931/764
+ | 25 = 1936/712
+ | 26 = 1946/629
+ | 27 = 1954/643
+ | 28 = 1962/605
+ | 29 = 1968/582
+ | 30 = 1975/681
+ | 31 = 1982/816
+ | 32 = 1990/817
+ | 33 = 1999/728
+ | 34 = 2006/728
+ | 35 = 2010/791
+|2010/9999
+}}</includeonly><noinclude>{{documentation}}</noinclude>

@@ -1,0 +1,128 @@
+Title : Template:VTB United League
+Text : {{Navbox
+|name = VTB United League
+|title = [[VTB United League|<span style="color:white;">VTB United League</span>]]
+|bodyclass = hlist
+|basestyle = background:#15317E; color:white; {{box-shadow border|a|#FFA500|2px}}
+
+|group1 = Seasons
+|list1 =
+* [[2008 VTB United League Promo-Cup|2008 Promo-Cup]]
+* [[2009–10 VTB United League|2009–10]]
+* [[2010–11 VTB United League|2010–11]]
+* [[2011–12 VTB United League|2011–12]]
+* [[2012–13 VTB United League|2012–13]]
+* [[2013–14 VTB United League|2013–14]]
+* [[2014–15 VTB United League|2014–15]]
+* [[2015–16 VTB United League|2015–16]] 
+* [[2016–17 VTB United League|2016–17]]
+* [[2017–18 VTB United League|2017–18]]
+* [[2018–19 VTB United League|2018–19]]
+
+| group2 = Playoffs
+| list2 = 
+* {{color|#AAA|2010}}
+* {{color|#AAA|2011}}
+* [[2011–12 VTB United League#Playoff Round|2012]]
+* [[2012–13 VTB United League#Playoffs|2013]]
+* [[2013–14 VTB United League#Playoffs|2014]]
+* [[2014–15 VTB United League#Playoffs|2015]]
+* [[2016 VTB United League Playoffs|2016]]
+* [[2017 VTB United League Playoffs|2017]]
+* [[2017–18 VTB United League#Playoffs|2018]]
+
+| group3 = Finals
+| list3 = 
+* [[2009–10 VTB United League#Final four|2010]]
+* [[2010–11 VTB United League#Final four|2011]]
+* [[2011–12 VTB United League#Final four|2012]]
+* {{color|#AAA|2013}}
+* {{color|#AAA|2014}}
+* {{color|#AAA|2015}}
+* {{color|#AAA|2016}}
+* {{color|#AAA|2017}}
+* [[2018 VTB United League Final Four|2018]]
+
+| group4 = [[VTB United League All-Star Game|<span style="color:white;">Al-Star Games</span>]]
+| list4 =
+* [[2017 VTB United League All-Star Game|2017]]
+* [[2018 VTB United League All-Star Game|2018]]
+
+| group5 = Clubs
+| list5 = {{navbox|subgroup
+ |basestyle = background:#15317E; color:white; {{box-shadow border|a|#FFA500|2px}}
+ |group1 = Current
+ |list1 =
+*{{flagicon|size=15px|KAZ}}&nbsp;[[BC Astana|Astana]]
+*{{flagicon|size=15px|RUS}}&nbsp;[[BC Avtodor Saratov|Avtodor Saratov]]
+*{{flagicon|size=15px|RUS}}&nbsp;[[PBC CSKA Moscow|CSKA Moscow]]
+*{{flagicon|size=15px|RUS}}&nbsp;[[BC Enisey|Enisey]]
+*{{flagicon|size=15px|EST}}&nbsp;[[BC Kalev/Cramo|Kalev/Cramo]]
+*{{flagicon|size=15px|RUS}}&nbsp;[[BC Khimki|Khimki]]
+*{{flagicon|size=15px|RUS}}&nbsp;[[PBC Lokomotiv-Kuban|Lokomotiv-Kuban]]
+*{{flagicon|size=15px|RUS}}&nbsp;[[BC Nizhny Novgorod|Nizhny Novgorod]]
+*{{flagicon|size=15px|RUS}}&nbsp;[[Parma Basket|Parma]]
+*{{flagicon|size=15px|BLR}}&nbsp;[[BC Tsmoki-Minsk|Tsmoki-Minsk]]
+*{{flagicon|size=15px|RUS}}&nbsp;[[BC UNICS|UNICS Kazan]]
+*{{flagicon|size=15px|LAT}}&nbsp;[[BK VEF Rīga|VEF Rīga]]
+*{{flagicon|size=15px|RUS}}&nbsp;[[BC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+*{{flagicon|size=15px|POL}}&nbsp;[[Basket Zielona Góra|Zielona Góra]]
+
+ | group2 = Former
+ | list2 =
+*{{flagicon|size=15px|POL}}&nbsp;[[WTK Anwil Włocławek|Anwil Włocławek]]
+*{{flagicon|size=15px|LAT}}&nbsp;[[ASK Riga]]
+*{{flagicon|size=15px|POL}}&nbsp;[[Asseco Gdynia|Asseco Prokom]]
+*{{flagicon|size=15px|UKR}}&nbsp;[[BC Azovmash|Azovmash Mariupol]]
+*{{flagicon|size=15px|FIN}}&nbsp;[[Bisons Loimaa]]
+*{{flagicon|size=15px|UKR}}&nbsp;[[BC Budivelnyk|Budivelnyk Kyiv]]
+*{{flagicon|size=15px|CZE}}&nbsp;[[ČEZ Basketball Nymburk|ČEZ Nymburk]]
+*{{flagicon|size=15px|UKR}}&nbsp;[[BC Dnipro|Dnipro]]
+*{{flagicon|size=15px|UKR}}&nbsp;[[BC Donetsk|Donetsk]]
+*{{flagicon|size=15px|RUS}}&nbsp;[[BC Dynamo Moscow|Dynamo Moscow]]
+*{{flagicon|size=15px|FIN}}&nbsp;[[Espoon Honka]]
+*{{flagicon|size=15px|RUS}}&nbsp;[[BC Krasny Oktyabr|Krasny Oktyabr]]
+*{{flagicon|size=15px|RUS}}&nbsp;[[BC Krasnye Krylia|Krasnye Krylya]]
+*{{flagicon|size=15px|UKR}}&nbsp;[[BC Kyiv|Kyiv]]
+*{{flagicon|size=15px|LTU}}&nbsp;[[BC Lietuvos rytas|Lietuvos rytas]]
+*{{flagicon|size=15px|LTU}}&nbsp;[[BC Neptūnas|Neptūnas Klaipėda]]
+*{{flagicon|size=15px|LTU}}&nbsp;[[BC Šiauliai|Šiauliai]]
+*{{flagicon|size=15px|RUS}}&nbsp;[[BC Spartak Saint Petersburg|Spartak Saint Petersburg]]
+*{{flagicon|size=15px|FIN}}&nbsp;[[Torpan Pojat]]
+*{{flagicon|size=15px|POL}}&nbsp;[[Turów Zgorzelec]]
+*{{flagicon|size=15px|GEO}}&nbsp;[[B.C. VITA Tbilisi|VITA Tbilisi]]
+*{{flagicon|size=15px|LTU}}&nbsp;[[BC Žalgiris|Žalgiris Kaunas]]
+}}
+
+|group6 = Awards
+|list6 =
+*[[VTB United League Hall of Fame|Hall of Fame]]
+*[[VTB United League MVP|Most Valuable Player]]
+*[[VTB United League Playoffs MVP|Playoffs MVP]]
+*[[VTB United League Coach of the Year|Coach of the Year]]
+*[[VTB United League Young Player of the Year|Young Player of the Year]]
+*[[VTB United League Sixth Man of the Year|Sixth Man of the Year]]
+*[[VTB United League Defensive Player of the Year|Defensive Player of the Year]]
+*[[VTB United League Top Player|Top Player]]
+
+|group7 = Statistics
+|list7 = 
+* [[VTB United League records|Records]]
+* [[List of VTB United League season scoring leaders|Scoring]]
+* [[List of VTB United League season rebounding leaders|Rebounds]]
+* [[List of VTB United League season assists leaders|Assists]]
+* [[List of VTB United League season steals leaders|Steals]]
+* [[List of VTB United League season blocks leaders|Blocks]]
+
+|group8 = Other
+|list8 = 
+* [[Russian Professional Basketball Championship]]
+* [[Russian basketball clubs in European and worldwide competitions|Russian clubs in international competitions]]
+
+| below =
+* {{icon|category}} [[:Category:VTB United League|<span style="color:white;">Category</span>]]
+
+}}<noinclude>
+[[Category:Basketball leagues navigational boxes]]
+[[Category:VTB United League|~]]
+</noinclude>

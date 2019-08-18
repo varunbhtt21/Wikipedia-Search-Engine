@@ -1,0 +1,25 @@
+Title : Template:Ice hockey teams based in Portland, Oregon
+Text : {{Navbox
+ | name = Ice hockey teams based in Portland, Oregon
+ | title = Ice hockey teams based in Portland, Oregon
+ | state = {{{state<includeonly>|autocollapse</includeonly>}}}
+ | bodyclass = hlist
+
+ | list1 =
+* '''1914–26''': [[Portland Rosebuds (ice hockey)|Portland Rosebuds]]
+* '''1926–41, 1960–74''': [[Portland Buckaroos]]
+* '''1944–51''': [[Portland Eagles]]
+* '''1976–present''': [[Portland Winterhawks]]
+
+ | below =
+; ''See also''
+: [[1916 Stanley Cup Finals]]
+: [[1983 Memorial Cup]]
+: [[1998 Memorial Cup]]
+
+}}<noinclude>
+{{collapsible option}}
+
+[[Category:Oregon navigational boxes|Ice hockey teams based in Portland, Oregon]]
+[[Category:Ice hockey navigational boxes|Ice hockey teams based in Portland, Oregon]]
+</noinclude>

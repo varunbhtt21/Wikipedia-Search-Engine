@@ -1,0 +1,39 @@
+Title : Template:West Dallas labelled map
+Text : {{Image frame|align={{{float|center}}}|width={{{width|600}}}
+|content={{Image label begin|image=Dallasmap westdallas.svg|width={{{width|600}}}|float=center}}
+<!--Outer Items-->
+{{Image label|x=0.535|y=0.29|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[Lone Star Industrial Park|<span style="color:black">'''Lone Star<br>Industrial Park'''</span>]]</div>}}
+{{Image label|x=0.248|y=0.403|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[Oak Cliff|<span style="color:black">'''Oak Cliff'''</span>]]</div>}}
+{{Image label|x=0.223|y=0.228|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[Singleton Industrial Area|<span style="color:black">'''Singleton<br>Industrial Area'''</span>]]</div>}}
+{{Image label|x=0.72|y=0.08|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[Trinity River (Texas)|<span style="color:black">'''Trinity River'''</span>]]</div>}}
+{{Image label|x=0.35|y=0.3|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[Turnpike Distribution Center|<span style="color:black">'''Turnpike<br>Distribution Center'''</span>]]</div>}}
+<!--Inner Items-->
+{{Image label|x=0.175|y=0.148|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[Eagle Ford, Dallas, Texas|<span style="color:Pink">Eagle Ford</span>]]</div>}}
+{{Image label|x=0.883|y=0.165|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[La Bajada, Dallas, Texas|<span style="color:Gold">La Bajada</span>]]</div>}}
+{{Image label|x=0.887|y=0.29|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[La L'aceate, Dallas, Texas|<span style="color:Cyan">La L'aceate</span>]]</div>}}
+{{Image label|x=0.68|y=0.263|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[La Loma, Dallas, Texas|<span style="color:Blue">La Loma</span>]]</div>}}
+{{Image label|x=0.545|y=0.128|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[Lake West, Dallas, Texas|<span style="color:purple">Lake West</span>]]</div>}}
+{{Image label|x=0.362|y=0.057|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[Ledbetter Gardens, Dallas, Texas|<span style="color:Gold">Ledbetter Gardens</span>]]</div>}}
+{{Image label|x=0.737|y=0.162|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[Los Altos, Dallas, Texas|<span style="color:OrangeRed">Los Altos</span>]]</div>}}
+{{Image label|x=0.778|y=0.247|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[Muncie, Dallas, Texas|<span style="color:MediumAquaMarine">Muncie</span>]]</div>}}
+{{Image label|x=0.737|y=0.33|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[Western Heights, Dallas, Texas|<span style="color:Orange">Western Heights</span>]]</div>}}
+{{Image label|x=0.387|y=0.187|scale={{{width|600}}}|text=<div style="background-color: #fff; font-size:70%; padding:2px; border: 1px solid #bbb;">[[Westmoreland Heights, Dallas, Texas|<span style="color:SpringGreen">Westmoreland Heights</span>]]</div>}}
+<!--Roads-->
+{{Image label|x=0.143|y=0.358|scale={{{width|600}}}|text=[[File:I-30.svg|19px|link=Interstate 30]]}}
+{{Image label|x=0.81|y=0.357|scale={{{width|600}}}|text=[[File:I-30.svg|19px|link=Interstate 30]]}}
+{{Image label end}}
+| caption = {{center|{{{caption|Neighborhoods of [[West Dallas]]{{{ref|}}}}}}}}
+}}<noinclude>
+{{documentation|content=
+== Usage ==
+{{tld|West Dallas labelled map}}
+:'''Parameters'''
+* <code>float</code> = left, right, center, or none
+* <code>width</code> = integer value (default is 400)
+* <code>caption</code> = text (default is Neighborhoods of West Dallas)
+* <code>ref</code> = a citation for the map
+
+[[Category:Labelled map templates]]
+[[Category:Texas templates]]
+}}
+</noinclude>

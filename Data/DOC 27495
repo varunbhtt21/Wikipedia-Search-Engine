@@ -1,0 +1,29 @@
+Title : Template:Istanbul Metro color
+Text : {{#switch:{{{1}}}
+ | M1A | M1A = EE2229
+ | M1B | M1B = EE2229
+ | M2 = 059A4D
+ | M2 Seyrantepe = 059A4D
+ | M3 = 0CA6DF
+ | M3 MetroKent = 0CA6DF
+ | M3 Olimpiyat = 0CA6DF
+ | M4 = E81E77
+ | M4 EXT = E81E77
+ | M4 SG = E81E77
+ | M4 TZ = E81E77
+ | M5 = 683166
+ | M5 future = 683166
+ | M6 = C9AA79
+ | M7 = F490B3
+ | M8 = 487ABF
+ | M9 = FCD10D
+ | M10 = 60C8D8
+ | M11 = A1609B
+ | M12 = C9DB70
+ | m13 = 0CA950
+ | F1 = 7A745A
+ | F3 = 7A745A
+ | F4 = 7A745A
+}}<noinclude>
+{{documentation}}
+</noinclude>

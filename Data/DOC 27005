@@ -1,0 +1,227 @@
+Title : Polivalentes Luanda
+Text : {{Infobox football club
+| clubname = Polivalentes FC
+| image = 
+| fullname = Polivalentes Futebol Clube
+| nickname = 
+| founded  = 
+| ground   = [[Estádio dos Coqueiros]] <br> [[Luanda]], [[Angola]]
+| capacity = ?
+| chairman = {{Flagicon|ANG}} Manuel Caleia
+| manager = {{Flagicon|ANG}} Frederico Kiangebeni
+| league  = [[Gira Angola|2nd Division]]
+| season  = [[2015 Gira Angola|2015]] 
+| position = 4th (Série A)
+| pattern_la1 =
+| pattern_b1  =
+| pattern_ra1 =
+| pattern_sh1 =
+| pattern_so1 =
+| leftarm1    = ff0000
+| body1       = ff0000
+| rightarm1   = ff0000
+| shorts1     = ffffff
+| socks1      = ff0000
+| title1      = home
+}}
+
+'''Polivalentes Futebol Clube''' is an [[Angola]]n [[football (soccer)|football]] club based in the [[Palanca, Kilamba Kiaxi|Palanca]] neighborhood in [[Kilamba Kiaxi]], [[Luanda]]. They currently play in [[Gira Angola]] the Angolan Second Division.<ref>{{Cite web|url=http://www.rsssf.com/tablesa/ango2012.html|title=Angola 2012|website=www.rsssf.com|access-date=2017-07-11}}</ref>
+
+==Stadium==
+Currently the team plays at the [[Estádio dos Coqueiros]].
+
+==League & Cup Positions==
+<timeline>
+TimeAxis = orientation:horizontal
+ImageSize = width:1500 height:125
+PlotArea = width:450 height:42 bottom:68 left:100
+DateFormat = mm/dd/yyyy
+Period = from:01/01/2004 till:12/31/2015
+ScaleMajor = unit:year increment:1 start:2005
+ScaleMinor = unit:year increment:1 start:2005
+AlignBars = justify
+
+Colors =
+  id:sc value:orange
+  id:pri value:green
+  id:seg value:gray(0.5)
+  id:ter value:rgb(0.8,0.6,0.1)
+
+BarData =
+  bar:primera   text:"[[Girabola]]"
+  bar:segunda   text:"[[Gira Angola|Segundona]]"
+  bar:tercera   text:"[[Angola Cup]]"
+  bar:sincompetir text:"DNE"
+
+PlotData =
+
+# set defaults
+  width:10 fontsize:s textcolor:white align:left anchor:from shift:(5,-5)
+
+  bar:primera color:pri
+
+ bar:segunda color:seg
+              from:06/07/2004 till:06/07/2005  shift:(16,-4) text:4a
+              from:06/07/2008 till:06/07/2009  shift:(16,-4) text:5a
+              from:06/07/2011 till:06/07/2012  shift:(18,-4) text:8a
+              from:06/07/2012 till:06/07/2013  shift:(16,-4) text:5a
+              from:06/07/2013 till:06/07/2014  shift:(16,-4) text:3a
+              from:06/07/2014 till:06/07/2015  shift:(16,-4) text:4a
+
+ bar:tercera color:ter
+              from:06/07/2004 till:06/07/2005  shift:(14,-4) text:R16
+              from:06/07/2013 till:06/07/2014  shift:(16,-4) text:PR
+              from:06/07/2014 till:06/07/2015  shift:(14,-4) text:PR
+
+ bar:sincompetir color:sc
+</timeline>
+
+==Honours==
+*28 de Agosto cup: 2013<ref>{{Cite news|url=http://allafrica.com/stories/201308190942.html|title=Angola: Polivalentes Fc Win "28 De Agosto" Cup|date=2013-08-19|work=Angola Press Agency (Luanda)|access-date=2017-07-11}}</ref>
+
+==Players==
+{{hidden begin|toggle=left|title=Polivalentes FC players}} <ref>{{cite web |url=http://www.portalangop.co.ao/angola/pt_pt/noticias/desporto/2015/6/29/Porcelana-vence-por-Polivalente-Luanda-segundona,62fe8a3a-4dec-4039-9e04-dc2d9ac9e3e9.html |title=Porcelana FC vence por 1–0 Polivalente FC de Luanda na segundona  |publisher=ANGOP.com |date=19 Jul 2015 |accessdate=22 Jul 2015 |language=pt}}</ref><ref>{{cite web |url=http://www.portalangop.co.ao/angola/pt_pt/noticias/desporto/2015/6/31/Segundona-Ismael-Polivalentes-Ficha-Tecnica,04aefba1-9fb6-4bca-a567-555bb693938f.html |title=Segundona: Ismael FC e Polivalentes FC (Ficha Técnica) |publisher=ANGOP.com |date=27 Jul 2015 |accessdate=29 Jul 2015 |language=pt}}</ref>
+{| class="wikitable plainrowheaders sortable" style="text-align:center"
+|-
+!scope="col" rowspan="3"|Nat
+!scope="col" rowspan="3"|Nick
+!scope="col" rowspan="3"|Name
+!scope="col" rowspan="3"|{{Tooltip|A|Age at last call-up}}
+!scope="col" rowspan="3"|{{Tooltip|P|Position}}
+!colspan="1"|<small>{{Tooltip|H.F.|Henriques Fernandes}}</small>
+!colspan="1"|<small>{{Tooltip|J.H.|José Hilário}}</small>
+!colspan="1"|<small>{{Tooltip|J.C.|Joaquim da Costa}}</small>
+!colspan="1"|<small>{{Tooltip|F.K.|Frederico Kiangebeni}}</small>
+|-
+!colspan="1" |<small>2009</small>
+!colspan="1" |<small>2013</small>
+!colspan="1" |<small>2014</small>
+!colspan="1" |<small>[[2015 Gira Angola|2015]]</small>
+|-
+!scope="col" rowspan="1"|<small>–</small>
+!scope="col" rowspan="1"|<small>–</small>
+!scope="col" rowspan="1"|<small>–</small>
+!scope="col" rowspan="1"|<small>4a</small>
+|-
+| {{Flagicon|ANG}} || Ady ||  ||⋅||⋅||<!--09-->⋅||{{small|2013}}||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Aime ||  ||⋅||⋅||{{small|2009}}||<!--13-->⋅||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Alcides ||  ||⋅||⋅||{{small|2009}}||<!--13-->⋅||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Além ||  ||⋅||⋅||{{small|2009}}||<!--13-->⋅||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Anita || Paulo M. Rodrigues Rosa ||⋅||⋅||<!--09-->⋅||{{small|2013}}||{{small|2014}}||{{small|2015}}
+|-
+| {{Flagicon|ANG}} || Bug Jass || Simão da Costa Bartolomeu ||{{Tooltip|{{age|1990|0|0|2009|12|31}}|1990}}||⋅||{{small|2009}}||<!--13-->⋅||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Bula ||  ||⋅||⋅||{{small|2009}}||<!--13-->⋅||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Catsu ||  ||⋅||data-sort-value="1"|GK||{{small|2009}}||<!--13-->⋅||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Clovice ||  ||⋅||⋅||<!--09-->⋅||{{small|2013}}||{{small|2014}}||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Cristiano || Cristiano Lula Makavangoa ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||<!--14-->⋅||{{small|2015}}
+|-
+| {{Flagicon|ANG}} || Debaile ||  ||⋅||⋅||<!--09-->⋅||data-sort-value="⋅"|[[Porcelana Futebol Clube do Cazengo|{{Font color|green|→}}]]||<!--14-->⋅||{{small|2015}}
+|-
+| {{Flagicon|ANG}} || Dedé ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||<!--14-->⋅||{{small|2015}}
+|-
+| {{Flagicon|ANG}} || Defesa || Diassonama Defesa Pedro ||⋅||data-sort-value="1"|GK||<!--09-->⋅||{{small|2013}}||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Domingos ||  ||⋅||⋅||{{small|2009}}||<!--13-->⋅||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Edinho ||  ||⋅||⋅||{{small|2009}}||<!--13-->⋅||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Fanta ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||<!--14-->⋅||{{small|2015}}
+|-
+| {{Flagicon|ANG}} || Fernando ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||{{small|2014}}||{{small|2015}}
+|-
+| {{Flagicon|ANG}} || Formos ||  ||⋅||data-sort-value="1"|GK||<!--09-->⋅||<!--13-->⋅||{{small|2014}}||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Francisco ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||{{small|2014}}||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Gerry ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||<!--14-->⋅||{{small|2015}}
+|-
+| {{Flagicon|ANG}} || Guilherme ||  ||⋅||⋅||<!--09-->⋅||{{small|2013}}||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Isaac ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||{{small|2014}}||{{small|2015}}
+|-
+| {{Flagicon|ANG}} || data-sort-value="Joao"|João ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||{{small|2014}}||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Katongo ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||<!--14-->⋅||{{small|2015}}||data-sort-value="⋅"|[[Atlético Futebol Polivalente|{{Font color|red|→}}]]
+|-
+| {{Flagicon|ANG}} || Kiki ||  ||⋅||data-sort-value="2"|{{Tooltip|DF|Left back}}||<!--09-->⋅||<!--13-->⋅||{{small|2014}}||{{small|2015}}||data-sort-value="⋅"|[[Atlético Futebol Polivalente|{{Font color|red|→}}]]
+|-
+| {{Flagicon|ANG}} || Kituxi ||  ||⋅||data-sort-value="1"|GK||<!--09-->⋅||<!--13-->⋅||<!--14-->⋅||{{small|2015}}
+|-
+| {{Flagicon|ANG}} || Kito Mara ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||{{small|2014}}||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Kiwa ||  ||⋅||⋅||{{small|2009}}||<!--13-->⋅||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Lagos || Lagos Francisco Mendes Kitenda ||{{Tooltip|{{age|1982|0|0|2015|12|31}}|1982}}||data-sort-value="2"|{{Tooltip|DF|Central back}}||<!--09-->⋅||{{Tooltip|{{Font color|green|{{small|2013}}}}|Transferred from ASA in midseason}}||<!--14-->⋅||{{small|2015}}
+|-
+| {{Flagicon|ANG}} || Lau Belengue ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||{{small|2014}}||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Liro ||  ||⋅||⋅||{{small|2009}}||<!--13-->⋅||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Loló ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||<!--14-->⋅||{{small|2015}}||data-sort-value="⋅"|[[Atlético Futebol Polivalente|{{Font color|red|→}}]]
+|-
+| {{Flagicon|ANG}} || Mano Mano ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||<!--14-->⋅||{{small|2015}}
+|-
+| {{Flagicon|ANG}} || Man Sapas ||  ||⋅||⋅||<!--09-->⋅||{{small|2013}}||{{small|2014}}||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Maria Pia || Victor Guilherme Tchyonga ||{{Tooltip|{{age|1989|0|0|2015|12|31}}|1989}}||FW||<!--09-->⋅||<!--13-->⋅||{{small|2014}}||{{small|2015}}||data-sort-value="⋅"|[[Estrela Clube Primeiro de Maio|{{Font color|red|→}}]]
+|-
+| {{Flagicon|ANG}} || Massudi ||  ||⋅||⋅||{{small|2009}}||<!--13-->⋅||{{small|2014}}||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Mazowa ||  ||⋅||⋅||<!--09-->⋅||{{small|2013}}||<!--14-->⋅||{{small|2015}}
+|-
+| {{Flagicon|ANG}} || Nzalambila || Nzalambila Lumu ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||<!--14-->⋅||{{small|2015}}||data-sort-value="⋅"|[[Atlético Futebol Polivalente|{{Font color|red|→}}]]
+|-
+| {{Flagicon|ANG}} || Pamama ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||{{small|2014}}||{{small|2015}}||data-sort-value="⋅"|[[Atlético Futebol Polivalente|{{Font color|red|→}}]]
+|-
+| {{Flagicon|ANG}} || Paris ||  ||⋅||data-sort-value="1"|GK||<!--09-->⋅||<!--13-->⋅||{{small|2014}}||{{small|2015}}
+|-
+| {{Flagicon|ANG}} || Pikatchú ||  ||⋅||⋅||<!--09-->⋅||<!--13-->⋅||<!--14-->⋅||{{small|2015}}||data-sort-value="⋅"|[[Atlético Futebol Polivalente|{{Font color|red|→}}]]
+|-
+| {{Flagicon|ANG}} || Putsu ||  ||⋅||⋅||{{small|2009}}||<!--13-->⋅||<!--14-->⋅||<!--15-->⋅
+|-
+| {{Flagicon|COD}} || Reginó || Mukendi Mbyia Regino ||⋅||data-sort-value="3"|MF||<!--09-->⋅||{{small|2013}}||{{small|2014}}||'''{{Tooltip|{{small|2015}}|Captain}}'''||data-sort-value="⋅"|[[Atlético Sport Aviação|{{Font color|red|→}}]]
+|-
+| {{Flagicon|ANG}} || Vladimir ||  ||⋅||⋅||<!--09-->⋅||{{small|2013}}||{{small|2014}}||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Willy ||  ||⋅||⋅||{{small|2009}}||{{small|2013}}||data-sort-value="⋅"|[[C.D. Construtores do Uíge|{{Font color|red|→}}]]||<!--15-->⋅
+|-
+| {{Flagicon|ANG}} || Zigo ||  ||⋅||⋅||{{small|2009}}||<!--13-->⋅||<!--14-->⋅||<!--15-->⋅
+|-
+!colspan=5|Years
+!<small>2009</small>||<small>2013</small>||<small>2014</small>||<small>2015</small>
+|}
+{{hidden end}}
+
+==Manager history==
+{| border="0" style="text-align:center;"
+|-
+|align=left|{{flagicon|ANG}} José Hilário || (2013)
+|-
+|align=left|{{flagicon|ANG}} Joaquim da Costa || (2014)
+|-
+|align=left|{{flagicon|ANG}} Frederico Kiangebeni || (2015)
+|}
+
+==See also==
+* [[Girabola]]
+
+==References==
+{{Reflist}}
+==External links==
+*[http://jornaldosdesportos.sapo.ao/24/0/equipa_do_polivalentes_fc__unico_representante_da_capital]
+*[http://jornaldeangola.sapo.ao/desporto/futebol/polivalente_pondera_retirada]
+
+{{Gira Angola}}
+
+{{DEFAULTSORT:Polivalentes, FC}}
+[[Category:Football clubs in Angola]]
+[[Category:Sports clubs in Angola]]
+{{Angola-footyclub-stub}}

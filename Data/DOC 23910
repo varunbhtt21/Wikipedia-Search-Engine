@@ -1,0 +1,16 @@
+Title : Template:Munabao
+Text : {|{{Railway line header|collapse={{#if:{{{collapse|}}}|yes}}}}
+{{BS-header|Munabao|Munabao}}
+{{BS-table}}
+{{BS7||||CONTg|||||''to [[Karachi City railway station|Karachi]]'' via ''[[Hyderabad Junction railway station|Hyderabad]]'' }}
+{{BS7|| ||BHF|||||[[Zero Point railway station|Zero Point]]}}
+{{BS7||||GRENZE|||||[[India]]-[[Pakistan]] border}}
+{{BS7|| ||BHF|||||[[Munabao railway station|Munabao]]}}
+{{BS7||||CONTf|||||''to [[Marwar Junction-Munabao line]]''}}
+|}
+Source: Google maps <br/>[http://indiarailinfo.com/train/timetable/all/992/2268/2269 14889 Thar Link Express]
+|}
+<noinclude>
+{{Railways in Northern India}}
+[[Category:Templates for railway lines of India]]
+</noinclude>

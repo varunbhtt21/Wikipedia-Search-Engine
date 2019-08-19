@@ -1,9 +1,0 @@
-Title : Module:Location map/data/Pichilemu
-Text : return {
-	name = 'Pichilemu',
-	top = -34.379,
-	bottom = -34.405,
-	left = -72.038,
-	right = -71.985,
-	image = 'Mapa de Pichilemu.svg',
-}

@@ -1,9 +1,0 @@
-Title : Template:WikiProject Physiology/class
-Text : {{class mask<noinclude>/templatepage</noinclude>|{{{class|}}}
- |topic=Physiology
- |FQS=yes
- |book=yes
- |fm=yes
- |redirect=yes
- |a=no
-}}

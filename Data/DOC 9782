@@ -1,9 +1,0 @@
-Title : Template:Country data County of Nice
-Text : {{ {{{1<noinclude>|country showdata</noinclude>}}}
-| alias = County of Nice
-| flag alias = Comte de Nice flag.svg
-| size = {{{size|}}}
-| name = {{{name|}}}
-| altlink = {{{altlink|}}}
-}}<noinclude>
-</noinclude>

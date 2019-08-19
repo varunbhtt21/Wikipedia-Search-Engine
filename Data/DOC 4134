@@ -1,9 +1,0 @@
-Title : Category:Redirects from more specific names
-Text : {{Redirect category|from=more specific names, that are {{em|not}} a subtopic or subsection at the target article,|to=less specific (more general) names|template=Rcat shell|parameters=<nowiki>{{</nowiki>[[Template:R from more specific name|R from more specific name]]<nowiki>}}</nowiki>}}
-{{Polluted category}}
-Titles that appear here are sometimes good candidates for [[WP:Requested moves]] discussions, but in many cases are the result of them, most commonly when [[WP:COMMONNAME]] or some other such concern has resulted in an article being at a broader, more general term than its content might naturally suggest. In other cases, an entry here may be a subtopic that redirects to a more overarching article, but which may deserve its own eventual separate article, in which case the redirect should also be tagged with {{Template|R with possibilities}}.
-
-More specific names are not necessarily longer versions of the same name, for which see {{Cat|Redirects from long names}}.
-
-{{DEFAULTSORT:Redirects From More Specific Names}}
-[[Category:All redirect categories]]

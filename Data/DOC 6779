@@ -1,5 +1,0 @@
-Title : Template:Stack begin/sandbox
-Text : <includeonly>{{#invoke:Check for unknown parameters|check|unknown=[[Category:Pages using stack with unknown parameters|_VALUE_{{PAGENAME}}]]|preview=Page using [[Template:Stack begin]] with unknown parameter "_VALUE_"|ignoreblank=y| cellspacing | clear | float }}<templatestyles src="Stack/sandbox/styles.css"/><div class="mw-stack stack-sandbox-container {{#switch:{{{float|right}}}|left=stack-sandbox-{{#switch:{{{clear|}}}|left|true=clear-}}left|right=stack-sandbox-{{#switch:{{{clear|}}}|right|true=clear-}}right}}" {{#if:{{{style|{{{css|}}}}}}|style="{{{style|{{{css|}}}}}}"}}><div class="stack-sandbox-object" {{#if:{{{cellspacing|}}}|style="margin: {{{cellspacing}}}px;}}"}}></includeonly><noinclude><noinclude>
-{{stack end}}
-{{documentation}}
-</noinclude>

@@ -1,9 +1,0 @@
-Title : Module:Location map/data/Kaohsiung
-Text : return {
-	name = 'Kaohsiung',
-	top = 23.504,
-	bottom = 22.441,
-	left = 120.102,
-	right = 121.104,
-	image = 'Takau - Kohiông - (Kaohsiung City) location map.svg',
-}

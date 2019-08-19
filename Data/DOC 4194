@@ -1,7 +1,0 @@
-Title : Template:R from more correct name
-Text : #REDIRECT [[Template:R from more specific name]]
-
-{{Redirect category shell|
-{{R to redirect template}}
-{{R from template shortcut}}
-}}

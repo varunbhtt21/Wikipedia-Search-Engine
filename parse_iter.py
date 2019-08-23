@@ -1,5 +1,6 @@
 import xml.etree.cElementTree as ET
 import mwparserfromhell
+import re
 
 
 
@@ -18,47 +19,102 @@ def processing(word):
 # Get Infobox Values
 def Infobox_Extraction(page):
     """Parse out the first Infobox for the page as a dict."""
-    templates = mwparserfromhell.parse(page).filter_templates()
+    
+    templates = mwparserfromhell.parse(page).filter_templates(matches='infobox .*')
     # filter_templates() : Make the list out of the text
     # strip()            : Remove left and right spaces
 
-    infobox = {}
-    for template in templates:
-        if template.name.strip_code().startswith('Infobox'):
-            infobox = {
-                str(p.name).strip(): p.value.strip_code().strip()
-                for p in template.params if p.value.strip_code().strip()
-            }
-    return infobox 
+    return templates
+    
 
 
-
+External_links = []
 #**************************************************************************
 # Get References
-def References(page):
-    templates = mwparserfromhell.parse(page).filter_external_links()
+def links(page):
+    url_template = mwparserfromhell.parse(page)
+
+    
+    for line in url_template.encode('utf8').splitlines():
+        if "*" in line:
+            External_links.append(line)
+
+    # print(External_links)
+    # print("\n\n\n")
+    
     # filter_templates() : Make the list out of the text
     # strip() : remove left and right spaces
-    print(templates)
+    
 
 
 
 #**************************************************************************
 # Get Category Values
+Cat = []
 def get_Category(page):
-
     for i in page.splitlines():
         if "Category" in i:
             Category = i.split(":")
 
             if len(Category)>1:
-                print(Category[1].split("]]")[0])
+                Cat.append(Category[1].split("]]")[0])
+                # print(Category[1].split("]]")[0])
+
+
 
 
 #**************************************************************************
 # Get Body Tag Value
 def body_tag(page):
-    
+    text = mwparserfromhell.parse(page).filter_templates()
+    infobox = mwparserfromhell.parse(page).filter_templates(matches='infobox .*')
+
+    body = []
+
+    for i in text:
+        if i not in infobox:
+            body.append(i)
+
+    print("---------------------------SHURU------------")
+    print(body)
+    print("\n\n")
+    print(infobox)
+    print("\n\n")
+    print(text)
+    print("\n\n")
+    print(External_links)
+
+
+    elem=""
+    for i in External_links:
+        if "*" in i:
+            elem = i.split("*")[1]
+            break
+
+
+    pos = -1
+    for i, j in enumerate(body):
+        if elem == j:
+            print("yes")
+            pos = i
+            print(pos,elem)
+            break
+
+
+    if pos != -1:
+        len_body = len(body)
+        del body[pos:len_body] 
+
+    print(body)
+
+
+
+    # for i in External_links:
+    #     i = i.split("*")[1]
+    #     if i in body:
+    #         body.remove(i)
+
+    # print(body)
 
 
 #**************************************************************************
@@ -76,7 +132,7 @@ def main():
 
             if given_tag == 'page':
                 count += 1
-                f = open("Data/DOC "+str(count), 'w')
+                # f = open("Data/DOC "+str(count), 'w')
 
         #*********************************************************************
         # Getting Information of Title and Text
@@ -97,9 +153,13 @@ def main():
                                 # print("text : ", tex.text)
 
                                 if tex.text is not None:
-                                    # Infobox_Extraction(tex.text)
-                                    # References(tex.text)
+                                    Infobox_Extraction(tex.text)
+                                    links(tex.text)
                                     get_Category(tex.text)
+                                    body_tag(tex.text)
+
+                                    if count == 3:
+                                        exit()
                                     
                                     
                                     # f.write("Text : " + tex.text.encode('utf8') + "\n")
@@ -115,3 +175,23 @@ if __name__== "__main__":
     context = ET.iterparse(file_path)
     main()
     print("Done")
+
+
+
+
+
+
+
+
+
+
+
+
+
+# infobox = {}
+    # for template in templates:
+    #     if template.name.strip_code().startswith('Infobox'):
+    #         infobox = {
+    #             str(p.name).strip(): p.value.strip_code().strip()
+    #             for p in template.params if p.value.strip_code().strip()
+    #         }

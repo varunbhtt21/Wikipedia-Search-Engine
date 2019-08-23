@@ -15,31 +15,46 @@ def processing(word):
 
 
 
-#**************************************************************************
+#************************************************************************************************************************************************
 # Get Infobox Values
+
+infobox_body = []
 def Infobox_Extraction(page):
     """Parse out the first Infobox for the page as a dict."""
-    
-    templates = mwparserfromhell.parse(page).filter_templates(matches='infobox .*')
+    # templates = mwparserfromhell.parse(page).filter_templates(matches='infobox .*')
     # filter_templates() : Make the list out of the text
     # strip()            : Remove left and right spaces
 
-    return templates
-    
+    global infobox_body
+
+    infobox = []
+    code = mwparserfromhell.parse(page)
+
+    for template in code.filter_templates():
+        if 'Infobox' in template.name:
+            infobox_body = template.encode('utf8').splitlines()
+            infobox = template.encode('utf8').split("|")
 
 
 External_links = []
-#**************************************************************************
+
+
+
+
+#***********************************************************************************************************************************************
 # Get References
 def links(page):
     url_template = mwparserfromhell.parse(page)
+    flag = 0
 
-    
     for line in url_template.encode('utf8').splitlines():
-        if "*" in line:
+        if "External links" in line and flag == 0:
+            flag = 1
+
+        if flag == 1 and "*" in line:
             External_links.append(line)
 
-    # print(External_links)
+    print(External_links)
     # print("\n\n\n")
     
     # filter_templates() : Make the list out of the text
@@ -47,8 +62,7 @@ def links(page):
     
 
 
-
-#**************************************************************************
+#***********************************************************************************************************************************************
 # Get Category Values
 Cat = []
 def get_Category(page):
@@ -58,66 +72,61 @@ def get_Category(page):
 
             if len(Category)>1:
                 Cat.append(Category[1].split("]]")[0])
-                # print(Category[1].split("]]")[0])
-
-
+               
 
 
 #**************************************************************************
 # Get Body Tag Value
 def body_tag(page):
-    text = mwparserfromhell.parse(page).filter_templates()
-    infobox = mwparserfromhell.parse(page).filter_templates(matches='infobox .*')
+    text = mwparserfromhell.parse(page).splitlines()
+    infobox_temp = mwparserfromhell.parse(page).filter_templates(matches='infobox .*')
 
+    global infobox_body
     body = []
-
+    
     for i in text:
-        if i not in infobox:
+        if i not in infobox_body:
             body.append(i)
 
-    print("---------------------------SHURU------------")
-    print(body)
-    print("\n\n")
-    print(infobox)
-    print("\n\n")
-    print(text)
-    print("\n\n")
-    print(External_links)
-
-
-    elem=""
-    for i in External_links:
-        if "*" in i:
-            elem = i.split("*")[1]
-            break
-
-
+    count = 0
     pos = -1
-    for i, j in enumerate(body):
-        if elem == j:
-            print("yes")
-            pos = i
-            print(pos,elem)
+    for i in body:
+        if "References" in i or "External links" in i or "Category" in i :
+            pos = count
             break
+        count += 1
 
+    length = len(body)
 
     if pos != -1:
-        len_body = len(body)
-        del body[pos:len_body] 
-
-    print(body)
+        del body[pos:length]
 
 
 
-    # for i in External_links:
-    #     i = i.split("*")[1]
-    #     if i in body:
-    #         body.remove(i)
-
-    # print(body)
+    print("\n\n\n --------------------------SHURU -------------------------------------------------------")
+    for i in body:
+        print(i)
 
 
-#**************************************************************************
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#***********************************************************************************************************************************************
 # Main Function
 def main():
     count = 0

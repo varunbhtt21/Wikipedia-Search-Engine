@@ -1,6 +1,27 @@
 import xml.etree.cElementTree as ET
 import mwparserfromhell
 import re
+from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
+
+stop_words = set(stopwords.words("english"))
+ps = PorterStemmer()
+
+Infobox_Final_List = []
+Category_Final_List = []
+
+def stemming(words):
+    global final_list 
+
+    if final_list:
+        del final_list[:]
+
+    for w in words:
+        val = ps.stem(w)
+        if val not in final_list and val not in stop_words:
+            final_list.append(val)
+
+    print(final_list)
 
 
 
@@ -25,6 +46,8 @@ def Infobox_Extraction(page):
     # filter_templates() : Make the list out of the text
     # strip()            : Remove left and right spaces
 
+
+
     global infobox_body
 
     infobox = []
@@ -40,17 +63,23 @@ def Infobox_Extraction(page):
     infobox_data = []
     for line in infobox:
         words=re.findall(pattern, line)
+        if "br" in words:
+            words.remove("br")
+        if "Infobox" in words:
+            words.remove("Infobox")
+
         infobox_data.extend(words)
 
+    # print(infobox_data)
+    stemming(infobox_data, "infobox")
 
-    print(infobox_data)
 
 
-External_links = []
 
 #***********************************************************************************************************************************************
 # Get References
 def links(page):
+    External_links = []
     url_template = mwparserfromhell.parse(page)
     flag = 0
     pattern=re.compile('[\d+\.]*[\d]+|[\w]+')
@@ -73,9 +102,12 @@ def links(page):
 
 #***********************************************************************************************************************************************
 # Get Category Values
-Cat = []
-Category_data = []
+
 def get_Category(page):
+
+    Cat = []
+    Category_data = []
+
     pattern=re.compile('[\d+\.]*[\d]+|[\w]+')
 
     for i in page.splitlines():
@@ -131,6 +163,10 @@ def body_tag(page):
         words=re.findall(pattern, line)
         body_data.extend(words)
 
+
+    # Clear List
+    del infobox_body[:]
+
     
         
 
@@ -176,8 +212,10 @@ def main():
                                     get_Category(tex.text)
                                     body_tag(tex.text)
 
-                                    
-                                    
+                                    if count == 10:
+                                        exit()
+
+                                               
                                     # f.write("Text : " + tex.text.encode('utf8') + "\n")
                              
                 elem.clear()

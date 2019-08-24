@@ -10,7 +10,9 @@ ps = PorterStemmer()
 Infobox_Final_List = []
 Category_Final_List = []
 
-def stemming(words):
+
+final_list = []
+def stemming(words, catg):
     global final_list 
 
     if final_list:
@@ -18,10 +20,9 @@ def stemming(words):
 
     for w in words:
         val = ps.stem(w)
-        if val not in final_list and val not in stop_words:
-            final_list.append(val)
+        if val not in stop_words:
+            final_list.append(val.lower())
 
-    print(final_list)
 
 
 
@@ -40,7 +41,7 @@ def processing(word):
 # Get Infobox Values
 
 infobox_body = []
-def Infobox_Extraction(page):
+def Infobox_Extraction(code):
     """Parse out the first Infobox for the page as a dict."""
     # templates = mwparserfromhell.parse(page).filter_templates(matches='infobox .*')
     # filter_templates() : Make the list out of the text
@@ -49,9 +50,9 @@ def Infobox_Extraction(page):
 
 
     global infobox_body
-
     infobox = []
-    code = mwparserfromhell.parse(page)
+
+    # code = mwparserfromhell.parse(page)
 
     for template in code.filter_templates():
         if 'Infobox' in template.name:
@@ -78,9 +79,11 @@ def Infobox_Extraction(page):
 
 #***********************************************************************************************************************************************
 # Get References
-def links(page):
+def links(url_template):
     External_links = []
-    url_template = mwparserfromhell.parse(page)
+
+    # url_template = mwparserfromhell.parse(page)
+    
     flag = 0
     pattern=re.compile('[\d+\.]*[\d]+|[\w]+')
 
@@ -93,7 +96,7 @@ def links(page):
             External_links.extend(words)
 
     # print(External_links)
-    print("\n\n\n\n")
+    stemming(External_links, "infobox")
     
     # filter_templates() : Make the list out of the text
     # strip() : remove left and right spaces
@@ -122,7 +125,7 @@ def get_Category(page):
         words=re.findall(pattern, line)
         Category_data.extend(words)
 
-
+    stemming(Category_data, "infobox")
     # print(Category_data)  
 
     
@@ -134,8 +137,13 @@ def get_Category(page):
 
 body_data = []
 def body_tag(page):
-    text = mwparserfromhell.parse(page).splitlines()
-    infobox_temp = mwparserfromhell.parse(page).filter_templates(matches='infobox .*')
+    # text = mwparserfromhell.parse(page).splitlines()
+    text = page.splitlines()
+
+    # infobox_temp = mwparserfromhell.parse(page).filter_templates(matches='infobox .*')
+
+    infobox_temp = page.filter_templates(matches='infobox .*')
+
     pattern=re.compile('[\d+\.]*[\d]+|[\w]+')
 
     global infobox_body
@@ -146,12 +154,15 @@ def body_tag(page):
             body.append(i)
 
     count = 0
-    pos = -1
-    for i in body:
-        if "References" in i or "External links" in i or "Category" in i :
-            pos = count
+    pos = 0
+
+    print(body)
+    print("\n\n\n\n")
+    for i in range(0,len(body)):
+        if "References" in body[i]: #or "External links" in i or "Category" in i :
+            pos = i
             break
-        count += 1
+    
 
     length = len(body)
 
@@ -166,6 +177,8 @@ def body_tag(page):
 
     # Clear List
     del infobox_body[:]
+
+    stemming(body_data, "infobox")
 
     
         
@@ -186,6 +199,8 @@ def main():
 
             if given_tag == 'page':
                 count += 1
+
+                print("page : ",count)
                 # f = open("Data/DOC "+str(count), 'w')
 
         #*********************************************************************
@@ -207,13 +222,15 @@ def main():
                                 # print("text : ", tex.text)
 
                                 if tex.text is not None:
-                                    Infobox_Extraction(tex.text)
-                                    links(tex.text)
-                                    get_Category(tex.text)
-                                    body_tag(tex.text)
+                                    code = mwparserfromhell.parse(tex.text)
 
-                                    if count == 10:
-                                        exit()
+                                    Infobox_Extraction(code)
+                                    links(code)
+                                    get_Category(tex.text)
+                                    #body_tag(code)
+
+                                    # if count == 10:
+                                    #     exit()
 
                                                
                                     # f.write("Text : " + tex.text.encode('utf8') + "\n")

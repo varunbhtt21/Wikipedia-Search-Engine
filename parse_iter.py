@@ -34,28 +34,37 @@ def Infobox_Extraction(page):
         if 'Infobox' in template.name:
             infobox_body = template.encode('utf8').splitlines()
             infobox = template.encode('utf8').split("|")
+    
+    pattern=re.compile('[\d+\.]*[\d]+|[\w]+')
+
+    infobox_data = []
+    for line in infobox:
+        words=re.findall(pattern, line)
+        infobox_data.extend(words)
+
+
+    print(infobox_data)
 
 
 External_links = []
-
-
-
 
 #***********************************************************************************************************************************************
 # Get References
 def links(page):
     url_template = mwparserfromhell.parse(page)
     flag = 0
+    pattern=re.compile('[\d+\.]*[\d]+|[\w]+')
 
     for line in url_template.encode('utf8').splitlines():
         if "External links" in line and flag == 0:
             flag = 1
 
         if flag == 1 and "*" in line:
-            External_links.append(line)
+            words=re.findall(pattern, line)
+            External_links.extend(words)
 
-    print(External_links)
-    # print("\n\n\n")
+    # print(External_links)
+    print("\n\n\n\n")
     
     # filter_templates() : Make the list out of the text
     # strip() : remove left and right spaces
@@ -65,21 +74,37 @@ def links(page):
 #***********************************************************************************************************************************************
 # Get Category Values
 Cat = []
+Category_data = []
 def get_Category(page):
+    pattern=re.compile('[\d+\.]*[\d]+|[\w]+')
+
     for i in page.splitlines():
         if "Category" in i:
             Category = i.split(":")
 
             if len(Category)>1:
                 Cat.append(Category[1].split("]]")[0])
-               
+
+
+    for line in Cat:
+        words=re.findall(pattern, line)
+        Category_data.extend(words)
+
+
+    # print(Category_data)  
+
+    
+
 
 
 #**************************************************************************
 # Get Body Tag Value
+
+body_data = []
 def body_tag(page):
     text = mwparserfromhell.parse(page).splitlines()
     infobox_temp = mwparserfromhell.parse(page).filter_templates(matches='infobox .*')
+    pattern=re.compile('[\d+\.]*[\d]+|[\w]+')
 
     global infobox_body
     body = []
@@ -102,28 +127,12 @@ def body_tag(page):
         del body[pos:length]
 
 
-
-    print("\n\n\n --------------------------SHURU -------------------------------------------------------")
-    for i in body:
-        print(i)
-
-
-
-
+    for line in body:
+        words=re.findall(pattern, line)
+        body_data.extend(words)
 
     
-
-
-
-
-
-
-
-
-
-
-
-
+        
 
 
 #***********************************************************************************************************************************************
@@ -167,8 +176,6 @@ def main():
                                     get_Category(tex.text)
                                     body_tag(tex.text)
 
-                                    if count == 3:
-                                        exit()
                                     
                                     
                                     # f.write("Text : " + tex.text.encode('utf8') + "\n")
@@ -196,11 +203,3 @@ if __name__== "__main__":
 
 
 
-
-# infobox = {}
-    # for template in templates:
-    #     if template.name.strip_code().startswith('Infobox'):
-    #         infobox = {
-    #             str(p.name).strip(): p.value.strip_code().strip()
-    #             for p in template.params if p.value.strip_code().strip()
-    #         }

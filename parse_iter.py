@@ -5,8 +5,78 @@ from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
 from collections import Counter
 from collections import defaultdict
+from nltk.tokenize import sent_tokenize, word_tokenize
 
 
+
+
+
+
+def index_file():
+    f1 = open("Data/Infobox", 'w')
+    f2 = open("Data/Category", 'w')
+    f3 = open("Data/Links", 'w')
+    f4 = open("Data/Body", 'w')
+
+
+    global Infobox_Posting_List
+    global Category_Posting_List
+    global Body_Posting_List
+    global Links_Posting_List
+
+    for i in Infobox_Posting_List:
+        f1.write(i + " : ")
+        for j in Infobox_Posting_List[i]:
+            f1.write("[")
+            for k in j:
+                f1.write(str(k)+" ")
+            f1.write("]")
+        f1.write("\n")
+
+    for i in Category_Posting_List:
+        f2.write(i + " : ")
+        for j in Category_Posting_List[i]:
+            f2.write("[")
+            for k in j:
+                f2.write(str(k)+" ")
+            f2.write("]")
+        f2.write("\n")
+
+
+
+    for i in Body_Posting_List:
+        f4.write(i + " : ")
+        for j in Body_Posting_List[i]:
+            f4.write("[")
+            for k in j:
+                f4.write(str(k)+" ")
+            f4.write("]")
+        f4.write("\n")
+
+
+
+    for i in Links_Posting_List:
+        f3.write(i + " : ")
+        for j in Links_Posting_List[i]:
+            f3.write("[")
+            for k in j:
+                f3.write(str(k)+" ")
+            f3.write("]")
+        f3.write("\n")
+
+
+    f1.close()
+    f2.close()
+    f3.close()
+    f4.close()
+
+
+
+
+
+
+
+#*******************************************************************************************************************************************
 
 Infobox_Posting_List = defaultdict(list)
 Category_Posting_List = defaultdict(list)
@@ -89,11 +159,10 @@ def stemming(words, catg):
     for w in words:
         val = ps.stem(w)
 
-        if w == 'br':
+        if val == 'br':
             continue
 
-        if w not in stop_words :
-            final_list.append(w.lower())
+        final_list.append(val)
 
     if catg == "infobox":
         posting_list(final_list, "infobox")
@@ -103,6 +172,9 @@ def stemming(words, catg):
 
     if catg == "links":
         posting_list(final_list, "links")
+
+    if catg == "body":
+        posting_list(final_list, "body")
 
 
 #****************************************************************************************************************************************
@@ -214,55 +286,56 @@ def get_Category(page):
 #**************************************************************************
 # Get Body Tag Value
 
-body_data = []
+
 def body_tag(page):
-    # text = mwparserfromhell.parse(page).splitlines()
+
+    body_data = []
     text = page.splitlines()
-
-    # infobox_temp = mwparserfromhell.parse(page).filter_templates(matches='infobox .*')
-
-    infobox_temp = page.filter_templates(matches='infobox .*')
     pattern=re.compile('[\d+\.]*[\d]+|[\w]+')
 
     global infobox_body
     body = []
-    
 
     count = 0
     pos = -1
+    flag = 0
+
 
     for i in text:
         if i not in infobox_body:
             body.append(i)
 
-            # if "References" in i:
-            #     pos = count
-            # count += 1
-
-    
-
-    for i in range(0,len(body)):
-        if "References" in body[i] or "External links" in body[i] or "Category" in body[i] :
-            pos = i
-            break
-    
-
-    length = len(body)
-
-    if pos != -1:
-        del body[pos:length]
+            if flag == 0:
+                if "References" in i or "External links" in i or "Category" in i :
+                    pos = count
+                    flag = 1
+            count += 1
+ 
 
     for line in body:
         words=re.findall(pattern, line)
         body_data.extend(words)
 
+    dl = []
+    stop_words = set(stopwords.words("english"))
+
+    for i in range(0, len(body_data)):
+        body_data[i] = body_data[i].lower()
+
+    
+    Refined_data = []
+    for i in body_data:
+        if i not in stop_words:
+            Refined_data.append(i)
 
     # Clear List
     del infobox_body[:]
 
-
-    print(body_data)
-    stemming(body_data, "body")
+    #print(Refined_data)
+    
+    # print(len(body_data))
+    stemming(Refined_data, "body")
+    # del body_data[:]
 
     
         
@@ -286,7 +359,7 @@ def main():
             if given_tag == 'page':
                 DOC_NO += 1
 
-                print("page : ",DOC_NO)
+                print("DOCUMENT : " + str(DOC_NO))
                 # f = open("Data/DOC "+str(count), 'w')
 
         #*********************************************************************
@@ -310,14 +383,15 @@ def main():
                                 if tex.text is not None:
                                     code = mwparserfromhell.parse(tex.text)
 
-                                    # Infobox_Extraction(code)
-                                    # links(code)
-                                    # get_Category(tex.text)
+                                    Infobox_Extraction(code)
+                                    links(code)
+                                    get_Category(tex.text)
                                     body_tag(code)
 
-                                    if DOC_NO == 20:
-                                        print_PostingList()
-                                        exit()
+                                    # if DOC_NO == 100:
+                                    #     #print_PostingList()
+                                    #     index_file()
+                                    #     exit()
 
                                                
                                     # f.write("Text : " + tex.text.encode('utf8') + "\n")
@@ -334,6 +408,7 @@ if __name__== "__main__":
     context = ET.iterparse(file_path)
     main()
     print_PostingList()
+    index_file()
     print("Done")
 
 

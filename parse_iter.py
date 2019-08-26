@@ -1,11 +1,15 @@
 import xml.etree.cElementTree as ET
 import mwparserfromhell
 import re
-from nltk.stem import PorterStemmer
+# from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
 from collections import Counter
 from collections import defaultdict
 from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.stem import SnowballStemmer
+import timeit
+import gc
+
 
 
 # ************************************************************************************************************************************
@@ -160,7 +164,8 @@ def print_PostingList():
 stop_words = set(stopwords.words("english"))
 #stop_words = ['all', 'just', "don't", 'being', 'over', 'both', 'through', 'yourselves', 'its', 'before', 'o', 'don', 'hadn', 'herself', 'll', 'had', 'should', 'to', 'only', 'won', 'under', 'ours', 'has', "should've", "haven't", 'do', 'them', 'his', 'very', "you've", 'they', 'not', 'during', 'now', 'him', 'nor', "wasn't", 'd', 'did', 'didn', 'this', 'she', 'each', 'further', "won't", 'where', "mustn't", "isn't", 'few', 'because', "you'd", 'doing', 'some', 'hasn', "hasn't", 'are', 'our', 'ourselves', 'out', 'what', 'for', "needn't", 'below', 're', 'does', "shouldn't", 'above', 'between', 'mustn', 't', 'be', 'we', 'who', "mightn't", "doesn't", 'were', 'here', 'shouldn', 'hers', "aren't", 'by', 'on', 'about', 'couldn', 'of', "wouldn't", 'against', 's', 'isn', 'or', 'own', 'into', 'yourself', 'down', "hadn't", 'mightn', "couldn't", 'wasn', 'your', "you're", 'from', 'her', 'their', 'aren', "it's", 'there', 'been', 'whom', 'too', 'wouldn', 'themselves', 'weren', 'was', 'until', 'more', 'himself', 'that', "didn't", 'but', "that'll", 'with', 'than', 'those', 'he', 'me', 'myself', 'ma', "weren't", 'these', 'up', 'will', 'while', 'ain', 'can', 'theirs', 'my', 'and', 've', 'then', 'is', 'am', 'it', 'doesn', 'an', 'as', 'itself', 'at', 'have', 'in', 'any', 'if', 'again', 'no', 'when', 'same', 'how', 'other', 'which', 'you', "shan't", 'shan', 'needn', 'haven', 'after', 'most', 'such', 'why', 'a', 'off', 'i', 'm', 'yours', "you'll", 'so', 'y', "she's", 'the', 'having', 'once']
 
-ps = PorterStemmer()
+# ps = PorterStemmer()
+ps = SnowballStemmer('english')
 Category_Final_List = []
 final_list = []
 
@@ -171,12 +176,15 @@ def stemming(words, catg):
         del final_list[:]
 
     for w in words:
+        gc.disable()
         val = ps.stem(w)
 
         if val == 'br':
             continue
 
         final_list.append(val)
+
+    gc.enable()
 
     if catg == "infobox":
         posting_list(final_list, "infobox")
@@ -247,6 +255,8 @@ def Infobox_Extraction(code):
 
     infobox_data = []
     for line in infobox:
+
+        gc.disable()
         words=re.findall(pattern, line)
         if "br" in words:
             words.remove("br")
@@ -254,6 +264,8 @@ def Infobox_Extraction(code):
             words.remove("Infobox")
 
         infobox_data.extend(words)
+
+    gc.enable()
 
     # print(infobox_data)
     stemming(infobox_data, "infobox")
@@ -276,8 +288,11 @@ def links(url_template):
             flag = 1
 
         if flag == 1 and "*" in line:
+            gc.disable()
             words=re.findall(pattern, line)
             External_links.extend(words)
+
+    gc.enable()
 
     # print(External_links)
     stemming(External_links, "links")
@@ -297,17 +312,23 @@ def get_Category(page):
 
     pattern=re.compile('[\d+\.]*[\d]+|[\w]+')
 
+
     for i in page.splitlines():
+        gc.disable()
         if "Category" in i:
             Category = i.split(":")
 
             if len(Category)>1:
                 Cat.append(Category[1].split("]]")[0])
 
+    gc.enable()
+
 
     for line in Cat:
+        gc.disable()
         words=re.findall(pattern, line)
         Category_data.extend(words)
+    gc.enable()
 
     stemming(Category_data, "category")
     # print(Category_data)  
@@ -336,6 +357,7 @@ def body_tag(page):
 
     for i in text:
         if i not in infobox_body:
+            gc.disable()
             body.append(i)
 
             if flag == 0:
@@ -343,11 +365,14 @@ def body_tag(page):
                     pos = count
                     flag = 1
             count += 1
+    gc.enable()
  
 
     for line in body:
+        gc.disable()
         words=re.findall(pattern, line)
         body_data.extend(words)
+    gc.enable()
 
     dl = []
     stop_words = set(stopwords.words("english"))
@@ -358,8 +383,11 @@ def body_tag(page):
     
     Refined_data = []
     for i in body_data:
+        gc.disable()
         if i not in stop_words:
             Refined_data.append(i)
+
+    gc.enable()
 
     # Clear List
     del infobox_body[:]
@@ -435,9 +463,14 @@ def main():
 if __name__== "__main__":
     file_path = "wiki.xml"
     context = ET.iterparse(file_path)
+    start=timeit.default_timer()
+
     main()
     print_PostingList()
     index_file()
+    stop=timeit.default_timer()
+    print(stop-start)
+
     print("Done")
 
 

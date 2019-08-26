@@ -12,17 +12,21 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 
 
 
+# ************************************************************************************************************************************
+
 def index_file():
-    f1 = open("Data/Infobox", 'w')
-    f2 = open("Data/Category", 'w')
-    f3 = open("Data/Links", 'w')
-    f4 = open("Data/Body", 'w')
+    f1 = open("Data/Infobox.txt", 'w')
+    f2 = open("Data/Category.txt", 'w')
+    f3 = open("Data/Links.txt", 'w')
+    f4 = open("Data/Body.txt", 'w')
+    f5 = open("Data/Title.txt", 'w')
 
 
     global Infobox_Posting_List
     global Category_Posting_List
     global Body_Posting_List
     global Links_Posting_List
+    global Title_Posting_List
 
     for i in Infobox_Posting_List:
         f1.write(i + " : ")
@@ -65,13 +69,21 @@ def index_file():
         f3.write("\n")
 
 
+    for i in Title_Posting_List:
+        f5.write(i.encode('utf8') + " : ")
+        for j in Title_Posting_List[i]:
+            f5.write("[")
+            for k in j:
+                f5.write(str(k)+" ")
+            f5.write("]")
+        f5.write("\n")
+
+
     f1.close()
     f2.close()
     f3.close()
     f4.close()
-
-
-
+    f5.close()
 
 
 
@@ -82,6 +94,7 @@ Infobox_Posting_List = defaultdict(list)
 Category_Posting_List = defaultdict(list)
 Body_Posting_List = defaultdict(list)
 Links_Posting_List = defaultdict(list)
+Title_Posting_List = defaultdict(list)
 
 def posting_list(guest_list, catg):
     global DOC_NO
@@ -90,6 +103,7 @@ def posting_list(guest_list, catg):
     global Category_Posting_List
     global Body_Posting_List
     global Links_Posting_List
+    global Title_Posting_List
     
     counter_list = Counter(guest_list)
     temp = set(guest_list)
@@ -111,11 +125,14 @@ def posting_list(guest_list, catg):
         for i in temp:
             Links_Posting_List[i].append((DOC_NO, counter_list[i]))
 
+    if catg == "title":
+        for i in temp:
+            Title_Posting_List[i].append((DOC_NO, counter_list[i]))
 
 
 
 
-
+#****************************************************************************************************************************************
 
 def print_PostingList():
     global Infobox_Posting_List
@@ -135,8 +152,8 @@ def print_PostingList():
     for i in Links_Posting_List:
         print(i, Links_Posting_List[i])
 
-
-
+    for i in Title_Posting_List:
+        print(i, Title_Posting_List[i])
 
 
 
@@ -176,6 +193,9 @@ def stemming(words, catg):
     if catg == "body":
         posting_list(final_list, "body")
 
+    if catg == "title":
+        posting_list(final_list, "title")
+
 
 #****************************************************************************************************************************************
 # String Processing Function [Use to clear the namespaces]
@@ -185,6 +205,22 @@ def processing(word):
     except:
         pass
     return word
+
+
+#******************************************************************************************************************************************
+
+def Title_Extraction(word):
+
+	title = word.split()
+	stemming(title, "title")
+
+
+
+
+
+
+
+
 
 
 
@@ -370,6 +406,8 @@ def main():
 
                     if page_tag == 'title':
                         pass
+
+                        Title_Extraction(titl.text)
                         # print("title : ", titl.text)
                         
                         # if titl.text is not None:
@@ -388,8 +426,8 @@ def main():
                                     get_Category(tex.text)
                                     body_tag(code)
 
-                                    # if DOC_NO == 100:
-                                    #     #print_PostingList()
+                                    # if DOC_NO == 10000:
+                                    #     print_PostingList()
                                     #     index_file()
                                     #     exit()
 

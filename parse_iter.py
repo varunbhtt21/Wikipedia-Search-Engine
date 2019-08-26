@@ -31,19 +31,19 @@ def index_file():
     for i in Infobox_Posting_List:
         f1.write(i + " : ")
         for j in Infobox_Posting_List[i]:
-            f1.write("[")
+            f1.write("[ ")
             for k in j:
                 f1.write(str(k)+" ")
-            f1.write("]")
+            f1.write("] ,")
         f1.write("\n")
 
     for i in Category_Posting_List:
         f2.write(i + " : ")
         for j in Category_Posting_List[i]:
-            f2.write("[")
+            f2.write("[ ")
             for k in j:
                 f2.write(str(k)+" ")
-            f2.write("]")
+            f2.write("] ,")
         f2.write("\n")
 
 
@@ -51,10 +51,10 @@ def index_file():
     for i in Body_Posting_List:
         f4.write(i + " : ")
         for j in Body_Posting_List[i]:
-            f4.write("[")
+            f4.write("[ ")
             for k in j:
                 f4.write(str(k)+" ")
-            f4.write("]")
+            f4.write("] ,")
         f4.write("\n")
 
 
@@ -62,20 +62,20 @@ def index_file():
     for i in Links_Posting_List:
         f3.write(i + " : ")
         for j in Links_Posting_List[i]:
-            f3.write("[")
+            f3.write("[ ")
             for k in j:
                 f3.write(str(k)+" ")
-            f3.write("]")
+            f3.write("] ,")
         f3.write("\n")
 
 
     for i in Title_Posting_List:
         f5.write(i.encode('utf8') + " : ")
         for j in Title_Posting_List[i]:
-            f5.write("[")
+            f5.write("[ ")
             for k in j:
                 f5.write(str(k)+" ")
-            f5.write("]")
+            f5.write("] ,")
         f5.write("\n")
 
 
@@ -407,7 +407,7 @@ def main():
                     if page_tag == 'title':
                         pass
 
-                        Title_Extraction(titl.text)
+                        # Title_Extraction(titl.text)
                         # print("title : ", titl.text)
                         
                         # if titl.text is not None:
@@ -422,14 +422,14 @@ def main():
                                     code = mwparserfromhell.parse(tex.text)
 
                                     Infobox_Extraction(code)
-                                    links(code)
-                                    get_Category(tex.text)
-                                    body_tag(code)
+                                    # links(code)
+                                    # get_Category(tex.text)
+                                    # body_tag(code)
 
-                                    # if DOC_NO == 10000:
-                                    #     print_PostingList()
-                                    #     index_file()
-                                    #     exit()
+                                    if DOC_NO == 50:
+                                        print_PostingList()
+                                        index_file()
+                                        exit()
 
                                                
                                     # f.write("Text : " + tex.text.encode('utf8') + "\n")

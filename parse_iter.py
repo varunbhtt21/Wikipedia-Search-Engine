@@ -8,10 +8,6 @@ from collections import defaultdict
 from nltk.tokenize import sent_tokenize, word_tokenize
 
 
-
-
-
-
 # ************************************************************************************************************************************
 
 def index_file():
@@ -139,6 +135,7 @@ def print_PostingList():
     global Category_Posting_List
     global Body_Posting_List
     global Links_Posting_List
+    global Title_Posting_List
     
     for i in Infobox_Posting_List:
         print(i, Infobox_Posting_List[i])
@@ -396,8 +393,6 @@ def main():
                 DOC_NO += 1
 
                 print("DOCUMENT : " + str(DOC_NO))
-                # f = open("Data/DOC "+str(count), 'w')
-
         #*********************************************************************
         # Getting Information of Title and Text
 
@@ -405,9 +400,7 @@ def main():
                     page_tag = processing(str(titl.tag))
 
                     if page_tag == 'title':
-                        pass
-
-                        # Title_Extraction(titl.text)
+                        Title_Extraction(titl.text)
                         # print("title : ", titl.text)
                         
                         # if titl.text is not None:
@@ -422,17 +415,15 @@ def main():
                                     code = mwparserfromhell.parse(tex.text)
 
                                     Infobox_Extraction(code)
-                                    # links(code)
-                                    # get_Category(tex.text)
-                                    # body_tag(code)
+                                    links(code)
+                                    get_Category(tex.text)
+                                    body_tag(code)
 
-                                    if DOC_NO == 50:
-                                        print_PostingList()
-                                        index_file()
-                                        exit()
+                                    # if DOC_NO == 500:
+                                    #     print_PostingList()
+                                    #     index_file()
+                                    #     exit()
 
-                                               
-                                    # f.write("Text : " + tex.text.encode('utf8') + "\n")
                              
                 elem.clear()
 

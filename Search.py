@@ -21,9 +21,10 @@ def Loading_Data(Posting_List, catg):
 
 	for i in content:
 
+		if not i:
+			continue
 
 		key = i.split(":")[0].strip()
-		print(i)
 		value = i.split(":")[1]
 		
 		value = value.replace("[", " ")
@@ -32,21 +33,19 @@ def Loading_Data(Posting_List, catg):
 		for i in value:
 			val = i.strip().split()
 			if val:
-				Posting_List[key].append((int(val[0]), int(val[1])))
+				try:
+					Posting_List[key].append((int(val[0]), int(val[1])))
+				except:
+					pass
 
-
-
-		count += 1
-
-		if count == 50:
-			print("done")
-			break
-
+		
 
 
 
 
 def main():
+
+	print("\nProcessing...\n")
 	
 	global Infobox_Posting_List
 	global Title_Posting_List
@@ -60,12 +59,13 @@ def main():
 	Loading_Data(Links_Posting_List, "Links.txt")
 	Loading_Data(Category_Posting_List, "Category.txt")
 	Loading_Data(Body_Posting_List, "Body.txt")
+	
+	# print(Infobox_Posting_List)
+	# print(Title_Posting_List)
+	# print(Links_Posting_List)
+	# print(Category_Posting_List)
+	# print(Body_Posting_List)
 
-	print(Infobox_Posting_List)
-	print(Title_Posting_List)
-	print(Links_Posting_List)
-	print(Category_Posting_List)
-	print(Body_Posting_List)
 
 
 

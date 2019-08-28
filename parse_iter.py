@@ -346,7 +346,6 @@ def body_tag(page):
 
     for i in text:
         if i.encode('utf8') not in infobox_body:
-
             body.append(i)
 
             if flag == 0:
@@ -354,6 +353,7 @@ def body_tag(page):
                     break
                     flag = 1
             count += 1
+
 
  
 
@@ -382,6 +382,9 @@ def body_tag(page):
     
     # print(len(body_data))
     stemming(Refined_data, "body")
+
+    #print(Refined_data)
+
     # del body_data[:]
 
     

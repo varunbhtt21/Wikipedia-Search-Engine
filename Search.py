@@ -62,6 +62,33 @@ def processing(search_query):
 		except:
 			pass
 
+		try:
+			if Links_Posting_List[word]:
+				# for val in Body_Posting_List[word]:
+				Dict_query[word].append(Links_Posting_List[word])
+
+		except:
+			pass
+
+
+		try:
+			if Title_Posting_List[word]:
+				# for val in Body_Posting_List[word]:
+				Dict_query[word].append(Title_Posting_List[word])
+
+		except:
+			pass
+
+
+		try:
+			if Category_Posting_List[word]:
+				# for val in Body_Posting_List[word]:
+				Dict_query[word].append(Category_Posting_List[word])
+
+		except:
+			pass
+
+
 
 	for key in filter_query:
 		try:
@@ -87,11 +114,18 @@ def processing(search_query):
 	for word in filter_query:
 		Intersect_List.append(Dict_for_intersect[word])
 
-	print(Dict_for_intersect)
-	print(Index_Title)
 
 	#set_list_intersection(Intersect_List)
-	print(reduce(lambda s1, s2: s1 & s2, Intersect_List))
+	# print(reduce(lambda s1, s2: s1 & s2, Intersect_List))
+
+	count = 0
+	for val in reduce(lambda s1, s2: s1 & s2, Intersect_List):
+
+		# if count == 10:
+		# 	break
+
+		print(str(val) + " : " + Index_Title[str(val)])
+		count += 1
 
 	
 
@@ -189,7 +223,7 @@ def main():
 	Loading_Data(Body_Posting_List, "Data/Body.txt")
 	Loading_Index(Index_Title, "Data/Index_Title.txt")
 
-	search_query = "allan" #raw_input("Enter Your Query : ")
+	search_query = raw_input("Enter Your Query : ")
 
 	processing(search_query)
 	

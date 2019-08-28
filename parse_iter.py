@@ -15,6 +15,7 @@ import gc
 # ************************************************************************************************************************************
 
 def index_file():
+
     f1 = open("Data/Infobox.txt", 'w')
     f2 = open("Data/Category.txt", 'w')
     f3 = open("Data/Links.txt", 'w')
@@ -78,6 +79,7 @@ def index_file():
             f5.write("] ,")
         f5.write("\n")
 
+       
 
     f1.close()
     f2.close()
@@ -220,15 +222,6 @@ def Title_Extraction(word):
 	stemming(title, "title")
 
 
-
-
-
-
-
-
-
-
-
 #************************************************************************************************************************************************
 # Get Infobox Values
 
@@ -256,7 +249,6 @@ def Infobox_Extraction(code):
     infobox_data = []
     for line in infobox:
 
-        gc.disable()
         words=re.findall(pattern, line)
         if "br" in words:
             words.remove("br")
@@ -265,7 +257,6 @@ def Infobox_Extraction(code):
 
         infobox_data.extend(words)
 
-    gc.enable()
 
     # print(infobox_data)
     stemming(infobox_data, "infobox")
@@ -288,11 +279,9 @@ def links(url_template):
             flag = 1
 
         if flag == 1 and "*" in line:
-            gc.disable()
             words=re.findall(pattern, line)
             External_links.extend(words)
 
-    gc.enable()
 
     # print(External_links)
     stemming(External_links, "links")
@@ -314,21 +303,18 @@ def get_Category(page):
 
 
     for i in page.splitlines():
-        gc.disable()
         if "Category" in i:
             Category = i.split(":")
 
             if len(Category)>1:
                 Cat.append(Category[1].split("]]")[0])
 
-    gc.enable()
 
 
     for line in Cat:
-        gc.disable()
         words=re.findall(pattern, line)
         Category_data.extend(words)
-    gc.enable()
+
 
     stemming(Category_data, "category")
     # print(Category_data)  
@@ -354,25 +340,27 @@ def body_tag(page):
     pos = -1
     flag = 0
 
+    for i in range(0, len(infobox_body)):
+        infobox_body[i] = infobox_body[i]
+
 
     for i in text:
-        if i not in infobox_body:
-            gc.disable()
+        if i.encode('utf8') not in infobox_body:
+
             body.append(i)
 
             if flag == 0:
                 if "References" in i or "External links" in i or "Category" in i :
-                    pos = count
+                    break
                     flag = 1
             count += 1
-    gc.enable()
+
  
 
     for line in body:
-        gc.disable()
         words=re.findall(pattern, line)
         body_data.extend(words)
-    gc.enable()
+    
 
     dl = []
     stop_words = set(stopwords.words("english"))
@@ -383,11 +371,9 @@ def body_tag(page):
     
     Refined_data = []
     for i in body_data:
-        gc.disable()
         if i not in stop_words:
             Refined_data.append(i)
 
-    gc.enable()
 
     # Clear List
     del infobox_body[:]
@@ -407,6 +393,7 @@ DOC_NO = 0
 def main():
     
     global DOC_NO
+    f6 = open("Data/Index_Title.txt", 'w')
 
     for event, elem in context:
         tag = elem.tag
@@ -417,43 +404,41 @@ def main():
         #********************************************************************
         # Check for Page
 
-            if given_tag == 'page':
+            if given_tag == 'title':
+                Title_Extraction(elem.text)
                 DOC_NO += 1
 
-                print("DOCUMENT : " + str(DOC_NO))
+                # print(elem.text)
+
+                if DOC_NO % 1000 == 0:
+                    print("DOCUMENT : " + str(DOC_NO))
+
+                f6.write(str(DOC_NO) + ":"+elem.text.encode('utf8')+"\n")
         #*********************************************************************
         # Getting Information of Title and Text
 
-                for titl in elem:
-                    page_tag = processing(str(titl.tag))
+                   
+            if given_tag == 'text':
 
-                    if page_tag == 'title':
-                        Title_Extraction(titl.text)
-                        # print("title : ", titl.text)
-                        
-                        # if titl.text is not None:
-                        #     f.write("Title : " + titl.text.encode('utf8') + "\n")
+                # print("\n\ntext :", elem.text)
+                            
+                if elem.text is not None:
+                    code = mwparserfromhell.parse(elem.text)
+                    Infobox_Extraction(code)
+                    links(code)
+                    get_Category(elem.text)
+                    body_tag(code)
 
-                    if page_tag == 'revision':
-                        for tex in titl:
-                            if processing(str(tex.tag)) == 'text':
-                                # print("text : ", tex.text)
-
-                                if tex.text is not None:
-                                    code = mwparserfromhell.parse(tex.text)
-
-                                    Infobox_Extraction(code)
-                                    links(code)
-                                    get_Category(tex.text)
-                                    body_tag(code)
-
-                                    # if DOC_NO == 500:
-                                    #     print_PostingList()
-                                    #     index_file()
-                                    #     exit()
+                # if DOC_NO == 5:
+                #     # print_PostingList()
+                #     # index_file()
+                #     exit()
 
                              
-                elem.clear()
+            elem.clear()
+
+
+    f6.close()
 
     
 
@@ -466,17 +451,12 @@ if __name__== "__main__":
     start=timeit.default_timer()
 
     main()
-    print_PostingList()
+    # print_PostingList()
     index_file()
     stop=timeit.default_timer()
     print(stop-start)
 
     print("Done")
-
-
-
-
-
 
 
 

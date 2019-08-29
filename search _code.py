@@ -1,6 +1,6 @@
 import sys
 
-
+from functools import reduce
 from collections import defaultdict
 from nltk.corpus import stopwords
 from collections import defaultdict
@@ -28,7 +28,76 @@ def set_list_intersection(set_list):
 
 
 
+def field_query(search_query, outputs):
+
+    search_query = search_query.split(" ")
+
+    title = set()
+    infobox = set()
+    body = set()
+    category = set()
+    ref = set()
+
+    for q in search_query:
+        if "title" in q:
+            key = q.split(":")[0]
+            val = q.split(":")[1]
+            #title = set(Title_Posting_List[val])
+
+            for v in Title_Posting_List[val]:
+                title.add(v[0])
+
+        if "body" in q:
+            key = q.split(":")[0]
+            val = q.split(":")[1]
+            #body = Body_Posting_List[val]
+            for v in Body_Posting_List[val]:
+                body.add(v[0])
+
+        if "infobox" in q:
+            key = q.split(":")[0]
+            val = q.split(":")[1]
+            #infobox = Infobox_Posting_List[val]
+            for v in Infobox_Posting_List[val]:
+                infobox.add(v[0])
+
+        if "category" in q:
+            key = q.split(":")[0]
+            val = q.split(":")[1]
+            # category = Category_Posting_List[val]
+            for v in Category_Posting_List[val]:
+                category.add(v[0])
+
+
+
+    Intersect_List = []
+
+    Intersect_List.append(infobox)
+    Intersect_List.append(category)
+
+    #print(reduce(lambda s1, s2: s1 & s2, Intersect_List))
+
+    for val in reduce(lambda s1, s2: s1 & s2, Intersect_List):
+        li = []
+        val1 = str(val) + " : " + Index_Title[str(val)]
+        li.append(val1)
+        print("\n\n\n")
+        outputs.append(li)
+
+
+
+       
+
+
+
+
+#***************************************************************************************
+
 def processing(search_query, outputs):
+
+    if ":" in search_query:
+        field_query(search_query, outputs)
+        return 
 
     filter_query = []
     Dict_query = defaultdict(list)
@@ -131,13 +200,13 @@ def processing(search_query, outputs):
 
         li = []
         val1 = str(val) + " : " + Index_Title[str(val)]
-
         li.append(val1)
-
-        print(val1)
-
         outputs.append(li)
         count += 1
+
+
+    li = []
+    outputs.append(li)
 
     
 
@@ -206,8 +275,6 @@ def Loading_Index(Index_Title, catg):
 
 
 
-        
-
 
 
 def read_file(testfile):
@@ -220,10 +287,16 @@ def write_file(outputs, path_to_output):
     '''outputs should be a list of lists.
         len(outputs) = number of queries
         Each element in outputs should be a list of titles corresponding to a particular query.'''
+    
+    print(outputs)
+
     with open(path_to_output, 'w') as file:
         for output in outputs:
+
+            if not output:
+                file.write('\n')
             for line in output:
-                file.write(line.strip() + '\n')
+                file.write(line.strip())
             file.write('\n')
 
 
@@ -253,6 +326,9 @@ def search(path_to_index, queries):
     Loading_Index(Index_Title, path_to_index + "Index_Title.txt")
 
     outputs = []
+
+    #search_query = "title:gandhi body:arjun infobox:gandhi category:gandhi"
+    #processing(search_query)
     for search_query in queries:
         processing(search_query, outputs)
 

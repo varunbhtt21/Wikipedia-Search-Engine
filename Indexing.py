@@ -7,20 +7,22 @@ from collections import defaultdict
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.stem import SnowballStemmer
 import timeit
+import Stemmer
+import sys
 import gc
 
 
 
 # ************************************************************************************************************************************
 
-def index_file():
+def index_file(dirName):
 
-    f1 = open("Data/Infobox.txt", 'w')
-    f2 = open("Data/Category.txt", 'w')
-    f3 = open("Data/Links.txt", 'w')
-    f4 = open("Data/Body.txt", 'w')
-    f5 = open("Data/Title.txt", 'w')
-    f5 = open("Data/Reference.txt", 'w')
+    f1 = open(dirName + "/Infobox.txt", 'w')
+    f2 = open(dirName + "/Category.txt", 'w')
+    f3 = open(dirName + "/Links.txt", 'w')
+    f4 = open(dirName + "/Body.txt", 'w')
+    f5 = open(dirName + "/Title.txt", 'w')
+    f8 = open(dirName + "/Reference.txt", 'w')
 
 
     global Infobox_Posting_List
@@ -190,7 +192,8 @@ stop_words = set(stopwords.words("english"))
 #stop_words = ['all', 'just', "don't", 'being', 'over', 'both', 'through', 'yourselves', 'its', 'before', 'o', 'don', 'hadn', 'herself', 'll', 'had', 'should', 'to', 'only', 'won', 'under', 'ours', 'has', "should've", "haven't", 'do', 'them', 'his', 'very', "you've", 'they', 'not', 'during', 'now', 'him', 'nor', "wasn't", 'd', 'did', 'didn', 'this', 'she', 'each', 'further', "won't", 'where', "mustn't", "isn't", 'few', 'because', "you'd", 'doing', 'some', 'hasn', "hasn't", 'are', 'our', 'ourselves', 'out', 'what', 'for', "needn't", 'below', 're', 'does', "shouldn't", 'above', 'between', 'mustn', 't', 'be', 'we', 'who', "mightn't", "doesn't", 'were', 'here', 'shouldn', 'hers', "aren't", 'by', 'on', 'about', 'couldn', 'of', "wouldn't", 'against', 's', 'isn', 'or', 'own', 'into', 'yourself', 'down', "hadn't", 'mightn', "couldn't", 'wasn', 'your', "you're", 'from', 'her', 'their', 'aren', "it's", 'there', 'been', 'whom', 'too', 'wouldn', 'themselves', 'weren', 'was', 'until', 'more', 'himself', 'that', "didn't", 'but', "that'll", 'with', 'than', 'those', 'he', 'me', 'myself', 'ma', "weren't", 'these', 'up', 'will', 'while', 'ain', 'can', 'theirs', 'my', 'and', 've', 'then', 'is', 'am', 'it', 'doesn', 'an', 'as', 'itself', 'at', 'have', 'in', 'any', 'if', 'again', 'no', 'when', 'same', 'how', 'other', 'which', 'you', "shan't", 'shan', 'needn', 'haven', 'after', 'most', 'such', 'why', 'a', 'off', 'i', 'm', 'yours', "you'll", 'so', 'y', "she's", 'the', 'having', 'once']
 
 # ps = PorterStemmer()
-ps = SnowballStemmer('english')
+# ps = SnowballStemmer('english')
+ps = Stemmer.Stemmer('english')
 Category_Final_List = []
 final_list = []
 
@@ -202,7 +205,8 @@ def stemming(words, catg):
 
     for w in words:
         #gc.disable()
-        val = ps.stem(w)
+        # val = ps.stem(w)
+        val = ps.stemWord(w)
 
         if val == 'br':
             continue
@@ -213,7 +217,14 @@ def stemming(words, catg):
         if val == 'references' or val == 'reflist':
         	continue
 
-        final_list.append(val)
+        if len(val) == 1:
+        	continue
+
+        if val == 'Category':
+        	continue
+
+        if val.lower() not in stop_words:
+        	final_list.append(val.lower())
 
    
 
@@ -261,6 +272,7 @@ ref = []
 def reference_set(text):
 
     global ref
+    ref1 = []
     text = text.split("\n")
     ref = []
     flag = 0
@@ -277,6 +289,7 @@ def reference_set(text):
             words=re.findall(pattern, val)
 
             ref.extend(words)
+
 
     stemming(ref, "reference")
 
@@ -512,7 +525,7 @@ def main():
                  	Infobox_Extraction(elem.text)
                  	links(elem.text)
                  	get_Category(elem.text)
-                       	reference_set(elem.text)
+                 	reference_set(elem.text)
                  	body_tag(elem.text)
 
 
@@ -534,17 +547,23 @@ title_doc = []
 if __name__== "__main__":
 
 
-    f6 = open("Data/Index_Title.txt", 'w')
-    file_path = "wiki.xml"
+    
+    file_path = sys.argv[1]
+    dirName = sys.argv[2]
+
+    f6 = open(dirName+"/Index_Title.txt", 'w')
+
     context = ET.iterparse(file_path)
     start=timeit.default_timer()
 
     main()
     # print_PostingList()
-    index_file()
+
+    index_file(dirName)
     stop=timeit.default_timer()
     print(stop-start)
 
+    
     for i in title_doc:
         f6.write(str(i[0]) + ":" + i[1] + "\n")
     f6.close()

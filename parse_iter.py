@@ -71,7 +71,7 @@ def index_file():
 
 
     for i in Title_Posting_List:
-        f5.write(i.encode('utf8') + " : ")
+        f5.write(i + " : ")
         for j in Title_Posting_List[i]:
             f5.write("[ ")
             for k in j:
@@ -178,7 +178,7 @@ def stemming(words, catg):
         del final_list[:]
 
     for w in words:
-        gc.disable()
+        #gc.disable()
         val = ps.stem(w)
 
         if val == 'br':
@@ -186,7 +186,7 @@ def stemming(words, catg):
 
         final_list.append(val)
 
-    gc.enable()
+    #gc.enable()
 
     if catg == "infobox":
         posting_list(final_list, "infobox")
@@ -241,8 +241,8 @@ def Infobox_Extraction(code):
 
     for template in code.filter_templates():
         if 'Infobox' in template.name:
-            infobox_body = template.encode('utf8').splitlines()
-            infobox = template.encode('utf8').split("|")
+            infobox_body = template.splitlines()
+            infobox = template.split("|")
     
     pattern=re.compile('[\d+\.]*[\d]+|[\w]+')
 
@@ -274,7 +274,7 @@ def links(url_template):
     flag = 0
     pattern=re.compile('[\d+\.]*[\d]+|[\w]+')
 
-    for line in url_template.encode('utf8').splitlines():
+    for line in url_template.splitlines():
         if "External links" in line and flag == 0:
             flag = 1
 
@@ -345,7 +345,7 @@ def body_tag(page):
 
 
     for i in text:
-        if i.encode('utf8') not in infobox_body:
+        if i not in infobox_body:
             body.append(i)
 
             if flag == 0:
@@ -377,26 +377,20 @@ def body_tag(page):
 
     # Clear List
     del infobox_body[:]
-
-    #print(Refined_data)
-    
-    # print(len(body_data))
     stemming(Refined_data, "body")
 
-    #print(Refined_data)
 
-    # del body_data[:]
-
-    
-        
 
 DOC_NO = 0
+
 #***********************************************************************************************************************************************
 # Main Function
 def main():
     
     global DOC_NO
-    f6 = open("Data/Index_Title.txt", 'w')
+    global title_doc
+
+    
 
     for event, elem in context:
         tag = elem.tag
@@ -416,7 +410,8 @@ def main():
                 if DOC_NO % 1000 == 0:
                     print("DOCUMENT : " + str(DOC_NO))
 
-                f6.write(str(DOC_NO) + ":"+elem.text.encode('utf8')+"\n")
+                title_doc.append((DOC_NO, elem.text))
+                # f6.write(str(DOC_NO) + ":"+elem.text+"\n")
         #*********************************************************************
         # Getting Information of Title and Text
 
@@ -427,9 +422,9 @@ def main():
                             
                 if elem.text is not None:
                     code = mwparserfromhell.parse(elem.text)
-                    Infobox_Extraction(code)
-                    links(code)
-                    get_Category(elem.text)
+                    # Infobox_Extraction(code)
+                    # links(code)
+                    # get_Category(elem.text)
                     body_tag(code)
 
                 # if DOC_NO == 5:
@@ -441,14 +436,17 @@ def main():
             elem.clear()
 
 
-    f6.close()
+    
 
     
 
 
-
+title_doc = []
 
 if __name__== "__main__":
+
+
+    f6 = open("Data/Index_Title.txt", 'w')
     file_path = "wiki.xml"
     context = ET.iterparse(file_path)
     start=timeit.default_timer()
@@ -458,6 +456,10 @@ if __name__== "__main__":
     index_file()
     stop=timeit.default_timer()
     print(stop-start)
+
+    for i in title_doc:
+        f6.write(str(i[0]) + ":" + i[1] + "\n")
+    f6.close()
 
     print("Done")
 

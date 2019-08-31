@@ -9,6 +9,7 @@ from nltk.stem import SnowballStemmer
 import timeit
 import Stemmer
 import sys
+import os
 import gc
 
 
@@ -17,12 +18,12 @@ import gc
 
 def index_file(dirName):
 
-    f1 = open(dirName + "/Infobox.txt", 'w')
-    f2 = open(dirName + "/Category.txt", 'w')
-    f3 = open(dirName + "/Links.txt", 'w')
-    f4 = open(dirName + "/Body.txt", 'w')
-    f5 = open(dirName + "/Title.txt", 'w')
-    f8 = open(dirName + "/Reference.txt", 'w')
+    f1 = open(os.path.join(dirName, "Infobox.txt"), 'w')
+    f2 = open(os.path.join(dirName, "Category.txt"), 'w')
+    f3 = open(os.path.join(dirName, "Links.txt"), 'w')
+    f4 = open(os.path.join(dirName, "Body.txt"), 'w')
+    f5 = open(os.path.join(dirName, "Title.txt"), 'w')
+    f8 = open(os.path.join(dirName, "Reference.txt"), 'w')
 
 
     global Infobox_Posting_List
@@ -211,10 +212,10 @@ def stemming(words, catg):
         if val == 'br':
             continue
 
-        if val == 'redirect':
+        if val == 'redirect' or val == 'Wikipedia' or val == 'wikipedia':
             continue
 
-        if val == 'references' or val == 'reflist':
+        if val == 'references' or val == 'reflist' or val == 'File' or val == 'file':
         	continue
 
         if len(val) == 1:
@@ -551,7 +552,8 @@ if __name__== "__main__":
     file_path = sys.argv[1]
     dirName = sys.argv[2]
 
-    f6 = open(dirName+"/Index_Title.txt", 'w')
+    path = os.path.join(dirName, "Index_Title.txt")
+    f6 = open(path, 'w')
 
     context = ET.iterparse(file_path)
     start=timeit.default_timer()

@@ -1,4 +1,0 @@
- bash search.sh Data queryfile output.txt
-
-bash index.sh wiki.xml /home/varun/Desktop/2018201086/Data
-

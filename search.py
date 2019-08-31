@@ -6,6 +6,8 @@ from nltk.corpus import stopwords
 from collections import defaultdict
 from nltk.stem import PorterStemmer
 from operator import itemgetter
+import operator
+import os
 import re
 
 
@@ -50,17 +52,59 @@ def field_query(search_query, outputs):
         elif flag == "body":
             dict_val[value] = Body_Posting_List[value]
 
+        elif flag == "ref":
+            dict_val[value] = Reference_Posting_List[value]
+
+
     union_list = []
     for keys, value in dict_val.items():
         union_list.append(set(value))
 
-    
 
+    # ***********************************RANKING****************************************
+    tmp = []
+    # Finding Union and appending to list
     for val in reduce(lambda s1, s2: s1 | s2, union_list):
+        tmp.append(val)
+        
+
+    # Appending the sum of count value to each Doc ID
+    Output = {} 
+    for x, y in tmp: 
+        if x in Output: 
+            Output[x].append((y)) 
+        else: 
+            Output[x] = [(y)] 
+
+    for i in Output:
+        Output[i] = sum(Output[i])
+
+
+    # Sort the Dictionary according to the keys
+    sorted_x = sorted(Output.items(), key=operator.itemgetter(1), reverse=True)
+
+    # Selecting Top 25 Values
+    count = 0
+    tmp_output = []
+
+    for val in sorted_x:
         li = []
         val1 = Index_Title[str(val[0])]
         li.append(val1)
+
+        # Check for no Duplicates
+        if li in tmp_output:
+            continue
+
         outputs.append(li)
+        tmp_output.append(li)
+        count += 1
+
+        if count == 20:
+            break
+
+    li = []
+    outputs.append(li)
 
     return outputs
 
@@ -167,7 +211,7 @@ def processing(search_query, outputs):
         temp_set = set()
         for wor in Dict_query[word]:
             for w in wor:
-                temp_set.add(w[0])
+                temp_set.add((w[0],w[1]))
         
             Dict_for_intersect[word] = set(temp_set)
 
@@ -184,19 +228,51 @@ def processing(search_query, outputs):
 
 
     
-    count = 0
-    for val in reduce(lambda s1, s2: s1 & s2, Intersect_List):
-
-        li = []
+    tmp = []
+    # Finding Union and appending to list
+    for val in reduce(lambda s1, s2: s1 | s2, Intersect_List):
+        tmp.append(val)
         
-        val1 = Index_Title[str(val)]
+
+    # Appending the sum of count value to each Doc ID
+    Output = {} 
+    for x, y in tmp: 
+        if x in Output: 
+            Output[x].append((y)) 
+        else: 
+            Output[x] = [(y)] 
+
+    for i in Output:
+        Output[i] = sum(Output[i])
+
+
+    # Sort the Dictionary according to the keys
+    sorted_x = sorted(Output.items(), key=operator.itemgetter(1), reverse=True)
+
+    # Selecting Top 25 Values
+    count = 0
+    tmp_output = []
+    for val in sorted_x:
+        li = []
+        val1 = Index_Title[str(val[0])]
         li.append(val1)
+
+        # Check For No Duplicates
+        if li in tmp_output:
+            continue
+
         outputs.append(li)
+        tmp_output.append(li)
         count += 1
+
+        if count == 20:
+            break
 
 
     li = []
     outputs.append(li)
+
+
 
     
 
@@ -310,13 +386,13 @@ def search(path_to_index, queries):
     global Reference_Posting_List
     global Index_Title
 
-    Loading_Data(Infobox_Posting_List, path_to_index + "/Infobox.txt")
-    Loading_Data(Title_Posting_List, path_to_index + "/Title.txt")
-    Loading_Data(Links_Posting_List, path_to_index + "/Links.txt")
-    Loading_Data(Category_Posting_List, path_to_index + "/Category.txt")
-    Loading_Data(Body_Posting_List, path_to_index + "/Body.txt")
-    Loading_Index(Reference_Posting_List, path_to_index + "/Reference.txt")
-    Loading_Index(Index_Title, path_to_index + "/Index_Title.txt")
+    Loading_Data(Infobox_Posting_List, os.path.join(path_to_index, "Infobox.txt"))
+    Loading_Data(Title_Posting_List, os.path.join(path_to_index, "Title.txt"))
+    Loading_Data(Links_Posting_List, os.path.join(path_to_index, "Links.txt"))
+    Loading_Data(Category_Posting_List, os.path.join(path_to_index, "Category.txt"))
+    Loading_Data(Body_Posting_List, os.path.join(path_to_index, "Body.txt"))
+    Loading_Index(Reference_Posting_List, os.path.join(path_to_index, "Reference.txt"))
+    Loading_Index(Index_Title, os.path.join(path_to_index, "Index_Title.txt"))
 
     outputs = []
 

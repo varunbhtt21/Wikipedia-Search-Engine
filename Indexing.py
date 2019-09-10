@@ -52,7 +52,7 @@ def index_file(dirName):
 	title_doc_ = sorted(title_doc,key=itemgetter(1)) ;
 
 	for i in title_doc_:
-		f6.write(str(i[0]) + ":" + i[1] + "\n")
+		f6.write(str(i[0]) + "~" + i[1] + "\n")
 	
 	f6.close()
 	title_doc.clear()
@@ -66,7 +66,7 @@ def index_file(dirName):
 	Reference_Posting_List_ = collections.OrderedDict(sorted(Reference_Posting_List.items()))
 
 	for i in Infobox_Posting_List_:
-		f1.write(i + " : ")
+		f1.write(i + " ~ ")
 		for j in Infobox_Posting_List_[i]:
 			f1.write("[ ")
 			for k in j:
@@ -75,7 +75,7 @@ def index_file(dirName):
 		f1.write("\n")
 
 	for i in Category_Posting_List_:
-		f2.write(i + " : ")
+		f2.write(i + " ~ ")
 		for j in Category_Posting_List_[i]:
 			f2.write("[ ")
 			for k in j:
@@ -86,7 +86,7 @@ def index_file(dirName):
 
 
 	for i in Body_Posting_List_:
-		f4.write(i + " : ")
+		f4.write(i + " ~ ")
 		for j in Body_Posting_List_[i]:
 			f4.write("[ ")
 			for k in j:
@@ -97,7 +97,7 @@ def index_file(dirName):
 
 
 	for i in Links_Posting_List_:
-		f3.write(i + " : ")
+		f3.write(i + " ~ ")
 		for j in Links_Posting_List_[i]:
 			f3.write("[ ")
 			for k in j:
@@ -107,7 +107,7 @@ def index_file(dirName):
 
 
 	for i in Title_Posting_List_:
-		f5.write(i + " : ")
+		f5.write(i + " ~ ")
 		for j in Title_Posting_List_[i]:
 			f5.write("[ ")
 			for k in j:
@@ -117,7 +117,7 @@ def index_file(dirName):
 
 
 	for i in Reference_Posting_List_:
-		f8.write(i + " : ")
+		f8.write(i + " ~ ")
 		for j in Reference_Posting_List_[i]:
 			f8.write("[ ")
 			for k in j:
@@ -531,6 +531,7 @@ def main():
 	global DOC_NO
 	global title_doc
 	global File_Count
+	file = 0
 
 
 
@@ -549,8 +550,8 @@ def main():
 
 				# print(elem.text)
 
-				if DOC_NO % 1000 == 0:
-					print("DOCUMENT : " + str(DOC_NO))
+				# if DOC_NO % 1000 == 0:
+					# print("DOCUMENT : " + str(DOC_NO))
 
 				title_doc.append((DOC_NO, elem.text))
 				# f6.write(str(DOC_NO) + ":"+elem.text+"\n")
@@ -570,14 +571,16 @@ def main():
 					reference_set(elem.text)
 					body_tag(elem.text)
 
-				if DOC_NO % 1000 == 0:
+				if DOC_NO % 20000 == 0:
+					file += 1
 					index_file("Data")
-					print("done")
+					print("File : "+ str(file))
 
-				if DOC_NO == 100000:
-					# print_PostingList()
-					# index_file("Data")
-					exit()
+
+				# if DOC_NO == 100000:
+				# 	# print_PostingList()
+				# 	# index_file("Data")
+				# 	exit()
 
 
 			elem.clear()
@@ -596,9 +599,6 @@ if __name__== "__main__":
 	file_path = sys.argv[1]
 	dirName = sys.argv[2]
 
-	# path = os.path.join(dirName, "Index_Title.txt")
-	# f6 = open(path, 'w')
-
 	context = ET.iterparse(file_path)
 	start=timeit.default_timer()
 
@@ -606,6 +606,7 @@ if __name__== "__main__":
 	# print_PostingList()
 
 	index_file("Data")
+
 	stop=timeit.default_timer()
 	print(stop-start)
 

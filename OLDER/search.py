@@ -9,16 +9,6 @@ from operator import itemgetter
 import operator
 import os
 import re
-import pickle
-
-
-# For Secondary Index File
-Secondary_Body = {}
-Secondary_Infobox = {}
-Secondary_Links = {}
-Secondary_Category = {}
-Secondary_Title = {}
-Secondary_Reference = {}
 
 
 stop_words = ['all', 'just', "don't", 'being', 'over', 'both', 'through', 'yourselves', 'its', 'before', 'o', 'don', 'hadn', 'herself', 'll', 'had', 'should', 'to', 'only', 'won', 'under', 'ours', 'has', "should've", "haven't", 'do', 'them', 'his', 'very', "you've", 'they', 'not', 'during', 'now', 'him', 'nor', "wasn't", 'd', 'did', 'didn', 'this', 'she', 'each', 'further', "won't", 'where', "mustn't", "isn't", 'few', 'because', "you'd", 'doing', 'some', 'hasn', "hasn't", 'are', 'our', 'ourselves', 'out', 'what', 'for', "needn't", 'below', 're', 'does', "shouldn't", 'above', 'between', 'mustn', 't', 'be', 'we', 'who', "mightn't", "doesn't", 'were', 'here', 'shouldn', 'hers', "aren't", 'by', 'on', 'about', 'couldn', 'of', "wouldn't", 'against', 's', 'isn', 'or', 'own', 'into', 'yourself', 'down', "hadn't", 'mightn', "couldn't", 'wasn', 'your', "you're", 'from', 'her', 'their', 'aren', "it's", 'there', 'been', 'whom', 'too', 'wouldn', 'themselves', 'weren', 'was', 'until', 'more', 'himself', 'that', "didn't", 'but', "that'll", 'with', 'than', 'those', 'he', 'me', 'myself', 'ma', "weren't", 'these', 'up', 'will', 'while', 'ain', 'can', 'theirs', 'my', 'and', 've', 'then', 'is', 'am', 'it', 'doesn', 'an', 'as', 'itself', 'at', 'have', 'in', 'any', 'if', 'again', 'no', 'when', 'same', 'how', 'other', 'which', 'you', "shan't", 'shan', 'needn', 'haven', 'after', 'most', 'such', 'why', 'a', 'off', 'i', 'm', 'yours', "you'll", 'so', 'y', "she's", 'the', 'having', 'once']
@@ -122,12 +112,7 @@ def field_query(search_query, outputs):
 
 
 
-def get_file_no(search_query, Secondary):
 
-    for key, value in Secondary.items():
-        if search_query <= key:
-            file_no = Secondary[key]
-            return file_no
 
 
 
@@ -135,19 +120,7 @@ def get_file_no(search_query, Secondary):
 
 #***************************************************************************************
 
-def processing(search_query, outputs, path_to_index):
-
-    Index_Title = {}
-
-    global Secondary_Body
-    global Secondary_Infobox
-    global Secondary_Links
-    global Secondary_Title
-    global Secondary_Reference
-    global Secondary_Category
-
-
-
+def processing(search_query, outputs):
 
     if ":" in search_query:
         field_query(search_query, outputs)
@@ -170,35 +143,27 @@ def processing(search_query, outputs, path_to_index):
             filter_query.append(word.lower())
 
 
- 
-    for word in filter_query:
-        
-        file_no = get_file_no(word, Secondary_Infobox)
-        #print(file_no)
-        Loading_Data(Infobox_Posting_List, os.path.join(path_to_index, "Infobox_Final_Index/Infobox_Index_"+str(file_no)+".txt"))
-        if Infobox_Posting_List[word]:
-            print("I")
-            Dict_query[word].append(Infobox_Posting_List[word])
 
-       
+    for word in filter_query:
+        try:
+            if Infobox_Posting_List[word]:
+                # for val in Infobox_Posting_List[word]:
+                Dict_query[word].append(Infobox_Posting_List[word])
+
+        except:
+            pass
 
         try:
-            file_no = get_file_no(word, Secondary_Body)
-            #print(file_no)
-            Loading_Data(Body_Posting_List, os.path.join(path_to_index, "Body_Final_Index/Body_Index_"+str(file_no)+".txt"))
             if Body_Posting_List[word]:
-                print("B")
+                # for val in Body_Posting_List[word]:
                 Dict_query[word].append(Body_Posting_List[word])
 
         except:
             pass
 
         try:
-            file_no = get_file_no(word, Secondary_Links)
-            #print(file_no)
-            Loading_Data(Links_Posting_List, os.path.join(path_to_index, "Links_Final_Index/Links_Index_"+str(file_no)+".txt"))
             if Links_Posting_List[word]:
-                print("L")
+                # for val in Body_Posting_List[word]:
                 Dict_query[word].append(Links_Posting_List[word])
 
         except:
@@ -206,11 +171,8 @@ def processing(search_query, outputs, path_to_index):
 
 
         try:
-            file_no = get_file_no(word, Secondary_Title)
-            #print(file_no)
-            Loading_Data(Title_Posting_List, os.path.join(path_to_index, "Title_Final_Index/Title_Index_"+str(file_no)+".txt"))
             if Title_Posting_List[word]:
-                print("T")
+                # for val in Body_Posting_List[word]:
                 Dict_query[word].append(Title_Posting_List[word])
 
         except:
@@ -218,27 +180,21 @@ def processing(search_query, outputs, path_to_index):
 
 
         try:
-            file_no = get_file_no(word, Secondary_Category)
-            #print(file_no)
-            Loading_Data(Category_Posting_List, os.path.join(path_to_index, "Category_Final_Index/Category_Index_"+str(file_no)+".txt"))
             if Category_Posting_List[word]:
-                print("C")
+                # for val in Body_Posting_List[word]:
                 Dict_query[word].append(Category_Posting_List[word])
 
         except:
             pass
 
 
-        try:
-            file_no = get_file_no(word, Secondary_Reference)
-            #print(file_no)
-            Loading_Data(Reference_Posting_List, os.path.join(path_to_index, "Reference_Final_Index/Reference_Index_"+str(file_no)+".txt"))
-            if Reference_Posting_List[word]:
-                print("R")
-                Dict_query[word].append(Reference_Posting_List[word])
+        # try:
+        #     if Reference_Posting_List[word]:
+        #         # for val in Body_Posting_List[word]:
+        #         Dict_query[word].append(Reference_Posting_List[word])
 
-        except:
-            pass
+        # except:
+        #     pass
 
 
 
@@ -260,6 +216,7 @@ def processing(search_query, outputs, path_to_index):
             Dict_for_intersect[word] = set(temp_set)
 
 
+
     # Forming Intersection List
     Intersect_List = []
     for word in filter_query:
@@ -273,7 +230,7 @@ def processing(search_query, outputs, path_to_index):
     
     tmp = []
     # Finding Union and appending to list
-    for val in reduce(lambda s1, s2: s1 & s2, Intersect_List):
+    for val in reduce(lambda s1, s2: s1 | s2, Intersect_List):
         tmp.append(val)
         
 
@@ -292,15 +249,10 @@ def processing(search_query, outputs, path_to_index):
     # Sort the Dictionary according to the keys
     sorted_x = sorted(Output.items(), key=operator.itemgetter(1), reverse=True)
 
-    
     # Selecting Top 25 Values
     count = 0
-
     tmp_output = []
     for val in sorted_x:
-
-        Loading_Index(Index_Title, val[0], os.path.join(path_to_index, "title/file"))
-
         li = []
         val1 = Index_Title[str(val[0])]
         li.append(val1)
@@ -342,20 +294,17 @@ Reference_Posting_List = defaultdict(list)
 
 def Loading_Data(Posting_List, catg):
 
-    if Posting_List:
-        Posting_List.clear()
-
     f=open(catg, "r")
-    content = f.readlines()
-    # content = content.split("\n")
+    content = f.read()
+    content = content.split("\n")
     count = 0
 
     for i in content:
         if not i:
             continue
 
-        key = i.split("~")[0].strip()
-        value = i.split("~")[1]
+        key = i.split(":")[0].strip()
+        value = i.split(":")[1]
         
         value = value.replace("[", " ")
         value = value.replace("]"," ").split(",")
@@ -371,24 +320,10 @@ def Loading_Data(Posting_List, catg):
 
 
 
+Index_Title = {}
+def Loading_Index(Index_Title, catg):
 
-def Loading_Index(Index_Title, val, catg):
-
-    Secondary_Title = {}
-
-    if Index_Title:
-        Index_Title.clear()
-
-    with open('Final_Index/title/Index_Title_Secondary_Index.pickle', 'rb') as handle:
-        Secondary_Title = pickle.load(handle)
-
-    for key, value in Secondary_Title.items():
-        if int(val) <= int(key):
-            file_no = Secondary_Title[key]
-            break
-
-
-    f=open(catg+str(file_no)+".txt", "r")
+    f=open(catg, "r")
     content = f.read()
     content = content.split("\n")
     count = 0
@@ -397,8 +332,8 @@ def Loading_Index(Index_Title, val, catg):
         if not i:
             continue
 
-        key = i.split("~")[0].strip()
-        value = i.split("~")[1]
+        key = i.split(":")[0].strip()
+        value = i.split(":")[1]
 
         Index_Title[key] = value
         
@@ -433,8 +368,6 @@ def write_file(outputs, path_to_output):
 
 
 
-
-
 def search(path_to_index, queries):
     '''Write your code here'''
 
@@ -453,36 +386,20 @@ def search(path_to_index, queries):
     global Reference_Posting_List
     global Index_Title
 
-    global Secondary_Body
-    global Secondary_Infobox
-    global Secondary_Links
-    global Secondary_Category
-    global Secondary_Title
-    global Secondary_Reference
-
-    with open('Final_Index/Body_Final_Index/Body_Secondary_Index.pickle', 'rb') as handle:
-        Secondary_Body = pickle.load(handle)
-
-    with open('Final_Index/Infobox_Final_Index/Infobox_Secondary_Index.pickle', 'rb') as handle:
-        Secondary_Infobox = pickle.load(handle)
-
-    with open('Final_Index/Links_Final_Index/Links_Secondary_Index.pickle', 'rb') as handle:
-        Secondary_Links = pickle.load(handle)
-
-    with open('Final_Index/Category_Final_Index/Category_Secondary_Index.pickle', 'rb') as handle:
-        Secondary_Category = pickle.load(handle)
-
-    with open('Final_Index/Title_Final_Index/Title_Secondary_Index.pickle', 'rb') as handle:
-        Secondary_Title = pickle.load(handle)
-
-    with open('Final_Index/Reference_Final_Index/Reference_Secondary_Index.pickle', 'rb') as handle:
-        Secondary_Reference = pickle.load(handle)
-
+    Loading_Data(Infobox_Posting_List, os.path.join(path_to_index, "Infobox.txt"))
+    Loading_Data(Title_Posting_List, os.path.join(path_to_index, "Title.txt"))
+    Loading_Data(Links_Posting_List, os.path.join(path_to_index, "Links.txt"))
+    Loading_Data(Category_Posting_List, os.path.join(path_to_index, "Category.txt"))
+    Loading_Data(Body_Posting_List, os.path.join(path_to_index, "Body.txt"))
+    Loading_Index(Reference_Posting_List, os.path.join(path_to_index, "Reference.txt"))
+    Loading_Index(Index_Title, os.path.join(path_to_index, "Index_Title.txt"))
 
     outputs = []
 
+    #search_query = "title:gandhi body:arjun infobox:gandhi category:gandhi"
+    #processing(search_query)
     for search_query in queries:
-        processing(search_query, outputs, path_to_index)
+        processing(search_query, outputs)
 
     return outputs
 
@@ -492,13 +409,9 @@ def search(path_to_index, queries):
 
 
 def main():
-    # path_to_index = sys.argv[1]
-    # testfile = sys.argv[2]
-    # path_to_output = sys.argv[3]
-
-    path_to_index = "Final_Index/"
-    testfile = "queryfile"
-    path_to_output = "output.txt"
+    path_to_index = sys.argv[1]
+    testfile = sys.argv[2]
+    path_to_output = sys.argv[3]
 
     queries = read_file(testfile)
     outputs = search(path_to_index, queries)

@@ -49,9 +49,9 @@ def index_file(dirName):
 
 	# For Doc ID ----> Title
 	f6 = open(os.path.join("Data", "Index_Title/file"+str(File_Count)+".txt"), 'w')
-	#title_doc_ = sorted(title_doc,key=itemgetter(1)) ;
+	title_doc_ = sorted(title_doc,key=itemgetter(1)) ;
 
-	for i in title_doc:
+	for i in title_doc_:
 		f6.write(str(i[0]) + "~" + i[1] + "\n")
 	
 	f6.close()

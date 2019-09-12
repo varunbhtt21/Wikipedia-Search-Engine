@@ -25,7 +25,7 @@ def merge_files(final_index, no_of_files):
         file_names = []
 
         for i in range(1, k):
-            file_names.append("Index_Title/file"+str(i)+".txt")
+            file_names.append("Infobox/file"+str(i)+".txt")
             
         files = [open(i, "r") for i in file_names]
 
@@ -56,13 +56,13 @@ def merge_files(final_index, no_of_files):
             heapq.heappush(heap, (val[0], val[1], file_no))
             Data_List[elem[0]].append(elem[1])
 
-            if count == 1000000:
+            if count == 50000:
                 flag = 1
 
                 file_count += 1
                 print("File : ",file_count)
 
-                f2 = open("Index_Title_Final_Index/Index_Title_Index_"+str(file_count)+".txt", 'w')
+                f2 = open("Final_Index/Infobox_Final_Index/Infobox_Index_"+str(file_count)+".txt", 'w')
 
                 for key, value in Data_List.items():
                     f2.write(key+"~")
@@ -83,7 +83,7 @@ def merge_files(final_index, no_of_files):
         if flag == 0:
             file_count += 1
             print("Last File : ",file_count)
-            f2 = open("Index_Title_Final_Index/Index_Title_Index_"+str(file_count)+".txt", 'w')
+            f2 = open("Final_Index/Infobox_Final_Index/Infobox_Index_"+str(file_count)+".txt", 'w')
             for key, value in Data_List.items():
                 f2.write(key+"~")
                 
@@ -108,7 +108,7 @@ def merge_files(final_index, no_of_files):
 merge_files("",979)
 print("Done")
 # print(Secondary_Index)
-with open('Index_Title_Final_Index/Index_Title_Secondary_Index.pickle', 'wb') as handle:
+with open('Final_Index/Infobox_Final_Index/Infobox_Secondary_Index.pickle', 'wb') as handle:
     pickle.dump(Secondary_Index, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 print("Dumping Done")

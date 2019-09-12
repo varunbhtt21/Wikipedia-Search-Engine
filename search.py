@@ -10,6 +10,8 @@ import operator
 import os
 import re
 import pickle
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics import pairwise_kernels
 
 
 # For Secondary Index File
@@ -174,8 +176,8 @@ def processing(search_query, outputs, path_to_index):
     for word in filter_query:
         
         file_no = get_file_no(word, Secondary_Infobox)
-        #print(file_no)
-        Loading_Data(Infobox_Posting_List, os.path.join(path_to_index, "Infobox_Final_Index/Infobox_Index_"+str(file_no)+".txt"))
+        print(file_no)
+        Loading_Data(word, Infobox_Posting_List, os.path.join(path_to_index, "Infobox_Final_Index/Infobox_Index_"+str(file_no)+".txt"))
         if Infobox_Posting_List[word]:
             print("I")
             Dict_query[word].append(Infobox_Posting_List[word])
@@ -185,10 +187,11 @@ def processing(search_query, outputs, path_to_index):
         try:
             file_no = get_file_no(word, Secondary_Body)
             #print(file_no)
-            Loading_Data(Body_Posting_List, os.path.join(path_to_index, "Body_Final_Index/Body_Index_"+str(file_no)+".txt"))
+            Loading_Data(word, Body_Posting_List, os.path.join(path_to_index, "Body_Final_Index/Body_Index_"+str(file_no)+".txt"))
             if Body_Posting_List[word]:
                 print("B")
                 Dict_query[word].append(Body_Posting_List[word])
+            Body_Posting_List.clear()
 
         except:
             pass
@@ -196,10 +199,11 @@ def processing(search_query, outputs, path_to_index):
         try:
             file_no = get_file_no(word, Secondary_Links)
             #print(file_no)
-            Loading_Data(Links_Posting_List, os.path.join(path_to_index, "Links_Final_Index/Links_Index_"+str(file_no)+".txt"))
+            Loading_Data(word, Links_Posting_List, os.path.join(path_to_index, "Links_Final_Index/Links_Index_"+str(file_no)+".txt"))
             if Links_Posting_List[word]:
                 print("L")
                 Dict_query[word].append(Links_Posting_List[word])
+            Links_Posting_List.clear()
 
         except:
             pass
@@ -208,10 +212,11 @@ def processing(search_query, outputs, path_to_index):
         try:
             file_no = get_file_no(word, Secondary_Title)
             #print(file_no)
-            Loading_Data(Title_Posting_List, os.path.join(path_to_index, "Title_Final_Index/Title_Index_"+str(file_no)+".txt"))
+            Loading_Data(word, Title_Posting_List, os.path.join(path_to_index, "Title_Final_Index/Title_Index_"+str(file_no)+".txt"))
             if Title_Posting_List[word]:
                 print("T")
                 Dict_query[word].append(Title_Posting_List[word])
+            Title_Posting_List.clear()
 
         except:
             pass
@@ -220,10 +225,11 @@ def processing(search_query, outputs, path_to_index):
         try:
             file_no = get_file_no(word, Secondary_Category)
             #print(file_no)
-            Loading_Data(Category_Posting_List, os.path.join(path_to_index, "Category_Final_Index/Category_Index_"+str(file_no)+".txt"))
+            Loading_Data(word, Category_Posting_List, os.path.join(path_to_index, "Category_Final_Index/Category_Index_"+str(file_no)+".txt"))
             if Category_Posting_List[word]:
                 print("C")
                 Dict_query[word].append(Category_Posting_List[word])
+            Category_Posting_List.clear()
 
         except:
             pass
@@ -232,10 +238,11 @@ def processing(search_query, outputs, path_to_index):
         try:
             file_no = get_file_no(word, Secondary_Reference)
             #print(file_no)
-            Loading_Data(Reference_Posting_List, os.path.join(path_to_index, "Reference_Final_Index/Reference_Index_"+str(file_no)+".txt"))
+            Loading_Data(word, Reference_Posting_List, os.path.join(path_to_index, "Reference_Final_Index/Reference_Index_"+str(file_no)+".txt"))
             if Reference_Posting_List[word]:
                 print("R")
                 Dict_query[word].append(Reference_Posting_List[word])
+            Reference_Posting_List.clear()
 
         except:
             pass
@@ -263,7 +270,11 @@ def processing(search_query, outputs, path_to_index):
     # Forming Intersection List
     Intersect_List = []
     for word in filter_query:
-        Intersect_List.append(Dict_for_intersect[word])
+        try:
+            Intersect_List.append(Dict_for_intersect[word])
+        except:
+            print(word,"not found in Database !!!")
+            return
 
 
     #set_list_intersection(Intersect_List)
@@ -285,8 +296,10 @@ def processing(search_query, outputs, path_to_index):
         else: 
             Output[x] = [(y)] 
 
+
     for i in Output:
-        Output[i] = sum(Output[i])
+        val = len(Output[i])/19567269
+        Output[i] = sum(Output[i])*val
 
 
     # Sort the Dictionary according to the keys
@@ -317,7 +330,17 @@ def processing(search_query, outputs, path_to_index):
             break
 
 
-    li = []
+    # li = []
+    # candidate_list = ['orange', 'banana', 'apple1', 'pineapple']
+    # target = 'apple'
+
+    # vec = CountVectorizer(analyzer='char')
+    # vec.fit(candidate_list)
+
+    # pairwise_kernels(vec.transform([target]),
+    # vec.transform(candidate_list),metric='cosine')
+    # # array([[ 0.3086067 ,  0.30304576,  0.93541435,  0.9166985 ]])
+
     outputs.append(li)
 
 
@@ -340,7 +363,7 @@ Title_Posting_List = defaultdict(list)
 Reference_Posting_List = defaultdict(list)
 
 
-def Loading_Data(Posting_List, catg):
+def Loading_Data(word, Posting_List, catg):
 
     if Posting_List:
         Posting_List.clear()
@@ -356,6 +379,9 @@ def Loading_Data(Posting_List, catg):
 
         key = i.split("~")[0].strip()
         value = i.split("~")[1]
+
+        if key != word:
+            continue
         
         value = value.replace("[", " ")
         value = value.replace("]"," ").split(",")
@@ -367,6 +393,7 @@ def Loading_Data(Posting_List, catg):
                     Posting_List[key].append((int(val[0]), int(val[1])))
                 except:
                     pass
+
 
 
 

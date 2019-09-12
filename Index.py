@@ -30,20 +30,20 @@ def index_file(dirName):
 
 
 
-	# f1 = open(os.path.join(dirName, "Infobox/file"+str(File_Count)+".txt"), 'w')
-	# f2 = open(os.path.join(dirName, "Category/file"+str(File_Count)+".txt"), 'w')
-	# f3 = open(os.path.join(dirName, "Links/file"+str(File_Count)+".txt"), 'w')
-	# f4 = open(os.path.join(dirName, "Body/file"+str(File_Count)+".txt"), 'w')
-	# f5 = open(os.path.join(dirName, "Title/file"+str(File_Count)+".txt"), 'w')
-	# f8 = open(os.path.join(dirName, "Reference/file"+str(File_Count)+".txt"), 'w')
+	f1 = open(os.path.join(dirName, "Infobox/file"+str(File_Count)+".txt"), 'w')
+	f2 = open(os.path.join(dirName, "Category/file"+str(File_Count)+".txt"), 'w')
+	f3 = open(os.path.join(dirName, "Links/file"+str(File_Count)+".txt"), 'w')
+	f4 = open(os.path.join(dirName, "Body/file"+str(File_Count)+".txt"), 'w')
+	f5 = open(os.path.join(dirName, "Title/file"+str(File_Count)+".txt"), 'w')
+	f8 = open(os.path.join(dirName, "Reference/file"+str(File_Count)+".txt"), 'w')
 
 	
-	# global Infobox_Posting_List
-	# global Category_Posting_List
-	# global Body_Posting_List
-	# global Links_Posting_List
-	# global Title_Posting_List
-	# global Reference_Posting_List
+	global Infobox_Posting_List
+	global Category_Posting_List
+	global Body_Posting_List
+	global Links_Posting_List
+	global Title_Posting_List
+	global Reference_Posting_List
 	global title_doc
 
 
@@ -58,88 +58,88 @@ def index_file(dirName):
 	title_doc.clear()
 
 	
-	# Infobox_Posting_List_ = collections.OrderedDict(sorted(Infobox_Posting_List.items()))
-	# Category_Posting_List_ = collections.OrderedDict(sorted(Category_Posting_List.items()))
-	# Body_Posting_List_ = collections.OrderedDict(sorted(Body_Posting_List.items()))
-	# Links_Posting_List_ = collections.OrderedDict(sorted(Links_Posting_List.items()))
-	# Title_Posting_List_ = collections.OrderedDict(sorted(Title_Posting_List.items()))
-	# Reference_Posting_List_ = collections.OrderedDict(sorted(Reference_Posting_List.items()))
+	Infobox_Posting_List_ = collections.OrderedDict(sorted(Infobox_Posting_List.items()))
+	Category_Posting_List_ = collections.OrderedDict(sorted(Category_Posting_List.items()))
+	Body_Posting_List_ = collections.OrderedDict(sorted(Body_Posting_List.items()))
+	Links_Posting_List_ = collections.OrderedDict(sorted(Links_Posting_List.items()))
+	Title_Posting_List_ = collections.OrderedDict(sorted(Title_Posting_List.items()))
+	Reference_Posting_List_ = collections.OrderedDict(sorted(Reference_Posting_List.items()))
 
-	# for i in Infobox_Posting_List_:
-	# 	f1.write(i + " ~ ")
-	# 	for j in Infobox_Posting_List_[i]:
-	# 		f1.write("[ ")
-	# 		for k in j:
-	# 			f1.write(str(k)+" ")
-	# 		f1.write("] ,")
-	# 	f1.write("\n")
+	for i in Infobox_Posting_List_:
+		f1.write(i + " ~ ")
+		for j in Infobox_Posting_List_[i]:
+			f1.write("[ ")
+			for k in j:
+				f1.write(str(k)+" ")
+			f1.write("] ,")
+		f1.write("\n")
 
-	# for i in Category_Posting_List_:
-	# 	f2.write(i + " ~ ")
-	# 	for j in Category_Posting_List_[i]:
-	# 		f2.write("[ ")
-	# 		for k in j:
-	# 			f2.write(str(k)+" ")
-	# 		f2.write("] ,")
-	# 	f2.write("\n")
-
-
-
-	# for i in Body_Posting_List_:
-	# 	f4.write(i + " ~ ")
-	# 	for j in Body_Posting_List_[i]:
-	# 		f4.write("[ ")
-	# 		for k in j:
-	# 			f4.write(str(k)+" ")
-	# 		f4.write("] ,")
-	# 	f4.write("\n")
+	for i in Category_Posting_List_:
+		f2.write(i + " ~ ")
+		for j in Category_Posting_List_[i]:
+			f2.write("[ ")
+			for k in j:
+				f2.write(str(k)+" ")
+			f2.write("] ,")
+		f2.write("\n")
 
 
 
-	# for i in Links_Posting_List_:
-	# 	f3.write(i + " ~ ")
-	# 	for j in Links_Posting_List_[i]:
-	# 		f3.write("[ ")
-	# 		for k in j:
-	# 			f3.write(str(k)+" ")
-	# 		f3.write("] ,")
-	# 	f3.write("\n")
-
-
-	# for i in Title_Posting_List_:
-	# 	f5.write(i + " ~ ")
-	# 	for j in Title_Posting_List_[i]:
-	# 		f5.write("[ ")
-	# 		for k in j:
-	# 			f5.write(str(k)+" ")
-	# 		f5.write("] ,")
-	# 	f5.write("\n")
-
-
-	# for i in Reference_Posting_List_:
-	# 	f8.write(i + " ~ ")
-	# 	for j in Reference_Posting_List_[i]:
-	# 		f8.write("[ ")
-	# 		for k in j:
-	# 			f8.write(str(k)+" ")
-	# 		f8.write("] ,")
-	# 	f8.write("\n")
+	for i in Body_Posting_List_:
+		f4.write(i + " ~ ")
+		for j in Body_Posting_List_[i]:
+			f4.write("[ ")
+			for k in j:
+				f4.write(str(k)+" ")
+			f4.write("] ,")
+		f4.write("\n")
 
 
 
-	# f1.close()
-	# f2.close()
-	# f3.close()
-	# f4.close()
-	# f5.close()
-	# f8.close()
+	for i in Links_Posting_List_:
+		f3.write(i + " ~ ")
+		for j in Links_Posting_List_[i]:
+			f3.write("[ ")
+			for k in j:
+				f3.write(str(k)+" ")
+			f3.write("] ,")
+		f3.write("\n")
 
-	# Infobox_Posting_List.clear()
-	# Category_Posting_List.clear()
-	# Body_Posting_List.clear()
-	# Links_Posting_List.clear()
-	# Title_Posting_List.clear()
-	# Reference_Posting_List.clear()
+
+	for i in Title_Posting_List_:
+		f5.write(i + " ~ ")
+		for j in Title_Posting_List_[i]:
+			f5.write("[ ")
+			for k in j:
+				f5.write(str(k)+" ")
+			f5.write("] ,")
+		f5.write("\n")
+
+
+	for i in Reference_Posting_List_:
+		f8.write(i + " ~ ")
+		for j in Reference_Posting_List_[i]:
+			f8.write("[ ")
+			for k in j:
+				f8.write(str(k)+" ")
+			f8.write("] ,")
+		f8.write("\n")
+
+
+
+	f1.close()
+	f2.close()
+	f3.close()
+	f4.close()
+	f5.close()
+	f8.close()
+
+	Infobox_Posting_List.clear()
+	Category_Posting_List.clear()
+	Body_Posting_List.clear()
+	Links_Posting_List.clear()
+	Title_Posting_List.clear()
+	Reference_Posting_List.clear()
 
 
 
@@ -554,7 +554,7 @@ def main():
 					# print("DOCUMENT : " + str(DOC_NO))
 
 				title_doc.append((DOC_NO, elem.text))
-				# f6.write(str(DOC_NO) + ":"+elem.text+"\n")
+				f6.write(str(DOC_NO) + ":"+elem.text+"\n")
 		#*********************************************************************
 		# Getting Information of Title and Text
 
@@ -566,22 +566,22 @@ def main():
 				if elem.text is not None:
 					pass
 					
-					# Infobox_Extraction(elem.text)
-					# links(elem.text)
-					# get_Category(elem.text)
-					# reference_set(elem.text)
-					# body_tag(elem.text)
+					Infobox_Extraction(elem.text)
+					links(elem.text)
+					get_Category(elem.text)
+					reference_set(elem.text)
+					body_tag(elem.text)
 
-				if DOC_NO % 20000 == 0:
-					file += 1
+				# if DOC_NO % 20000 == 0:
+				# 	file += 1
+				# 	index_file("Data")
+				# 	print("File : "+ str(file))
+
+
+				if DOC_NO == 100000:
+					# print_PostingList()
 					index_file("Data")
-					print("File : "+ str(file))
-
-
-				# if DOC_NO == 100000:
-				# 	# print_PostingList()
-				# 	# index_file("Data")
-				# 	exit()
+					exit()
 
 
 			elem.clear()
@@ -602,10 +602,8 @@ if __name__== "__main__":
 
 	context = ET.iterparse(file_path)
 	start=timeit.default_timer()
-
+	
 	main()
-	# print_PostingList()
-
 	index_file("Data")
 
 	stop=timeit.default_timer()

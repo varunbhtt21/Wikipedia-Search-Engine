@@ -85,18 +85,33 @@ def field_query(search_query, outputs, path_to_index):
                 dict_val[value] = Infobox_Posting_List[value]
 
         elif flag == "category":
-            dict_val[value] = Infobox_Posting_List[value]
+            file_no = get_file_no(value, Secondary_Category)
+            #print(file_no)
+            Loading_Data(value, Category_Posting_List, os.path.join(path_to_index, "Category_Final_Index/Category_Index_"+str(file_no)+".txt"))
+            if Category_Posting_List[value]:
+                dict_val[value] = Category_Posting_List[value]
 
         elif flag == "body":
-            dict_val[value] = Body_Posting_List[value]
+            file_no = get_file_no(value, Secondary_Body)
+            #print("B",file_no)
+            Loading_Data(value, Body_Posting_List, os.path.join(path_to_index, "Body_Final_Index/Body_Index_"+str(file_no)+".txt"))
+            if Body_Posting_List[value]:
+                dict_val[value] = Body_Posting_List[value]
 
         elif flag == "ref":
-            dict_val[value] = Reference_Posting_List[value]
+            file_no = get_file_no(value, Secondary_Reference)
+            Loading_Data(value, Reference_Posting_List, os.path.join(path_to_index, "Reference_Final_Index/Reference_Index_"+str(file_no)+".txt"))
+            if Reference_Posting_List[value]:
+                dict_val[value] = Reference_Posting_List[value]
 
 
     union_list = []
     for keys, value in dict_val.items():
         union_list.append(set(value))
+
+    if not union_list:
+        print("Empty Information \n")
+        return
 
 
     # ***********************************RANKING****************************************
@@ -109,7 +124,9 @@ def field_query(search_query, outputs, path_to_index):
         for val in reduce(lambda s1, s2: s1 | s2, union_list):
             tmp.append(val)
 
-
+    if not tmp:
+        print("\n No Related Information Present \n")
+        return
         
 
     # Appending the sum of count value to each Doc ID
@@ -150,7 +167,7 @@ def field_query(search_query, outputs, path_to_index):
         tmp_output.append(li)
         count += 1
 
-        if count == 500:
+        if count == 200:
             break
 
 
@@ -301,7 +318,7 @@ def processing(search_quer, outputs, path_to_index):
 
         try:
             file_no = get_file_no(word, Secondary_Body)
-            #print(file_no)
+            #print("B",file_no)
             Loading_Data(word, Body_Posting_List, os.path.join(path_to_index, "Body_Final_Index/Body_Index_"+str(file_no)+".txt"))
             if Body_Posting_List[word]:
                 #print("B")
@@ -387,8 +404,10 @@ def processing(search_quer, outputs, path_to_index):
         try:
             Intersect_List.append(Dict_for_intersect[word])
         except:
-            print(word,"not found in Database !!!")
-            return
+            print(word,"not found in Database !!!\n")
+    
+    if not Intersect_List:
+        return
 
 
     #set_list_intersection(Intersect_List)
@@ -398,11 +417,11 @@ def processing(search_quer, outputs, path_to_index):
     
     tmp = []
     # Finding Union and appending to list
-    for val in reduce(lambda s1, s2: s1 | s2, Intersect_List):
+    for val in reduce(lambda s1, s2: s1 & s2, Intersect_List):
         tmp.append(val)
 
     if not tmp:
-        for val in reduce(lambda s1, s2: s1 | s2, union_list):
+        for val in reduce(lambda s1, s2: s1 | s2, Intersect_List):
             tmp.append(val)
     
     if not tmp:
@@ -449,7 +468,7 @@ def processing(search_quer, outputs, path_to_index):
         tmp_output.append(li)
         count += 1
 
-        if count == 500:
+        if count == 200:
             break
 
 
@@ -715,6 +734,9 @@ def main():
 
     while(1):
         queries = input("Search : ")
+
+        if queries == "exit":
+            break
         outputs = search(path_to_index, queries)
         write_file(outputs, path_to_output)
         

@@ -12,6 +12,9 @@ import re
 import pickle
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import pairwise_kernels
+import math
+from functools import reduce
+import timeit
 
 
 # For Secondary Index File
@@ -42,21 +45,44 @@ ps = PorterStemmer()
 
 
 
-def field_query(search_query, outputs):
+def field_query(search_query, outputs, path_to_index):
+
+    start=timeit.default_timer()
+
+    global Secondary_Body
+    global Secondary_Infobox
+    global Secondary_Links
+    global Secondary_Title
+    global Secondary_Reference
+    global Secondary_Category
+
+    Index_Title = {}
+
 
     search_query = search_query.split(" ")
 
     dict_val = {}
+    search_quer = ""
+
     for value in search_query:
         if "title" in value or "infobox" in value or "body" in value or "category" in value or "ref" in value:
             flag = value.split(":")[0]
             value = value.split(":")[1]
 
+            search_quer = search_quer + str(value) + " "
+
         if flag == "title":
-            dict_val[value] = Title_Posting_List[value]
+            file_no = get_file_no(value, Secondary_Title)
+            Loading_Data(value, Title_Posting_List, os.path.join(path_to_index, "Title_Final_Index/Title_Index_"+str(file_no)+".txt"))
+            if Title_Posting_List[value]:
+                dict_val[value] = Title_Posting_List[value]
+            
 
         elif flag == "infobox":
-            dict_val[value] = Infobox_Posting_List[value]
+            file_no = get_file_no(value, Secondary_Infobox)
+            Loading_Data(value, Infobox_Posting_List, os.path.join(path_to_index, "Infobox_Final_Index/Infobox_Index_"+str(file_no)+".txt"))
+            if Infobox_Posting_List[value]:
+                dict_val[value] = Infobox_Posting_List[value]
 
         elif flag == "category":
             dict_val[value] = Infobox_Posting_List[value]
@@ -76,8 +102,14 @@ def field_query(search_query, outputs):
     # ***********************************RANKING****************************************
     tmp = []
     # Finding Union and appending to list
-    for val in reduce(lambda s1, s2: s1 | s2, union_list):
+    for val in reduce(lambda s1, s2: s1 & s2, union_list):
         tmp.append(val)
+
+    if not tmp:
+        for val in reduce(lambda s1, s2: s1 | s2, union_list):
+            tmp.append(val)
+
+
         
 
     # Appending the sum of count value to each Doc ID
@@ -99,29 +131,105 @@ def field_query(search_query, outputs):
     count = 0
     tmp_output = []
 
+    temp = []
     for val in sorted_x:
+
+        Loading_Index(Index_Title, val[0], os.path.join(path_to_index, "title/file"))
+
         li = []
         val1 = Index_Title[str(val[0])]
         li.append(val1)
 
-        # Check for no Duplicates
+        temp.append(val1.lower())
+
+        # Check For No Duplicates
         if li in tmp_output:
             continue
 
-        outputs.append(li)
+        # outputs.append(li)
         tmp_output.append(li)
         count += 1
+
+        if count == 500:
+            break
+
+
+    stop=timeit.default_timer()
+    
+
+    # APPLYING COSINE SIMILARITY
+
+    v = []
+    v.append(search_quer)
+
+    # Scikit Learn
+    from sklearn.feature_extraction.text import CountVectorizer
+    import pandas as pd
+
+    # Create the Document Term Matrix
+    count_vectorizer = CountVectorizer(stop_words='english')
+    count_vectorizer = CountVectorizer()
+    sparse_matrix = count_vectorizer.fit_transform(temp)
+
+    # OPTIONAL: Convert Sparse Matrix to Pandas Dataframe if you want to see the word frequencies.
+    doc_term_matrix = sparse_matrix.todense()
+    df = pd.DataFrame(doc_term_matrix, 
+                      columns=count_vectorizer.get_feature_names(), 
+                      index=temp)
+
+
+
+    sparse_matrix1 = count_vectorizer.transform(v)
+    doc_term_matrix1 = sparse_matrix1.todense()
+
+
+    df1 = pd.DataFrame(doc_term_matrix1, 
+                      columns=count_vectorizer.get_feature_names(), 
+                      index=v)
+
+    from sklearn.metrics.pairwise import cosine_similarity    
+    cosine_values = cosine_similarity(df1, df)
+
+    
+    # Pairing title with the cosine values
+    Pair_Title_Cosine_Value = []
+
+    for cos_list in cosine_values:
+        temp_list = []
+        for value1, value2 in zip(cos_list, temp):
+            temp_list.append((value1,value2))
+        Pair_Title_Cosine_Value.append(temp_list)
+
+    for val in range(0, len(Pair_Title_Cosine_Value)):
+        Pair_Title_Cosine_Value[val] = sorted(Pair_Title_Cosine_Value[val], reverse=True, key=operator.itemgetter(0))
+    
+    Pair_Title_Cosine_Value = reduce(lambda x,y :x+y ,Pair_Title_Cosine_Value)
+
+
+    count = 0
+    for val in Pair_Title_Cosine_Value:
+        count += 1
+        li = []
+        li.append(val[1])
+        outputs.append(li)
 
         if count == 20:
             break
 
+    print("\n\nTime Taken ",stop-start)
+    print("------------------------------")
+
+    count = 0
+    for val in outputs:
+        count += 1
+        print(str(count)+" "+val[0])
+
+    print("\n")
+    print("*********************************************************************************************************************************")
+
+    print("\n")
     li = []
     outputs.append(li)
-
-    return outputs
-
-    
-
 
 
 def get_file_no(search_query, Secondary):
@@ -137,7 +245,7 @@ def get_file_no(search_query, Secondary):
 
 #***************************************************************************************
 
-def processing(search_query, outputs, path_to_index):
+def processing(search_quer, outputs, path_to_index):
 
     Index_Title = {}
 
@@ -151,15 +259,18 @@ def processing(search_query, outputs, path_to_index):
 
 
 
-    if ":" in search_query:
-        field_query(search_query, outputs)
+    if ":" in search_quer:
+        field_query(search_quer, outputs, path_to_index)
         return 
+
+    # TIMER STARTS
+    start=timeit.default_timer()
 
     filter_query = []
     Dict_query = defaultdict(list)
 
     global Dict_Stop_Words
-    search_query = search_query.split(" ")
+    search_query = search_quer.split(" ")
     
     for word in search_query:
         word = word.strip()
@@ -174,13 +285,17 @@ def processing(search_query, outputs, path_to_index):
 
  
     for word in filter_query:
-        
-        file_no = get_file_no(word, Secondary_Infobox)
-        print(file_no)
-        Loading_Data(word, Infobox_Posting_List, os.path.join(path_to_index, "Infobox_Final_Index/Infobox_Index_"+str(file_no)+".txt"))
-        if Infobox_Posting_List[word]:
-            print("I")
-            Dict_query[word].append(Infobox_Posting_List[word])
+
+        try:
+            file_no = get_file_no(word, Secondary_Infobox)
+            #print(file_no)
+            Loading_Data(word, Infobox_Posting_List, os.path.join(path_to_index, "Infobox_Final_Index/Infobox_Index_"+str(file_no)+".txt"))
+            if Infobox_Posting_List[word]:
+                #print("I")
+                Dict_query[word].append(Infobox_Posting_List[word])
+
+        except:
+            pass
 
        
 
@@ -189,7 +304,7 @@ def processing(search_query, outputs, path_to_index):
             #print(file_no)
             Loading_Data(word, Body_Posting_List, os.path.join(path_to_index, "Body_Final_Index/Body_Index_"+str(file_no)+".txt"))
             if Body_Posting_List[word]:
-                print("B")
+                #print("B")
                 Dict_query[word].append(Body_Posting_List[word])
             Body_Posting_List.clear()
 
@@ -201,7 +316,7 @@ def processing(search_query, outputs, path_to_index):
             #print(file_no)
             Loading_Data(word, Links_Posting_List, os.path.join(path_to_index, "Links_Final_Index/Links_Index_"+str(file_no)+".txt"))
             if Links_Posting_List[word]:
-                print("L")
+                #print("L")
                 Dict_query[word].append(Links_Posting_List[word])
             Links_Posting_List.clear()
 
@@ -211,10 +326,9 @@ def processing(search_query, outputs, path_to_index):
 
         try:
             file_no = get_file_no(word, Secondary_Title)
-            #print(file_no)
             Loading_Data(word, Title_Posting_List, os.path.join(path_to_index, "Title_Final_Index/Title_Index_"+str(file_no)+".txt"))
             if Title_Posting_List[word]:
-                print("T")
+                #print("T")
                 Dict_query[word].append(Title_Posting_List[word])
             Title_Posting_List.clear()
 
@@ -227,7 +341,7 @@ def processing(search_query, outputs, path_to_index):
             #print(file_no)
             Loading_Data(word, Category_Posting_List, os.path.join(path_to_index, "Category_Final_Index/Category_Index_"+str(file_no)+".txt"))
             if Category_Posting_List[word]:
-                print("C")
+                #print("C")
                 Dict_query[word].append(Category_Posting_List[word])
             Category_Posting_List.clear()
 
@@ -240,7 +354,7 @@ def processing(search_query, outputs, path_to_index):
             #print(file_no)
             Loading_Data(word, Reference_Posting_List, os.path.join(path_to_index, "Reference_Final_Index/Reference_Index_"+str(file_no)+".txt"))
             if Reference_Posting_List[word]:
-                print("R")
+                #print("R")
                 Dict_query[word].append(Reference_Posting_List[word])
             Reference_Posting_List.clear()
 
@@ -284,9 +398,16 @@ def processing(search_query, outputs, path_to_index):
     
     tmp = []
     # Finding Union and appending to list
-    for val in reduce(lambda s1, s2: s1 & s2, Intersect_List):
+    for val in reduce(lambda s1, s2: s1 | s2, Intersect_List):
         tmp.append(val)
-        
+
+    if not tmp:
+        for val in reduce(lambda s1, s2: s1 | s2, union_list):
+            tmp.append(val)
+    
+    if not tmp:
+        print("\n No Related Information Present \n")
+        return
 
     # Appending the sum of count value to each Doc ID
     Output = {} 
@@ -298,18 +419,18 @@ def processing(search_query, outputs, path_to_index):
 
 
     for i in Output:
-        val = len(Output[i])/19567269
+        val = math.log(19567269/len(Output[i]))
         Output[i] = sum(Output[i])*val
 
 
     # Sort the Dictionary according to the keys
     sorted_x = sorted(Output.items(), key=operator.itemgetter(1), reverse=True)
-
     
     # Selecting Top 25 Values
     count = 0
 
     tmp_output = []
+    temp = []
     for val in sorted_x:
 
         Loading_Index(Index_Title, val[0], os.path.join(path_to_index, "title/file"))
@@ -318,37 +439,97 @@ def processing(search_query, outputs, path_to_index):
         val1 = Index_Title[str(val[0])]
         li.append(val1)
 
+        temp.append(val1.lower())
+
         # Check For No Duplicates
         if li in tmp_output:
             continue
 
-        outputs.append(li)
+        # outputs.append(li)
         tmp_output.append(li)
         count += 1
+
+        if count == 500:
+            break
+
+
+    # TIMER STOPS
+    stop=timeit.default_timer()
+
+    # APPLYING COSINE SIMILARITY
+    v = []
+    v.append(search_quer)
+
+    # Scikit Learn
+    from sklearn.feature_extraction.text import CountVectorizer
+    import pandas as pd
+
+    # Create the Document Term Matrix
+    count_vectorizer = CountVectorizer(stop_words='english')
+    count_vectorizer = CountVectorizer()
+    sparse_matrix = count_vectorizer.fit_transform(temp)
+
+    # OPTIONAL: Convert Sparse Matrix to Pandas Dataframe if you want to see the word frequencies.
+    doc_term_matrix = sparse_matrix.todense()
+    df = pd.DataFrame(doc_term_matrix, 
+                      columns=count_vectorizer.get_feature_names(), 
+                      index=temp)
+
+
+
+    sparse_matrix1 = count_vectorizer.transform(v)
+    doc_term_matrix1 = sparse_matrix1.todense()
+
+
+    df1 = pd.DataFrame(doc_term_matrix1, 
+                      columns=count_vectorizer.get_feature_names(), 
+                      index=v)
+
+    from sklearn.metrics.pairwise import cosine_similarity    
+    cosine_values = cosine_similarity(df1, df)
+
+    
+    # Pairing title with the cosine values
+    Pair_Title_Cosine_Value = []
+
+    for cos_list in cosine_values:
+        temp_list = []
+        for value1, value2 in zip(cos_list, temp):
+            temp_list.append((value1,value2))
+        Pair_Title_Cosine_Value.append(temp_list)
+
+    for val in range(0, len(Pair_Title_Cosine_Value)):
+        Pair_Title_Cosine_Value[val] = sorted(Pair_Title_Cosine_Value[val], reverse=True, key=operator.itemgetter(0))
+    
+
+    Pair_Title_Cosine_Value = reduce(lambda x,y :x+y ,Pair_Title_Cosine_Value)
+
+
+    count = 0
+    for val in Pair_Title_Cosine_Value:
+        count += 1
+        li = []
+        li.append(val[1])
+        outputs.append(li)
 
         if count == 20:
             break
 
+    print("\n\nTime Taken ",stop-start)
+    print("------------------------------")
 
-    # li = []
-    # candidate_list = ['orange', 'banana', 'apple1', 'pineapple']
-    # target = 'apple'
+    count = 0
+    for val in outputs:
+        count += 1
+        print(str(count)+" "+val[0])
 
-    # vec = CountVectorizer(analyzer='char')
-    # vec.fit(candidate_list)
+    print("\n")
+    print("*********************************************************************************************************************************")
 
-    # pairwise_kernels(vec.transform([target]),
-    # vec.transform(candidate_list),metric='cosine')
-    # # array([[ 0.3086067 ,  0.30304576,  0.93541435,  0.9166985 ]])
 
+    print("\n")
+    li = []
     outputs.append(li)
-
-
-
-    
-
-
-
 
 
 #*************************************************************************************************************************************************************
@@ -508,8 +689,9 @@ def search(path_to_index, queries):
 
     outputs = []
 
-    for search_query in queries:
-        processing(search_query, outputs, path_to_index)
+    # for search_query in queries:
+
+    processing(queries, outputs, path_to_index)
 
     return outputs
 
@@ -527,10 +709,16 @@ def main():
     testfile = "queryfile"
     path_to_output = "output.txt"
 
-    queries = read_file(testfile)
-    outputs = search(path_to_index, queries)
-    write_file(outputs, path_to_output)
-    print("Done")
+    print("\n")
+
+    # queries = read_file(testfile)
+
+    while(1):
+        queries = input("Search : ")
+        outputs = search(path_to_index, queries)
+        write_file(outputs, path_to_output)
+        
+
 
 
 if __name__ == '__main__':
